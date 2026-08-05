@@ -1,49 +1,7 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "05/08/2026 20:15",
+ "atualizado_em": "05/08/2026 20:35",
  "manchetes": [
-  {
-   "titulo": "Brasil e BID firmam acordo de R$ 5 bilhões para combate ao crime organizado",
-   "data": "05/08/2026",
-   "fonte": "Valor",
-   "resumo": "O governo brasileiro, por meio do Ministério da Justiça e Segurança Pública, e o Banco Interamericano de Desenvolvimento (BID) firmaram nesta quarta-feira (5) um acordo para aplicar R$ 5 bilhões em recursos...",
-   "link": "https://valor.globo.com/brasil/noticia/2026/08/05/brasil-e-bid-firmam-acordo-de-r-5-bilhes-para-combate-ao-crime-organizado.ghtml"
-  },
-  {
-   "titulo": "Sinograin Vende 67% da Soja em Leilão para Abrir Espaço a Cargas dos EUA",
-   "data": "05/08/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Estatal chinesa liquida dois terços do volume ofertado em leilão para liberar armazéns a compras dos EUA O post Sinograin Vende 67% da Soja em...",
-   "link": "https://forbes.com.br/forbes-agro/2026/08/sinograin-vende-67-da-soja-em-leilao-para-abrir-espaco-a-cargas-dos-eua/"
-  },
-  {
-   "titulo": "Setor de Serviços dos EUA Mantém Ritmo Forte de Crescimento em Julho",
-   "data": "05/08/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Leitura acima de 50 indica crescimento no setor de serviços, que responde por mais de dois terços da atividade econômica dos EUA O post Setor de...",
-   "link": "https://forbes.com.br/forbes-money/2026/08/setor-de-servicos-dos-eua-mantem-ritmo-forte-de-crescimento-em-julho/"
-  },
-  {
-   "titulo": "Disney e TikTok Fecham Acordo para Compartilhamento de Vídeos Curtos",
-   "data": "05/08/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Recurso inédito de reprodução dos vídeos de uma das plataformas mais usadas do momento promete atrair mais espectadores para o serviço de streaming...",
-   "link": "https://forbes.com.br/forbes-tech/2026/08/disney-e-tiktok-fecham-acordo-para-compartilhamento-de-videos-curtos/"
-  },
-  {
-   "titulo": "Justiça Aprova Recuperação Extrajudicial da Oncoclínicas (ONCO3) e Suspende Cobranças por 180 Dias",
-   "data": "05/08/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Empresa negocia a reestruturação de R$ 5,1 bilhões em dívidas O post Justiça Aprova Recuperação Extrajudicial da Oncoclínicas (ONCO3) e Suspende...",
-   "link": "https://forbes.com.br/forbes-money/2026/08/oncoclinicas-recuperacao-extrajudicial/"
-  },
-  {
-   "titulo": "Vendas no varejo relacionadas a Dia dos Pais devem crescer 2,9% e atingir R$ 8,52 bi, diz CNC",
-   "data": "04/08/2026",
-   "fonte": "Valor",
-   "resumo": "As vendas do comércio relacionadas ao Dia dos Pais devem movimentar R$ 8,52 bilhões no país, segundo projeção da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) divulgada nesta terça-feira (4)....",
-   "link": "https://valor.globo.com/brasil/noticia/2026/08/04/vendas-no-varejo-relacionadas-a-dia-dos-pais-devem-crescer-29percent-e-atingir-r-852-bi-diz-cnc.ghtml"
-  },
   {
    "titulo": "Espaço Smart tem 1º semestre positivo e espera faturar R$ 1 bilhão em 2026",
    "data": "",
@@ -113,6 +71,13 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "A Vedacit lançou, em seu canal no Youtube, o terceiro episódio da websérie documental produzida em comemoração aos seus 90 anos. Desta vez, o protagonismo é dos lojistas e parceiros comerciais, representados pela...",
    "link": "http://www.revistaanamaco.com.br/terceiro-episodio-de-webserie-da-vedacit-tem-nicom-e-village-como-protagonistas-"
+  },
+  {
+   "titulo": "Tigre celebra 85 anos com corrida de rua aberta à comunidade em Joinville",
+   "data": "",
+   "fonte": "Anamaco",
+   "resumo": "Como parte da programação comemorativa de seu aniversário, a Tigre realiza, no dia 16 de agosto, a Corrida Tigre 85 Anos, em Joinville (SC). O evento será aberto ao público e deverá reunir corredores de diferentes...",
+   "link": "http://www.revistaanamaco.com.br/tigre-celebra-85-anos-com-corrida-de-rua-aberta-a-comunidade-em-joinville-"
   }
  ],
  "diarios": {
