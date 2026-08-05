@@ -86,10 +86,16 @@ FONTES_RSS = [
 ]
 
 # so entram noticias que falem do nosso setor
+# Palavras inteiras (\b = limite de palavra), para nao pegar substrings
+# soltas como "aco" batendo em "acordo" ou "obra" batendo em "abrir".
 FILTRO = re.compile(
-    r"(constru|cimento|aço|aco|siderur|tinta|varejo|material de constru|"
-    r"habitac|habitaç|imobili|reforma|MCMV|Minha Casa|INCC|argamassa|"
-    r"revestimento|hidráulic|hidraulic|PVC|obra)", re.I)
+    r"\b(constru\w*|cimento\w*|aço\w*|siderurg\w*|tinta\w*|"
+    r"material(is)? de constru\w*|habitaç\w*|imobiliári\w*|reforma da casa|"
+    r"MCMV|Minha Casa Minha Vida|INCC|argamassa\w*|revestiment\w*|"
+    r"hidráulic\w*|\bPVC\b|\bobra\b|obras de|canteiro de obras|"
+    r"engenharia civil|incorporador\w*|construtora\w*|vergalhão|"
+    r"vergalhões|alvenaria|cerâmic\w* (de piso|de revestimento))",
+    re.I)
 
 def buscar_rss(qtd_por_fonte=4):
     """Le os feeds RSS e devolve so o que interessa ao setor."""
