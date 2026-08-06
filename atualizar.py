@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Boletim Nova Casa - coletor diario
-Le as manchetes da Revista Anamaco e as cotacoes do Banco Central,
+Le as manchetes da Revista Anamaco, feeds RSS e cotacoes do Banco Central,
 e grava tudo em dados.js, que o painel HTML consome.
 
 Uso:  python3 atualizar.py
@@ -38,7 +38,6 @@ def buscar_manchetes(qtd=12):
         return []
 
     noticias = []
-    # cada noticia vive em um bloco com <h2><a> titulo </a></h2> + data + resumo
     for h in sopa.find_all(["h2", "h3"]):
         a = h.find("a", href=True)
         if not a:
@@ -47,9 +46,7 @@ def buscar_manchetes(qtd=12):
         link = a["href"]
         if not titulo or len(titulo) < 15:
             continue
-# procura a data (dd/mm/aaaa) num raio maior de texto: pai, avo e
-        # os elementos logo antes/depois do titulo (o layout da Anamaco
-        # costuma colocar a data fora do bloco imediato do titulo)
+
         candidatos = []
         if h.parent:
             candidatos.append(h.parent.get_text(" ", strip=True))
@@ -66,14 +63,9 @@ def buscar_manchetes(qtd=12):
                 data = m.group(1)
                 break
 
-        # se a pagina nao trouxe uma data explicita, assume hoje: estas
-        # noticias vem do topo da pagina "noticias-online", que e sempre
-        # o conteudo mais recente da Anamaco
         if not data:
             data = HOJE.strftime("%d/%m/%Y")
-        data = m.group(1) if m else ""
 
-        # resumo: primeiro paragrafo depois do titulo
         resumo = ""
         prox = h.find_next("p")
         if prox:
@@ -98,24 +90,29 @@ def buscar_manchetes(qtd=12):
 
 
 # ----------------------------------------------------------------------
-# 1b. OUTRAS FONTES VIA RSS (Valor, Forbes, InfoMoney)
+# 1b. OUTRAS FONTES VIA RSS (Valor, Forbes, InfoMoney, PlásticoNews)
 # ----------------------------------------------------------------------
 FONTES_RSS = [
-    ("Valor",   "https://pox.globo.com/rss/valor/brasil/"),
-    ("Forbes",  "https://forbes.com.br/feed/"),
-    ("InfoMoney", "https://www.infomoney.com.br/feed/"),
+    ("Valor",        "https://pox.globo.com/rss/valor/brasil/"),
+    ("Forbes",       "https://forbes.com.br/feed/"),
+    ("InfoMoney",    "https://www.infomoney.com.br/feed/"),
+    ("PlásticoNews", "https://plasticonews.org/feed/"),
 ]
 
-# so entram noticias que falem do nosso setor
-# Palavras inteiras (\b = limite de palavra), para nao pegar substrings
-# soltas como "aco" batendo em "acordo" ou "obra" batendo em "abrir".
+# Filtro de palavras-chave do setor
 FILTRO = re.compile(
     r"\b(constru\w*|cimento\w*|aço\w*|siderurg\w*|tinta\w*|"
     r"material(is)? de constru\w*|habitaç\w*|imobiliári\w*|reforma da casa|"
     r"MCMV|Minha Casa Minha Vida|INCC|argamassa\w*|revestiment\w*|"
     r"hidráulic\w*|\bPVC\b|\bobra\b|obras de|canteiro de obras|"
     r"engenharia civil|incorporador\w*|construtora\w*|vergalhão|"
-    r"vergalhões|alvenaria|cerâmic\w* (de piso|de revestimento))",
+    r"vergalhões|alvenaria|cerâmic\w* (de piso|de revestimento)|"
+    r"resina\w*|petroquímic\w*|termoplástic\w*|polímero\w*|tubo\w*|conexõe\w*)",
+    re.I)
+
+# Filtro de exclusao para remover temas irrelevantes
+EXCLUI = re.compile(
+    r"\b(médico|hospitalar|odontol|embalagem|automot|autopeca|cosmético|brinquedo)\b",
     re.I)
 
 def buscar_rss(qtd_por_fonte=4):
@@ -133,7 +130,7 @@ def buscar_rss(qtd_por_fonte=4):
         n = 0
         for it in itens:
             titulo = it.title.get_text(strip=True) if it.title else ""
-            if not titulo or not FILTRO.search(titulo):
+            if not titulo or not FILTRO.search(titulo) or EXCLUI.search(titulo):
                 continue
             desc = ""
             if it.description:
@@ -159,10 +156,12 @@ def buscar_rss(qtd_por_fonte=4):
     return achados
 
 
-
+# ----------------------------------------------------------------------
+# 2. INDICADORES DO BANCO CENTRAL
+# ----------------------------------------------------------------------
 SERIES_BC = {
-    "dolar":  1,      # dolar comercial venda
-    "selic":  432,    # meta Selic % a.a.
+    "dolar":   1,      # dolar comercial venda
+    "selic":   432,    # meta Selic % a.a.
     "ipca12": 13522,  # IPCA acumulado 12 meses
     "igpm12": 190,    # IGP-M acumulado 12 meses
 }
@@ -217,7 +216,7 @@ def main():
     print("\n> Manchetes da Anamaco")
     manchetes = buscar_manchetes()
 
-    print("\n> Valor, Forbes e InfoMoney (RSS)")
+    print("\n> Valor, Forbes, InfoMoney e PlásticoNews (RSS)")
     manchetes += buscar_rss()
 
     # remove duplicadas por titulo e ordena da mais recente para a mais antiga
@@ -242,7 +241,7 @@ def main():
 
     # indicadores mensais preenchidos na mao (preserva o que ja existia)
     mensais = anterior.get("mensais", {
-        "incc":    {"valor": "6,40", "unidade": "% em 12 meses", "ref": "jul/26", "fonte": "FGV Ibre"},
+        "incc":     {"valor": "6,40", "unidade": "% em 12 meses", "ref": "jul/26", "fonte": "FGV Ibre"},
         "cimento": {"valor": "38,2M", "unidade": "ton no ano", "ref": "jan-jul/26", "fonte": "SNIC"},
         "termometro": {"alta": 40.3, "estavel": 41.3, "queda": 18.4, "ref": "1o sem/26", "fonte": "Anamaco"},
         "expectativa": {"valor": "68,7", "unidade": "% esperam crescer", "ref": "1o sem/26", "fonte": "Anamaco"},
