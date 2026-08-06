@@ -187,6 +187,44 @@ def buscar_serie_bc(codigo, dias=20):
         return None, None
 
 
+def historico_selic(n=60):
+    """Le os ultimos n valores da Selic meta (serie 432) direto da API do BC
+    e devolve (atual, anterior_diferente, data_da_mudanca).
+
+    A serie 432 e diaria e repete o mesmo valor ate o Copom mudar. Para
+    detectar 'o corte' de verdade, pegamos o valor mais recente e recuamos
+    ate achar o primeiro valor DIFERENTE dele: essa e a taxa antiga, e a
+    data em que o valor atual comecou e a data da decisao.
+
+    Nao depende de comparar entre execucoes do robo, entao pega a variacao
+    real mesmo que o robo so tenha rodado depois da reuniao.
+    """
+    url = (f"https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados/"
+           f"ultimos/{n}?formato=json")
+    try:
+        r = requests.get(url, headers=UA, timeout=25)
+        dados = r.json()
+        if not dados:
+            return None, None, None
+    except Exception as e:
+        print("  [!] Historico Selic indisponivel:", e)
+        return None, None, None
+
+    atual = float(dados[-1]["valor"].replace(",", "."))
+    data_mudanca = dados[-1]["data"]
+    anterior = None
+    # recua achando o primeiro valor diferente do atual; a data em que o
+    # valor atual aparece pela primeira vez e a data da mudanca
+    for d in reversed(dados[:-1]):
+        v = float(d["valor"].replace(",", "."))
+        if abs(v - atual) < 1e-9:
+            data_mudanca = d["data"]  # atual ja valia aqui: recua a data de inicio
+        else:
+            anterior = v
+            break
+    return atual, anterior, data_mudanca
+
+
 def buscar_indicadores_bc():
     out = {}
     for nome, cod in SERIES_BC.items():
@@ -199,40 +237,49 @@ def buscar_indicadores_bc():
     return out
 
 
-def insight_selic(bc_atual, anterior):
+def insight_selic(bc_atual=None):
     """Gera uma manchete sobre a Selic ja traduzida para o nosso setor.
 
-    Compara a Selic desta coleta com a da coleta anterior e monta uma frase
-    ligada ao mercado de material de construcao (credito imobiliario,
-    financiamento de obra, custo de estoque). So gera algo quando ha um
-    valor de Selic disponivel; se nao houver mudanca, traz uma leitura de
-    patamar em vez de repetir "manteve".
+    Usa a variacao REAL da serie 432 da API do BC (via historico_selic):
+    compara o valor vigente com o ultimo valor diferente antes dele. Assim
+    detecta o corte/alta de verdade, sem depender de quando o robo rodou.
+    Se a API do historico falhar, cai para o valor ja coletado em bc_atual
+    e trata como 'patamar mantido' (fallback seguro).
     """
-    atual = (bc_atual or {}).get("selic", {}).get("valor")
+    atual, anterior, data_mud = historico_selic()
+
+    # fallback: se o historico falhou mas ja temos a Selic da coleta normal
+    if atual is None:
+        atual = (bc_atual or {}).get("selic", {}).get("valor")
+        anterior = None
     if atual is None:
         return None
-    ant = (anterior.get("diarios", {}) or {}).get("selic", {}).get("valor")
 
-    # formata a taxa no padrao brasileiro (14,0 em vez de 14.0)
+    # formata no padrao brasileiro (14 ou 14,25 em vez de 14.0 / 14.25)
     fmt = lambda v: (f"{v:.2f}".rstrip("0").rstrip(".")).replace(".", ",")
     taxa = fmt(atual)
 
-    if ant is not None and atual < ant:
+    if anterior is not None and atual < anterior:
+        variacao = fmt(anterior - atual)
         titulo = f"Copom corta Selic para {taxa}% ao ano"
-        resumo = (f"Queda de juros tende a destravar credito imobiliario e "
+        resumo = (f"Reducao de {variacao} ponto leva a taxa basica a {taxa}%. "
+                  f"Queda de juros tende a destravar credito imobiliario e "
                   f"financiamento de obra, aquecendo a demanda por material de "
                   f"construcao. Momento favoravel para girar estoque e negociar "
                   f"prazo com fornecedor.")
-    elif ant is not None and atual > ant:
+    elif anterior is not None and atual > anterior:
+        variacao = fmt(atual - anterior)
         titulo = f"Copom eleva Selic para {taxa}% ao ano"
-        resumo = (f"Alta de juros encarece o credito e pesa sobre a decisao de "
-                  f"reforma e construcao. Tende a esfriar a demanda no varejo de "
+        resumo = (f"Alta de {variacao} ponto leva a taxa basica a {taxa}%. "
+                  f"Juro mais caro pesa sobre a decisao de reforma e construcao "
+                  f"e encarece o credito. Tende a esfriar a demanda no varejo de "
                   f"material; atencao ao custo de estoque parado.")
     else:
         titulo = f"Selic mantida em {taxa}% ao ano"
-        resumo = (f"Juros estavel mantem o custo do credito no mesmo patamar. "
-                  f"Sem novo estimulo nem freio para reforma e construcao no "
-                  f"curto prazo; planejamento de compra segue o cenario atual.")
+        resumo = (f"Taxa basica segue em {taxa}%, sem mudanca na ultima decisao "
+                  f"do Copom. Custo do credito estavel: sem novo estimulo nem "
+                  f"freio para reforma e construcao no curto prazo; planejamento "
+                  f"de compra segue o cenario atual.")
 
     return {
         "titulo": titulo,
@@ -288,7 +335,7 @@ def main():
 
     # insight estrategico da Selic, ligado ao nosso setor, entra como
     # manchete de fonte "Banco Central" no topo do giro de noticias
-    insight = insight_selic(bc, anterior)
+    insight = insight_selic(bc)
     if insight:
         manchetes = [insight] + [m for m in manchetes
                                  if m.get("fonte") != "Banco Central"]
