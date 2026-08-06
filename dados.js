@@ -1,7 +1,14 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "05/08/2026 20:35",
+ "atualizado_em": "06/08/2026 00:04",
  "manchetes": [
+  {
+   "titulo": "Novidades e prêmios",
+   "data": "",
+   "fonte": "Anamaco",
+   "resumo": "A palavra de ordem na Construsul é interação. Boa parte dos expositores realiza ações nos estandes durante a feira para atrair os visitantes. As premiações para o público têm dado a tônica do evento. Fora do ambiente...",
+   "link": "http://www.revistaanamaco.com.br/novidades-e-premios"
+  },
   {
    "titulo": "Espaço Smart tem 1º semestre positivo e espera faturar R$ 1 bilhão em 2026",
    "data": "",
@@ -71,13 +78,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "A Vedacit lançou, em seu canal no Youtube, o terceiro episódio da websérie documental produzida em comemoração aos seus 90 anos. Desta vez, o protagonismo é dos lojistas e parceiros comerciais, representados pela...",
    "link": "http://www.revistaanamaco.com.br/terceiro-episodio-de-webserie-da-vedacit-tem-nicom-e-village-como-protagonistas-"
-  },
-  {
-   "titulo": "Tigre celebra 85 anos com corrida de rua aberta à comunidade em Joinville",
-   "data": "",
-   "fonte": "Anamaco",
-   "resumo": "Como parte da programação comemorativa de seu aniversário, a Tigre realiza, no dia 16 de agosto, a Corrida Tigre 85 Anos, em Joinville (SC). O evento será aberto ao público e deverá reunir corredores de diferentes...",
-   "link": "http://www.revistaanamaco.com.br/tigre-celebra-85-anos-com-corrida-de-rua-aberta-a-comunidade-em-joinville-"
   }
  ],
  "diarios": {
@@ -86,8 +86,8 @@ window.DADOS = {
    "data": "05/08/2026"
   },
   "selic": {
-   "valor": 14.25,
-   "data": "05/08/2026"
+   "valor": 14.0,
+   "data": "06/08/2026"
   }
  },
  "mensais": {
