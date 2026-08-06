@@ -107,12 +107,15 @@ FILTRO = re.compile(
     r"hidráulic\w*|\bPVC\b|\bobra\b|obras de|canteiro de obras|"
     r"engenharia civil|incorporador\w*|construtora\w*|vergalhão|"
     r"vergalhões|alvenaria|cerâmic\w* (de piso|de revestimento)|"
-    r"resina\w*|petroquímic\w*|termoplástic\w*|polímero\w*|tubo\w*|conexõe\w*)",
+    r"resina\w*|petroquímic\w*|termoplástic\w*|polímero\w*|tubo\w*|conexõe\w*|"
+    r"polietileno|polipropileno|\bPP\b|\bPE\b|\bPEAD\b|\bPEBD\b)",
     re.I)
 
 # Filtro de exclusao para remover temas irrelevantes
 EXCLUI = re.compile(
-    r"\b(médico|hospitalar|odontol|embalagem|automot|autopeca|cosmético|brinquedo)\b",
+    r"\b(médico|hospitalar|odontol|embalagem|automot|autopeca|cosmético|brinquedo)\b"
+    r"|tintas? de impress|flexografia|rotogravura|nitrocelulose|ABITIM|"
+    r"coninflex|r[oó]tulo|label|artes? gráfica",
     re.I)
 
 def buscar_rss(qtd_por_fonte=4):
@@ -196,6 +199,50 @@ def buscar_indicadores_bc():
     return out
 
 
+def insight_selic(bc_atual, anterior):
+    """Gera uma manchete sobre a Selic ja traduzida para o nosso setor.
+
+    Compara a Selic desta coleta com a da coleta anterior e monta uma frase
+    ligada ao mercado de material de construcao (credito imobiliario,
+    financiamento de obra, custo de estoque). So gera algo quando ha um
+    valor de Selic disponivel; se nao houver mudanca, traz uma leitura de
+    patamar em vez de repetir "manteve".
+    """
+    atual = (bc_atual or {}).get("selic", {}).get("valor")
+    if atual is None:
+        return None
+    ant = (anterior.get("diarios", {}) or {}).get("selic", {}).get("valor")
+
+    # formata a taxa no padrao brasileiro (14,0 em vez de 14.0)
+    fmt = lambda v: (f"{v:.2f}".rstrip("0").rstrip(".")).replace(".", ",")
+    taxa = fmt(atual)
+
+    if ant is not None and atual < ant:
+        titulo = f"Copom corta Selic para {taxa}% ao ano"
+        resumo = (f"Queda de juros tende a destravar credito imobiliario e "
+                  f"financiamento de obra, aquecendo a demanda por material de "
+                  f"construcao. Momento favoravel para girar estoque e negociar "
+                  f"prazo com fornecedor.")
+    elif ant is not None and atual > ant:
+        titulo = f"Copom eleva Selic para {taxa}% ao ano"
+        resumo = (f"Alta de juros encarece o credito e pesa sobre a decisao de "
+                  f"reforma e construcao. Tende a esfriar a demanda no varejo de "
+                  f"material; atencao ao custo de estoque parado.")
+    else:
+        titulo = f"Selic mantida em {taxa}% ao ano"
+        resumo = (f"Juros estavel mantem o custo do credito no mesmo patamar. "
+                  f"Sem novo estimulo nem freio para reforma e construcao no "
+                  f"curto prazo; planejamento de compra segue o cenario atual.")
+
+    return {
+        "titulo": titulo,
+        "data": HOJE.strftime("%d/%m/%Y"),
+        "fonte": "Banco Central",
+        "resumo": resumo,
+        "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros",
+    }
+
+
 # ----------------------------------------------------------------------
 # 3. MONTA O ARQUIVO DE DADOS
 # ----------------------------------------------------------------------
@@ -238,6 +285,15 @@ def main():
 
     print("\n> Indicadores do Banco Central")
     bc = buscar_indicadores_bc()
+
+    # insight estrategico da Selic, ligado ao nosso setor, entra como
+    # manchete de fonte "Banco Central" no topo do giro de noticias
+    insight = insight_selic(bc, anterior)
+    if insight:
+        manchetes = [insight] + [m for m in manchetes
+                                 if m.get("fonte") != "Banco Central"]
+        manchetes = manchetes[:16]
+        print(f"  [ok] insight Selic: {insight['titulo']}")
 
     # indicadores mensais preenchidos na mao (preserva o que ja existia)
     mensais = anterior.get("mensais", {
