@@ -1,7 +1,21 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "06/08/2026 11:25",
+ "atualizado_em": "06/08/2026 18:06",
  "manchetes": [
+  {
+   "titulo": "Selic mantida em 10,5% ao ano",
+   "data": "06/08/2026",
+   "fonte": "Banco Central",
+   "resumo": "Taxa basica segue em 10,5%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
+   "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Amanco Wavin e a Enactus Brasil revelam os finalistas do Prêmio Inovação Social",
+   "data": "06/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Amanco Wavin e a Enactus Brasil revelaram os seis projetos finalistas do Prêmio Inovação Social 2026, voltado ao desenvolvimento de soluções socioambientais por estudantes universitários",
+   "link": "http://www.revistaanamaco.com.br/amanco-wavin-e-a-enactus-brasil-revelam-os-finalistas-do-premio-inovacao-social--"
+  },
   {
    "titulo": "Tentativas de fraude no e-commerce caíram 7,4% em junho, aponta Equifax BoaVista",
    "data": "06/08/2026",
@@ -15,6 +29,13 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "Levar um laboratório completo de tecnologia do concreto até a operação do cliente para realizar ensaios, validar traços e apoiar decisões técnicas em tempo real. Essa é a proposta do Laboratório Móvel, a mais nova...",
    "link": "http://www.revistaanamaco.com.br/intercement-brasil-lanca-laboratorio-movel-para-levar-analises-tecnicas-aos-clientes-"
+  },
+  {
+   "titulo": "Encontros e oportunidades",
+   "data": "06/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "As feiras, além de plataformas de lançamentos, são pontos de encontro entre as indústrias e seus clientes. Participar desses eventos é uma chance de estreitar relacionamentos, criar novos laços e alinhar negócios....",
+   "link": "http://www.revistaanamaco.com.br/encontros-e-oportunidades"
   },
   {
    "titulo": "Governo prorroga direito antidumping às importações brasileiras de PVC-S  originadas da China",
@@ -73,52 +94,17 @@ window.DADOS = {
    "link": "http://www.revistaanamaco.com.br/construcao-abriu-mais-de-168-mil-vagas-no-semestre"
   },
   {
-   "titulo": "Casa do Construtor inaugura, em Guaymallén, sua segunda unidade na Argentina",
-   "data": "03/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Casa do Construtor acaba de abrir as portas de sua segunda unidade na Argentina. A cidade escolhida foi Guaymallén, na região metropolitana de Mendoza. A nova unidade recebeu investimento de cerca de US$ 100 mil...",
-   "link": "http://www.revistaanamaco.com.br/casa-do-construtor-inaugura-em-guaymallen-sua-segunda-unidade-na-argentina-"
-  },
-  {
-   "titulo": "Estudo elege Gerdau como a líder em popularidade digital na indústria do aço no Brasil",
-   "data": "03/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Gerdau é a líder em popularidade digital no setor de Siderurgia, Mineração e Metalurgia, de acordo com o estudo inédito “Grandes Marcas Digitais”, realizado pela consultoria de inteligência de dados e pesquisa...",
-   "link": "http://www.revistaanamaco.com.br/estudo-elege-gerdau-como-a-lider-em-popularidade-digital-na-industria-do-aco-no-brasil-"
-  },
-  {
    "titulo": "Dow anuncia novo aumento de US$ 220/t e reabre a crise das resinas no Brasil",
    "data": "25/07/2026",
    "fonte": "PlásticoNews",
    "resumo": "Carta da Dow de US$ 220/t para a América Latina expõe onda global de reajustes que já dura cinco meses e reacende o alerta sobre custo e desabastecimento na embalagem flexível Em carta datada de 24 de julho de 2026,...",
    "link": "https://plasticonews.org/dow-anuncia-novo-aumento-de-us-220-t-e-reabre-a-crise-das-resinas-no-brasil/"
-  },
-  {
-   "titulo": "Roteiro de 90 dias: como homologar tinta FULL PU / NC-free na flexografia e rotogravura sem parar a produção –",
-   "data": "20/06/2026",
-   "fonte": "PlásticoNews",
-   "resumo": "SÉRIE: “Nitrocelulose: risco, alternativa e resiliência” – Artigo Final Por Eudes Scarpeta | PlásticoNews Nos dois primeiros artigos da série, o PlásticoNews mostrou que a nitrocelulose entrou em zona de...",
-   "link": "https://plasticonews.org/roteiro-de-90-dias-como-homologar-tinta-full-pu-nc-free-na-flexografia-e-rotogravura-sem-parar-a-producao/"
-  },
-  {
-   "titulo": "Nitrocelulose entra em zona de risco: preço sobe, oferta aperta e o mercado de tintas já sente o choque",
-   "data": "18/06/2026",
-   "fonte": "PlásticoNews",
-   "resumo": "Pressão geopolítica, demanda militar e aumento de custos já elevam o preço da nitrocelulose e acendem alerta para a cadeia de tintas de flexografia e rotogravura.",
-   "link": "https://plasticonews.org/nitrocelulose-entra-em-zona-de-risco-preco-sobe-oferta-aperta-e-o-mercado-de-tintas-ja-sente-o-choque/"
-  },
-  {
-   "titulo": "Alexandre Neves assume a ABITIM e reforça o papel estratégico das tintas de impressão na cadeia de embalagens",
-   "data": "10/06/2026",
-   "fonte": "PlásticoNews",
-   "resumo": "Alexandre Neves, executivo da Flint Group com atuação ampliada em toda a América Latina, acaba de assumir a presidência da Associação Brasileira de Tintas de Impressão (ABITIM), reforçando o protagonismo das tintas...",
-   "link": "https://plasticonews.org/alexandre-neves-assume-a-abitim-e-reforca-o-papel-estrategico-das-tintas-de-impressao-na-cadeia-de-embalagens/"
   }
  ],
  "diarios": {
   "dolar": {
-   "valor": 5.1154,
-   "data": "05/08/2026"
+   "valor": 5.1017,
+   "data": "06/08/2026"
   },
   "selic": {
    "valor": 14.0,
@@ -129,7 +115,6 @@ window.DADOS = {
   "incc": {
    "valor": "6,40",
    "unidade": "% em 12 meses",
-   "mes": "0,62",
    "ref": "jul/26",
    "fonte": "FGV Ibre"
   },
@@ -139,23 +124,17 @@ window.DADOS = {
    "ref": "jan-jul/26",
    "fonte": "SNIC"
   },
-  "caged": {
-   "valor": "168.962",
-   "unidade": "vagas no semestre",
-   "ref": "jan-jun/26",
-   "fonte": "Caged"
-  },
   "termometro": {
    "alta": 40.3,
    "estavel": 41.3,
    "queda": 18.4,
-   "ref": "1º sem/26",
+   "ref": "1o sem/26",
    "fonte": "Anamaco"
   },
   "expectativa": {
    "valor": "68,7",
    "unidade": "% esperam crescer",
-   "ref": "1º sem/26",
+   "ref": "1o sem/26",
    "fonte": "Anamaco"
   }
  }
