@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "06/08/2026 18:06",
+ "atualizado_em": "06/08/2026 20:46",
  "manchetes": [
   {
    "titulo": "Selic mantida em 10,5% ao ano",
@@ -8,6 +8,13 @@ window.DADOS = {
    "fonte": "Banco Central",
    "resumo": "Taxa basica segue em 10,5%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Encontros e oportunidades",
+   "data": "06/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "As feiras, além de plataformas de lançamentos, são pontos de encontro entre as indústrias e seus clientes. Participar desses eventos é uma chance de estreitar relacionamentos, criar novos laços e alinhar negócios....",
+   "link": "http://www.revistaanamaco.com.br/encontros-e-oportunidades"
   },
   {
    "titulo": "Amanco Wavin e a Enactus Brasil revelam os finalistas do Prêmio Inovação Social",
@@ -29,13 +36,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "Levar um laboratório completo de tecnologia do concreto até a operação do cliente para realizar ensaios, validar traços e apoiar decisões técnicas em tempo real. Essa é a proposta do Laboratório Móvel, a mais nova...",
    "link": "http://www.revistaanamaco.com.br/intercement-brasil-lanca-laboratorio-movel-para-levar-analises-tecnicas-aos-clientes-"
-  },
-  {
-   "titulo": "Encontros e oportunidades",
-   "data": "06/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "As feiras, além de plataformas de lançamentos, são pontos de encontro entre as indústrias e seus clientes. Participar desses eventos é uma chance de estreitar relacionamentos, criar novos laços e alinhar negócios....",
-   "link": "http://www.revistaanamaco.com.br/encontros-e-oportunidades"
   },
   {
    "titulo": "Governo prorroga direito antidumping às importações brasileiras de PVC-S  originadas da China",
