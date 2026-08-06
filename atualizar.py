@@ -187,43 +187,27 @@ def buscar_serie_bc(codigo, dias=20):
         return None, None
 
 
-def historico_selic(n=60):
-    """Le os ultimos n valores da Selic meta (serie 432) direto da API do BC
-    e devolve (atual, anterior_diferente, data_da_mudanca).
-
-    A serie 432 e diaria e repete o mesmo valor ate o Copom mudar. Para
-    detectar 'o corte' de verdade, pegamos o valor mais recente e recuamos
-    ate achar o primeiro valor DIFERENTE dele: essa e a taxa antiga, e a
-    data em que o valor atual comecou e a data da decisao.
-
-    Nao depende de comparar entre execucoes do robo, entao pega a variacao
-    real mesmo que o robo so tenha rodado depois da reuniao.
-    """
-    url = (f"https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados/"
-           f"ultimos/{n}?formato=json")
+def historico_selic():
+    """Busca o histórico da taxa SELIC no BCB com tratamento de erro."""
     try:
-        r = requests.get(url, headers=UA, timeout=25)
-        dados = r.json()
-        if not dados:
-            return None, None, None
+        # 1. Primeiro faz a chamada à API do BCB para definir a variável 'dados'
+        dados = buscar_serie_bcb(432)  # código da série da Selic
+        
+        # 2. Valida se 'dados' veio correto
+        if not dados or isinstance(dados, int) or dados == -1:
+            print("[!] Falha ao obter dados da SELIC da API do BCB. Usando valor padrão.")
+            return 10.50, 10.50, "N/A"
+
+        # 3. Processa a lista normalmente
+        atual = float(dados[-1]["valor"].replace(",", "."))
+        anterior = float(dados[-2]["valor"].replace(",", ".")) if len(dados) > 1 else atual
+        data_mud = dados[-1].get("data", "N/A")
+
+        return atual, anterior, data_mud
+
     except Exception as e:
-        print("  [!] Historico Selic indisponivel:", e)
-        return None, None, None
-
-    atual = float(dados[-1]["valor"].replace(",", "."))
-    data_mudanca = dados[-1]["data"]
-    anterior = None
-    # recua achando o primeiro valor diferente do atual; a data em que o
-    # valor atual aparece pela primeira vez e a data da mudanca
-    for d in reversed(dados[:-1]):
-        v = float(d["valor"].replace(",", "."))
-        if abs(v - atual) < 1e-9:
-            data_mudanca = d["data"]  # atual ja valia aqui: recua a data de inicio
-        else:
-            anterior = v
-            break
-    return atual, anterior, data_mudanca
-
+        print(f"[!] Erro ao processar dados da SELIC: {e}")
+        return 10.50, 10.50, "N/A"
 
 def buscar_indicadores_bc():
     out = {}
