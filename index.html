@@ -523,7 +523,7 @@ window.DADOS = {
     if (!m.resumo || m.resumo.trim().length < 20) return; // sem resumo, sem contexto: fica de fora
     var trecho = m.resumo.trim();
     if (trecho.length > 100) trecho = trecho.slice(0,100).replace(/[\s,;.]+\S*$/,'') + '...';
-    itens.push({ texto: m.titulo + ' — ' + trecho, link: m.link });
+    itens.push({ texto: m.titulo + ': ' + trecho, link: m.link });
   });
 
   const track = document.getElementById('tickerTrack');
