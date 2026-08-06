@@ -1,7 +1,21 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "05/08/2026 21:15",
+ "atualizado_em": "06/08/2026 11:04",
  "manchetes": [
+  {
+   "titulo": "Tentativas de fraude no e-commerce caíram 7,4% em junho, aponta Equifax BoaVista",
+   "data": "06/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Índice de Fraude da Equifax BoaVista aponta que 1,08% das transações digitais analisadas em junho apresentaram indícios de fraude. Na comparação com maio, o volume de transações suspeitas recuou 7,4%, passando de...",
+   "link": "http://www.revistaanamaco.com.br/tentativas-de-fraude-no-e-commerce-cairam-74-em-junho-aponta-equifax-boavista-"
+  },
+  {
+   "titulo": "InterCement Brasil lança laboratório móvel para levar análises técnicas aos clientes",
+   "data": "06/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "Levar um laboratório completo de tecnologia do concreto até a operação do cliente para realizar ensaios, validar traços e apoiar decisões técnicas em tempo real. Essa é a proposta do Laboratório Móvel, a mais nova...",
+   "link": "http://www.revistaanamaco.com.br/intercement-brasil-lanca-laboratorio-movel-para-levar-analises-tecnicas-aos-clientes-"
+  },
   {
    "titulo": "Novidades e prêmios",
    "data": "05/08/2026",
@@ -66,18 +80,32 @@ window.DADOS = {
    "link": "http://www.revistaanamaco.com.br/estudo-elege-gerdau-como-a-lider-em-popularidade-digital-na-industria-do-aco-no-brasil-"
   },
   {
-   "titulo": "Ânimo no comércio",
-   "data": "03/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "De acordo com dados apurados pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas, o Índice de Confiança do Comércio subiu 0,4 ponto em julho, para 85,5 pontos. No mês, a confiança oscilou entre os seis...",
-   "link": "http://www.revistaanamaco.com.br/animo-no-comercio"
+   "titulo": "Dow anuncia novo aumento de US$ 220/t e reabre a crise das resinas no Brasil",
+   "data": "25/07/2026",
+   "fonte": "PlásticoNews",
+   "resumo": "Carta da Dow de US$ 220/t para a América Latina expõe onda global de reajustes que já dura cinco meses e reacende o alerta sobre custo e desabastecimento na embalagem flexível Em carta datada de 24 de julho de 2026,...",
+   "link": "https://plasticonews.org/dow-anuncia-novo-aumento-de-us-220-t-e-reabre-a-crise-das-resinas-no-brasil/"
   },
   {
-   "titulo": "Terceiro episódio de websérie da Vedacit tem Nicom e Village como protagonistas",
-   "data": "02/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Vedacit lançou, em seu canal no Youtube, o terceiro episódio da websérie documental produzida em comemoração aos seus 90 anos. Desta vez, o protagonismo é dos lojistas e parceiros comerciais, representados pela...",
-   "link": "http://www.revistaanamaco.com.br/terceiro-episodio-de-webserie-da-vedacit-tem-nicom-e-village-como-protagonistas-"
+   "titulo": "Roteiro de 90 dias: como homologar tinta FULL PU / NC-free na flexografia e rotogravura sem parar a produção –",
+   "data": "20/06/2026",
+   "fonte": "PlásticoNews",
+   "resumo": "SÉRIE: “Nitrocelulose: risco, alternativa e resiliência” – Artigo Final Por Eudes Scarpeta | PlásticoNews Nos dois primeiros artigos da série, o PlásticoNews mostrou que a nitrocelulose entrou em zona de...",
+   "link": "https://plasticonews.org/roteiro-de-90-dias-como-homologar-tinta-full-pu-nc-free-na-flexografia-e-rotogravura-sem-parar-a-producao/"
+  },
+  {
+   "titulo": "Nitrocelulose entra em zona de risco: preço sobe, oferta aperta e o mercado de tintas já sente o choque",
+   "data": "18/06/2026",
+   "fonte": "PlásticoNews",
+   "resumo": "Pressão geopolítica, demanda militar e aumento de custos já elevam o preço da nitrocelulose e acendem alerta para a cadeia de tintas de flexografia e rotogravura.",
+   "link": "https://plasticonews.org/nitrocelulose-entra-em-zona-de-risco-preco-sobe-oferta-aperta-e-o-mercado-de-tintas-ja-sente-o-choque/"
+  },
+  {
+   "titulo": "Alexandre Neves assume a ABITIM e reforça o papel estratégico das tintas de impressão na cadeia de embalagens",
+   "data": "10/06/2026",
+   "fonte": "PlásticoNews",
+   "resumo": "Alexandre Neves, executivo da Flint Group com atuação ampliada em toda a América Latina, acaba de assumir a presidência da Associação Brasileira de Tintas de Impressão (ABITIM), reforçando o protagonismo das tintas...",
+   "link": "https://plasticonews.org/alexandre-neves-assume-a-abitim-e-reforca-o-papel-estrategico-das-tintas-de-impressao-na-cadeia-de-embalagens/"
   }
  ],
  "diarios": {
@@ -86,8 +114,8 @@ window.DADOS = {
    "data": "05/08/2026"
   },
   "selic": {
-   "valor": 14.25,
-   "data": "05/08/2026"
+   "valor": 14.0,
+   "data": "06/08/2026"
   }
  },
  "mensais": {
