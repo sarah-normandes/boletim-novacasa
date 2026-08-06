@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "06/08/2026 11:22",
+ "atualizado_em": "06/08/2026 11:25",
  "manchetes": [
   {
    "titulo": "Tentativas de fraude no e-commerce caíram 7,4% em junho, aponta Equifax BoaVista",
