@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "06/08/2026 00:04",
+ "atualizado_em": "06/08/2026 00:05",
  "manchetes": [
   {
    "titulo": "Novidades e prêmios",
