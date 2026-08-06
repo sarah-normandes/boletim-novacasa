@@ -19,7 +19,8 @@ except ImportError:
     print("Faltam bibliotecas. Rode:  pip install requests beautifulsoup4")
     sys.exit(1)
 
-HOJE = datetime.now()
+from zoneinfo import ZoneInfo
+HOJE = datetime.now(ZoneInfo("America/Sao_Paulo"))
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
 
 # ----------------------------------------------------------------------
@@ -46,10 +47,30 @@ def buscar_manchetes(qtd=12):
         link = a["href"]
         if not titulo or len(titulo) < 15:
             continue
+# procura a data (dd/mm/aaaa) num raio maior de texto: pai, avo e
+        # os elementos logo antes/depois do titulo (o layout da Anamaco
+        # costuma colocar a data fora do bloco imediato do titulo)
+        candidatos = []
+        if h.parent:
+            candidatos.append(h.parent.get_text(" ", strip=True))
+            if h.parent.parent:
+                candidatos.append(h.parent.parent.get_text(" ", strip=True))
+        vizinho = h.find_previous(string=re.compile(r"\d{2}/\d{2}/\d{4}"))
+        if vizinho:
+            candidatos.append(str(vizinho))
 
-        # procura a data (dd/mm/aaaa) no texto proximo
-        bloco = h.parent.get_text(" ", strip=True) if h.parent else ""
-        m = re.search(r"(\d{2}/\d{2}/\d{4})", bloco)
+        data = ""
+        for texto_busca in candidatos:
+            m = re.search(r"(\d{2}/\d{2}/\d{4})", texto_busca)
+            if m:
+                data = m.group(1)
+                break
+
+        # se a pagina nao trouxe uma data explicita, assume hoje: estas
+        # noticias vem do topo da pagina "noticias-online", que e sempre
+        # o conteudo mais recente da Anamaco
+        if not data:
+            data = HOJE.strftime("%d/%m/%Y")
         data = m.group(1) if m else ""
 
         # resumo: primeiro paragrafo depois do titulo
