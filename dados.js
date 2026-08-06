@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "06/08/2026 11:04",
+ "atualizado_em": "06/08/2026 11:22",
  "manchetes": [
   {
    "titulo": "Tentativas de fraude no e-commerce caíram 7,4% em junho, aponta Equifax BoaVista",
@@ -15,6 +15,13 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "Levar um laboratório completo de tecnologia do concreto até a operação do cliente para realizar ensaios, validar traços e apoiar decisões técnicas em tempo real. Essa é a proposta do Laboratório Móvel, a mais nova...",
    "link": "http://www.revistaanamaco.com.br/intercement-brasil-lanca-laboratorio-movel-para-levar-analises-tecnicas-aos-clientes-"
+  },
+  {
+   "titulo": "Governo prorroga direito antidumping às importações brasileiras de PVC-S  originadas da China",
+   "data": "06/08/2026",
+   "fonte": "Valor",
+   "resumo": "O governo brasileiro prorrogou por até mais cinco anos o direito antidumping definitivo às importações brasileiras de resinas de policloreto de vinila obtidas por processo de suspensão (PVC-S),  originárias da China....",
+   "link": "https://valor.globo.com/brasil/noticia/2026/08/06/governo-prorroga-direito-antidumping-as-importacoes-brasileiras-de-pvc-s-originadas-da-china.ghtml"
   },
   {
    "titulo": "Novidades e prêmios",
