@@ -150,9 +150,10 @@
 
   footer{ height:70px; flex-shrink:0; background:var(--accent); display:flex; align-items:center; overflow:hidden; position:relative; z-index:5; }
   .ticker-label{ background:var(--bg); color:var(--accent); font-family:'Oswald'; font-weight:700; font-size:17px; text-transform:uppercase; letter-spacing:2px; height:100%; display:flex; align-items:center; padding:0 28px; flex-shrink:0; z-index:2; }
-  .ticker-track{ display:flex; white-space:nowrap; animation:scroll 50s linear infinite; }
-  .ticker-track span{ font-family:'Inter'; font-weight:600; font-size:18px; color:#fff; padding:0 44px; display:flex; align-items:center; gap:14px; }
-  .ticker-track span::before{ content:"\25CF"; font-size:9px; opacity:.7; }
+  .ticker-track{ display:flex; white-space:nowrap; animation:scroll linear infinite; }
+  .ticker-track span, .ticker-track a{ font-family:'Inter'; font-weight:600; font-size:18px; color:#fff; text-decoration:none; padding:0 44px; display:flex; align-items:center; gap:14px; white-space:nowrap; }
+  .ticker-track a:hover{ text-decoration:underline; }
+  .ticker-track span::before, .ticker-track a::before{ content:"\25CF"; font-size:9px; opacity:.7; }
   @keyframes scroll{ from{transform:translateX(0);} to{transform:translateX(-50%);} }
 </style>
 <script src="dados.js" onerror="window.__semArquivo=true"></script>
@@ -507,16 +508,34 @@ window.DADOS = {
   setRef('.card-hero','incc');
 
   // ticker montado a partir das manchetes + indicadores
-  const items = [];
-  if (men.incc) items.push('INCC acumula '+men.incc.valor+'% em 12 meses ('+men.incc.ref+')');
-  if (men.cimento) items.push('Cimento soma '+men.cimento.valor+' toneladas ('+men.cimento.ref+')');
-  if (men.termometro) items.push('Termômetro Anamaco: '+men.termometro.alta+'% dos lojistas com alta de vendas');
-  mans.forEach(m=> items.push(m.titulo));
+  // ticker: cada item e {texto, link}. Indicadores (sem link) e manchetes
+  // (com link, sempre acompanhadas de um trecho do resumo, para nunca
+  // aparecer um titulo solto sem contexto como "Animo no comercio")
+  const itens = [];
+  if (men.incc) itens.push({texto:'INCC acumula '+men.incc.valor+'% em 12 meses ('+men.incc.ref+')'});
+  if (men.cimento) itens.push({texto:'Cimento soma '+men.cimento.valor+' toneladas ('+men.cimento.ref+')'});
+  if (men.termometro) itens.push({texto:'Termômetro Anamaco: '+men.termometro.alta+'% dos lojistas com alta de vendas'});
   const dia = D.diarios || {};
-  if (dia.dolar && dia.dolar.valor) items.push('Dólar em R$ '+dia.dolar.valor.toFixed(2).replace('.',','));
-  if (dia.selic && dia.selic.valor) items.push('Selic em '+dia.selic.valor+'% ao ano');
-  const track=document.getElementById('tickerTrack');
-  const h=items.map(t=>'<span>'+t+'</span>').join(''); track.innerHTML=h+h;
+  if (dia.dolar && dia.dolar.valor) itens.push({texto:'Dólar em R$ '+dia.dolar.valor.toFixed(2).replace('.',',')});
+  // Selic sai do ticker como numero cru: entra como manchete-insight contextualizada (fonte Banco Central)
+
+  mans.forEach(m=>{
+    if (!m.resumo || m.resumo.trim().length < 20) return; // sem resumo, sem contexto: fica de fora
+    var trecho = m.resumo.trim();
+    if (trecho.length > 100) trecho = trecho.slice(0,100).replace(/[\s,;.]+\S*$/,'') + '...';
+    itens.push({ texto: m.titulo + ' — ' + trecho, link: m.link });
+  });
+
+  const track = document.getElementById('tickerTrack');
+  const montarItem = it => it.link
+    ? '<a href="'+it.link+'" target="_blank" rel="noopener">'+it.texto+'</a>'
+    : '<span>'+it.texto+'</span>';
+  const h = itens.map(montarItem).join('');
+  track.innerHTML = h + h;
+
+  // velocidade proporcional ao conteudo (min 60s, +9s por item)
+  const duracaoSegundos = Math.max(60, itens.length * 9);
+  track.style.animationDuration = duracaoSegundos + 's';
 
   const screens=[...document.querySelectorAll('.screen')];
   const tabs=[...document.querySelectorAll('#tabs .tab')];
