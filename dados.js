@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "07/08/2026 08:34",
+ "atualizado_em": "07/08/2026 12:10",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -11,11 +11,35 @@ window.DADOS = {
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
-   "titulo": "Fundo imobiliário mira captação de até R$ 250 milhões em nova emissão de cotas; IFIX recua pelo 4º pregão seguido",
+   "titulo": "Intenção de consumo é a maior desde 2015",
+   "data": "07/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Intenção de Consumo das Famílias  avançou 0,1% em julho, frente a junho, e registrou alta de 2,6% em 12 meses, atingindo 105,6 pontos. O resultado, apurado pela Confederação Nacional do Comércio de Bens, Serviços e...",
+   "link": "http://www.revistaanamaco.com.br/intencao-de-consumo-e-a-maior-desde-2015-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Famílias paulistanas endividadas",
+   "data": "07/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "Quase sete em cada dez famílias paulistanas (74,1%) estavam endividadas em junho. É o maior o maior patamar em quatro anos de acordo com a Pesquisa de Endividamento e Inadimplência do Consumidor da FecomercioSP",
+   "link": "http://www.revistaanamaco.com.br/familias-paulistanas-endividadas-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "31ª edição do Encontro Nacional de Redes será, em outubro, em Poços de Caldas",
+   "data": "07/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "Com o tema “Lucratividade em rede: eficiência, valor e sustentabilidade no novo varejo, a 31ª edição do Encontro Nacional de Redes, tradicional evento promovido, anualmente, pela Febramat terá como anfitriã a Rede...",
+   "link": "http://www.revistaanamaco.com.br/31-edicao-do-encontro-nacional-de-redes-sera-em-outubro-em-pocos-de-caldas-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Resultados das construtoras: Mitre (MTRE3) vê lucro crescer 46% no 2T26, enquanto Eztec (EZTC3) registra queda de 21%",
    "data": "07/08/2026",
    "fonte": "MoneyTimes",
-   "resumo": "O fundo imobiliário Invista Brazilian Business Park (IBBP11) anunciou, por meio de fato relevante, a realização de sua 6ª emissão de cotas, em uma oferta que pode movimentar R$ 228 milhões. Segundo o comunicado...",
-   "link": "https://www.moneytimes.com.br/fundo-imobiliario-mira-captacao-de-ate-r-250-milhoes-em-nova-emissao-de-cotas-ifix-recua-pelo-4o-pregao-seguido-igdl/",
+   "resumo": "A Mitre (MTRE3) registrou lucro líquido de R$ 15 milhões no segundo trimestre de 2026 (2T26), alta anual de 46%. O resultado ficou em linha com as estimativas do BTG Pactual, segundo relatório divulgado na...",
+   "link": "https://www.moneytimes.com.br/mitre-mtre3-cresce-46-no-lucro-do-2t26-eztec-eztc3-registra-queda-de-21-jvka/",
    "aba": "demanda"
   },
   {
@@ -105,30 +129,6 @@ window.DADOS = {
    "resumo": "O Sinduscon-RS participou, nesta segunda-feira (3/8), da cerimônia que marcou o lançamento de mais uma realização do Projeto Construção Cultural: A revitalização do Monumento Bento Gonçalves. A iniciativa é promovida...",
    "link": "https://cbic.org.br/sinduscon-rs-lanca-nova-etapa-do-projeto-construcao-cultural/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Reforma tributária: construção e mercado imobiliário terão novas obrigações fiscais a partir de dezembro",
-   "data": "05/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A implementação da reforma tributária avança para uma nova etapa. A Receita Federal do Brasil (RFB) e o Comitê Gestor do Imposto sobre Bens e O post Reforma tributária: construção e mercado imobiliário terão novas...",
-   "link": "https://revistaoe.com.br/nova-tributacao-no-mercado-imobiliario/",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Inscrições abertas para o Fórum Construindo Cidades Resilientes, em São Paulo",
-   "data": "05/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "Estão abertas as inscrições para o Fórum Construindo Cidades Resilientes – Desenvolvimento Imobiliário, Construção e Finanças Sustentáveis, um dos principais eventos da São Paulo Climate O post Inscrições abertas...",
-   "link": "https://revistaoe.com.br/forum-debate-financas-sustentaveis-em-sp/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Forúm Construindo Cidades Resilientes",
-   "data": "05/08/2026",
-   "fonte": "ABRAMAT",
-   "resumo": "o fórum reunirá lideranças e especialistas para debater os caminhos para ampliar o financiamento sustentável e acelerar a transição para uma construção mais resiliente e de baixo carbono. O post Forúm Construindo...",
-   "link": "https://abramat.org.br/forum-construindo-cidades-resilientes/",
-   "aba": "demanda"
   }
  ],
  "diarios": {
@@ -139,6 +139,10 @@ window.DADOS = {
   "selic": {
    "valor": 14.0,
    "data": "07/08/2026"
+  },
+  "igpm12": {
+   "valor": -0.86,
+   "data": "01/07/2026"
   }
  },
  "mensais": {
