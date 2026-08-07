@@ -97,6 +97,11 @@
   .feed{ display:flex; flex-direction:column; gap:11px; overflow:hidden; flex:1; }
   .feed .item{ display:flex; gap:12px; align-items:flex-start; padding-bottom:10px; border-bottom:1px solid var(--line); }
   .feed .item:last-child{ border-bottom:0; }
+  /* manchetes clicaveis: herdam o visual do card, sem cara de link */
+  a.item{ text-decoration:none; color:inherit; cursor:pointer; transition:opacity .15s; }
+  a.item:hover{ opacity:.72; }
+  .manchete-link{ text-decoration:none; color:inherit; display:block; height:100%; cursor:pointer; transition:opacity .15s; }
+  .manchete-link:hover{ opacity:.82; }
   .feed .quando{ font-family:'JetBrains Mono'; font-size:9.5px; color:var(--ink-3); flex:0 0 58px; padding-top:2px; text-transform:uppercase; line-height:1.35; }
   .feed .quando b{ display:block; font-size:11.5px; font-weight:700; color:var(--accent); }
   .feed .txt{ font-size:13px; line-height:1.35; color:var(--ink); }
@@ -151,6 +156,9 @@
   footer{ height:70px; flex-shrink:0; background:var(--accent); display:flex; align-items:center; overflow:hidden; position:relative; z-index:5; }
   .ticker-label{ background:var(--bg); color:var(--accent); font-family:'Oswald'; font-weight:700; font-size:17px; text-transform:uppercase; letter-spacing:2px; height:100%; display:flex; align-items:center; padding:0 28px; flex-shrink:0; z-index:2; }
   .ticker-track{ display:flex; white-space:nowrap; animation:scroll linear infinite; }
+  /* pausa a rolagem quando o mouse passa por cima, para dar tempo de clicar no link */
+  footer:hover .ticker-track{ animation-play-state:paused; }
+  .ticker-track a:focus{ animation-play-state:paused; outline:2px solid var(--accent); outline-offset:2px; }
   .ticker-track span, .ticker-track a{ font-family:'Inter'; font-weight:600; font-size:18px; color:#fff; text-decoration:none; padding:0 44px; display:flex; align-items:center; gap:14px; white-space:nowrap; }
   .ticker-track a:hover{ text-decoration:underline; }
   .ticker-track span::before, .ticker-track a::before{ content:"\25CF"; font-size:9px; opacity:.7; }
@@ -466,14 +474,28 @@ window.DADOS = {
   const resto = mans.filter(m=>!destaques.includes(m)).slice().sort((a,b)=> peso(b)-peso(a) || parseD(b.data)-parseD(a.data));
   while (destaques.length < 2 && resto.length) destaques.push(resto.shift());
 
+  // remove travessoes (— –) de qualquer texto vindo das fontes, trocando por ':'
+  // quando separa titulo/subtitulo, ou por ',' quando é aposto. Regra simples e segura:
+  // troca " — " e " – " por " : " e travessao colado por vírgula.
+  const semTr = t => !t ? '' : String(t)
+    .replace(/\s+[—–]\s+/g, ': ')
+    .replace(/[—–]/g, ', ')
+    .replace(/\s+,/g, ',')
+    .replace(/:\s*:/g, ':')
+    .trim();
+  const esc = s => String(s||'').replace(/"/g,'&quot;');
+
   destaques.forEach((m,i)=>{
     const el = document.getElementById('mancheteDestaque'+(i+1));
     if (!el || !m) return;
-    el.innerHTML =
-      '<div class="eyebrow"><span>Destaque do dia</span><span class="tag">'+(m.fonte||'')+'</span></div>'+
+    const inner =
+      '<div class="eyebrow"><span>Destaque do dia</span><span class="tag">'+semTr(m.fonte||'')+'</span></div>'+
       '<div class="manchete-data">'+(m.data||'')+'</div>'+
-      '<div class="manchete-titulo">'+m.titulo+'</div>'+
-      '<p class="desc">'+(m.resumo||'')+'</p>';
+      '<div class="manchete-titulo">'+semTr(m.titulo)+'</div>'+
+      '<p class="desc">'+semTr(m.resumo||'')+'</p>';
+    el.innerHTML = m.link
+      ? '<a class="manchete-link" href="'+esc(m.link)+'" target="_blank" rel="noopener">'+inner+'</a>'
+      : inner;
   });
 
   // GIRO: notícias do dia, priorizando mercado a nível nacional
@@ -484,11 +506,15 @@ window.DADOS = {
     let pool = mans.filter(m=> parseD(m.data)===maxD && !destaques.includes(m));
     if (!pool.length) pool = mans.filter(m=>!destaques.includes(m));
     pool = pool.slice().sort((a,b)=> peso(b)-peso(a) || parseD(b.data)-parseD(a.data));
-    feed.innerHTML = pool.slice(0,5).map(m=>
-      '<div class="item"><span class="quando"><b>'+(m.data||'').slice(0,5)+'</b>'+(m.fonte||'')+'</span>'+
-      '<span class="txt"><b>'+m.titulo+'</b>'+
-      (m.resumo ? '<i>'+corta(m.resumo,105)+'</i>' : '')+'</span></div>'
-    ).join('');
+    feed.innerHTML = pool.slice(0,5).map(m=>{
+      const conteudo =
+        '<span class="quando"><b>'+(m.data||'').slice(0,5)+'</b>'+semTr(m.fonte||'')+'</span>'+
+        '<span class="txt"><b>'+semTr(m.titulo)+'</b>'+
+        (m.resumo ? '<i>'+semTr(corta(m.resumo,105))+'</i>' : '')+'</span>';
+      return m.link
+        ? '<a class="item" href="'+esc(m.link)+'" target="_blank" rel="noopener">'+conteudo+'</a>'
+        : '<div class="item">'+conteudo+'</div>';
+    }).join('');
   }
 
   // indicadores mensais com data de referência
@@ -523,7 +549,7 @@ window.DADOS = {
     if (!m.resumo || m.resumo.trim().length < 20) return; // sem resumo, sem contexto: fica de fora
     var trecho = m.resumo.trim();
     if (trecho.length > 100) trecho = trecho.slice(0,100).replace(/[\s,;.]+\S*$/,'') + '...';
-    itens.push({ texto: m.titulo + ': ' + trecho, link: m.link });
+    itens.push({ texto: semTr(m.titulo) + ': ' + semTr(trecho), link: m.link });
   });
 
   const track = document.getElementById('tickerTrack');
