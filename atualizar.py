@@ -93,10 +93,17 @@ def buscar_manchetes(qtd=12):
 # 1b. OUTRAS FONTES VIA RSS (Valor, Forbes, InfoMoney, PlásticoNews)
 # ----------------------------------------------------------------------
 FONTES_RSS = [
-    ("Valor",        "https://pox.globo.com/rss/valor/brasil/"),
-    ("Forbes",       "https://forbes.com.br/feed/"),
-    ("InfoMoney",    "https://www.infomoney.com.br/feed/"),
-    ("PlásticoNews", "https://plasticonews.org/feed/"),
+    ("Valor",         "https://pox.globo.com/rss/valor/brasil/"),
+    ("Forbes",        "https://forbes.com.br/feed/"),
+    ("InfoMoney",     "https://www.infomoney.com.br/feed/"),
+    ("PlásticoNews",  "https://plasticonews.org/feed/"),
+    # fontes do setor de construcao (WordPress, padrao /feed/). O robo
+    # ignora automaticamente qualquer feed que nao responder ou vier vazio,
+    # entao candidatos que sairem do ar nao quebram a coleta.
+    ("CBIC",          "https://cbic.org.br/feed/"),
+    ("O Empreiteiro", "https://revistaoe.com.br/feed/"),
+    ("Cimento",       "https://www.cimento.org/feed/"),
+    ("MoneyTimes",    "https://www.moneytimes.com.br/feed/"),
 ]
 
 # Filtro de palavras-chave do setor
@@ -117,6 +124,40 @@ EXCLUI = re.compile(
     r"|tintas? de impress|flexografia|rotogravura|nitrocelulose|ABITIM|"
     r"coninflex|r[oó]tulo|label|artes? gráfica",
     re.I)
+
+# ----------------------------------------------------------------------
+# B2. CLASSIFICACAO POR ABA TEMATICA
+# ----------------------------------------------------------------------
+# cada noticia recebe uma etiqueta 'aba' conforme o assunto, para o painel
+# distribuir as noticias entre as telas (insumos, custos, demanda) em vez de
+# jogar tudo so na aba de manchetes.
+TEMA_INSUMOS = re.compile(
+    r"(aço|aco\b|siderurg|cimento|tinta|pvc|resina|polietileno|polipropileno|"
+    r"petroquímic|petroquimic|alumíni|alumini|cobre|argamassa|revestiment|"
+    r"cerâmic|ceramic|hidráulic|hidraulic|\btubo|conexõe|conexoe|vergalhã|vergalho|"
+    r"insumo|material de constru|matéria-prima|materia-prima)", re.I)
+TEMA_CUSTOS = re.compile(
+    r"(selic|juro|câmbio|cambio|dólar|dolar|frete|diesel|combustív|combustiv|"
+    r"antidumping|importaç|importac|exportaç|exportac|tarifa|imposto|"
+    r"tributár|tributar|inflaç|inflac|ipca|igp|incc|custo|energia|petróleo|petroleo)", re.I)
+TEMA_DEMANDA = re.compile(
+    r"(venda|consumo|demanda|mcmv|minha casa|habitaç|habitac|financiament|"
+    r"crédito|credito|\bobra|lançament|lancament|imobiliári|imobiliari|construtora|"
+    r"incorporador|\bpib\b|emprego|vaga|caged|varejo|confianç|confianc|expectativa|"
+    r"faturar|faturament)", re.I)
+
+def classificar_aba(titulo, resumo=""):
+    """Devolve a aba tematica ('insumos'|'custos'|'demanda'|'geral') da noticia."""
+    t = (titulo or "") + " " + (resumo or "")
+    # ordem de prioridade: insumos e custos sao mais especificos que demanda
+    if TEMA_INSUMOS.search(t):
+        return "insumos"
+    if TEMA_CUSTOS.search(t):
+        return "custos"
+    if TEMA_DEMANDA.search(t):
+        return "demanda"
+    return "geral"
+
 
 def buscar_rss(qtd_por_fonte=4):
     """Le os feeds RSS e devolve so o que interessa ao setor."""
@@ -306,6 +347,7 @@ def insight_selic(bc_atual=None):
         "titulo": titulo,
         "data": HOJE.strftime("%d/%m/%Y"),
         "fonte": "Banco Central",
+        "aba": "custos",
         "resumo": resumo,
         "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros",
     }
@@ -347,6 +389,10 @@ def main():
         except Exception:
             return datetime(2000, 1, 1)
     manchetes = sorted(unicas, key=ordem, reverse=True)[:16]
+
+    # etiqueta cada manchete com sua aba tematica (insumos/custos/demanda/geral)
+    for m in manchetes:
+        m["aba"] = classificar_aba(m.get("titulo", ""), m.get("resumo", ""))
 
     if not manchetes:
         manchetes = anterior.get("manchetes", [])
