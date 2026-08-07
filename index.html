@@ -80,7 +80,7 @@
   #screen1{ grid-template-columns:1.18fr 1fr 1fr; grid-template-rows:auto 1fr 1fr; }
   #screen2{ grid-template-columns:repeat(4,1fr); grid-template-rows:auto 1.25fr .85fr; }
   #screen3{ grid-template-columns:repeat(3,1fr); grid-template-rows:auto 1.15fr .95fr; }
-  #screen4{ grid-template-columns:repeat(4,1fr); grid-template-rows:auto 1.2fr .9fr auto; }
+  #screen4{ grid-template-columns:repeat(4,1fr); grid-template-rows:auto 1fr 1fr auto; }
   #screen5{ grid-template-columns:1fr 1fr 1.15fr; grid-template-rows:auto 1fr; }
 
   /* selo de atualização no título da tela */
@@ -301,7 +301,7 @@ window.DADOS = {
         <div class="tab" data-i="0"><span class="lbl">01 · Índices</span><div class="seg"><span class="prog"></span></div></div>
         <div class="tab" data-i="1"><span class="lbl">02 · Insumos</span><div class="seg"><span class="prog"></span></div></div>
         <div class="tab" data-i="2"><span class="lbl">03 · Custos</span><div class="seg"><span class="prog"></span></div></div>
-        <div class="tab" data-i="3"><span class="lbl">04 · Anamaco</span><div class="seg"><span class="prog"></span></div></div>
+        <div class="tab" data-i="3"><span class="lbl">04 · Associações</span><div class="seg"><span class="prog"></span></div></div>
         <div class="tab" data-i="4"><span class="lbl">05 · Manchetes</span><div class="seg"><span class="prog"></span></div></div>
       </div>
       <div class="theme-btn" id="themeBtn" title="Alternar modo claro/escuro">
@@ -459,7 +459,7 @@ window.DADOS = {
 
     <!-- TELA 4 · ANAMACO -->
     <section class="screen" id="screen4">
-      <div class="screen-title"><span class="kicker">Tela 04</span><h2>Newsletter Anamaco · Termômetro do Varejo</h2><span class="rule"></span></div>
+      <div class="screen-title"><span class="kicker">Tela 04</span><h2>Associações do Setor · Anamaco &amp; ABRAMAT</h2><span class="rule"></span></div>
       <div class="card">
         <div class="eyebrow"><span>Percepção de vendas</span><span class="tag">1º sem/26</span></div>
         <h3>Termômetro Anamaco</h3>
@@ -508,7 +508,15 @@ window.DADOS = {
         </div>
         <div class="ref">Ref. <b>2026</b> · Anamaco institucional</div>
       </div>
-      <div class="card" style="grid-column:1 / -1;">
+      <div class="card" id="card-abramat">
+        <div class="eyebrow"><span>Faturamento do setor</span><span class="tag">ABRAMAT</span></div>
+        <h3>Índice ABRAMAT</h3>
+        <div class="figure"><span class="num" id="abramat-num" style="color:var(--green)">+1,9%</span><span class="unit" id="abramat-unit">no mês (jun vs mai)</span></div>
+        <p class="desc" id="abramat-desc">Faturamento deflacionado da indústria de materiais. No mês houve reação, mas o 1º semestre acumula queda de 3,4% ante 2025. Projeção 2026 revisada para +0,5%. Termômetro: 62% das empresas pretendem investir.</p>
+        <div class="chip" id="abramat-chip">&#9650; Reação mensal, recuperação gradual</div>
+        <div class="ref" id="abramat-ref">Ref. <b>jun/26</b> · ABRAMAT · FGV/Ecconit</div>
+      </div>
+      <div class="card" style="grid-column:span 3;">
         <div class="split" style="align-items:center;">
           <div style="flex:0 0 300px; padding-right:24px; border-right:1px solid var(--line);">
             <div class="mini-h" style="color:var(--accent); margin-bottom:2px;">Ranking Anamaco 2026</div>
@@ -517,14 +525,6 @@ window.DADOS = {
           <p class="desc" style="font-size:13.5px; padding-left:24px;">Leitura da entidade para o 2º sem: setor resiliente, mas resistência não é crescimento. Avançar depende de mais crédito, programas eficientes e estímulo ao consumo.</p>
         </div>
         <div class="ref">Ref. <b>26ª edição · 2026</b> · Anamaco</div>
-      </div>
-      <div class="card" id="card-abramat">
-        <div class="eyebrow"><span>Faturamento do setor</span><span class="tag">ABRAMAT</span></div>
-        <h3>Índice ABRAMAT</h3>
-        <div class="figure"><span class="num" id="abramat-num" style="color:var(--green)">+1,9%</span><span class="unit" id="abramat-unit">no mês (jun vs mai)</span></div>
-        <p class="desc" id="abramat-desc">Faturamento deflacionado da indústria de materiais. No mês houve reação, mas o 1º semestre acumula queda de 3,4% ante 2025. Projeção 2026 revisada para +0,5%. Termômetro: 62% das empresas pretendem investir.</p>
-        <div class="chip" id="abramat-chip">&#9650; Reação mensal, recuperação gradual</div>
-        <div class="ref" id="abramat-ref">Ref. <b>jun/26</b> · ABRAMAT · FGV/Ecconit</div>
       </div>
       <div class="card news-strip" style="grid-column:1 / -1;" id="news-demanda">
         <div class="eyebrow"><span>No radar de demanda e mercado</span><span class="tag">Notícias</span></div>
