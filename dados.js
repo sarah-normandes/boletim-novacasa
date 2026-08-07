@@ -1,12 +1,12 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "06/08/2026 20:46",
+ "atualizado_em": "06/08/2026 21:05",
  "manchetes": [
   {
-   "titulo": "Selic mantida em 10,5% ao ano",
+   "titulo": "Selic mantida em 14% ao ano",
    "data": "06/08/2026",
    "fonte": "Banco Central",
-   "resumo": "Taxa basica segue em 10,5%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
+   "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
