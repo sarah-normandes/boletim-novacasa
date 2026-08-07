@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "07/08/2026 08:07",
+ "atualizado_em": "07/08/2026 08:34",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Fundo imobiliário mira captação de até R$ 250 milhões em nova emissão de cotas; IFIX recua pelo 4º pregão seguido",
+   "data": "07/08/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "O fundo imobiliário Invista Brazilian Business Park (IBBP11) anunciou, por meio de fato relevante, a realização de sua 6ª emissão de cotas, em uma oferta que pode movimentar R$ 228 milhões. Segundo o comunicado...",
+   "link": "https://www.moneytimes.com.br/fundo-imobiliario-mira-captacao-de-ate-r-250-milhoes-em-nova-emissao-de-cotas-ifix-recua-pelo-4o-pregao-seguido-igdl/",
+   "aba": "demanda"
   },
   {
    "titulo": "Encontros e oportunidades",
@@ -121,14 +129,6 @@ window.DADOS = {
    "resumo": "o fórum reunirá lideranças e especialistas para debater os caminhos para ampliar o financiamento sustentável e acelerar a transição para uma construção mais resiliente e de baixo carbono. O post Forúm Construindo...",
    "link": "https://abramat.org.br/forum-construindo-cidades-resilientes/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Longeva e relevante",
-   "data": "04/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "Começou hoje e acontece até a próxima sexta-feira, no Centro de Eventos Fiergs, em Porto Alegre (RS), a 27ª edição da Construsul. O evento reúne  mais de 300 expositores e espera receber cerca de 35 mil visitantes...",
-   "link": "http://www.revistaanamaco.com.br/longeva-e-relevante",
-   "aba": "geral"
   }
  ],
  "diarios": {
