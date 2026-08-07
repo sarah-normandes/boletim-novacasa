@@ -1,17 +1,20 @@
 name: Boletim Nova Casa
+
+# Quando roda:
 on:
   schedule:
-    - cron: '0 9 * * 1-5'
-    - cron: '0 16 * * 1-5'
-  workflow_dispatch:
+    # de 3 em 3 horas em horario comercial (Brasilia = UTC-3)
+    # 6h, 9h, 12h, 15h, 18h Brasilia  ->  9,12,15,18,21 UTC
+    - cron: '0 9,12,15,18,21 * * 1-6'
+  workflow_dispatch:      # permite rodar na mao pelo botao do GitHub
   push:
-    branches: [ main ]
+    branches: [ main ]    # roda tambem a cada alteracao no repositorio
 
 jobs:
   atualizar:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write     # necessario para o robo salvar o dados.js
 
     steps:
       - name: Baixar o repositorio
@@ -30,11 +33,11 @@ jobs:
 
       - name: Publicar se houver novidade
         run: |
-          git config user.name "Boletim Nova Casa"
+          git config user.name  "Boletim Nova Casa"
           git config user.email "actions@github.com"
           git add dados.js
           if git diff --staged --quiet; then
-            echo "Nada novo hoje, nada a publicar."
+            echo "Nada novo, nada a publicar."
           else
             git commit -m "Boletim atualizado em $(TZ=America/Sao_Paulo date '+%d/%m/%Y %H:%M')"
             git push
