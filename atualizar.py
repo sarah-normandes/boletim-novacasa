@@ -201,28 +201,49 @@ def historico_selic(n=60):
     """
     url = (f"https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados/"
            f"ultimos/{n}?formato=json")
+
+    # tudo dentro de um try amplo: se qualquer coisa falhar (rede, formato
+    # inesperado, valor invalido), a funcao devolve None e o robo segue sem
+    # o insight, em vez de quebrar a coleta inteira.
     try:
         r = requests.get(url, headers=UA, timeout=25)
         dados = r.json()
-        if not dados:
+
+        # a API as vezes devolve um dict em vez de lista; normaliza para lista
+        if isinstance(dados, dict):
+            dados = list(dados.values())
+        if not isinstance(dados, list) or not dados:
             return None, None, None
+
+        def num(d):
+            v = d.get("valor") if isinstance(d, dict) else None
+            if v is None:
+                return None
+            return float(str(v).replace(",", "."))
+
+        def dia(d):
+            return d.get("data") if isinstance(d, dict) else None
+
+        atual = num(dados[-1])
+        if atual is None:
+            return None, None, None
+        data_mudanca = dia(dados[-1])
+        anterior = None
+        # recua achando o primeiro valor diferente do atual; a data em que o
+        # valor atual aparece pela primeira vez e a data da mudanca
+        for d in reversed(dados[:-1]):
+            v = num(d)
+            if v is None:
+                continue
+            if abs(v - atual) < 1e-9:
+                data_mudanca = dia(d)  # atual ja valia aqui: recua a data de inicio
+            else:
+                anterior = v
+                break
+        return atual, anterior, data_mudanca
     except Exception as e:
         print("  [!] Historico Selic indisponivel:", e)
         return None, None, None
-
-    atual = float(dados[-1]["valor"].replace(",", "."))
-    data_mudanca = dados[-1]["data"]
-    anterior = None
-    # recua achando o primeiro valor diferente do atual; a data em que o
-    # valor atual aparece pela primeira vez e a data da mudanca
-    for d in reversed(dados[:-1]):
-        v = float(d["valor"].replace(",", "."))
-        if abs(v - atual) < 1e-9:
-            data_mudanca = d["data"]  # atual ja valia aqui: recua a data de inicio
-        else:
-            anterior = v
-            break
-    return atual, anterior, data_mudanca
 
 
 def buscar_indicadores_bc():
