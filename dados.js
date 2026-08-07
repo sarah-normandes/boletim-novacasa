@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "07/08/2026 17:04",
+ "atualizado_em": "07/08/2026 20:01",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -49,6 +49,22 @@ window.DADOS = {
    "resumo": "O Projeto Vícios Construtivos e Garantias Pós-Obra, da Câmara Brasileira da Indústria da Construção (CBIC), alcançou mais um avanço nas ações voltadas ao fortalecimento do diálogo institucional e ao aprimoramento da...",
    "link": "https://cbic.org.br/projeto-da-cbic-conquista-apoio-do-tjsp-para-capacitacao-em-pericias-sobre-vicios-construtivos/",
    "aba": "insumos"
+  },
+  {
+   "titulo": "Iguatemi (IGTI11) embolsa R$ 876 milhões com venda de ativos para fundo imobiliário; veja detalhes",
+   "data": "07/08/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "A Iguatemi (IGTI11) está embolsando R$ 876 milhões com a venda de cinco ativos imobiliários para o TRX Real Estate (TRXF11), mostra documento enviado ao mercado nesta sexta-feira (7). Os ativos incluem: O preço será...",
+   "link": "https://www.moneytimes.com.br/iguatemi-igti11-embolsa-r-876-milhoes-com-venda-de-ativos-para-fundo-imobiliario-veja-detalhes-rnda/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Essa construtora derreteu na bolsa — e agora quer recomprar 10% dos papéis em circulação",
+   "data": "07/08/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "A Lavvi (LAVV3) irá recomprar até 7,4 milhões de ações, ou até 10% das ações em circulação, mostra documento enviado ao mercado nesta sexta-feira (7). Segundo o comunicado, o programa terá prazo de vigência de 18...",
+   "link": "https://www.moneytimes.com.br/essa-construtora-derreteu-na-bolsa-e-agora-quer-recomprar-10-dos-papeis-em-circulacao/",
+   "aba": "demanda"
   },
   {
    "titulo": "Encontros e oportunidades",
@@ -113,25 +129,13 @@ window.DADOS = {
    "resumo": "Em junho, o Indicador de Reincidência de Pessoas Físicas, apurado pela CNDL e pelo SPC Brasil, revelou que, do total de negativações, 85,32% foram de devedores reincidentes. O dado refere-se a consumidores que já...",
    "link": "http://www.revistaanamaco.com.br/reincidencia-atingiu-8532-dos-consumidores-inadimplentes-em-junho-",
    "aba": "geral"
-  },
-  {
-   "titulo": "Artecola anuncia Ricardo Cappra como seu novo gerente de Marketing",
-   "data": "05/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "Ricardo Luís Cappra acaba de assumir a gerência de Marketing da Artecola. O executivo chega com a missão de fortalecer o posicionamento de marca em diferentes mercados e contribuir para o crescimento dos negócios",
-   "link": "http://www.revistaanamaco.com.br/artecola-anuncia-ricardo-cappra-como-seu-novo-gerente-de-marketing-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Sinduscon-RS lança nova etapa do projeto Construção Cultural",
-   "data": "05/08/2026",
-   "fonte": "CBIC",
-   "resumo": "O Sinduscon-RS participou, nesta segunda-feira (3/8), da cerimônia que marcou o lançamento de mais uma realização do Projeto Construção Cultural: A revitalização do Monumento Bento Gonçalves. A iniciativa é promovida...",
-   "link": "https://cbic.org.br/sinduscon-rs-lanca-nova-etapa-do-projeto-construcao-cultural/",
-   "aba": "demanda"
   }
  ],
  "diarios": {
+  "dolar": {
+   "valor": 5.0908,
+   "data": "07/08/2026"
+  },
   "selic": {
    "valor": 14.0,
    "data": "07/08/2026"
