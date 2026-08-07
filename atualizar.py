@@ -418,6 +418,11 @@ def main():
         "cimento": {"valor": "38,2M", "unidade": "ton no ano", "ref": "jan-jul/26", "fonte": "SNIC"},
         "termometro": {"alta": 40.3, "estavel": 41.3, "queda": 18.4, "ref": "1o sem/26", "fonte": "Anamaco"},
         "expectativa": {"valor": "68,7", "unidade": "% esperam crescer", "ref": "1o sem/26", "fonte": "Anamaco"},
+        # ABRAMAT: preenchimento manual mensal (indice sai em PDF, sem API).
+        # Dados de junho/2026, ultima divulgacao publica.
+        "abramat_indice": {"valor": "1,9", "unidade": "% no mes (jun vs mai)", "acumulado": "-3,4% no 1o sem", "ref": "jun/26", "fonte": "ABRAMAT"},
+        "abramat_termometro": {"valor": "62", "unidade": "% pretendem investir", "ref": "jan/26", "fonte": "ABRAMAT"},
+        "abramat_projecao": {"valor": "0,5", "unidade": "% projecao 2026", "ref": "revisado jul/26", "fonte": "ABRAMAT"},
     })
 
     dados = {
