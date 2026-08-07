@@ -1,10 +1,10 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "06/08/2026 22:05",
+ "atualizado_em": "07/08/2026 07:57",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "06/08/2026",
+   "data": "07/08/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
@@ -115,19 +115,19 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
+   "titulo": "Forúm Construindo Cidades Resilientes",
+   "data": "05/08/2026",
+   "fonte": "ABRAMAT",
+   "resumo": "o fórum reunirá lideranças e especialistas para debater os caminhos para ampliar o financiamento sustentável e acelerar a transição para uma construção mais resiliente e de baixo carbono. O post Forúm Construindo...",
+   "link": "https://abramat.org.br/forum-construindo-cidades-resilientes/",
+   "aba": "demanda"
+  },
+  {
    "titulo": "Longeva e relevante",
    "data": "04/08/2026",
    "fonte": "Anamaco",
    "resumo": "Começou hoje e acontece até a próxima sexta-feira, no Centro de Eventos Fiergs, em Porto Alegre (RS), a 27ª edição da Construsul. O evento reúne  mais de 300 expositores e espera receber cerca de 35 mil visitantes...",
    "link": "http://www.revistaanamaco.com.br/longeva-e-relevante",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Indústria está mais seletiva na diversificação de portfólio, aponta estudo",
-   "data": "04/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Índice de Diversificação de Portfólio de Produtos, da Associação Brasileira de Automação-GS1 Brasil, aponta que o setor industrial de transformação brasileiro apresentou um desempenho positivo no primeiro semestre,...",
-   "link": "http://www.revistaanamaco.com.br/industria-esta-mais-seletiva-na-diversificacao-de-portfolio-aponta-estudo",
    "aba": "geral"
   }
  ],
@@ -138,7 +138,7 @@ window.DADOS = {
   },
   "selic": {
    "valor": 14.0,
-   "data": "06/08/2026"
+   "data": "07/08/2026"
   }
  },
  "mensais": {
