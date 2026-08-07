@@ -496,8 +496,19 @@ window.DADOS = {
   const DESCE = /(feira|expositor|congresso|evento|encontro|prêmio|premio|premiação|premiacao|inaugura|nomeia|assume|contrata|parceria com|patrocín|patrocin)/i;
   const peso = m => { const t=(m.titulo||'')+' '+(m.resumo||''); let p=0; if(SOBE.test(t)) p+=2; if(DESCE.test(t)) p-=3; return p; };
 
-  const destaques = mans.filter(m=>m.destaque).slice(0,2);
-  const resto = mans.filter(m=>!destaques.includes(m)).slice().sort((a,b)=> peso(b)-peso(a) || parseD(b.data)-parseD(a.data));
+  // A aba Manchetes mostra so o que NAO foi para os radares tematicos
+  // (insumos/custos/demanda). Ou seja, as noticias de aba "geral".
+  // Fallback: se sobrar muito pouco (menos de 3), completa com as demais
+  // para a aba nunca ficar vazia num dia de poucas noticias gerais.
+  const TEMATICAS = new Set(['insumos','custos','demanda']);
+  let baseManchetes = mans.filter(m => !TEMATICAS.has(m.aba || 'geral'));
+  if (baseManchetes.length < 3) {
+    const extras = mans.filter(m => !baseManchetes.includes(m));
+    baseManchetes = baseManchetes.concat(extras);
+  }
+
+  const destaques = baseManchetes.filter(m=>m.destaque).slice(0,2);
+  const resto = baseManchetes.filter(m=>!destaques.includes(m)).slice().sort((a,b)=> peso(b)-peso(a) || parseD(b.data)-parseD(a.data));
   while (destaques.length < 2 && resto.length) destaques.push(resto.shift());
 
   // remove travessoes (— –) de qualquer texto vindo das fontes, trocando por ':'
@@ -527,9 +538,9 @@ window.DADOS = {
   // GIRO: notícias do dia, priorizando mercado a nível nacional
   const feed = document.getElementById('feed');
   if (feed) {
-    const maxD = mans.length ? parseD(mans[0].data) : 0;
-    let pool = mans.filter(m=> parseD(m.data)===maxD && !destaques.includes(m));
-    if (!pool.length) pool = mans.filter(m=>!destaques.includes(m));
+    const maxD = baseManchetes.length ? parseD(baseManchetes[0].data) : 0;
+    let pool = baseManchetes.filter(m=> parseD(m.data)===maxD && !destaques.includes(m));
+    if (!pool.length) pool = baseManchetes.filter(m=>!destaques.includes(m));
     pool = pool.slice().sort((a,b)=> peso(b)-peso(a) || parseD(b.data)-parseD(a.data));
     feed.innerHTML = pool.slice(0,5).map(m=>{
       const conteudo =
