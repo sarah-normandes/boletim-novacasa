@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "07/08/2026 07:57",
+ "atualizado_em": "07/08/2026 08:04",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -99,22 +99,6 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Reforma tributária: construção e mercado imobiliário terão novas obrigações fiscais a partir de dezembro",
-   "data": "05/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A implementação da reforma tributária avança para uma nova etapa. A Receita Federal do Brasil (RFB) e o Comitê Gestor do Imposto sobre Bens e O post Reforma tributária: construção e mercado imobiliário terão novas...",
-   "link": "https://revistaoe.com.br/nova-tributacao-no-mercado-imobiliario/",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Inscrições abertas para o Fórum Construindo Cidades Resilientes, em São Paulo",
-   "data": "05/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "Estão abertas as inscrições para o Fórum Construindo Cidades Resilientes – Desenvolvimento Imobiliário, Construção e Finanças Sustentáveis, um dos principais eventos da São Paulo Climate O post Inscrições abertas...",
-   "link": "https://revistaoe.com.br/forum-debate-financas-sustentaveis-em-sp/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "Forúm Construindo Cidades Resilientes",
    "data": "05/08/2026",
    "fonte": "ABRAMAT",
@@ -129,6 +113,22 @@ window.DADOS = {
    "resumo": "Começou hoje e acontece até a próxima sexta-feira, no Centro de Eventos Fiergs, em Porto Alegre (RS), a 27ª edição da Construsul. O evento reúne  mais de 300 expositores e espera receber cerca de 35 mil visitantes...",
    "link": "http://www.revistaanamaco.com.br/longeva-e-relevante",
    "aba": "geral"
+  },
+  {
+   "titulo": "Indústria está mais seletiva na diversificação de portfólio, aponta estudo",
+   "data": "04/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Índice de Diversificação de Portfólio de Produtos, da Associação Brasileira de Automação-GS1 Brasil, aponta que o setor industrial de transformação brasileiro apresentou um desempenho positivo no primeiro semestre,...",
+   "link": "http://www.revistaanamaco.com.br/industria-esta-mais-seletiva-na-diversificacao-de-portfolio-aponta-estudo",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Construção abriu mais de 168 mil vagas no semestre",
+   "data": "04/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "De acordo com dados do Caged, divulgados pelo Ministério do Trabalho e Emprego, a indústria da construção gerou 14.136 novos empregos em junho no País, o que representa uma alta de 0,46% em relação a maio. Com isso,...",
+   "link": "http://www.revistaanamaco.com.br/construcao-abriu-mais-de-168-mil-vagas-no-semestre",
+   "aba": "demanda"
   }
  ],
  "diarios": {
