@@ -102,6 +102,19 @@
   a.item:hover{ opacity:.72; }
   .manchete-link{ text-decoration:none; color:inherit; display:block; height:100%; cursor:pointer; transition:opacity .15s; }
   .manchete-link:hover{ opacity:.82; }
+  /* faixas de noticias por tema (opcao 1: cada aba tem seu radar) */
+  .news-strip{ padding-top:14px; }
+  .news-row{ display:flex; gap:14px; margin-top:10px; }
+  .news-row .ncard{ flex:1; min-width:0; display:flex; flex-direction:column; gap:5px;
+    padding:11px 13px; border:1px solid var(--line); border-radius:12px;
+    text-decoration:none; color:inherit; transition:opacity .15s, border-color .15s; }
+  .news-row a.ncard:hover{ opacity:.85; border-color:var(--accent); }
+  .news-row .ncard .nf{ font-family:'JetBrains Mono'; font-size:9px; letter-spacing:1px;
+    text-transform:uppercase; color:var(--accent); display:flex; gap:8px; align-items:center; }
+  .news-row .ncard .nf b{ color:var(--ink-3); font-weight:500; }
+  .news-row .ncard .nt{ font-size:13px; font-weight:600; line-height:1.3; color:var(--ink); }
+  .news-row .ncard .nd{ font-size:11.5px; line-height:1.35; color:var(--ink-2); }
+  .news-row .vazio{ font-size:12px; color:var(--ink-3); font-style:italic; padding:6px 2px; }
   .feed .quando{ font-family:'JetBrains Mono'; font-size:9.5px; color:var(--ink-3); flex:0 0 58px; padding-top:2px; text-transform:uppercase; line-height:1.35; }
   .feed .quando b{ display:block; font-size:11.5px; font-weight:700; color:var(--accent); }
   .feed .txt{ font-size:13px; line-height:1.35; color:var(--ink); }
@@ -313,6 +326,10 @@ window.DADOS = {
         <div style="display:none">
         </div>
       </div>
+      <div class="card news-strip" style="grid-column:1 / -1;" id="news-insumos">
+        <div class="eyebrow"><span>No radar de insumos</span><span class="tag">Notícias</span></div>
+        <div class="news-row" id="news-insumos-row"></div>
+      </div>
     </section>
 
     <!-- TELA 3 -->
@@ -354,6 +371,10 @@ window.DADOS = {
           <div style="flex:1;"><div class="mini-h" style="color:var(--green)">Crédito</div><p class="desc">MCMV e infraestrutura sustentam a demanda mesmo com juro alto.</p></div>
         </div>
         <div class="ref">Ref. <b>2026</b> · CBIC · Abramat · SNIC</div>
+      </div>
+      <div class="card news-strip" style="grid-column:1 / -1;" id="news-custos">
+        <div class="eyebrow"><span>No radar de custos</span><span class="tag">Notícias</span></div>
+        <div class="news-row" id="news-custos-row"></div>
       </div>
     </section>
 
@@ -418,6 +439,10 @@ window.DADOS = {
         </div>
         <div class="ref">Ref. <b>26ª edição · 2026</b> · Anamaco</div>
       </div>
+      <div class="card news-strip" style="grid-column:1 / -1;" id="news-demanda">
+        <div class="eyebrow"><span>No radar de demanda e mercado</span><span class="tag">Notícias</span></div>
+        <div class="news-row" id="news-demanda-row"></div>
+      </div>
     </section>
 
     <!-- TELA 5 · MANCHETES DO DIA -->
@@ -464,6 +489,7 @@ window.DADOS = {
 
   // manchetes ordenadas por data (mais recente primeiro)
   const parseD = s => { const m=(s||'').match(/(\d{2})\/(\d{2})\/(\d{4})/); return m ? +(m[3]+m[2]+m[1]) : 0; };
+  const corta = (t,n)=> !t ? '' : (t.length<=n ? t : t.slice(0,n).replace(/[\s,;.]+\S*$/,'')+'...');
   const mans = (D.manchetes || []).slice().sort((a,b)=> parseD(b.data)-parseD(a.data));
   // relevância: dado/tendência de mercado sobe, pauta local ou evento desce
   const SOBE = /(vendas|consumo|índice|indice|inflação|inflacao|incc|ipca|igp|preço|preco|reajuste|custo|emprego|vagas|caged|pib|crédito|credito|juros|selic|produção|producao|faturamento|mercado|demanda|estoque|varejo|indústria|industria|cimento|aço|aco|tinta|habitação|habitacao|mcmv|financiamento|importação|importacao|exportação|exportacao|tributár|estudo|pesquisa|balanço|balanco|projeção|projecao)/i;
@@ -501,7 +527,6 @@ window.DADOS = {
   // GIRO: notícias do dia, priorizando mercado a nível nacional
   const feed = document.getElementById('feed');
   if (feed) {
-    const corta = (t,n)=> !t ? '' : (t.length<=n ? t : t.slice(0,n).replace(/[\s,;.]+\S*$/,'')+'...');
     const maxD = mans.length ? parseD(mans[0].data) : 0;
     let pool = mans.filter(m=> parseD(m.data)===maxD && !destaques.includes(m));
     if (!pool.length) pool = mans.filter(m=>!destaques.includes(m));
@@ -516,6 +541,37 @@ window.DADOS = {
         : '<div class="item">'+conteudo+'</div>';
     }).join('');
   }
+
+  // OPCAO 1: cada aba de indicadores ganha um radar de noticias do seu tema,
+  // usando a etiqueta "aba" que o robo grava em cada manchete.
+  (function preencherRadares(){
+    const rotulo = { insumos:'Insumos', custos:'Custos', demanda:'Demanda', geral:'Geral' };
+    function montaRadar(aba, alvoId){
+      const alvo = document.getElementById(alvoId);
+      if (!alvo) return;
+      // pega as noticias do tema, mais recentes primeiro, no maximo 3
+      const doTema = mans
+        .filter(m => (m.aba||'geral') === aba)
+        .sort((a,b)=> parseD(b.data) - parseD(a.data))
+        .slice(0,3);
+      if (!doTema.length){
+        alvo.innerHTML = '<div class="vazio">Sem notícias novas do tema hoje. Assim que sair, aparece aqui.</div>';
+        return;
+      }
+      alvo.innerHTML = doTema.map(m=>{
+        const inner =
+          '<span class="nf"><b>'+(m.data||'').slice(0,5)+'</b>'+semTr(m.fonte||'')+'</span>'+
+          '<span class="nt">'+semTr(m.titulo)+'</span>'+
+          (m.resumo ? '<span class="nd">'+semTr(corta(m.resumo,90))+'</span>' : '');
+        return m.link
+          ? '<a class="ncard" href="'+esc(m.link)+'" target="_blank" rel="noopener">'+inner+'</a>'
+          : '<div class="ncard">'+inner+'</div>';
+      }).join('');
+    }
+    montaRadar('insumos', 'news-insumos-row');
+    montaRadar('custos',  'news-custos-row');
+    montaRadar('demanda', 'news-demanda-row');
+  })();
 
   // indicadores mensais com data de referência
   const men = D.mensais || {};
