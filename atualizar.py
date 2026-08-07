@@ -104,6 +104,7 @@ FONTES_RSS = [
     ("O Empreiteiro", "https://revistaoe.com.br/feed/"),
     ("Cimento",       "https://www.cimento.org/feed/"),
     ("MoneyTimes",    "https://www.moneytimes.com.br/feed/"),
+    ("ABRAMAT",       "https://abramat.org.br/feed/"),
 ]
 
 # Filtro de palavras-chave do setor
@@ -144,7 +145,9 @@ TEMA_DEMANDA = re.compile(
     r"(venda|consumo|demanda|mcmv|minha casa|habitaç|habitac|financiament|"
     r"crédito|credito|\bobra|lançament|lancament|imobiliári|imobiliari|construtora|"
     r"incorporador|\bpib\b|emprego|vaga|caged|varejo|confianç|confianc|expectativa|"
-    r"faturar|faturament)", re.I)
+    r"faturar|faturament|índice abramat|indice abramat|termômetro|termometro|"
+    r"indústria de materiais|industria de materiais|atividade do setor|"
+    r"desempenho do setor|conjuntura|nível de atividade|nivel de atividade)", re.I)
 
 def classificar_aba(titulo, resumo=""):
     """Devolve a aba tematica ('insumos'|'custos'|'demanda'|'geral') da noticia."""
