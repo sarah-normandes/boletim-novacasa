@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "08/08/2026 07:16",
+ "atualizado_em": "08/08/2026 11:05",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -11,12 +11,20 @@ window.DADOS = {
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
-   "titulo": "Veja os fundos imobiliários que rendem mais que a nova Selic de 14%",
+   "titulo": "Consumo on-line levou 139 milhões de consumidores às compras no último ano",
    "data": "08/08/2026",
-   "fonte": "InfoMoney",
-   "resumo": "Queda das cotas no início do mês tende a aumentar o retorno em dividendos para os investidores, que precisam analisar qualidade das carteiras e dos gestores The post Veja os fundos imobiliários que rendem mais que a...",
-   "link": "https://www.infomoney.com.br/onde-investir/veja-os-fundos-imobiliarios-que-rendem-mais-que-a-nova-selic-de-14/",
-   "aba": "custos"
+   "fonte": "Anamaco",
+   "resumo": "O e-commerce brasileiro atingiu, em 2026, seu maior patamar de penetração registrado na série histórica da pesquisa realizada pela CNDL e pelo SPC Brasil, em parceria com a Offerwise Pesquisas",
+   "link": "http://www.revistaanamaco.com.br/consumo-on-line-levou-139-milhoes-de-consumidores-as-compras-no-ultimo-ano",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Fundos imobiliários (FIIs) para agosto: Veja os 9 mais recomendados pelos analistas",
+   "data": "08/08/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "Kinea Rendimentos (KNCR11), gerido pela Kinea Investimentos, é o fundo imobiliário (FII) mais indicado pelos analistas para agosto, mostrou um levantamento realizado pelo Money Times. De 11 carteiras recomendadas de...",
+   "link": "https://www.moneytimes.com.br/fiis-para-agosto-veja-os-9-mais-recomendados-pelos-analistas-igdl/",
+   "aba": "demanda"
   },
   {
    "titulo": "Mais uma edição histórica",
@@ -57,22 +65,6 @@ window.DADOS = {
    "resumo": "O Projeto Vícios Construtivos e Garantias Pós-Obra, da Câmara Brasileira da Indústria da Construção (CBIC), alcançou mais um avanço nas ações voltadas ao fortalecimento do diálogo institucional e ao aprimoramento da...",
    "link": "https://cbic.org.br/projeto-da-cbic-conquista-apoio-do-tjsp-para-capacitacao-em-pericias-sobre-vicios-construtivos/",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Iguatemi (IGTI11) embolsa R$ 876 milhões com venda de ativos para fundo imobiliário; veja detalhes",
-   "data": "07/08/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "A Iguatemi (IGTI11) está embolsando R$ 876 milhões com a venda de cinco ativos imobiliários para o TRX Real Estate (TRXF11), mostra documento enviado ao mercado nesta sexta-feira (7). Os ativos incluem: O preço será...",
-   "link": "https://www.moneytimes.com.br/iguatemi-igti11-embolsa-r-876-milhoes-com-venda-de-ativos-para-fundo-imobiliario-veja-detalhes-rnda/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Essa construtora derreteu na bolsa — e agora quer recomprar 10% dos papéis em circulação",
-   "data": "07/08/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "A Lavvi (LAVV3) irá recomprar até 7,4 milhões de ações, ou até 10% das ações em circulação, mostra documento enviado ao mercado nesta sexta-feira (7). Segundo o comunicado, o programa terá prazo de vigência de 18...",
-   "link": "https://www.moneytimes.com.br/essa-construtora-derreteu-na-bolsa-e-agora-quer-recomprar-10-dos-papeis-em-circulacao/",
-   "aba": "demanda"
   },
   {
    "titulo": "Encontros e oportunidades",
@@ -129,6 +121,14 @@ window.DADOS = {
    "resumo": "No período em que o mercado tradicional da construção civil caminha em ritmo moderado, a Espaço Smart registrou, no primeiro semestre, faturamento de R$ 550 milhões. Com desempenho acelerado, a empresa caminha a...",
    "link": "http://www.revistaanamaco.com.br/espaco-smart-tem-1-semestre-positivo-e-espera-faturar-r-1-bilhao-em-2026-",
    "aba": "insumos"
+  },
+  {
+   "titulo": "Reincidência atingiu 85,32% dos consumidores inadimplentes em junho",
+   "data": "05/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "Em junho, o Indicador de Reincidência de Pessoas Físicas, apurado pela CNDL e pelo SPC Brasil, revelou que, do total de negativações, 85,32% foram de devedores reincidentes. O dado refere-se a consumidores que já...",
+   "link": "http://www.revistaanamaco.com.br/reincidencia-atingiu-8532-dos-consumidores-inadimplentes-em-junho-",
+   "aba": "geral"
   }
  ],
  "diarios": {
