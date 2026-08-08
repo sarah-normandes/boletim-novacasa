@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "08/08/2026 11:05",
+ "atualizado_em": "08/08/2026 13:00",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -11,11 +11,27 @@ window.DADOS = {
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
+   "titulo": "Expolux vai reunir mais de 400 marcas do setor de iluminação em São Paulo",
+   "data": "08/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "São Paulo recebe, entre os dias 15 e 18 de setembro, a Expolux 2026, um dos principais eventos do mercado de iluminação na América Latina. Realizada no Expo Center Norte, a feira deverá reunir mais de 400 marcas...",
+   "link": "http://www.revistaanamaco.com.br/expolux-vai-reunir-mais-de-400-marcas-do-setor-de-iluminacao-em-sao-paulo",
+   "aba": "geral"
+  },
+  {
    "titulo": "Consumo on-line levou 139 milhões de consumidores às compras no último ano",
    "data": "08/08/2026",
    "fonte": "Anamaco",
    "resumo": "O e-commerce brasileiro atingiu, em 2026, seu maior patamar de penetração registrado na série histórica da pesquisa realizada pela CNDL e pelo SPC Brasil, em parceria com a Offerwise Pesquisas",
    "link": "http://www.revistaanamaco.com.br/consumo-on-line-levou-139-milhoes-de-consumidores-as-compras-no-ultimo-ano",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Dos R$ 17,4 bilhões em dividendos da Petrobras (PETR4) a calote em fundo imobiliário; confira as mais lidas da semana",
+   "data": "08/08/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "Da mensalidade que Luciano Huck e Angélica vão pagar pela faculdade do filho à recuperação judicial de um grupo do agronegócio com 25 fazendas e R$ 53 milhões em dívidas, a semana reuniu histórias que chamaram a...",
+   "link": "https://www.moneytimes.com.br/dos-r-174-bilhoes-em-dividendos-da-petrobras-petr4-a-calote-em-fundo-imobiliario-veja-as-mais-lidas-da-semana-igdl/",
    "aba": "demanda"
   },
   {
@@ -112,22 +128,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "A palavra de ordem na Construsul é interação. Boa parte dos expositores realiza ações nos estandes durante a feira para atrair os visitantes. As premiações para o público têm dado a tônica do evento. Fora do ambiente...",
    "link": "http://www.revistaanamaco.com.br/novidades-e-premios",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Espaço Smart tem 1º semestre positivo e espera faturar R$ 1 bilhão em 2026",
-   "data": "05/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "No período em que o mercado tradicional da construção civil caminha em ritmo moderado, a Espaço Smart registrou, no primeiro semestre, faturamento de R$ 550 milhões. Com desempenho acelerado, a empresa caminha a...",
-   "link": "http://www.revistaanamaco.com.br/espaco-smart-tem-1-semestre-positivo-e-espera-faturar-r-1-bilhao-em-2026-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Reincidência atingiu 85,32% dos consumidores inadimplentes em junho",
-   "data": "05/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "Em junho, o Indicador de Reincidência de Pessoas Físicas, apurado pela CNDL e pelo SPC Brasil, revelou que, do total de negativações, 85,32% foram de devedores reincidentes. O dado refere-se a consumidores que já...",
-   "link": "http://www.revistaanamaco.com.br/reincidencia-atingiu-8532-dos-consumidores-inadimplentes-em-junho-",
    "aba": "geral"
   }
  ],
