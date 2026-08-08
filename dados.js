@@ -1,14 +1,22 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "07/08/2026 20:01",
+ "atualizado_em": "08/08/2026 07:16",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "07/08/2026",
+   "data": "08/08/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Veja os fundos imobiliários que rendem mais que a nova Selic de 14%",
+   "data": "08/08/2026",
+   "fonte": "InfoMoney",
+   "resumo": "Queda das cotas no início do mês tende a aumentar o retorno em dividendos para os investidores, que precisam analisar qualidade das carteiras e dos gestores The post Veja os fundos imobiliários que rendem mais que a...",
+   "link": "https://www.infomoney.com.br/onde-investir/veja-os-fundos-imobiliarios-que-rendem-mais-que-a-nova-selic-de-14/",
+   "aba": "custos"
   },
   {
    "titulo": "Mais uma edição histórica",
@@ -121,14 +129,6 @@ window.DADOS = {
    "resumo": "No período em que o mercado tradicional da construção civil caminha em ritmo moderado, a Espaço Smart registrou, no primeiro semestre, faturamento de R$ 550 milhões. Com desempenho acelerado, a empresa caminha a...",
    "link": "http://www.revistaanamaco.com.br/espaco-smart-tem-1-semestre-positivo-e-espera-faturar-r-1-bilhao-em-2026-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Reincidência atingiu 85,32% dos consumidores inadimplentes em junho",
-   "data": "05/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "Em junho, o Indicador de Reincidência de Pessoas Físicas, apurado pela CNDL e pelo SPC Brasil, revelou que, do total de negativações, 85,32% foram de devedores reincidentes. O dado refere-se a consumidores que já...",
-   "link": "http://www.revistaanamaco.com.br/reincidencia-atingiu-8532-dos-consumidores-inadimplentes-em-junho-",
-   "aba": "geral"
   }
  ],
  "diarios": {
@@ -138,7 +138,7 @@ window.DADOS = {
   },
   "selic": {
    "valor": 14.0,
-   "data": "07/08/2026"
+   "data": "08/08/2026"
   },
   "igpm12": {
    "valor": -0.86,
