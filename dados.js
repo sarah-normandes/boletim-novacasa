@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "10/08/2026 08:37",
+ "atualizado_em": "10/08/2026 12:32",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -11,20 +11,20 @@ window.DADOS = {
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
+   "titulo": "1º Fórum das Mulheres na Indústria Cerâmica será realizado em Santa Gertrudes",
+   "data": "10/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "Santa Gertrudes receberá, no dia 16 de setembro, o 1º Fórum das Mulheres na Indústria Cerâmica. Promovido pela Aspacer, Anfacer e pelo CCB, o encontro reunirá profissionais do setor para debater temas relacionados à...",
+   "link": "http://www.revistaanamaco.com.br/1-forum-das-mulheres-na-industria-ceramica-sera-realizado-em-santa-gertrudes--",
+   "aba": "insumos"
+  },
+  {
    "titulo": "Sustentabilidade e eficiência produtiva orientam inovação na indústria de tintas",
    "data": "10/08/2026",
    "fonte": "Anamaco",
    "resumo": "A indústria brasileira de tintas vem consolidando uma agenda de redução de emissões e ganho de eficiência em seus processos produtivos. Como parte desse movimento, o setor, representado pela Abrafati, estabeleceu, em...",
    "link": "http://www.revistaanamaco.com.br/sustentabilidade-e-eficiencia-produtiva-orientam-inovacao-na-industria-de-tintas-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Fundo imobiliário vende imóveis locados ao Pão de Açúcar (PCAR3) e estima lucro de R$ 0,56 por cota; veja detalhes",
-   "data": "10/08/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "O fundo imobiliário TRX Real Estate (TRXF11) anunciou, por meio de fato relevante, que celebrou um compromisso para vender três imóveis locados ao Grupo Pão de Açúcar (GPA) por aproximadamente R$ 109,25 milhões....",
-   "link": "https://www.moneytimes.com.br/fundo-imobiliario-vende-imoveis-locados-ao-pao-de-acucar-pcar3-e-estima-lucro-de-r-056-por-cota-veja-detalhes-igdl/",
-   "aba": "demanda"
   },
   {
    "titulo": "\"Cerbras em Movimento\" une esporte, entretenimento e confraternização",
@@ -115,19 +115,19 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Tentativas de fraude no e-commerce caíram 7,4% em junho, aponta Equifax BoaVista",
-   "data": "06/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Índice de Fraude da Equifax BoaVista aponta que 1,08% das transações digitais analisadas em junho apresentaram indícios de fraude. Na comparação com maio, o volume de transações suspeitas recuou 7,4%, passando de...",
-   "link": "http://www.revistaanamaco.com.br/tentativas-de-fraude-no-e-commerce-cairam-74-em-junho-aponta-equifax-boavista-",
-   "aba": "geral"
-  },
-  {
    "titulo": "Ademi-AM: Mercado imobiliário movimenta R$ 1,445 bilhão no primeiro semestre",
    "data": "06/08/2026",
    "fonte": "CBIC",
    "resumo": "O mercado imobiliário de Manaus e Iranduba encerrou o primeiro semestre de 2026 movimentando R$ 1,445 bilhão em Valor Geral de Vendas (VGV). O resultado considera o mercado consolidado, formado pelos segmentos...",
    "link": "https://cbic.org.br/ademi-am-mercado-imobiliario-movimenta-r-1445-bilhao-no-primeiro-semestre/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Sinduscon-RS lança nova etapa do projeto Construção Cultural",
+   "data": "05/08/2026",
+   "fonte": "CBIC",
+   "resumo": "O Sinduscon-RS participou, nesta segunda-feira (3/8), da cerimônia que marcou o lançamento de mais uma realização do Projeto Construção Cultural: A revitalização do Monumento Bento Gonçalves. A iniciativa é promovida...",
+   "link": "https://cbic.org.br/sinduscon-rs-lanca-nova-etapa-do-projeto-construcao-cultural/",
    "aba": "demanda"
   }
  ],
