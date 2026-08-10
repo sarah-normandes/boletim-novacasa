@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "10/08/2026 12:32",
+ "atualizado_em": "10/08/2026 17:09",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,30 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Anamaco anuncia Julio Pereira como presidente Executivo da entidade",
+   "data": "10/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "Julio Pereira é anunciado como presidente Executivo da Associação Nacional dos Comerciantes de Material de Construção. A nova posição amplia a representação executiva junto a instituições, autoridades e parceiros",
+   "link": "http://www.revistaanamaco.com.br/anamaco-anuncia-julio-pereira-como-presidente-executivo-da-entidade-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Lorenzetti renova patrocínio ao Osasco Voleibol Clube para a temporada 2026/2027",
+   "data": "10/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Lorenzetti anuncia que renovou o patrocínio ao Osasco Voleibol Clube para a temporada 2026/2027, consolidando uma parceria iniciada em 2022 e seu compromisso com o incentivo ao esporte feminino brasileiro",
+   "link": "http://www.revistaanamaco.com.br/lorenzetti-renova-patrocinio-ao-osasco-voleibol-clube-para-a-temporada-2026-2027-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Abramat apresenta novo relatório mensal",
+   "data": "10/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Abramat, lançou, hoje, 10 de agosto, o Pulso Abramat, novo relatório mensal dedicado ao acompanhamento da indústria de material de construção.\r\nA publicação reúne dados de desempenho do setor, percepção e...",
+   "link": "http://www.revistaanamaco.com.br/abramat-apresenta-novo-relatorio-mensal-",
+   "aba": "insumos"
   },
   {
    "titulo": "1º Fórum das Mulheres na Indústria Cerâmica será realizado em Santa Gertrudes",
@@ -25,6 +49,30 @@ window.DADOS = {
    "resumo": "A indústria brasileira de tintas vem consolidando uma agenda de redução de emissões e ganho de eficiência em seus processos produtivos. Como parte desse movimento, o setor, representado pela Abrafati, estabeleceu, em...",
    "link": "http://www.revistaanamaco.com.br/sustentabilidade-e-eficiencia-produtiva-orientam-inovacao-na-industria-de-tintas-",
    "aba": "insumos"
+  },
+  {
+   "titulo": "CONJUR realiza 45ª Reunião Ordinária com debates sobre relações de trabalho, mercado imobiliário e segurança jurídica",
+   "data": "10/08/2026",
+   "fonte": "CBIC",
+   "resumo": "O Conselho Jurídico da Câmara Brasileira da Indústria da Construção (CONJUR/CBIC) realiza, no dia 18 de agosto, a sua 45ª Reunião Ordinária. O encontro será realizado presencialmente, das 10h às 16h, na sede da CBIC,...",
+   "link": "https://cbic.org.br/conjur-realiza-45a-reuniao-ordinaria-com-debates-sobre-relacoes-de-trabalho-mercado-imobiliario-e-seguranca-juridica/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "CBIC analisa desempenho da construção no 2º trimestre de 2026 na próxima quinta-feira",
+   "data": "10/08/2026",
+   "fonte": "CBIC",
+   "resumo": "O desempenho da construção civil no segundo trimestre de 2026 será tema de coletiva de imprensa da Câmara Brasileira da Indústria da Construção (CBIC) na próxima quinta-feira (13), às 10h. O encontro vai apresentar...",
+   "link": "https://cbic.org.br/cbic-analisa-desempenho-da-construcao-no-2o-trimestre-de-2026-na-proxima-quinta-feira/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Deu na mídia: CBIC comenta sobre escassez de mão de obra no setor",
+   "data": "10/08/2026",
+   "fonte": "CBIC",
+   "resumo": "O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo Aroeira, foi entrevistado pelo Jornal da Record em reportagem sobre a escassez de mão de obra na construção civil, um dos principais...",
+   "link": "https://cbic.org.br/deu-na-midia-cbic-comenta-sobre-escassez-de-mao-de-obra-no-setor/",
+   "aba": "demanda"
   },
   {
    "titulo": "\"Cerbras em Movimento\" une esporte, entretenimento e confraternização",
@@ -81,60 +129,12 @@ window.DADOS = {
    "resumo": "Quase sete em cada dez famílias paulistanas (74,1%) estavam endividadas em junho. É o maior o maior patamar em quatro anos de acordo com a Pesquisa de Endividamento e Inadimplência do Consumidor da FecomercioSP",
    "link": "http://www.revistaanamaco.com.br/familias-paulistanas-endividadas-",
    "aba": "geral"
-  },
-  {
-   "titulo": "31ª edição do Encontro Nacional de Redes será, em outubro, em Poços de Caldas",
-   "data": "07/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "Com o tema “Lucratividade em rede: eficiência, valor e sustentabilidade no novo varejo, a 31ª edição do Encontro Nacional de Redes, tradicional evento promovido, anualmente, pela Febramat terá como anfitriã a Rede...",
-   "link": "http://www.revistaanamaco.com.br/31-edicao-do-encontro-nacional-de-redes-sera-em-outubro-em-pocos-de-caldas-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Projeto da CBIC conquista apoio do TJSP para capacitação em perícias sobre vícios construtivos",
-   "data": "07/08/2026",
-   "fonte": "CBIC",
-   "resumo": "O Projeto Vícios Construtivos e Garantias Pós-Obra, da Câmara Brasileira da Indústria da Construção (CBIC), alcançou mais um avanço nas ações voltadas ao fortalecimento do diálogo institucional e ao aprimoramento da...",
-   "link": "https://cbic.org.br/projeto-da-cbic-conquista-apoio-do-tjsp-para-capacitacao-em-pericias-sobre-vicios-construtivos/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Encontros e oportunidades",
-   "data": "06/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "As feiras, além de plataformas de lançamentos, são pontos de encontro entre as indústrias e seus clientes. Participar desses eventos é uma chance de estreitar relacionamentos, criar novos laços e alinhar negócios....",
-   "link": "http://www.revistaanamaco.com.br/encontros-e-oportunidades",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Amanco Wavin e a Enactus Brasil revelam os finalistas do Prêmio Inovação Social",
-   "data": "06/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Amanco Wavin e a Enactus Brasil revelaram os seis projetos finalistas do Prêmio Inovação Social 2026, voltado ao desenvolvimento de soluções socioambientais por estudantes universitários",
-   "link": "http://www.revistaanamaco.com.br/amanco-wavin-e-a-enactus-brasil-revelam-os-finalistas-do-premio-inovacao-social--",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Ademi-AM: Mercado imobiliário movimenta R$ 1,445 bilhão no primeiro semestre",
-   "data": "06/08/2026",
-   "fonte": "CBIC",
-   "resumo": "O mercado imobiliário de Manaus e Iranduba encerrou o primeiro semestre de 2026 movimentando R$ 1,445 bilhão em Valor Geral de Vendas (VGV). O resultado considera o mercado consolidado, formado pelos segmentos...",
-   "link": "https://cbic.org.br/ademi-am-mercado-imobiliario-movimenta-r-1445-bilhao-no-primeiro-semestre/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Sinduscon-RS lança nova etapa do projeto Construção Cultural",
-   "data": "05/08/2026",
-   "fonte": "CBIC",
-   "resumo": "O Sinduscon-RS participou, nesta segunda-feira (3/8), da cerimônia que marcou o lançamento de mais uma realização do Projeto Construção Cultural: A revitalização do Monumento Bento Gonçalves. A iniciativa é promovida...",
-   "link": "https://cbic.org.br/sinduscon-rs-lanca-nova-etapa-do-projeto-construcao-cultural/",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "dolar": {
-   "valor": 5.0908,
-   "data": "07/08/2026"
+   "valor": 5.0963,
+   "data": "10/08/2026"
   },
   "selic": {
    "valor": 14.0,
