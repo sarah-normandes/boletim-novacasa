@@ -1,15 +1,7 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "10/08/2026 17:09",
+ "atualizado_em": "10/08/2026 20:05",
  "manchetes": [
-  {
-   "titulo": "Selic mantida em 14% ao ano",
-   "data": "10/08/2026",
-   "fonte": "Banco Central",
-   "aba": "custos",
-   "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
-   "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
-  },
   {
    "titulo": "Anamaco anuncia Julio Pereira como presidente Executivo da entidade",
    "data": "10/08/2026",
@@ -129,6 +121,14 @@ window.DADOS = {
    "resumo": "Quase sete em cada dez famílias paulistanas (74,1%) estavam endividadas em junho. É o maior o maior patamar em quatro anos de acordo com a Pesquisa de Endividamento e Inadimplência do Consumidor da FecomercioSP",
    "link": "http://www.revistaanamaco.com.br/familias-paulistanas-endividadas-",
    "aba": "geral"
+  },
+  {
+   "titulo": "Projeto da CBIC conquista apoio do TJSP para capacitação em perícias sobre vícios construtivos",
+   "data": "07/08/2026",
+   "fonte": "CBIC",
+   "resumo": "O Projeto Vícios Construtivos e Garantias Pós-Obra, da Câmara Brasileira da Indústria da Construção (CBIC), alcançou mais um avanço nas ações voltadas ao fortalecimento do diálogo institucional e ao aprimoramento da...",
+   "link": "https://cbic.org.br/projeto-da-cbic-conquista-apoio-do-tjsp-para-capacitacao-em-pericias-sobre-vicios-construtivos/",
+   "aba": "insumos"
   }
  ],
  "diarios": {
