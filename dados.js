@@ -1,14 +1,46 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "08/08/2026 19:00",
+ "atualizado_em": "10/08/2026 08:37",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "08/08/2026",
+   "data": "10/08/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Sustentabilidade e eficiência produtiva orientam inovação na indústria de tintas",
+   "data": "10/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A indústria brasileira de tintas vem consolidando uma agenda de redução de emissões e ganho de eficiência em seus processos produtivos. Como parte desse movimento, o setor, representado pela Abrafati, estabeleceu, em...",
+   "link": "http://www.revistaanamaco.com.br/sustentabilidade-e-eficiencia-produtiva-orientam-inovacao-na-industria-de-tintas-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Fundo imobiliário vende imóveis locados ao Pão de Açúcar (PCAR3) e estima lucro de R$ 0,56 por cota; veja detalhes",
+   "data": "10/08/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "O fundo imobiliário TRX Real Estate (TRXF11) anunciou, por meio de fato relevante, que celebrou um compromisso para vender três imóveis locados ao Grupo Pão de Açúcar (GPA) por aproximadamente R$ 109,25 milhões....",
+   "link": "https://www.moneytimes.com.br/fundo-imobiliario-vende-imoveis-locados-ao-pao-de-acucar-pcar3-e-estima-lucro-de-r-056-por-cota-veja-detalhes-igdl/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "\"Cerbras em Movimento\" une esporte, entretenimento e confraternização",
+   "data": "09/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Cerbras realizou, nos dias 24 e 25 de julho, a 8ª edição do “Cerbras em Movimento”, iniciativa que integra o calendário de ações voltadas à valorização dos colaboradores e ao fortalecimento da cultura...",
+   "link": "http://www.revistaanamaco.com.br/cerbras-em-movimento-une-esporte-entretenimento-e-confraternizacao",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Grupo Alubar recebe prêmio Adam Smith por solução financeira inédita",
+   "data": "09/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Grupo Alubar foi homenageado com o Prêmio Adam Smith, na categoria Melhor Solução de Tesouraria das Américas. A premiação, promovida pelo Grupo Treasury Today, é considerada a principal referência mundial em...",
+   "link": "http://www.revistaanamaco.com.br/grupo-alubar-recebe-premio-adam-smith-por-solucao-financeira-inedita-",
+   "aba": "geral"
   },
   {
    "titulo": "Expolux vai reunir mais de 400 marcas do setor de iluminação em São Paulo",
@@ -24,22 +56,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "O e-commerce brasileiro atingiu, em 2026, seu maior patamar de penetração registrado na série histórica da pesquisa realizada pela CNDL e pelo SPC Brasil, em parceria com a Offerwise Pesquisas",
    "link": "http://www.revistaanamaco.com.br/consumo-on-line-levou-139-milhoes-de-consumidores-as-compras-no-ultimo-ano",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Dos R$ 17,4 bilhões em dividendos da Petrobras (PETR4) a calote em fundo imobiliário; confira as mais lidas da semana",
-   "data": "08/08/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "Da mensalidade que Luciano Huck e Angélica vão pagar pela faculdade do filho à recuperação judicial de um grupo do agronegócio com 25 fazendas e R$ 53 milhões em dívidas, a semana reuniu histórias que chamaram a...",
-   "link": "https://www.moneytimes.com.br/dos-r-174-bilhoes-em-dividendos-da-petrobras-petr4-a-calote-em-fundo-imobiliario-veja-as-mais-lidas-da-semana-igdl/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Fundos imobiliários (FIIs) para agosto: Veja os 9 mais recomendados pelos analistas",
-   "data": "08/08/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "Kinea Rendimentos (KNCR11), gerido pela Kinea Investimentos, é o fundo imobiliário (FII) mais indicado pelos analistas para agosto, mostrou um levantamento realizado pelo Money Times. De 11 carteiras recomendadas de...",
-   "link": "https://www.moneytimes.com.br/fiis-para-agosto-veja-os-9-mais-recomendados-pelos-analistas-igdl/",
    "aba": "demanda"
   },
   {
@@ -107,28 +123,12 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "InterCement Brasil lança laboratório móvel para levar análises técnicas aos clientes",
-   "data": "06/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "Levar um laboratório completo de tecnologia do concreto até a operação do cliente para realizar ensaios, validar traços e apoiar decisões técnicas em tempo real. Essa é a proposta do Laboratório Móvel, a mais nova...",
-   "link": "http://www.revistaanamaco.com.br/intercement-brasil-lanca-laboratorio-movel-para-levar-analises-tecnicas-aos-clientes-",
-   "aba": "insumos"
-  },
-  {
    "titulo": "Ademi-AM: Mercado imobiliário movimenta R$ 1,445 bilhão no primeiro semestre",
    "data": "06/08/2026",
    "fonte": "CBIC",
    "resumo": "O mercado imobiliário de Manaus e Iranduba encerrou o primeiro semestre de 2026 movimentando R$ 1,445 bilhão em Valor Geral de Vendas (VGV). O resultado considera o mercado consolidado, formado pelos segmentos...",
    "link": "https://cbic.org.br/ademi-am-mercado-imobiliario-movimenta-r-1445-bilhao-no-primeiro-semestre/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Novidades e prêmios",
-   "data": "05/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A palavra de ordem na Construsul é interação. Boa parte dos expositores realiza ações nos estandes durante a feira para atrair os visitantes. As premiações para o público têm dado a tônica do evento. Fora do ambiente...",
-   "link": "http://www.revistaanamaco.com.br/novidades-e-premios",
-   "aba": "geral"
   }
  ],
  "diarios": {
@@ -138,7 +138,7 @@ window.DADOS = {
   },
   "selic": {
    "valor": 14.0,
-   "data": "08/08/2026"
+   "data": "10/08/2026"
   },
   "igpm12": {
    "valor": -0.86,
