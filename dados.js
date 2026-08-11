@@ -1,7 +1,31 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "10/08/2026 20:05",
+ "atualizado_em": "11/08/2026 08:32",
  "manchetes": [
+  {
+   "titulo": "Selic mantida em 14% ao ano",
+   "data": "11/08/2026",
+   "fonte": "Banco Central",
+   "aba": "custos",
+   "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
+   "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "‘Obra industrializada’ ainda é rara nos canteiros de construção no país",
+   "data": "11/08/2026",
+   "fonte": "Valor",
+   "resumo": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+   "link": "https://valor.globo.com/brasil/noticia/2026/08/11/obra-industrializada-ainda-e-rara-nos-canteiros-de-construcao-no-pais.ghtml",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Fundo imobiliário é notificado sobre saída de locatária que responde por 8% da área locável; IFIX cai",
+   "data": "11/08/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "O fundo imobiliário Hedge JHSF Capital Prime Offices (HJCT11) anunciou, por meio de fato relevante, que a União Química Farmacêutica Nacional não pretende renovar o contrato de locação no Edifício Continental Tower,...",
+   "link": "https://www.moneytimes.com.br/fundo-imobiliario-e-notificado-sobre-saida-de-locataria-que-responde-por-8-da-area-locavel-ifix-cai-igdl/",
+   "aba": "demanda"
+  },
   {
    "titulo": "Anamaco anuncia Julio Pereira como presidente Executivo da entidade",
    "data": "10/08/2026",
@@ -105,30 +129,6 @@ window.DADOS = {
    "resumo": "Se a Construsul 2026 pudesse ser resumida em uma palavra seria integração. Com o sucesso indiscutível confirmado por uma forte visitação, a exposição reuniu, no mesmo espaço, lançamento de produtos, negócios e troca...",
    "link": "http://www.revistaanamaco.com.br/mais-uma-edicao-historica",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Intenção de consumo é a maior desde 2015",
-   "data": "07/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Intenção de Consumo das Famílias  avançou 0,1% em julho, frente a junho, e registrou alta de 2,6% em 12 meses, atingindo 105,6 pontos. O resultado, apurado pela Confederação Nacional do Comércio de Bens, Serviços e...",
-   "link": "http://www.revistaanamaco.com.br/intencao-de-consumo-e-a-maior-desde-2015-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Famílias paulistanas endividadas",
-   "data": "07/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "Quase sete em cada dez famílias paulistanas (74,1%) estavam endividadas em junho. É o maior o maior patamar em quatro anos de acordo com a Pesquisa de Endividamento e Inadimplência do Consumidor da FecomercioSP",
-   "link": "http://www.revistaanamaco.com.br/familias-paulistanas-endividadas-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Projeto da CBIC conquista apoio do TJSP para capacitação em perícias sobre vícios construtivos",
-   "data": "07/08/2026",
-   "fonte": "CBIC",
-   "resumo": "O Projeto Vícios Construtivos e Garantias Pós-Obra, da Câmara Brasileira da Indústria da Construção (CBIC), alcançou mais um avanço nas ações voltadas ao fortalecimento do diálogo institucional e ao aprimoramento da...",
-   "link": "https://cbic.org.br/projeto-da-cbic-conquista-apoio-do-tjsp-para-capacitacao-em-pericias-sobre-vicios-construtivos/",
-   "aba": "insumos"
   }
  ],
  "diarios": {
@@ -138,11 +138,7 @@ window.DADOS = {
   },
   "selic": {
    "valor": 14.0,
-   "data": "10/08/2026"
-  },
-  "igpm12": {
-   "valor": -0.86,
-   "data": "01/07/2026"
+   "data": "11/08/2026"
   }
  },
  "mensais": {
