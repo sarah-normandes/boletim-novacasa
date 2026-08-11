@@ -162,6 +162,40 @@ def classificar_aba(titulo, resumo=""):
     return "geral"
 
 
+# ----------------------------------------------------------------------
+# FILTRO DE CONTEUDO EXCLUSIVO PARA ASSINANTES (paywall)
+# ----------------------------------------------------------------------
+# Alguns feeds (Valor, InfoMoney, etc.) marcam materias pagas com selos no
+# titulo/resumo ou em categorias do RSS. O painel e para exibicao publica na
+# loja, entao materia que o cliente nao consegue abrir nao deve aparecer.
+PAYWALL = re.compile(
+    r"(para\s+assinantes|conte[úu]do\s+exclusivo|exclusivo\s+para\s+assinantes|"
+    r"assine\s+o|assine\s+j[áa]|seja\s+assinante|continue\s+lendo|"
+    r"leia\s+na\s+[íi]ntegra|acesso\s+exclusivo|somente\s+para\s+assinantes|"
+    r"conte[úu]do\s+pago|conte[úu]do\s+premium|vers[ãa]o\s+premium|assinante[s]?\s+premium|"
+    r"paywall|subscriber\s+only|🔒|🔓)", re.I)
+
+# termo isolado que, se aparecer numa CATEGORIA do RSS, ja indica paywall
+PAYWALL_CAT = re.compile(r"\b(assinante[s]?|exclusivo|premium|pago)\b", re.I)
+
+def eh_assinante(it, titulo, desc):
+    """True se a materia parece ser conteudo pago/exclusivo de assinante."""
+    # 1) selo no titulo ou no resumo
+    if PAYWALL.search(titulo) or PAYWALL.search(desc):
+        return True
+    # 2) categorias do RSS que indicam paywall
+    try:
+        cats = " ".join(c.get_text(" ", strip=True) for c in it.find_all("category"))
+        if PAYWALL_CAT.search(cats):
+            return True
+    except Exception:
+        pass
+    # 3) resumo vazio ou minusculo costuma ser materia cortada por paywall
+    if desc and len(desc.strip()) < 15:
+        return True
+    return False
+
+
 def buscar_rss(qtd_por_fonte=4):
     """Le os feeds RSS e devolve so o que interessa ao setor."""
     achados = []
@@ -184,6 +218,9 @@ def buscar_rss(qtd_por_fonte=4):
                 desc = BeautifulSoup(it.description.get_text(), "html.parser").get_text(" ", strip=True)
                 if len(desc) > 220:
                     desc = desc[:217].rsplit(" ", 1)[0] + "..."
+            # descarta conteudo exclusivo para assinantes (paywall)
+            if eh_assinante(it, titulo, desc):
+                continue
             data = ""
             if it.pubDate:
                 try:
