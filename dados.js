@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "11/08/2026 08:32",
+ "atualizado_em": "11/08/2026 10:29",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -11,19 +11,27 @@ window.DADOS = {
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
-   "titulo": "‘Obra industrializada’ ainda é rara nos canteiros de construção no país",
+   "titulo": "Schneider Electric apresenta resultado de suas ações sustentáveis no 1º semestre",
    "data": "11/08/2026",
-   "fonte": "Valor",
-   "resumo": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-   "link": "https://valor.globo.com/brasil/noticia/2026/08/11/obra-industrializada-ainda-e-rara-nos-canteiros-de-construcao-no-pais.ghtml",
+   "fonte": "Anamaco",
+   "resumo": "A Schneider Electric divulga seus resultados de sustentabilidade referentes ao 1º semestre de 2026. Seis meses depois do lançamento, a pontuação de seu novo roadmap de sustentabilidade, o Impact 2030, atingiu...",
+   "link": "http://www.revistaanamaco.com.br/schneider-electric-apresenta-resultado-de-suas-acoes-sustentaveis-no-1-semestre",
    "aba": "demanda"
   },
   {
-   "titulo": "Fundo imobiliário é notificado sobre saída de locatária que responde por 8% da área locável; IFIX cai",
+   "titulo": "Inflação medida pelo Índice Nacional da Construção Civil desacelera para 0,44% em julho, aponta IBGE",
    "data": "11/08/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "O fundo imobiliário Hedge JHSF Capital Prime Offices (HJCT11) anunciou, por meio de fato relevante, que a União Química Farmacêutica Nacional não pretende renovar o contrato de locação no Edifício Continental Tower,...",
-   "link": "https://www.moneytimes.com.br/fundo-imobiliario-e-notificado-sobre-saida-de-locataria-que-responde-por-8-da-area-locavel-ifix-cai-igdl/",
+   "fonte": "Valor",
+   "resumo": "A inflação medida pelo Índice Nacional da Construção Civil (Sinapi) subiu 0,44% em julho, ante alta de 1,19% em junho, segundo o Instituto Brasileiro de Geografia e Estatística (IBGE) divulgou hoje.  \n\nCom o...",
+   "link": "https://valor.globo.com/brasil/noticia/2026/08/11/inflacao-medida-pelo-indice-nacional-da-construcao-civil-desacelera-para-044percent-em-julho-aponta-ibge.ghtml",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Wellness Acessível? Conheça Três Projetos Imobiliários nos EUA Que Não Chegam na Casa do Milhão",
+   "data": "11/08/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. De Miami a Orlando, novos condomínios apostam em biohacking e integração com a natureza com preços iniciais a partir de US$ 300 mil O post Wellness...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/08/imoveis-wellness-florida/",
    "aba": "demanda"
   },
   {
@@ -121,14 +129,6 @@ window.DADOS = {
    "resumo": "O e-commerce brasileiro atingiu, em 2026, seu maior patamar de penetração registrado na série histórica da pesquisa realizada pela CNDL e pelo SPC Brasil, em parceria com a Offerwise Pesquisas",
    "link": "http://www.revistaanamaco.com.br/consumo-on-line-levou-139-milhoes-de-consumidores-as-compras-no-ultimo-ano",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Mais uma edição histórica",
-   "data": "07/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "Se a Construsul 2026 pudesse ser resumida em uma palavra seria integração. Com o sucesso indiscutível confirmado por uma forte visitação, a exposição reuniu, no mesmo espaço, lançamento de produtos, negócios e troca...",
-   "link": "http://www.revistaanamaco.com.br/mais-uma-edicao-historica",
-   "aba": "insumos"
   }
  ],
  "diarios": {
@@ -139,6 +139,14 @@ window.DADOS = {
   "selic": {
    "valor": 14.0,
    "data": "11/08/2026"
+  },
+  "ipca12": {
+   "valor": 4.44,
+   "data": "01/07/2026"
+  },
+  "igpm12": {
+   "valor": -0.86,
+   "data": "01/07/2026"
   }
  },
  "mensais": {
