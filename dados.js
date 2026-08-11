@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "11/08/2026 17:11",
+ "atualizado_em": "11/08/2026 20:22",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -51,19 +51,19 @@ window.DADOS = {
    "aba": "custos"
   },
   {
-   "titulo": "Wellness Acessível? Conheça Três Projetos Imobiliários nos EUA Que Não Chegam na Casa do Milhão",
-   "data": "11/08/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. De Miami a Orlando, novos condomínios apostam em biohacking e integração com a natureza com preços iniciais a partir de US$ 300 mil O post Wellness...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/08/imoveis-wellness-florida/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "CBIC participa da ConstruNordeste com debates sobre industrialização, indicadores econômicos e segurança jurídica",
    "data": "11/08/2026",
    "fonte": "CBIC",
    "resumo": "Industrialização, indicadores econômicos, segurança jurídica e novas tecnologias estão entre os temas que serão debatidos na ConstruNordeste, que acontece de 12 a 14 de agosto, em Salvador. A Câmara Brasileira da...",
    "link": "https://cbic.org.br/cbic-participa-da-construnordeste-com-debates-sobre-industrializacao-indicadores-economicos-e-seguranca-juridica/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Engenharia estrutural: o papel do projeto e do engenheiro calculista na evolução da construção brasileira",
+   "data": "11/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "Entrevista feita com a engenheira Suely B. Bueno, que acaba de ser eleita para a presidência da Associação Brasileira de Engenharia e Consultoria Estrutural (Abece). O post Engenharia estrutural: o papel do projeto e...",
+   "link": "https://revistaoe.com.br/engenharia-estrutural-evolucao-desafios-brasil/",
    "aba": "geral"
   },
   {
