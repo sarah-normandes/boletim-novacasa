@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "11/08/2026 10:31",
+ "atualizado_em": "11/08/2026 12:14",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Pessimismo atingiu 26 setores industriais",
+   "data": "11/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Índice de Confiança do Empresário Industrial - Resultados Setoriais, divulgado pela CNI, mostra que, em julho, o número de setores industriais pessimistas aumentou de 24 para 26 e que empresários de apenas três...",
+   "link": "http://www.revistaanamaco.com.br/pessimismo-atingiu-26-setores-industriais",
+   "aba": "demanda"
   },
   {
    "titulo": "Schneider Electric apresenta resultado de suas ações sustentáveis no 1º semestre",
@@ -121,14 +129,6 @@ window.DADOS = {
    "resumo": "São Paulo recebe, entre os dias 15 e 18 de setembro, a Expolux 2026, um dos principais eventos do mercado de iluminação na América Latina. Realizada no Expo Center Norte, a feira deverá reunir mais de 400 marcas...",
    "link": "http://www.revistaanamaco.com.br/expolux-vai-reunir-mais-de-400-marcas-do-setor-de-iluminacao-em-sao-paulo",
    "aba": "geral"
-  },
-  {
-   "titulo": "Consumo on-line levou 139 milhões de consumidores às compras no último ano",
-   "data": "08/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "O e-commerce brasileiro atingiu, em 2026, seu maior patamar de penetração registrado na série histórica da pesquisa realizada pela CNDL e pelo SPC Brasil, em parceria com a Offerwise Pesquisas",
-   "link": "http://www.revistaanamaco.com.br/consumo-on-line-levou-139-milhoes-de-consumidores-as-compras-no-ultimo-ano",
-   "aba": "demanda"
   }
  ],
  "diarios": {
