@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "11/08/2026 12:30",
+ "atualizado_em": "11/08/2026 16:26",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,22 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Consumidor desconfiado",
+   "data": "11/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Índice Nacional de Confiança, elaborado pela PiniOn para a Associação Comercial de São Paulo, atingiu 96 pontos em julho, registrando queda de 1% em relação a junho e estabilidade na comparação com o mesmo mês do...",
+   "link": "http://www.revistaanamaco.com.br/consumidor-desconfiado3",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Com investimento de R$ 140 milhões, Obramax inaugura sua primeira loja no MT",
+   "data": "11/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Obramax inaugurou nesta terça-feira (11 de agosto) sua primeira loja no Mato Grosso, localizada em Várzea Grande, na Região Metropolitana do Vale do Rio Cuiabá. A unidade marca a chegada da Rede ao Estado e à...",
+   "link": "http://www.revistaanamaco.com.br/com-investimento-de-r-140-milhoes-obramax-inaugura-sua-primeira-loja-no-mt",
+   "aba": "demanda"
   },
   {
    "titulo": "Pessimismo atingiu 26 setores industriais",
@@ -41,6 +57,22 @@ window.DADOS = {
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. De Miami a Orlando, novos condomínios apostam em biohacking e integração com a natureza com preços iniciais a partir de US$ 300 mil O post Wellness...",
    "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/08/imoveis-wellness-florida/",
    "aba": "demanda"
+  },
+  {
+   "titulo": "CBIC participa da ConstruNordeste com debates sobre industrialização, indicadores econômicos e segurança jurídica",
+   "data": "11/08/2026",
+   "fonte": "CBIC",
+   "resumo": "Industrialização, indicadores econômicos, segurança jurídica e novas tecnologias estão entre os temas que serão debatidos na ConstruNordeste, que acontece de 12 a 14 de agosto, em Salvador. A Câmara Brasileira da...",
+   "link": "https://cbic.org.br/cbic-participa-da-construnordeste-com-debates-sobre-industrializacao-indicadores-economicos-e-seguranca-juridica/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Evento reúne especialistas para discutir IA e novas tecnologias na construção civil",
+   "data": "11/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "A transformação digital da construção civil já não está mais restrita à adoção de novas ferramentas. O desafio agora é transformar o grande volume de O post Evento reúne especialistas para discutir IA e novas...",
+   "link": "https://revistaoe.com.br/2-forum-captura-da-realidade/",
+   "aba": "geral"
   },
   {
    "titulo": "Anamaco anuncia Julio Pereira como presidente Executivo da entidade",
@@ -97,44 +129,12 @@ window.DADOS = {
    "resumo": "O desempenho da construção civil no segundo trimestre de 2026 será tema de coletiva de imprensa da Câmara Brasileira da Indústria da Construção (CBIC) na próxima quinta-feira (13), às 10h. O encontro vai apresentar...",
    "link": "https://cbic.org.br/cbic-analisa-desempenho-da-construcao-no-2o-trimestre-de-2026-na-proxima-quinta-feira/",
    "aba": "geral"
-  },
-  {
-   "titulo": "Deu na mídia: CBIC comenta sobre escassez de mão de obra no setor",
-   "data": "10/08/2026",
-   "fonte": "CBIC",
-   "resumo": "O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo Aroeira, foi entrevistado pelo Jornal da Record em reportagem sobre a escassez de mão de obra na construção civil, um dos principais...",
-   "link": "https://cbic.org.br/deu-na-midia-cbic-comenta-sobre-escassez-de-mao-de-obra-no-setor/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "\"Cerbras em Movimento\" une esporte, entretenimento e confraternização",
-   "data": "09/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Cerbras realizou, nos dias 24 e 25 de julho, a 8ª edição do “Cerbras em Movimento”, iniciativa que integra o calendário de ações voltadas à valorização dos colaboradores e ao fortalecimento da cultura...",
-   "link": "http://www.revistaanamaco.com.br/cerbras-em-movimento-une-esporte-entretenimento-e-confraternizacao",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Grupo Alubar recebe prêmio Adam Smith por solução financeira inédita",
-   "data": "09/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Grupo Alubar foi homenageado com o Prêmio Adam Smith, na categoria Melhor Solução de Tesouraria das Américas. A premiação, promovida pelo Grupo Treasury Today, é considerada a principal referência mundial em...",
-   "link": "http://www.revistaanamaco.com.br/grupo-alubar-recebe-premio-adam-smith-por-solucao-financeira-inedita-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Expolux vai reunir mais de 400 marcas do setor de iluminação em São Paulo",
-   "data": "08/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "São Paulo recebe, entre os dias 15 e 18 de setembro, a Expolux 2026, um dos principais eventos do mercado de iluminação na América Latina. Realizada no Expo Center Norte, a feira deverá reunir mais de 400 marcas...",
-   "link": "http://www.revistaanamaco.com.br/expolux-vai-reunir-mais-de-400-marcas-do-setor-de-iluminacao-em-sao-paulo",
-   "aba": "geral"
   }
  ],
  "diarios": {
   "dolar": {
-   "valor": 5.0963,
-   "data": "10/08/2026"
+   "valor": 5.1285,
+   "data": "11/08/2026"
   },
   "selic": {
    "valor": 14.0,
