@@ -1,14 +1,38 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "11/08/2026 20:22",
+ "atualizado_em": "12/08/2026 08:34",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "11/08/2026",
+   "data": "12/08/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Gerdau encerra segundo trimestre com Ebitda ajustado de R$ 3,4 bilhões",
+   "data": "12/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Gerdau acaba de divulgar os números do desempenho da empresa no segundo trimestre. De acordo com os dados apresentados, a companhia concluiu o segundo trimestre com Ebitda ajustado de R$ 3,4 bilhões, com margem...",
+   "link": "http://www.revistaanamaco.com.br/gerdau-encerra-segundo-trimestre-com-ebitda-ajustado-de-r-34-bilhoes-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "À Frente da Osesp, Thierry Fischer Quer Construir uma Identidade Sonora Própria",
+   "data": "12/08/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Suíço acaba de renovar seu contrato como diretor musical e regente titular da Orquestra Sinfônica paulista até 2031, e não quer buscar perfeição:...",
+   "link": "https://forbes.com.br/forbes-life/2026/08/a-frente-da-osesp-thierry-fischer-quer-construir-uma-identidade-sonora-propria/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Fundo imobiliário conclui venda de imóvel por R$ 1,16 milhão; IFIX aprofunda perdas",
+   "data": "12/08/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "O fundo imobiliário Banrisul Novas Fronteiras (BNFS11) anunciou, por meio de fato relevante, que concluiu a venda de um imóvel comercial localizado em Sapucaia do Sul (RS), por R$ 1,166 milhão. Segundo o comunicado...",
+   "link": "https://www.moneytimes.com.br/fundo-imobiliario-vende-imovel-por-r-116-milhao-e-recebera-saldo-em-11-parcelas-veja-detalhes-igdl/",
+   "aba": "demanda"
   },
   {
    "titulo": "Consumidor desconfiado",
@@ -59,22 +83,6 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Engenharia estrutural: o papel do projeto e do engenheiro calculista na evolução da construção brasileira",
-   "data": "11/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "Entrevista feita com a engenheira Suely B. Bueno, que acaba de ser eleita para a presidência da Associação Brasileira de Engenharia e Consultoria Estrutural (Abece). O post Engenharia estrutural: o papel do projeto e...",
-   "link": "https://revistaoe.com.br/engenharia-estrutural-evolucao-desafios-brasil/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Evento reúne especialistas para discutir IA e novas tecnologias na construção civil",
-   "data": "11/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A transformação digital da construção civil já não está mais restrita à adoção de novas ferramentas. O desafio agora é transformar o grande volume de O post Evento reúne especialistas para discutir IA e novas...",
-   "link": "https://revistaoe.com.br/2-forum-captura-da-realidade/",
-   "aba": "geral"
-  },
-  {
    "titulo": "Anamaco anuncia Julio Pereira como presidente Executivo da entidade",
    "data": "10/08/2026",
    "fonte": "Anamaco",
@@ -121,14 +129,6 @@ window.DADOS = {
    "resumo": "O Conselho Jurídico da Câmara Brasileira da Indústria da Construção (CONJUR/CBIC) realiza, no dia 18 de agosto, a sua 45ª Reunião Ordinária. O encontro será realizado presencialmente, das 10h às 16h, na sede da CBIC,...",
    "link": "https://cbic.org.br/conjur-realiza-45a-reuniao-ordinaria-com-debates-sobre-relacoes-de-trabalho-mercado-imobiliario-e-seguranca-juridica/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "CBIC analisa desempenho da construção no 2º trimestre de 2026 na próxima quinta-feira",
-   "data": "10/08/2026",
-   "fonte": "CBIC",
-   "resumo": "O desempenho da construção civil no segundo trimestre de 2026 será tema de coletiva de imprensa da Câmara Brasileira da Indústria da Construção (CBIC) na próxima quinta-feira (13), às 10h. O encontro vai apresentar...",
-   "link": "https://cbic.org.br/cbic-analisa-desempenho-da-construcao-no-2o-trimestre-de-2026-na-proxima-quinta-feira/",
-   "aba": "geral"
   }
  ],
  "diarios": {
@@ -138,7 +138,7 @@ window.DADOS = {
   },
   "selic": {
    "valor": 14.0,
-   "data": "11/08/2026"
+   "data": "12/08/2026"
   },
   "ipca12": {
    "valor": 4.44,
