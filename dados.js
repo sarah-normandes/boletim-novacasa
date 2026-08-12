@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "12/08/2026 08:34",
+ "atualizado_em": "12/08/2026 12:30",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,22 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Tigre apresenta novo posicionamento, que reflete a evolução da companhia",
+   "data": "12/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Tigre apresenta um novo sistema de marcas que acompanha a evolução da companhia ao longo dos últimos anos. Como parte desse movimento, a empresa passa a adotar a marca corporativa Grupo Tigre para sua comunicação...",
+   "link": "http://www.revistaanamaco.com.br/tigre-apresenta-novo-posicionamento-que-reflete-a-evolucao-da-companhia-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Confiança empresarial recuou em julho",
+   "data": "12/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Índice de Confiança Empresarial, calculado pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas, recuou 1,4 ponto em julho, para 91,3 pontos. Na métrica de médias móveis trimestrais, o índice registra...",
+   "link": "http://www.revistaanamaco.com.br/confianca-empresarial-recuou-em-julho-",
+   "aba": "demanda"
   },
   {
    "titulo": "Gerdau encerra segundo trimestre com Ebitda ajustado de R$ 3,4 bilhões",
@@ -27,11 +43,27 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Fundo imobiliário conclui venda de imóvel por R$ 1,16 milhão; IFIX aprofunda perdas",
+   "titulo": "ABRAMAT lança relatório mensal para acompanhar desempenho da indústria de materiais de construção",
+   "data": "12/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "A Associação Brasileira da Indústria de Materiais de Construção, ABRAMAT, lançou nesta segunda-feira (10) o Pulso ABRAMAT, novo relatório mensal dedicado ao acompanhamento da indústria O post ABRAMAT lança relatório...",
+   "link": "https://revistaoe.com.br/pulso-abramat-novo-relatorio-do-setor/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Evento gratuito atrai especialistas para discutir transformações no mercado da construção; inscreva-se",
+   "data": "12/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "A Faculdade Senai da Construção promove, nesta semana, em Campo Grande, as aulas magnas do Design Conecta, com uma programação gratuita e aberta à comunidade O post Evento gratuito atrai especialistas para discutir...",
+   "link": "https://revistaoe.com.br/design-conecta-aulas-magnas-senai/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Fundo imobiliário compra participação em shopping da Multiplan (MULT3) por R$ 250 milhões; veja detalhes",
    "data": "12/08/2026",
    "fonte": "MoneyTimes",
-   "resumo": "O fundo imobiliário Banrisul Novas Fronteiras (BNFS11) anunciou, por meio de fato relevante, que concluiu a venda de um imóvel comercial localizado em Sapucaia do Sul (RS), por R$ 1,166 milhão. Segundo o comunicado...",
-   "link": "https://www.moneytimes.com.br/fundo-imobiliario-vende-imovel-por-r-116-milhao-e-recebera-saldo-em-11-parcelas-veja-detalhes-igdl/",
+   "resumo": "O fundo imobiliário TRX Real Estate (TRXF11) anunciou, na manhã desta quarta-feira (12), que comprou uma participação de 9,33% no ParkShoppingBarigüi, localizado em Curitiba (PR), por R$ 250 milhões. A vendedora é a...",
+   "link": "https://www.moneytimes.com.br/fundo-imobiliario-compra-participacao-em-shopping-da-multiplan-mult3-por-r-250-milhoes-veja-detalhes-igdl/",
    "aba": "demanda"
   },
   {
@@ -83,52 +115,20 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Anamaco anuncia Julio Pereira como presidente Executivo da entidade",
-   "data": "10/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "Julio Pereira é anunciado como presidente Executivo da Associação Nacional dos Comerciantes de Material de Construção. A nova posição amplia a representação executiva junto a instituições, autoridades e parceiros",
-   "link": "http://www.revistaanamaco.com.br/anamaco-anuncia-julio-pereira-como-presidente-executivo-da-entidade-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Lorenzetti renova patrocínio ao Osasco Voleibol Clube para a temporada 2026/2027",
-   "data": "10/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Lorenzetti anuncia que renovou o patrocínio ao Osasco Voleibol Clube para a temporada 2026/2027, consolidando uma parceria iniciada em 2022 e seu compromisso com o incentivo ao esporte feminino brasileiro",
-   "link": "http://www.revistaanamaco.com.br/lorenzetti-renova-patrocinio-ao-osasco-voleibol-clube-para-a-temporada-2026-2027-",
+   "titulo": "Engenharia estrutural: o papel do projeto e do engenheiro calculista na evolução da construção brasileira",
+   "data": "11/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "Entrevista feita com a engenheira Suely B. Bueno, que acaba de ser eleita para a presidência da Associação Brasileira de Engenharia e Consultoria Estrutural (Abece). O post Engenharia estrutural: o papel do projeto e...",
+   "link": "https://revistaoe.com.br/engenharia-estrutural-evolucao-desafios-brasil/",
    "aba": "geral"
   },
   {
-   "titulo": "Abramat apresenta novo relatório mensal",
-   "data": "10/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Abramat, lançou, hoje, 10 de agosto, o Pulso Abramat, novo relatório mensal dedicado ao acompanhamento da indústria de material de construção.\r\nA publicação reúne dados de desempenho do setor, percepção e...",
-   "link": "http://www.revistaanamaco.com.br/abramat-apresenta-novo-relatorio-mensal-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "1º Fórum das Mulheres na Indústria Cerâmica será realizado em Santa Gertrudes",
-   "data": "10/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "Santa Gertrudes receberá, no dia 16 de setembro, o 1º Fórum das Mulheres na Indústria Cerâmica. Promovido pela Aspacer, Anfacer e pelo CCB, o encontro reunirá profissionais do setor para debater temas relacionados à...",
-   "link": "http://www.revistaanamaco.com.br/1-forum-das-mulheres-na-industria-ceramica-sera-realizado-em-santa-gertrudes--",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Sustentabilidade e eficiência produtiva orientam inovação na indústria de tintas",
-   "data": "10/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A indústria brasileira de tintas vem consolidando uma agenda de redução de emissões e ganho de eficiência em seus processos produtivos. Como parte desse movimento, o setor, representado pela Abrafati, estabeleceu, em...",
-   "link": "http://www.revistaanamaco.com.br/sustentabilidade-e-eficiencia-produtiva-orientam-inovacao-na-industria-de-tintas-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "CONJUR realiza 45ª Reunião Ordinária com debates sobre relações de trabalho, mercado imobiliário e segurança jurídica",
-   "data": "10/08/2026",
-   "fonte": "CBIC",
-   "resumo": "O Conselho Jurídico da Câmara Brasileira da Indústria da Construção (CONJUR/CBIC) realiza, no dia 18 de agosto, a sua 45ª Reunião Ordinária. O encontro será realizado presencialmente, das 10h às 16h, na sede da CBIC,...",
-   "link": "https://cbic.org.br/conjur-realiza-45a-reuniao-ordinaria-com-debates-sobre-relacoes-de-trabalho-mercado-imobiliario-e-seguranca-juridica/",
-   "aba": "demanda"
+   "titulo": "Evento reúne especialistas para discutir IA e novas tecnologias na construção civil",
+   "data": "11/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "A transformação digital da construção civil já não está mais restrita à adoção de novas ferramentas. O desafio agora é transformar o grande volume de O post Evento reúne especialistas para discutir IA e novas...",
+   "link": "https://revistaoe.com.br/2-forum-captura-da-realidade/",
+   "aba": "geral"
   }
  ],
  "diarios": {
@@ -142,10 +142,6 @@ window.DADOS = {
   },
   "ipca12": {
    "valor": 4.44,
-   "data": "01/07/2026"
-  },
-  "igpm12": {
-   "valor": -0.86,
    "data": "01/07/2026"
   }
  },
