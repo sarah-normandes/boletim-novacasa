@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "12/08/2026 17:10",
+ "atualizado_em": "12/08/2026 20:21",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -51,11 +51,11 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "À Frente da Osesp, Thierry Fischer Quer Construir uma Identidade Sonora Própria",
+   "titulo": "Dubai Vai Automatizar 100% a Emissão de Licenças de Construção com Nova Inteligência Artificial",
    "data": "12/08/2026",
    "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Suíço acaba de renovar seu contrato como diretor musical e regente titular da Orquestra Sinfônica paulista até 2031, e não quer buscar perfeição:...",
-   "link": "https://forbes.com.br/forbes-life/2026/08/a-frente-da-osesp-thierry-fischer-quer-construir-uma-identidade-sonora-propria/",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Sistema que verifica projetos arquitetônicos e estruturais de forma autônoma será implementado em três fases ao longo de 26 semanas O post Dubai Vai...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/08/dubai-ia-licencas-construcao/",
    "aba": "geral"
   },
   {
@@ -73,30 +73,6 @@ window.DADOS = {
    "resumo": "O Ministério das Cidades regulamentou os critérios e procedimentos para o enquadramento de projetos de investimento em infraestrutura de Habitação Social como prioritários, condição necessária para a emissão de...",
    "link": "https://cbic.org.br/habitacao-social-mcid-regulamenta-criterios-para-projetos-prioritarios-com-beneficios-fiscais/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Prefeitura reabre licitação para contratar projeto da obra do Terminal Cristal",
-   "data": "12/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A Prefeitura de Porto Alegre reabriu a licitação para contratar a empresa que ficará responsável pela elaboração do projeto executivo e os estudos ambientais para O post Prefeitura reabre licitação para contratar...",
-   "link": "https://revistaoe.com.br/licitacao-terminal-cristal/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "ABRAMAT lança relatório mensal para acompanhar desempenho da indústria de materiais de construção",
-   "data": "12/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A Associação Brasileira da Indústria de Materiais de Construção, ABRAMAT, lançou nesta segunda-feira (10) o Pulso ABRAMAT, novo relatório mensal dedicado ao acompanhamento da indústria O post ABRAMAT lança relatório...",
-   "link": "https://revistaoe.com.br/pulso-abramat-novo-relatorio-do-setor/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Evento gratuito atrai especialistas para discutir transformações no mercado da construção; inscreva-se",
-   "data": "12/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A Faculdade Senai da Construção promove, nesta semana, em Campo Grande, as aulas magnas do Design Conecta, com uma programação gratuita e aberta à comunidade O post Evento gratuito atrai especialistas para discutir...",
-   "link": "https://revistaoe.com.br/design-conecta-aulas-magnas-senai/",
-   "aba": "geral"
   },
   {
    "titulo": "Consumidor desconfiado",
@@ -129,6 +105,30 @@ window.DADOS = {
    "resumo": "A Schneider Electric divulga seus resultados de sustentabilidade referentes ao 1º semestre de 2026. Seis meses depois do lançamento, a pontuação de seu novo roadmap de sustentabilidade, o Impact 2030, atingiu...",
    "link": "http://www.revistaanamaco.com.br/schneider-electric-apresenta-resultado-de-suas-acoes-sustentaveis-no-1-semestre",
    "aba": "demanda"
+  },
+  {
+   "titulo": "CBIC participa da ConstruNordeste com debates sobre industrialização, indicadores econômicos e segurança jurídica",
+   "data": "11/08/2026",
+   "fonte": "CBIC",
+   "resumo": "Industrialização, indicadores econômicos, segurança jurídica e novas tecnologias estão entre os temas que serão debatidos na ConstruNordeste, que acontece de 12 a 14 de agosto, em Salvador. A Câmara Brasileira da...",
+   "link": "https://cbic.org.br/cbic-participa-da-construnordeste-com-debates-sobre-industrializacao-indicadores-economicos-e-seguranca-juridica/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Anamaco anuncia Julio Pereira como presidente Executivo da entidade",
+   "data": "10/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "Julio Pereira é anunciado como presidente Executivo da Associação Nacional dos Comerciantes de Material de Construção. A nova posição amplia a representação executiva junto a instituições, autoridades e parceiros",
+   "link": "http://www.revistaanamaco.com.br/anamaco-anuncia-julio-pereira-como-presidente-executivo-da-entidade-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Lorenzetti renova patrocínio ao Osasco Voleibol Clube para a temporada 2026/2027",
+   "data": "10/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Lorenzetti anuncia que renovou o patrocínio ao Osasco Voleibol Clube para a temporada 2026/2027, consolidando uma parceria iniciada em 2022 e seu compromisso com o incentivo ao esporte feminino brasileiro",
+   "link": "http://www.revistaanamaco.com.br/lorenzetti-renova-patrocinio-ao-osasco-voleibol-clube-para-a-temporada-2026-2027-",
+   "aba": "geral"
   }
  ],
  "diarios": {
