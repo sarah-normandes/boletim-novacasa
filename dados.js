@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "12/08/2026 12:30",
+ "atualizado_em": "12/08/2026 17:10",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,22 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Custos desaceleraram",
+   "data": "12/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Custo Unitário Básico global da indústria da construção paulista, nas obras não incluídas na desoneração da folha de pagamentos, desacelerou para 0,45% em julho. Com isso, o indicador acumula elevação de 5,06% no...",
+   "link": "http://www.revistaanamaco.com.br/custos-desaceleraram",
+   "aba": "custos"
+  },
+  {
+   "titulo": "4ª edição da ConstruNordeste reúne o setor da construção em Salvador (BA)",
+   "data": "12/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A ConstruNordeste 2026 já está de portas abertas para receber o público. O encontro da cadeia produtiva da construção civil das regiões Norte e Nordeste começou hoje e acontece até a próxima sexta-feira, dia 14 de...",
+   "link": "http://www.revistaanamaco.com.br/4-edicao-da-construnordeste-reune-o-setor-da-construcao-em-salvador-ba",
+   "aba": "geral"
   },
   {
    "titulo": "Tigre apresenta novo posicionamento, que reflete a evolução da companhia",
@@ -43,6 +59,30 @@ window.DADOS = {
    "aba": "geral"
   },
   {
+   "titulo": "CBIC promove rodada de negócios para discutir recursos e caminhos de habitação de interesse social",
+   "data": "12/08/2026",
+   "fonte": "CBIC",
+   "resumo": "A execução do Minha Casa, Minha Vida (MCMV), o orçamento do FGTS e do FAR, o reequilíbrio de contratos e os ajustes necessários para ampliar a produção habitacional estão entre os principais temas da 4ª Rodada de...",
+   "link": "https://cbic.org.br/cbic-promove-rodada-de-negocios-para-discutir-recursos-e-caminhos-de-habitacao-de-interesse-social/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Habitação Social: MCID regulamenta critérios para projetos prioritários com benefícios fiscais",
+   "data": "12/08/2026",
+   "fonte": "CBIC",
+   "resumo": "O Ministério das Cidades regulamentou os critérios e procedimentos para o enquadramento de projetos de investimento em infraestrutura de Habitação Social como prioritários, condição necessária para a emissão de...",
+   "link": "https://cbic.org.br/habitacao-social-mcid-regulamenta-criterios-para-projetos-prioritarios-com-beneficios-fiscais/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Prefeitura reabre licitação para contratar projeto da obra do Terminal Cristal",
+   "data": "12/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "A Prefeitura de Porto Alegre reabriu a licitação para contratar a empresa que ficará responsável pela elaboração do projeto executivo e os estudos ambientais para O post Prefeitura reabre licitação para contratar...",
+   "link": "https://revistaoe.com.br/licitacao-terminal-cristal/",
+   "aba": "demanda"
+  },
+  {
    "titulo": "ABRAMAT lança relatório mensal para acompanhar desempenho da indústria de materiais de construção",
    "data": "12/08/2026",
    "fonte": "O Empreiteiro",
@@ -57,14 +97,6 @@ window.DADOS = {
    "resumo": "A Faculdade Senai da Construção promove, nesta semana, em Campo Grande, as aulas magnas do Design Conecta, com uma programação gratuita e aberta à comunidade O post Evento gratuito atrai especialistas para discutir...",
    "link": "https://revistaoe.com.br/design-conecta-aulas-magnas-senai/",
    "aba": "geral"
-  },
-  {
-   "titulo": "Fundo imobiliário compra participação em shopping da Multiplan (MULT3) por R$ 250 milhões; veja detalhes",
-   "data": "12/08/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "O fundo imobiliário TRX Real Estate (TRXF11) anunciou, na manhã desta quarta-feira (12), que comprou uma participação de 9,33% no ParkShoppingBarigüi, localizado em Curitiba (PR), por R$ 250 milhões. A vendedora é a...",
-   "link": "https://www.moneytimes.com.br/fundo-imobiliario-compra-participacao-em-shopping-da-multiplan-mult3-por-r-250-milhoes-veja-detalhes-igdl/",
-   "aba": "demanda"
   },
   {
    "titulo": "Consumidor desconfiado",
@@ -97,44 +129,12 @@ window.DADOS = {
    "resumo": "A Schneider Electric divulga seus resultados de sustentabilidade referentes ao 1º semestre de 2026. Seis meses depois do lançamento, a pontuação de seu novo roadmap de sustentabilidade, o Impact 2030, atingiu...",
    "link": "http://www.revistaanamaco.com.br/schneider-electric-apresenta-resultado-de-suas-acoes-sustentaveis-no-1-semestre",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Inflação medida pelo Índice Nacional da Construção Civil desacelera para 0,44% em julho, aponta IBGE",
-   "data": "11/08/2026",
-   "fonte": "Valor",
-   "resumo": "A inflação medida pelo Índice Nacional da Construção Civil (Sinapi) subiu 0,44% em julho, ante alta de 1,19% em junho, segundo o Instituto Brasileiro de Geografia e Estatística (IBGE) divulgou hoje.  \n\nCom o...",
-   "link": "https://valor.globo.com/brasil/noticia/2026/08/11/inflacao-medida-pelo-indice-nacional-da-construcao-civil-desacelera-para-044percent-em-julho-aponta-ibge.ghtml",
-   "aba": "custos"
-  },
-  {
-   "titulo": "CBIC participa da ConstruNordeste com debates sobre industrialização, indicadores econômicos e segurança jurídica",
-   "data": "11/08/2026",
-   "fonte": "CBIC",
-   "resumo": "Industrialização, indicadores econômicos, segurança jurídica e novas tecnologias estão entre os temas que serão debatidos na ConstruNordeste, que acontece de 12 a 14 de agosto, em Salvador. A Câmara Brasileira da...",
-   "link": "https://cbic.org.br/cbic-participa-da-construnordeste-com-debates-sobre-industrializacao-indicadores-economicos-e-seguranca-juridica/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Engenharia estrutural: o papel do projeto e do engenheiro calculista na evolução da construção brasileira",
-   "data": "11/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "Entrevista feita com a engenheira Suely B. Bueno, que acaba de ser eleita para a presidência da Associação Brasileira de Engenharia e Consultoria Estrutural (Abece). O post Engenharia estrutural: o papel do projeto e...",
-   "link": "https://revistaoe.com.br/engenharia-estrutural-evolucao-desafios-brasil/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Evento reúne especialistas para discutir IA e novas tecnologias na construção civil",
-   "data": "11/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A transformação digital da construção civil já não está mais restrita à adoção de novas ferramentas. O desafio agora é transformar o grande volume de O post Evento reúne especialistas para discutir IA e novas...",
-   "link": "https://revistaoe.com.br/2-forum-captura-da-realidade/",
-   "aba": "geral"
   }
  ],
  "diarios": {
   "dolar": {
-   "valor": 5.1285,
-   "data": "11/08/2026"
+   "valor": 5.1639,
+   "data": "12/08/2026"
   },
   "selic": {
    "valor": 14.0,
@@ -142,6 +142,10 @@ window.DADOS = {
   },
   "ipca12": {
    "valor": 4.44,
+   "data": "01/07/2026"
+  },
+  "igpm12": {
+   "valor": -0.86,
    "data": "01/07/2026"
   }
  },
