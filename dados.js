@@ -1,14 +1,30 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "12/08/2026 20:21",
+ "atualizado_em": "13/08/2026 08:34",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "12/08/2026",
+   "data": "13/08/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "1º Feirão Amigo, da Cicalfer, deverá reunir indústrias e lojistas em Sumaré",
+   "data": "13/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Cicalfer Atacadista realiza, no próximo sábado, 15 de agosto, das 12h às 17h, em Sumaré (SP), o 1º Feirão Amigo Cicalfer, reunindo clientes, lojistas, profissionais do setor e indústrias de material de construção",
+   "link": "http://www.revistaanamaco.com.br/1-feirao-amigo-da-cicalfer-devera-reunir-industrias-e-lojistas-em-sumare-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Fundo imobiliário vende imóvel de alto padrão por R$ 15 milhões e registra ganho por cota; IFIX recua",
+   "data": "13/08/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "O fundo imobiliário Pátria Plus Multiestratégia Real Estate (RBRX11) anunciou, por meio de fato relevante, que concluiu a venda de uma unidade do empreendimento residencial “Kalea Jardins”, localizado em São Paulo...",
+   "link": "https://www.moneytimes.com.br/fundo-imobiliario-vende-imovel-de-alto-padrao-por-r-15-milhoes-e-registra-ganho-por-cota-ifix-recua-igdl/",
+   "aba": "demanda"
   },
   {
    "titulo": "Custos desaceleraram",
@@ -113,22 +129,6 @@ window.DADOS = {
    "resumo": "Industrialização, indicadores econômicos, segurança jurídica e novas tecnologias estão entre os temas que serão debatidos na ConstruNordeste, que acontece de 12 a 14 de agosto, em Salvador. A Câmara Brasileira da...",
    "link": "https://cbic.org.br/cbic-participa-da-construnordeste-com-debates-sobre-industrializacao-indicadores-economicos-e-seguranca-juridica/",
    "aba": "geral"
-  },
-  {
-   "titulo": "Anamaco anuncia Julio Pereira como presidente Executivo da entidade",
-   "data": "10/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "Julio Pereira é anunciado como presidente Executivo da Associação Nacional dos Comerciantes de Material de Construção. A nova posição amplia a representação executiva junto a instituições, autoridades e parceiros",
-   "link": "http://www.revistaanamaco.com.br/anamaco-anuncia-julio-pereira-como-presidente-executivo-da-entidade-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Lorenzetti renova patrocínio ao Osasco Voleibol Clube para a temporada 2026/2027",
-   "data": "10/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Lorenzetti anuncia que renovou o patrocínio ao Osasco Voleibol Clube para a temporada 2026/2027, consolidando uma parceria iniciada em 2022 e seu compromisso com o incentivo ao esporte feminino brasileiro",
-   "link": "http://www.revistaanamaco.com.br/lorenzetti-renova-patrocinio-ao-osasco-voleibol-clube-para-a-temporada-2026-2027-",
-   "aba": "geral"
   }
  ],
  "diarios": {
@@ -138,7 +138,7 @@ window.DADOS = {
   },
   "selic": {
    "valor": 14.0,
-   "data": "12/08/2026"
+   "data": "13/08/2026"
   },
   "ipca12": {
    "valor": 4.44,
