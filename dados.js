@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "13/08/2026 08:34",
+ "atualizado_em": "13/08/2026 12:31",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -11,6 +11,30 @@ window.DADOS = {
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
+   "titulo": "Eucatex transforma espaços para crianças e adolescentes em vulnerabilidade",
+   "data": "13/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Eucatex amplia, em 2026, sua parceria com a Decor Social, organização sem fins lucrativos que utiliza a arquitetura, o design de interiores e o paisagismo para transformar espaços de convivência e moradia,...",
+   "link": "http://www.revistaanamaco.com.br/eucatex-transforma-espacos-para-criancas-e-adolescentes-em-vulnerabilidade-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Varejo fecha primeiro semestre em queda de 2,2%, apesar de reação no 2º trimestre",
+   "data": "13/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "O varejo físico brasileiro encerrou o primeiro semestre com retração de 2,2% em relação ao mesmo período do ano passado. Apesar do resultado acumulado negativo, o desempenho ao longo dos seis meses mostra uma melhora...",
+   "link": "http://www.revistaanamaco.com.br/varejo-fecha-primeiro-semestre-em-queda-de-22-apesar-de-reacao-no-2-trimestre-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Dia do Bem Fazer, do Instituto InterCement, mobiliza voluntários em 13 municípios",
+   "data": "13/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "Mais de 6,5 mil pessoas serão beneficiadas por projetos sociais apoiados pelo Instituto InterCement em 13 municípios de diferentes regiões do País durante a 18ª edição do Dia do Bem Fazer, marcada para os dias 15 e...",
+   "link": "http://www.revistaanamaco.com.br/dia-do-bem-fazer-do-instituto-intercement-mobiliza-voluntarios-em-13-municipios-",
+   "aba": "geral"
+  },
+  {
    "titulo": "1º Feirão Amigo, da Cicalfer, deverá reunir indústrias e lojistas em Sumaré",
    "data": "13/08/2026",
    "fonte": "Anamaco",
@@ -19,12 +43,20 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "Fundo imobiliário vende imóvel de alto padrão por R$ 15 milhões e registra ganho por cota; IFIX recua",
+   "titulo": "Infraestrutura sustenta empregos na construção civil no 1º semestre, diz CBIC",
    "data": "13/08/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "O fundo imobiliário Pátria Plus Multiestratégia Real Estate (RBRX11) anunciou, por meio de fato relevante, que concluiu a venda de uma unidade do empreendimento residencial “Kalea Jardins”, localizado em São Paulo...",
-   "link": "https://www.moneytimes.com.br/fundo-imobiliario-vende-imovel-de-alto-padrao-por-r-15-milhoes-e-registra-ganho-por-cota-ifix-recua-igdl/",
-   "aba": "demanda"
+   "fonte": "InfoMoney",
+   "resumo": "Entidade mantém projeção de crescimento de 1,2% para o setor em 2026, mas vê piora da confiança dos empresários e aponta Selic elevada como principal entrave para novos investimentos The post Infraestrutura sustenta...",
+   "link": "https://www.infomoney.com.br/economia/infraestrutura-sustenta-empregos-na-construcao-civil-no-1o-semestre-diz-cbic/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Infraestrutura impulsiona empregos e ajuda a sustentar crescimento da construção no Brasil",
+   "data": "13/08/2026",
+   "fonte": "CBIC",
+   "resumo": "O segmento de infraestrutura ganhou força na construção civil no primeiro semestre de 2026 e se destacou na geração de novos postos de trabalho. Entre janeiro e junho, o saldo do Novo Caged foi positivo em 64.793...",
+   "link": "https://cbic.org.br/infraestrutura-impulsiona-empregos-e-ajuda-a-sustentar-crescimento-da-construcao-no-brasil/",
+   "aba": "insumos"
   },
   {
    "titulo": "Custos desaceleraram",
@@ -91,44 +123,12 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Consumidor desconfiado",
-   "data": "11/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Índice Nacional de Confiança, elaborado pela PiniOn para a Associação Comercial de São Paulo, atingiu 96 pontos em julho, registrando queda de 1% em relação a junho e estabilidade na comparação com o mesmo mês do...",
-   "link": "http://www.revistaanamaco.com.br/consumidor-desconfiado3",
+   "titulo": "Prefeitura reabre licitação para contratar projeto da obra do Terminal Cristal",
+   "data": "12/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "A Prefeitura de Porto Alegre reabriu a licitação para contratar a empresa que ficará responsável pela elaboração do projeto executivo e os estudos ambientais para O post Prefeitura reabre licitação para contratar...",
+   "link": "https://revistaoe.com.br/licitacao-terminal-cristal/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Com investimento de R$ 140 milhões, Obramax inaugura sua primeira loja no MT",
-   "data": "11/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Obramax inaugurou nesta terça-feira (11 de agosto) sua primeira loja no Mato Grosso, localizada em Várzea Grande, na Região Metropolitana do Vale do Rio Cuiabá. A unidade marca a chegada da Rede ao Estado e à...",
-   "link": "http://www.revistaanamaco.com.br/com-investimento-de-r-140-milhoes-obramax-inaugura-sua-primeira-loja-no-mt",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Pessimismo atingiu 26 setores industriais",
-   "data": "11/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Índice de Confiança do Empresário Industrial - Resultados Setoriais, divulgado pela CNI, mostra que, em julho, o número de setores industriais pessimistas aumentou de 24 para 26 e que empresários de apenas três...",
-   "link": "http://www.revistaanamaco.com.br/pessimismo-atingiu-26-setores-industriais",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Schneider Electric apresenta resultado de suas ações sustentáveis no 1º semestre",
-   "data": "11/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Schneider Electric divulga seus resultados de sustentabilidade referentes ao 1º semestre de 2026. Seis meses depois do lançamento, a pontuação de seu novo roadmap de sustentabilidade, o Impact 2030, atingiu...",
-   "link": "http://www.revistaanamaco.com.br/schneider-electric-apresenta-resultado-de-suas-acoes-sustentaveis-no-1-semestre",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "CBIC participa da ConstruNordeste com debates sobre industrialização, indicadores econômicos e segurança jurídica",
-   "data": "11/08/2026",
-   "fonte": "CBIC",
-   "resumo": "Industrialização, indicadores econômicos, segurança jurídica e novas tecnologias estão entre os temas que serão debatidos na ConstruNordeste, que acontece de 12 a 14 de agosto, em Salvador. A Câmara Brasileira da...",
-   "link": "https://cbic.org.br/cbic-participa-da-construnordeste-com-debates-sobre-industrializacao-indicadores-economicos-e-seguranca-juridica/",
-   "aba": "geral"
   }
  ],
  "diarios": {
