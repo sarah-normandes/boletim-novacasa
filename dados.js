@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "13/08/2026 12:31",
+ "atualizado_em": "13/08/2026 17:03",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -11,11 +11,27 @@ window.DADOS = {
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
-   "titulo": "Eucatex transforma espaços para crianças e adolescentes em vulnerabilidade",
+   "titulo": "Norton aposta no varejo regional para reforçar presença no matcon",
+   "data": "13/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Norton Abrasivos vem reforçando sua atuação comercial e de trade marketing voltada ao varejo regional, com iniciativas direcionadas a treinamento, ativação no ponto de venda, campanhas promocionais e relacionamento...",
+   "link": "http://www.revistaanamaco.com.br/norton-aposta-no-varejo-regional-para-reforcar-presenca-no-matcon",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Grupo Aço Cearense investe e democratiza a capacitação entre os funcionários",
+   "data": "13/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Grupo Aço Cearense desenvolveu a \"Trilhar\", plataforma de aprendizagem corporativa construída em parceria com a Edusense, que colocou treinamentos e conteúdo de desenvolvimento na palma da mão dos colaboradores",
+   "link": "http://www.revistaanamaco.com.br/grupo-aco-cearense-investe-e-democratiza-a-capacitacao-entre-os-funcionarios",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Eucatex apoia projeto para transformar espaços de convivência e moradia",
    "data": "13/08/2026",
    "fonte": "Anamaco",
    "resumo": "A Eucatex amplia, em 2026, sua parceria com a Decor Social, organização sem fins lucrativos que utiliza a arquitetura, o design de interiores e o paisagismo para transformar espaços de convivência e moradia,...",
-   "link": "http://www.revistaanamaco.com.br/eucatex-transforma-espacos-para-criancas-e-adolescentes-em-vulnerabilidade-",
+   "link": "http://www.revistaanamaco.com.br/eucatex-apoia-projeto-para-transformar-espacos-de-convivencia-e-moradia",
    "aba": "insumos"
   },
   {
@@ -43,20 +59,52 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "Infraestrutura sustenta empregos na construção civil no 1º semestre, diz CBIC",
+   "titulo": "Vendas de material de construção caem 3,5% em junho e afetam varejo ampliado, diz IBGE",
    "data": "13/08/2026",
-   "fonte": "InfoMoney",
-   "resumo": "Entidade mantém projeção de crescimento de 1,2% para o setor em 2026, mas vê piora da confiança dos empresários e aponta Selic elevada como principal entrave para novos investimentos The post Infraestrutura sustenta...",
-   "link": "https://www.infomoney.com.br/economia/infraestrutura-sustenta-empregos-na-construcao-civil-no-1o-semestre-diz-cbic/",
+   "fonte": "Valor",
+   "resumo": "As vendas de material de construção caíram 3,5% em junho, perante o mês anterior, sob efeito da inflação no período, e pesaram sobre o varejo ampliado, segundo o gerente do Instituto Brasileiro de Geografia e...",
+   "link": "https://valor.globo.com/brasil/noticia/2026/08/13/vendas-de-material-de-construo-caem-35-pontos-percentuais-em-junho-e-afetam-varejo-ampliado-diz-ibge.ghtml",
    "aba": "insumos"
   },
   {
-   "titulo": "Infraestrutura impulsiona empregos e ajuda a sustentar crescimento da construção no Brasil",
+   "titulo": "Governo destina R$ 3,5 bilhões para crédito empresarial e habitação de interesse social",
    "data": "13/08/2026",
    "fonte": "CBIC",
-   "resumo": "O segmento de infraestrutura ganhou força na construção civil no primeiro semestre de 2026 e se destacou na geração de novos postos de trabalho. Entre janeiro e junho, o saldo do Novo Caged foi positivo em 64.793...",
-   "link": "https://cbic.org.br/infraestrutura-impulsiona-empregos-e-ajuda-a-sustentar-crescimento-da-construcao-no-brasil/",
+   "resumo": "O governo federal abriu crédito extraordinário de R$ 3,5 bilhões para ampliar o acesso ao crédito por empresas e reforçar fundos garantidores voltados à habitação popular. A medida consta da Medida Provisória nº...",
+   "link": "https://cbic.org.br/governo-destina-r-35-bilhoes-para-credito-empresarial-e-habitacao-de-interesse-social/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "CBIC destaca importância de incentivos para empresas avançarem na industrialização na ConstruNordeste",
+   "data": "13/08/2026",
+   "fonte": "CBIC",
+   "resumo": "A industrialização da construção esteve entre os principais temas discutidos no primeiro dia da ConstruNordeste, realizada em Salvador. O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo...",
+   "link": "https://cbic.org.br/cbic-destaca-importancia-de-incentivos-para-empresas-avancarem-na-industrializacao-na-construnordeste/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "CBIC participa de abertura do ConstruNordeste e destaca geração de emprego do setor na região",
+   "data": "13/08/2026",
+   "fonte": "CBIC",
+   "resumo": "O setor da construção foi responsável por cerca de 40% dos empregos gerados na Bahia no primeiro semestre deste ano, segundo o presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo Aroeira. O...",
+   "link": "https://cbic.org.br/cbic-participa-de-abertura-do-construnordeste-e-destaca-geracao-de-emprego-do-setor-na-regiao/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Sinduscon-Rio: Sustentabilidade ganha espaço como estratégia para a construção civil",
+   "data": "13/08/2026",
+   "fonte": "CBIC",
+   "resumo": "A sustentabilidade deixou de ser um assunto complementar e passou a fazer parte das decisões estratégicas da construção civil. Esse foi um dos principais pontos do Café Empresarial, realizado nesta quarta-feira (12),...",
+   "link": "https://cbic.org.br/sinduscon-rio-sustentabilidade-ganha-espaco-como-estrategia-para-a-construcao-civil/",
    "aba": "insumos"
+  },
+  {
+   "titulo": "Construlev Expo 2026",
+   "data": "13/08/2026",
+   "fonte": "ABRAMAT",
+   "resumo": "O post Construlev Expo 2026 apareceu primeiro em ABRAMAT - Associação Brasileira da Indústria de Materiais de Construção .",
+   "link": "https://abramat.org.br/construlev-expo-2026/",
+   "aba": "demanda"
   },
   {
    "titulo": "Custos desaceleraram",
@@ -65,14 +113,6 @@ window.DADOS = {
    "resumo": "O Custo Unitário Básico global da indústria da construção paulista, nas obras não incluídas na desoneração da folha de pagamentos, desacelerou para 0,45% em julho. Com isso, o indicador acumula elevação de 5,06% no...",
    "link": "http://www.revistaanamaco.com.br/custos-desaceleraram",
    "aba": "custos"
-  },
-  {
-   "titulo": "4ª edição da ConstruNordeste reúne o setor da construção em Salvador (BA)",
-   "data": "12/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A ConstruNordeste 2026 já está de portas abertas para receber o público. O encontro da cadeia produtiva da construção civil das regiões Norte e Nordeste começou hoje e acontece até a próxima sexta-feira, dia 14 de...",
-   "link": "http://www.revistaanamaco.com.br/4-edicao-da-construnordeste-reune-o-setor-da-construcao-em-salvador-ba",
-   "aba": "geral"
   },
   {
    "titulo": "Tigre apresenta novo posicionamento, que reflete a evolução da companhia",
@@ -89,52 +129,12 @@ window.DADOS = {
    "resumo": "O Índice de Confiança Empresarial, calculado pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas, recuou 1,4 ponto em julho, para 91,3 pontos. Na métrica de médias móveis trimestrais, o índice registra...",
    "link": "http://www.revistaanamaco.com.br/confianca-empresarial-recuou-em-julho-",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Gerdau encerra segundo trimestre com Ebitda ajustado de R$ 3,4 bilhões",
-   "data": "12/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Gerdau acaba de divulgar os números do desempenho da empresa no segundo trimestre. De acordo com os dados apresentados, a companhia concluiu o segundo trimestre com Ebitda ajustado de R$ 3,4 bilhões, com margem...",
-   "link": "http://www.revistaanamaco.com.br/gerdau-encerra-segundo-trimestre-com-ebitda-ajustado-de-r-34-bilhoes-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Dubai Vai Automatizar 100% a Emissão de Licenças de Construção com Nova Inteligência Artificial",
-   "data": "12/08/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Sistema que verifica projetos arquitetônicos e estruturais de forma autônoma será implementado em três fases ao longo de 26 semanas O post Dubai Vai...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/08/dubai-ia-licencas-construcao/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "CBIC promove rodada de negócios para discutir recursos e caminhos de habitação de interesse social",
-   "data": "12/08/2026",
-   "fonte": "CBIC",
-   "resumo": "A execução do Minha Casa, Minha Vida (MCMV), o orçamento do FGTS e do FAR, o reequilíbrio de contratos e os ajustes necessários para ampliar a produção habitacional estão entre os principais temas da 4ª Rodada de...",
-   "link": "https://cbic.org.br/cbic-promove-rodada-de-negocios-para-discutir-recursos-e-caminhos-de-habitacao-de-interesse-social/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Habitação Social: MCID regulamenta critérios para projetos prioritários com benefícios fiscais",
-   "data": "12/08/2026",
-   "fonte": "CBIC",
-   "resumo": "O Ministério das Cidades regulamentou os critérios e procedimentos para o enquadramento de projetos de investimento em infraestrutura de Habitação Social como prioritários, condição necessária para a emissão de...",
-   "link": "https://cbic.org.br/habitacao-social-mcid-regulamenta-criterios-para-projetos-prioritarios-com-beneficios-fiscais/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Prefeitura reabre licitação para contratar projeto da obra do Terminal Cristal",
-   "data": "12/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A Prefeitura de Porto Alegre reabriu a licitação para contratar a empresa que ficará responsável pela elaboração do projeto executivo e os estudos ambientais para O post Prefeitura reabre licitação para contratar...",
-   "link": "https://revistaoe.com.br/licitacao-terminal-cristal/",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "dolar": {
-   "valor": 5.1639,
-   "data": "12/08/2026"
+   "valor": 5.1859,
+   "data": "13/08/2026"
   },
   "selic": {
    "valor": 14.0,
