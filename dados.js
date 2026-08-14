@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "14/08/2026 11:19",
+ "atualizado_em": "14/08/2026 11:25",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -25,14 +25,6 @@ window.DADOS = {
    "resumo": "A Dexco encerrou o segundo trimestre deste ano com EBITDA ajustado e recorrente de R$ 547 milhões, o que significa alta de 23,6% na comparação anual. A receita líquida alcançou R$ 2,23 bilhões, crescimento de 5,2%",
    "link": "http://www.revistaanamaco.com.br/dexco-registra-ebitda-ajustado-e-recorrente-de-r-547-milhoes-de-abril-a-junho-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Consórcio RioS mapeia risco climático na bacia do Guaíba para priorizar obras de resiliência",
-   "data": "14/08/2026",
-   "fonte": "Valor",
-   "resumo": "Mais de 250 municípios do Rio Grande do Sul compartilham o mesmo problema: o risco de enchentes e estiagens na bacia hidrográfica do Guaíba, que pode prejudicar a vida e ganha pão de 61% da população do estado, ou...",
-   "link": "https://valor.globo.com/brasil/esg/noticia/2026/08/14/consorcio-rios-mapeia-risco-climatico-na-bacia-do-guaiba-para-priorizar-obras-de-resiliencia.ghtml",
-   "aba": "demanda"
   },
   {
    "titulo": "Norton aposta no varejo regional para reforçar presença no matcon",
@@ -83,30 +75,6 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "Mesmo com Copa do Mundo, varejo perde ritmo e indica desaceleração do PIB no 2º trimestre, dizem economistas",
-   "data": "13/08/2026",
-   "fonte": "Valor",
-   "resumo": "A Copa do Mundo ajudou o varejo no segundo trimestre do ano, ainda assim houve forte desaceleração do volume de vendas em relação aos primeiros três meses do ano, de acordo com dados divulgados nesta quinta-feira...",
-   "link": "https://valor.globo.com/brasil/noticia/2026/08/13/mesmo-com-copa-do-mundo-varejo-perde-ritmo-e-indica-desaceleracao-do-pib-no-2o-trimestre-dizem-economistas.ghtml",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Desaceleração do varejo deve se acentuar no segundo semestre, diz FGV Ibre",
-   "data": "13/08/2026",
-   "fonte": "Valor",
-   "resumo": "O aumento no volume de vendas do varejo em junho deve ser olhado com cautela. O desempenho do comércio tem dado sinais de oscilação, mantendo cenário de desaceleração, que deve se acentuar à frente, ainda que a...",
-   "link": "https://valor.globo.com/brasil/noticia/2026/08/13/desacelerao-do-varejo-deve-se-acentuar-no-segundo-semestre-diz-fgv-ibre.ghtml",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Vendas de supermercados crescem 1,1% e ajudam a puxar positivamente o varejo, diz IBGE",
-   "data": "13/08/2026",
-   "fonte": "Valor",
-   "resumo": "As vendas de hipermercados, supermercados, produtos alimentícios, bebidas e fumo cresceram 1,1% e ajudaram a puxar o varejo na passagem entre maio e junho, pela Pesquisa Mensal de Comércio (PMC) do Instituto...",
-   "link": "https://valor.globo.com/brasil/noticia/2026/08/13/vendas-de-supermercados-crescem-11percent-e-ajudam-a-puxar-positivamente-o-varejo-diz-ibge.ghtml",
-   "aba": "demanda"
-  },
-  {
    "titulo": "Vendas no Varejo Brasileiro Sobem Mais do Que o Esperado em Junho",
    "data": "13/08/2026",
    "fonte": "Forbes",
@@ -128,6 +96,38 @@ window.DADOS = {
    "fonte": "CBIC",
    "resumo": "A industrialização da construção esteve entre os principais temas discutidos no primeiro dia da ConstruNordeste, realizada em Salvador. O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo...",
    "link": "https://cbic.org.br/cbic-destaca-importancia-de-incentivos-para-empresas-avancarem-na-industrializacao-na-construnordeste/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "CBIC participa de abertura do ConstruNordeste e destaca geração de emprego do setor na região",
+   "data": "13/08/2026",
+   "fonte": "CBIC",
+   "resumo": "O setor da construção foi responsável por cerca de 40% dos empregos gerados na Bahia no primeiro semestre deste ano, segundo o presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo Aroeira. O...",
+   "link": "https://cbic.org.br/cbic-participa-de-abertura-do-construnordeste-e-destaca-geracao-de-emprego-do-setor-na-regiao/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Sinduscon-Rio: Sustentabilidade ganha espaço como estratégia para a construção civil",
+   "data": "13/08/2026",
+   "fonte": "CBIC",
+   "resumo": "A sustentabilidade deixou de ser um assunto complementar e passou a fazer parte das decisões estratégicas da construção civil. Esse foi um dos principais pontos do Café Empresarial, realizado nesta quarta-feira (12),...",
+   "link": "https://cbic.org.br/sinduscon-rio-sustentabilidade-ganha-espaco-como-estrategia-para-a-construcao-civil/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Custos desaceleraram",
+   "data": "12/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Custo Unitário Básico global da indústria da construção paulista, nas obras não incluídas na desoneração da folha de pagamentos, desacelerou para 0,45% em julho. Com isso, o indicador acumula elevação de 5,06% no...",
+   "link": "http://www.revistaanamaco.com.br/custos-desaceleraram",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Tigre apresenta novo posicionamento, que reflete a evolução da companhia",
+   "data": "12/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Tigre apresenta um novo sistema de marcas que acompanha a evolução da companhia ao longo dos últimos anos. Como parte desse movimento, a empresa passa a adotar a marca corporativa Grupo Tigre para sua comunicação...",
+   "link": "http://www.revistaanamaco.com.br/tigre-apresenta-novo-posicionamento-que-reflete-a-evolucao-da-companhia-",
    "aba": "geral"
   }
  ],
