@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "14/08/2026 08:30",
+ "atualizado_em": "14/08/2026 11:16",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -11,6 +11,22 @@ window.DADOS = {
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
+   "titulo": "Cores da Coral dão vida à instalação de Sol Calero no Vão Livre do Masp",
+   "data": "14/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "Quem passar pelo Vão Livre do Masp, até maio de 2027, poderá conhecer a Casa María Lionza, instalação inédita da artista venezuelana Sol Calero, realizada com apoio da Coral no fornecimento das tintas que dão vida à obra",
+   "link": "http://www.revistaanamaco.com.br/cores-da-coral-dao-vida-a-instalacao-de-sol-calero-no-vao-livre-do-masp-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Dexco registra EBITDA ajustado e recorrente de R$ 547 milhões de abril a junho",
+   "data": "14/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Dexco encerrou o segundo trimestre deste ano com EBITDA ajustado e recorrente de R$ 547 milhões, o que significa alta de 23,6% na comparação anual. A receita líquida alcançou R$ 2,23 bilhões, crescimento de 5,2%",
+   "link": "http://www.revistaanamaco.com.br/dexco-registra-ebitda-ajustado-e-recorrente-de-r-547-milhoes-de-abril-a-junho-",
+   "aba": "insumos"
+  },
+  {
    "titulo": "Consórcio RioS mapeia risco climático na bacia do Guaíba para priorizar obras de resiliência",
    "data": "14/08/2026",
    "fonte": "Valor",
@@ -19,12 +35,84 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Vendas de material de construção caem 3,5% em junho e afetam varejo ampliado, diz IBGE",
+   "titulo": "Norton aposta no varejo regional para reforçar presença no matcon",
+   "data": "13/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Norton Abrasivos vem reforçando sua atuação comercial e de trade marketing voltada ao varejo regional, com iniciativas direcionadas a treinamento, ativação no ponto de venda, campanhas promocionais e relacionamento...",
+   "link": "http://www.revistaanamaco.com.br/norton-aposta-no-varejo-regional-para-reforcar-presenca-no-matcon",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Grupo Aço Cearense investe e democratiza a capacitação entre os funcionários",
+   "data": "13/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Grupo Aço Cearense desenvolveu a \"Trilhar\", plataforma de aprendizagem corporativa construída em parceria com a Edusense, que colocou treinamentos e conteúdo de desenvolvimento na palma da mão dos colaboradores",
+   "link": "http://www.revistaanamaco.com.br/grupo-aco-cearense-investe-e-democratiza-a-capacitacao-entre-os-funcionarios",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Eucatex apoia projeto para transformar espaços de convivência e moradia",
+   "data": "13/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Eucatex amplia, em 2026, sua parceria com a Decor Social, organização sem fins lucrativos que utiliza a arquitetura, o design de interiores e o paisagismo para transformar espaços de convivência e moradia,...",
+   "link": "http://www.revistaanamaco.com.br/eucatex-apoia-projeto-para-transformar-espacos-de-convivencia-e-moradia",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Varejo fecha primeiro semestre em queda de 2,2%, apesar de reação no 2º trimestre",
+   "data": "13/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "O varejo físico brasileiro encerrou o primeiro semestre com retração de 2,2% em relação ao mesmo período do ano passado. Apesar do resultado acumulado negativo, o desempenho ao longo dos seis meses mostra uma melhora...",
+   "link": "http://www.revistaanamaco.com.br/varejo-fecha-primeiro-semestre-em-queda-de-22-apesar-de-reacao-no-2-trimestre-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Dia do Bem Fazer, do Instituto InterCement, mobiliza voluntários em 13 municípios",
+   "data": "13/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "Mais de 6,5 mil pessoas serão beneficiadas por projetos sociais apoiados pelo Instituto InterCement em 13 municípios de diferentes regiões do País durante a 18ª edição do Dia do Bem Fazer, marcada para os dias 15 e...",
+   "link": "http://www.revistaanamaco.com.br/dia-do-bem-fazer-do-instituto-intercement-mobiliza-voluntarios-em-13-municipios-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "1º Feirão Amigo, da Cicalfer, deverá reunir indústrias e lojistas em Sumaré",
+   "data": "13/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Cicalfer Atacadista realiza, no próximo sábado, 15 de agosto, das 12h às 17h, em Sumaré (SP), o 1º Feirão Amigo Cicalfer, reunindo clientes, lojistas, profissionais do setor e indústrias de material de construção",
+   "link": "http://www.revistaanamaco.com.br/1-feirao-amigo-da-cicalfer-devera-reunir-industrias-e-lojistas-em-sumare-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Mesmo com Copa do Mundo, varejo perde ritmo e indica desaceleração do PIB no 2º trimestre, dizem economistas",
    "data": "13/08/2026",
    "fonte": "Valor",
-   "resumo": "As vendas de material de construção caíram 3,5% em junho, perante o mês anterior, sob efeito da inflação no período, e pesaram sobre o varejo ampliado, segundo o gerente do Instituto Brasileiro de Geografia e...",
-   "link": "https://valor.globo.com/brasil/noticia/2026/08/13/vendas-de-material-de-construo-caem-35-pontos-percentuais-em-junho-e-afetam-varejo-ampliado-diz-ibge.ghtml",
-   "aba": "insumos"
+   "resumo": "A Copa do Mundo ajudou o varejo no segundo trimestre do ano, ainda assim houve forte desaceleração do volume de vendas em relação aos primeiros três meses do ano, de acordo com dados divulgados nesta quinta-feira...",
+   "link": "https://valor.globo.com/brasil/noticia/2026/08/13/mesmo-com-copa-do-mundo-varejo-perde-ritmo-e-indica-desaceleracao-do-pib-no-2o-trimestre-dizem-economistas.ghtml",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Desaceleração do varejo deve se acentuar no segundo semestre, diz FGV Ibre",
+   "data": "13/08/2026",
+   "fonte": "Valor",
+   "resumo": "O aumento no volume de vendas do varejo em junho deve ser olhado com cautela. O desempenho do comércio tem dado sinais de oscilação, mantendo cenário de desaceleração, que deve se acentuar à frente, ainda que a...",
+   "link": "https://valor.globo.com/brasil/noticia/2026/08/13/desacelerao-do-varejo-deve-se-acentuar-no-segundo-semestre-diz-fgv-ibre.ghtml",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Vendas de supermercados crescem 1,1% e ajudam a puxar positivamente o varejo, diz IBGE",
+   "data": "13/08/2026",
+   "fonte": "Valor",
+   "resumo": "As vendas de hipermercados, supermercados, produtos alimentícios, bebidas e fumo cresceram 1,1% e ajudaram a puxar o varejo na passagem entre maio e junho, pela Pesquisa Mensal de Comércio (PMC) do Instituto...",
+   "link": "https://valor.globo.com/brasil/noticia/2026/08/13/vendas-de-supermercados-crescem-11percent-e-ajudam-a-puxar-positivamente-o-varejo-diz-ibge.ghtml",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Vendas no Varejo Brasileiro Sobem Mais do Que o Esperado em Junho",
+   "data": "13/08/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Na comparação anual, as vendas cresceram 2,9% no mês O post Vendas no Varejo Brasileiro Sobem Mais do Que o Esperado em Junho apareceu primeiro em...",
+   "link": "https://forbes.com.br/forbes-money/2026/08/vendas-no-varejo-brasileiro-sobem-mais-do-que-o-esperado-em-junho/",
+   "aba": "demanda"
   },
   {
    "titulo": "Governo destina R$ 3,5 bilhões para crédito empresarial e habitação de interesse social",
@@ -41,94 +129,6 @@ window.DADOS = {
    "resumo": "A industrialização da construção esteve entre os principais temas discutidos no primeiro dia da ConstruNordeste, realizada em Salvador. O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo...",
    "link": "https://cbic.org.br/cbic-destaca-importancia-de-incentivos-para-empresas-avancarem-na-industrializacao-na-construnordeste/",
    "aba": "geral"
-  },
-  {
-   "titulo": "CBIC participa de abertura do ConstruNordeste e destaca geração de emprego do setor na região",
-   "data": "13/08/2026",
-   "fonte": "CBIC",
-   "resumo": "O setor da construção foi responsável por cerca de 40% dos empregos gerados na Bahia no primeiro semestre deste ano, segundo o presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo Aroeira. O...",
-   "link": "https://cbic.org.br/cbic-participa-de-abertura-do-construnordeste-e-destaca-geracao-de-emprego-do-setor-na-regiao/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Sinduscon-Rio: Sustentabilidade ganha espaço como estratégia para a construção civil",
-   "data": "13/08/2026",
-   "fonte": "CBIC",
-   "resumo": "A sustentabilidade deixou de ser um assunto complementar e passou a fazer parte das decisões estratégicas da construção civil. Esse foi um dos principais pontos do Café Empresarial, realizado nesta quarta-feira (12),...",
-   "link": "https://cbic.org.br/sinduscon-rio-sustentabilidade-ganha-espaco-como-estrategia-para-a-construcao-civil/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Construlev Expo 2026",
-   "data": "13/08/2026",
-   "fonte": "ABRAMAT",
-   "resumo": "O post Construlev Expo 2026 apareceu primeiro em ABRAMAT - Associação Brasileira da Indústria de Materiais de Construção .",
-   "link": "https://abramat.org.br/construlev-expo-2026/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Prefeitura reabre licitação para contratar projeto da obra do Terminal Cristal",
-   "data": "12/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A Prefeitura de Porto Alegre reabriu a licitação para contratar a empresa que ficará responsável pela elaboração do projeto executivo e os estudos ambientais para O post Prefeitura reabre licitação para contratar...",
-   "link": "https://revistaoe.com.br/licitacao-terminal-cristal/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "ABRAMAT lança relatório mensal para acompanhar desempenho da indústria de materiais de construção",
-   "data": "12/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A Associação Brasileira da Indústria de Materiais de Construção, ABRAMAT, lançou nesta segunda-feira (10) o Pulso ABRAMAT, novo relatório mensal dedicado ao acompanhamento da indústria O post ABRAMAT lança relatório...",
-   "link": "https://revistaoe.com.br/pulso-abramat-novo-relatorio-do-setor/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Evento gratuito atrai especialistas para discutir transformações no mercado da construção; inscreva-se",
-   "data": "12/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A Faculdade Senai da Construção promove, nesta semana, em Campo Grande, as aulas magnas do Design Conecta, com uma programação gratuita e aberta à comunidade O post Evento gratuito atrai especialistas para discutir...",
-   "link": "https://revistaoe.com.br/design-conecta-aulas-magnas-senai/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Engenharia estrutural: o papel do projeto e do engenheiro calculista na evolução da construção brasileira",
-   "data": "11/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "Entrevista feita com a engenheira Suely B. Bueno, que acaba de ser eleita para a presidência da Associação Brasileira de Engenharia e Consultoria Estrutural (Abece). O post Engenharia estrutural: o papel do projeto e...",
-   "link": "https://revistaoe.com.br/engenharia-estrutural-evolucao-desafios-brasil/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Forúm Construindo Cidades Resilientes",
-   "data": "05/08/2026",
-   "fonte": "ABRAMAT",
-   "resumo": "o fórum reunirá lideranças e especialistas para debater os caminhos para ampliar o financiamento sustentável e acelerar a transição para uma construção mais resiliente e de baixo carbono. O post Forúm Construindo...",
-   "link": "https://abramat.org.br/forum-construindo-cidades-resilientes/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Dow anuncia novo aumento de US$ 220/t e reabre a crise das resinas no Brasil",
-   "data": "25/07/2026",
-   "fonte": "PlásticoNews",
-   "resumo": "Carta da Dow de US$ 220/t para a América Latina expõe onda global de reajustes que já dura cinco meses e reacende o alerta sobre custo e desabastecimento na embalagem flexível Em carta datada de 24 de julho de 2026,...",
-   "link": "https://plasticonews.org/dow-anuncia-novo-aumento-de-us-220-t-e-reabre-a-crise-das-resinas-no-brasil/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "ABRAMAT participa da Construsummit 2026 e reforça o papel da indústria na transformação da construção civil",
-   "data": "23/07/2026",
-   "fonte": "ABRAMAT",
-   "resumo": "Em painel da Construsummit 2026, a ABRAMAT destacou como a indústria de materiais impulsiona a industrialização e a transformação da construção civil. O post ABRAMAT participa da Construsummit 2026 e reforça o papel...",
-   "link": "https://abramat.org.br/abramat-participa-da-construsummit-2026/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Indústria do Cimento em 2024 e as Perspectivas para 2025",
-   "data": "13/01/2025",
-   "fonte": "Cimento",
-   "resumo": "A indústria brasileira do cimento fechou o ano de 2024 com um desempenho positivo, encerrando um ciclo de retração e retomando o crescimento. De acordo com dados do Sindicato Nacional da Indústria de Cimento (SNIC),...",
-   "link": "https://cimento.org/industria-do-cimento-em-2024-e-as-perspectivas-para-2025/",
-   "aba": "insumos"
   }
  ],
  "diarios": {
