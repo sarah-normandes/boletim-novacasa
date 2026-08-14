@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "14/08/2026 11:25",
+ "atualizado_em": "14/08/2026 11:26",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -115,20 +115,20 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
+   "titulo": "Construlev Expo 2026",
+   "data": "13/08/2026",
+   "fonte": "ABRAMAT",
+   "resumo": "O post Construlev Expo 2026 apareceu primeiro em ABRAMAT - Associação Brasileira da Indústria de Materiais de Construção .",
+   "link": "https://abramat.org.br/construlev-expo-2026/",
+   "aba": "demanda"
+  },
+  {
    "titulo": "Custos desaceleraram",
    "data": "12/08/2026",
    "fonte": "Anamaco",
    "resumo": "O Custo Unitário Básico global da indústria da construção paulista, nas obras não incluídas na desoneração da folha de pagamentos, desacelerou para 0,45% em julho. Com isso, o indicador acumula elevação de 5,06% no...",
    "link": "http://www.revistaanamaco.com.br/custos-desaceleraram",
    "aba": "custos"
-  },
-  {
-   "titulo": "Tigre apresenta novo posicionamento, que reflete a evolução da companhia",
-   "data": "12/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Tigre apresenta um novo sistema de marcas que acompanha a evolução da companhia ao longo dos últimos anos. Como parte desse movimento, a empresa passa a adotar a marca corporativa Grupo Tigre para sua comunicação...",
-   "link": "http://www.revistaanamaco.com.br/tigre-apresenta-novo-posicionamento-que-reflete-a-evolucao-da-companhia-",
-   "aba": "geral"
   }
  ],
  "diarios": {
