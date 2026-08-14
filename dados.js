@@ -1,10 +1,10 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "13/08/2026 20:23",
+ "atualizado_em": "14/08/2026 06:49",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "13/08/2026",
+   "data": "14/08/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
@@ -132,13 +132,9 @@ window.DADOS = {
   }
  ],
  "diarios": {
-  "dolar": {
-   "valor": 5.1859,
-   "data": "13/08/2026"
-  },
   "selic": {
    "valor": 14.0,
-   "data": "13/08/2026"
+   "data": "14/08/2026"
   },
   "ipca12": {
    "valor": 4.44,
