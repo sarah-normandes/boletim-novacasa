@@ -105,6 +105,9 @@ FONTES_RSS = [
     ("Cimento",       "https://www.cimento.org/feed/"),
     ("MoneyTimes",    "https://www.moneytimes.com.br/feed/"),
     ("ABRAMAT",       "https://abramat.org.br/feed/"),
+    # Investing.com: mercado/bolsa. Costuma bloquear robos; se falhar, o robo
+    # ignora e segue. So entram materias relacionadas ao setor (passa pelo FILTRO).
+    ("Investing",     "https://br.investing.com/rss/news_25.rss"),
 ]
 
 # Filtro de palavras-chave do setor
@@ -244,11 +247,27 @@ def buscar_rss(qtd_por_fonte=4):
 # 2. INDICADORES DO BANCO CENTRAL
 # ----------------------------------------------------------------------
 SERIES_BC = {
-    "dolar":   1,      # dolar comercial venda
     "selic":   432,    # meta Selic % a.a.
     "ipca12": 13522,  # IPCA acumulado 12 meses
     "igpm12": 190,    # IGP-M acumulado 12 meses
 }
+
+def buscar_dolar_awesome():
+    """Cotacao do dolar via AwesomeAPI (mesma fonte do painel de cobre, para
+    os valores baterem lado a lado). Retorna (valor_venda, data)."""
+    url = "https://economia.awesomeapi.com.br/last/USD-BRL"
+    try:
+        r = requests.get(url, headers=UA, timeout=20)
+        d = r.json().get("USDBRL", {})
+        valor = float(d.get("bid") or d.get("ask"))  # bid = compra, referencia
+        # timestamp vem em epoch; converte para data BR
+        ts = d.get("timestamp")
+        from datetime import datetime as _dt
+        data = _dt.fromtimestamp(int(ts), ZoneInfo("America/Sao_Paulo")).strftime("%d/%m/%Y") if ts else HOJE.strftime("%d/%m/%Y")
+        return valor, data
+    except Exception as e:
+        print("  [!] Dolar (AwesomeAPI) indisponivel:", e)
+        return None, None
 
 def buscar_serie_bc(codigo, dias=20):
     """Busca o ultimo valor disponivel de uma serie do Banco Central."""
@@ -329,6 +348,14 @@ def historico_selic(n=60):
 
 def buscar_indicadores_bc():
     out = {}
+    # dolar pela AwesomeAPI (alinhado ao painel de cobre)
+    dv, dd = buscar_dolar_awesome()
+    if dv is not None:
+        out["dolar"] = {"valor": dv, "data": dd}
+        print(f"  [ok] dolar (AwesomeAPI): {dv} ({dd})")
+    else:
+        print("  [--] dolar: mantido o valor anterior")
+    # demais series (selic, ipca, igpm) seguem no Banco Central
     for nome, cod in SERIES_BC.items():
         valor, data = buscar_serie_bc(cod)
         if valor is not None:

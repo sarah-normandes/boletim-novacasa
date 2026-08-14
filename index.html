@@ -62,6 +62,18 @@
   .tab.on .seg .prog{ animation:fillseg linear forwards; }
   @keyframes fillseg{ from{width:0;} to{width:100%;} }
 
+  /* faixa de abas na parte inferior (acima do ticker): as 7 abas ocupam a
+     largura toda, entao nunca cortam nem espremem o relogio no topo. */
+  .tabsbar{
+    flex-shrink:0; display:grid; grid-template-columns:repeat(7,1fr);
+    gap:clamp(10px,1.4vw,22px); align-items:center;
+    padding:clamp(8px,1.2vh,14px) clamp(20px,2.4vw,46px);
+    background:var(--bg-2); border-top:1px solid var(--line);
+    position:relative; z-index:5;
+  }
+  .tabsbar .tab{ flex-direction:column; gap:5px; }
+  .tabsbar .tab .lbl{ font-size:clamp(9px,0.95vw,11px); text-align:center; }
+
   .theme-btn{ display:flex; align-items:center; gap:9px; cursor:pointer; background:var(--card); border:1px solid var(--line); border-radius:999px; padding:9px 16px; color:var(--ink-2); font-family:'JetBrains Mono'; font-size:12px; letter-spacing:1.5px; text-transform:uppercase; transition:all .25s ease; }
   .theme-btn:hover{ border-color:var(--accent); color:var(--ink); }
   .theme-btn svg{ width:16px; height:16px; }
@@ -79,13 +91,27 @@
   .screen-title{ grid-column:1 / -1; display:flex; align-items:center; gap:16px; }
   .screen-title .kicker{ font-family:'JetBrains Mono'; font-size:12px; letter-spacing:4px; color:var(--accent); text-transform:uppercase; }
   .screen-title h2{ font-family:'Oswald'; font-weight:600; font-size:25px; text-transform:uppercase; letter-spacing:1px; }
-  .screen-title .rule{ flex:1; height:2px; border-radius:2px; background:var(--line); }
+  .screen-title .rule{ flex:1; height:4px; border-radius:4px; background:var(--line); position:relative; overflow:hidden; }
+  .screen-title .rule .rule-prog{ position:absolute; inset:0; width:0; background:var(--accent); border-radius:4px; }
+  .screen.show .screen-title .rule .rule-prog{ animation:fillseg linear forwards; }
+  .nav-arrows{ display:flex; gap:8px; flex-shrink:0; }
+  .nav-btn{ display:flex; align-items:center; justify-content:center;
+    width:clamp(30px,3.4vh,40px); height:clamp(30px,3.4vh,40px);
+    border:1px solid var(--line); border-radius:10px; background:var(--card);
+    color:var(--ink-2); font-size:clamp(14px,1.9vh,18px); cursor:pointer;
+    transition:border-color .2s, color .2s, background .2s; line-height:1; }
+  .nav-btn:hover{ border-color:var(--accent); color:var(--accent); background:var(--accent-soft); }
+  .nav-btn:active{ transform:scale(0.94); }
 
-  #screen1{ grid-template-columns:1.18fr 1fr 1fr; grid-template-rows:auto minmax(0,auto) minmax(0,auto); align-content:start; }
-  #screen2{ grid-template-columns:repeat(4,1fr); grid-template-rows:auto minmax(0,auto) minmax(0,1fr); align-content:start; }
-  #screen3{ grid-template-columns:repeat(3,1fr); grid-template-rows:auto minmax(0,auto) minmax(0,1fr); align-content:start; }
-  #screen4{ grid-template-columns:repeat(4,1fr); grid-template-rows:auto minmax(0,auto) minmax(0,auto) minmax(0,1fr); align-content:start; }
-  #screen5{ grid-template-columns:1fr 1fr 1.15fr; grid-template-rows:auto 1fr; }
+  #screen1{ grid-template-columns:1.18fr 1fr 1fr; grid-template-rows:auto minmax(0,auto) minmax(0,auto); align-content:start; }   /* Indices */
+  #screen2{ grid-template-columns:repeat(3,1fr); grid-template-rows:auto minmax(0,auto) minmax(0,1fr); align-content:start; }        /* Custos */
+  #screen3{ grid-template-columns:repeat(4,1fr); grid-template-rows:auto minmax(0,auto) minmax(0,1fr); align-content:start; }        /* Insumos */
+  #screen4{ grid-template-columns:1fr; grid-template-rows:auto minmax(0,1fr); align-content:start; }                                  /* News Insumos */
+  #screen5{ grid-template-columns:1fr 1fr; grid-template-rows:auto 1fr 1fr; align-content:stretch; }  /* Associacoes: 4 cards em 2x2, preenchem a tela */
+  /* screen-title ocupa a linha toda; os 4 cards ficam 2x2 e esticam para
+     preencher a altura sem vazio nem rolagem. */
+  #screen6{ grid-template-columns:1fr; grid-template-rows:auto minmax(0,1fr); align-content:start; }                                  /* News Associacoes */
+  #screen7{ grid-template-columns:1fr 1fr 1.15fr; grid-template-rows:auto 1fr; }                                                      /* News Mercado */
 
   /* selo de atualização no título da tela */
   .selo{ font-family:'JetBrains Mono'; font-size:11px; letter-spacing:1.5px; text-transform:uppercase; color:var(--ink-3); border:1px solid var(--line); border-radius:999px; padding:5px 12px; white-space:nowrap; }
@@ -118,6 +144,26 @@
   .news-row .ncard .nf b{ color:var(--ink-3); font-weight:500; }
   .news-row .ncard .nt{ font-size:clamp(11.5px,1.5vh,13px); font-weight:600; line-height:1.25; color:var(--ink); }
   .news-row .ncard .nd{ font-size:clamp(10.5px,1.35vh,11.5px); line-height:1.3; color:var(--ink-2); }
+
+  /* card Sintese (aba Custos) estica para ocupar o espaco livre */
+  .card-sintese{ display:flex; flex-direction:column; }
+  .card-sintese .split{ margin:14px 0; }
+  .card-sintese .desc{ font-size:clamp(11.5px,1.6vh,14px); line-height:1.5; }
+
+  /* telas de NEWS cheias (04 News Insumos, 06 News Associacoes) */
+  .news-full{ height:100%; display:flex; flex-direction:column; }
+  .news-grid{ display:grid; grid-template-columns:1fr 1fr; grid-auto-rows:1fr; gap:clamp(10px,1.6vh,18px); height:100%; }
+  .news-grid .ncard{ min-width:0; display:flex; flex-direction:column; gap:6px;
+    padding:clamp(12px,1.8vh,20px) clamp(14px,1.6vw,22px);
+    border:1px solid var(--line); border-radius:14px; text-decoration:none; color:inherit;
+    transition:border-color .15s, opacity .15s; overflow:hidden; }
+  .news-grid a.ncard:hover{ border-color:var(--accent); opacity:.9; }
+  .news-grid .ncard .nf{ font-family:'JetBrains Mono'; font-size:clamp(10px,1.2vh,12px); letter-spacing:1px;
+    text-transform:uppercase; color:var(--accent); display:flex; gap:8px; align-items:center; }
+  .news-grid .ncard .nf b{ color:var(--ink-3); font-weight:500; }
+  .news-grid .ncard .nt{ font-size:clamp(15px,2.1vh,20px); font-weight:600; line-height:1.28; color:var(--ink); }
+  .news-grid .ncard .nd{ font-size:clamp(12.5px,1.65vh,15px); line-height:1.42; color:var(--ink-2); }
+  .news-grid .vazio{ grid-column:1 / -1; font-size:14px; color:var(--ink-3); font-style:italic; padding:20px; text-align:center; }
   .news-row .vazio{ font-size:12px; color:var(--ink-3); font-style:italic; padding:6px 2px; }
   .feed .quando{ font-family:'JetBrains Mono'; font-size:9.5px; color:var(--ink-3); flex:0 0 58px; padding-top:2px; text-transform:uppercase; line-height:1.35; }
   .feed .quando b{ display:block; font-size:11.5px; font-weight:700; color:var(--accent); }
@@ -125,15 +171,17 @@
   .feed .txt b{ display:block; font-weight:600; margin-bottom:3px; }
   .feed .txt i{ display:block; font-style:normal; font-size:12px; line-height:1.35; color:var(--ink-2); }
 
-  .card{ background:var(--card); border:1px solid var(--line); border-radius:var(--radius); padding:clamp(11px,1.5vh,18px) 20px clamp(12px,1.6vh,20px) 20px; display:flex; flex-direction:column; box-shadow:var(--shadow); transition:background .4s ease, border-color .4s ease; min-height:0; min-width:0; overflow:hidden; }
+  .card::-webkit-scrollbar{ width:0; height:0; }
+  .card{ scrollbar-width:none; }
+  .card{ background:var(--card); border:1px solid var(--line); border-radius:var(--radius); padding:clamp(10px,1.4vh,16px) 18px clamp(11px,1.5vh,18px) 18px; display:flex; flex-direction:column; box-shadow:var(--shadow); transition:background .4s ease, border-color .4s ease; min-height:0; min-width:0; overflow:auto; }
   .eyebrow{ font-family:'JetBrains Mono'; font-size:10.5px; letter-spacing:1.8px; text-transform:uppercase; color:var(--ink-3); display:flex; justify-content:space-between; align-items:center; margin-bottom:clamp(5px,1vh,9px); gap:10px; }
   .eyebrow > span:first-child{ overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
   .eyebrow .tag{ color:var(--accent); background:var(--accent-soft); padding:4px 10px; border-radius:999px; white-space:nowrap; flex-shrink:0; }
   .card h3{ font-family:'Oswald'; font-weight:600; font-size:clamp(15px,2vh,18px); text-transform:uppercase; letter-spacing:.5px; margin-bottom:6px; line-height:1.15; }
-  .figure{ display:flex; align-items:baseline; gap:8px; margin:4px 0 8px 0; flex-wrap:wrap; }
+  .figure{ display:flex; align-items:baseline; gap:8px; margin:clamp(2px,0.4vh,4px) 0 clamp(4px,0.8vh,8px) 0; flex-wrap:wrap; }
   .figure .num{ font-family:'Oswald'; font-weight:700; font-size:clamp(30px,4.6vh,42px); line-height:1; }
   .figure .unit{ font-size:14px; color:var(--ink-2); }
-  .desc{ font-size:clamp(11.5px,1.55vh,13.5px); line-height:1.45; color:var(--ink-2); }
+  .desc{ font-size:clamp(10.5px,1.45vh,13px); line-height:1.38; color:var(--ink-2); }
   .desc b{ color:var(--ink); font-weight:600; }
   .chip{ display:inline-flex; width:fit-content; align-items:center; gap:6px; font-family:'JetBrains Mono'; font-size:11.5px; padding:4px 11px; margin-top:clamp(6px,1.1vh,12px); border-radius:999px; border:1px solid var(--line); color:var(--ink-2); }
   .up{ color:var(--green); border-color:var(--green); }
@@ -157,13 +205,13 @@
   .split .vline{ width:1px; background:var(--line); flex-shrink:0; }
   .mini-h{ font-family:'Oswald'; font-weight:600; font-size:17px; text-transform:uppercase; letter-spacing:.5px; margin-bottom:6px; }
 
-  .stack{ display:flex; height:26px; border-radius:8px; overflow:hidden; margin:12px 0 8px 0; }
+  .stack{ display:flex; height:clamp(18px,2.4vh,26px); min-height:18px; border-radius:8px; overflow:hidden; margin:clamp(6px,1vh,12px) 0 clamp(4px,0.8vh,8px) 0; flex-shrink:0; }
   .stack span{ display:flex; align-items:center; justify-content:center; font-family:'JetBrains Mono'; font-size:12px; font-weight:700; color:#fff; }
-  .legend{ display:flex; flex-direction:column; gap:8px; margin-top:10px; }
-  .legend div{ display:flex; align-items:center; gap:9px; font-size:13.5px; color:var(--ink-2); }
+  .legend{ display:flex; flex-direction:column; gap:clamp(3px,0.7vh,8px); margin-top:clamp(5px,1vh,10px); }
+  .legend div{ display:flex; align-items:center; gap:9px; font-size:clamp(11px,1.5vh,13.5px); color:var(--ink-2); }
   .legend .dot{ width:11px; height:11px; border-radius:3px; flex-shrink:0; }
-  .kv{ display:flex; flex-direction:column; gap:10px; margin-top:4px; }
-  .kv .row{ display:flex; align-items:baseline; justify-content:space-between; border-bottom:1px solid var(--line); padding-bottom:10px; gap:12px; }
+  .kv{ display:flex; flex-direction:column; gap:clamp(4px,1vh,10px); margin-top:4px; }
+  .kv .row{ display:flex; align-items:baseline; justify-content:space-between; border-bottom:1px solid var(--line); padding-bottom:clamp(4px,1vh,10px); gap:12px; }
   .kv .row:last-child{ border-bottom:0; padding-bottom:0; }
   .kv .k{ font-size:13px; color:var(--ink-2); }
   .kv .v{ font-family:'Oswald'; font-weight:700; font-size:24px; white-space:nowrap; }
@@ -211,7 +259,7 @@
 
     /* cabecalho reflui e para de forcar tudo numa linha */
     header, .topbar, .header{ flex-wrap:wrap; gap:12px; padding:16px !important; height:auto !important; }
-    .tabs{ display:none !important; }            /* as abas-indicador da TV nao fazem sentido rolando */
+    .tabsbar{ display:none !important; }         /* as abas da TV nao fazem sentido rolando no mobile */
     #clock{ font-size:30px; }
 
     /* telas deixam de ficar sobrepostas (absolute) e passam a empilhar */
@@ -225,7 +273,7 @@
     .screen.show, .screen:not(.show){ opacity:1 !important; visibility:visible !important; }
 
     /* cada grid de cards vira coluna unica */
-    #screen1, #screen2, #screen3, #screen4, #screen5{
+    #screen1, #screen2, #screen3, #screen4, #screen5, #screen6, #screen7{
       display:block !important;
     }
     .screen > .card, .screen > div[class*="card"], .screen > [style*="grid-column"]{
@@ -237,6 +285,7 @@
 
     /* faixas de noticias e feed viram coluna no mobile */
     .news-row{ flex-direction:column !important; gap:10px; }
+    .news-grid{ grid-template-columns:1fr !important; grid-auto-rows:auto !important; }
     .news-row .ncard{ width:auto; }
 
     /* tipografia reescalada para o celular */
@@ -307,13 +356,6 @@ window.DADOS = {
       <span class="brand-sub">Inteligência de Mercado</span>
     </div>
     <div class="header-right">
-      <div class="tabs" id="tabs">
-        <div class="tab" data-i="0"><span class="lbl">01 · Índices</span><div class="seg"><span class="prog"></span></div></div>
-        <div class="tab" data-i="1"><span class="lbl">02 · Insumos</span><div class="seg"><span class="prog"></span></div></div>
-        <div class="tab" data-i="2"><span class="lbl">03 · Custos</span><div class="seg"><span class="prog"></span></div></div>
-        <div class="tab" data-i="3"><span class="lbl">04 · Associações</span><div class="seg"><span class="prog"></span></div></div>
-        <div class="tab" data-i="4"><span class="lbl">05 · Manchetes</span><div class="seg"><span class="prog"></span></div></div>
-      </div>
       <div class="theme-btn" id="themeBtn" title="Alternar modo claro/escuro">
         <svg id="themeIcon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M6.3 17.7l-1.4 1.4M19.1 4.9l-1.4 1.4"/></svg>
         <span id="themeLabel">Modo claro</span>
@@ -326,12 +368,12 @@ window.DADOS = {
   <div class="stage">
     <!-- TELA 1 -->
     <section class="screen show" id="screen1">
-      <div class="screen-title"><span class="kicker">Tela 01</span><h2>Índices &amp; Demanda</h2><span class="rule"></span></div>
+      <div class="screen-title"><span class="kicker">Tela 01</span><h2>Índices &amp; Demanda</h2><span class="rule"><span class="rule-prog"></span></span><div class="nav-arrows"><button class="nav-btn" data-nav="prev" aria-label="Aba anterior">&#10094;</button><button class="nav-btn" data-nav="next" aria-label="Proxima aba">&#10095;</button></div></div>
       <div class="card card-hero">
         <div class="eyebrow"><span>Custo da construção</span><span class="tag">FGV · INCC-10</span></div>
         <h3>Índice Nacional de Custo da Construção</h3>
         <div class="figure"><span class="num">6,70</span><span class="unit">% em 12 meses</span></div>
-        <p class="desc">Ritmo de reajuste da obra segue pressionado pela mão de obra, que hoje pesa mais que os insumos. Acumulado do ano já em 4,63%, sustentando repasse de preço ao longo do 2º semestre.</p>
+        <p class="desc">Reajuste da obra pressionado pela mão de obra, hoje acima dos insumos. Acumulado do ano em 4,63%, sustentando repasse de preço no 2º semestre.</p>
         <div class="hero-sub"><div><b>4,63%</b>acumulado 2026</div><div><b>0,62%</b>variação no mês</div><div><b>7 capitais</b>base de cálculo</div></div>
       </div>
       <div class="card">
@@ -352,7 +394,7 @@ window.DADOS = {
         <div class="eyebrow"><span>Habitação</span><span class="tag">MCMV</span></div>
         <h3>Minha Casa Minha Vida</h3>
         <div class="figure"><span class="num">3M</span><span class="unit">moradias · meta 2026</span></div>
-        <p class="desc">Entrada da Faixa 4 (classe média) e teto de crédito em R$ 600 mil ampliam o funil de obras. Potencial de <b>+5 milhões de toneladas</b> de cimento no ciclo.</p>
+        <p class="desc">Faixa 4 e teto de crédito de R$ 600 mil ampliam o funil de obras. Potencial de <b>+5 mi de toneladas</b> de cimento no ciclo.</p>
         <div class="chip up">&#9650; Faixa 4 aquecendo a demanda</div>
         <div class="ref">Ref. <b>2026</b> · Ministério das Cidades</div>
       </div>
@@ -369,9 +411,49 @@ window.DADOS = {
       </div>
     </section>
 
-    <!-- TELA 2 -->
-    <section class="screen" id="screen2">
-      <div class="screen-title"><span class="kicker">Tela 02</span><h2>Insumos &amp; Preços</h2><span class="rule"></span></div>
+<section class="screen" id="screen2">
+      <div class="screen-title"><span class="kicker">Tela 02</span><h2>Custos &amp; Tendências</h2><span class="rule"><span class="rule-prog"></span></span><div class="nav-arrows"><button class="nav-btn" data-nav="prev" aria-label="Aba anterior">&#10094;</button><button class="nav-btn" data-nav="next" aria-label="Proxima aba">&#10095;</button></div></div>
+      <div class="card">
+        <div class="eyebrow"><span>Logística</span><span class="tag">Cadeia produtiva</span></div>
+        <h3>Frete, Diesel &amp; Jornada</h3>
+        <div class="figure"><span class="num" style="color:var(--red)">+25%</span><span class="unit">frete rodoviário</span></div>
+        <p class="desc">Diesel encarece o transporte, enquanto frete marítimo e coque de petróleo sobem cerca de 30% no ano. Eventual jornada 5x2 pode somar <b>+15%</b> ao custo trabalhista da indústria.</p>
+        <div class="chip down">&#9660; Margem industrial sob pressão</div>
+        <div class="ref">Ref. <b>1º sem/26</b> · SNIC · cadeia produtiva</div>
+      </div>
+      <div class="card">
+        <div class="eyebrow"><span>Gatilhos de curto prazo</span><span class="tag">Câmbio &amp; Petróleo</span></div>
+        <h3>Dólar &amp; Barril</h3>
+        <div class="figure"><span class="num" style="color:var(--yellow)">2</span><span class="unit">variáveis-chave</span></div>
+        <p class="desc">Insumos dolarizados (minério, coque, resinas) reagem rápido ao câmbio e ao petróleo. Tensão no Oriente Médio mantém o barril volátil e alimenta o repasse na cadeia.</p>
+        <div class="chip flat">&#9679; Monitoramento diário</div>
+        <div class="ref">Ref. <b>ago/26</b> · Banco Central · Brent</div>
+      </div>
+      <div class="card">
+        <div class="eyebrow"><span>Política comercial</span><span class="tag">Antidumping</span></div>
+        <h3>Defesa Comercial</h3>
+        <div class="figure"><span class="num" style="color:var(--cyan)">43%</span><span class="unit">alíquota PVC</span></div>
+        <p class="desc">Revisão de antidumping sobre PVC (43%) e polietileno (79%), somada a medidas no aço, redesenha custo de importação e a competitividade das linhas nacionais.</p>
+        <div class="chip flat">&#9679; Impacto no custo de importação</div>
+        <div class="ref">Ref. <b>2026</b> · Camex · Gecex</div>
+      </div>
+      <div class="card card-sintese" style="grid-column:1 / -1;">
+        <div class="eyebrow"><span>Para onde o setor caminha este ano</span><span class="tag">Síntese estratégica</span></div>
+        <div class="split" style="flex:1; align-items:stretch;">
+          <div style="flex:1;"><div class="mini-h" style="color:var(--accent)">Industrialização</div><p class="desc">Pré-fabricados e sistemas construtivos trazem padronização, menos retrabalho e obras mais rápidas. Tendência que favorece quem tem portfólio de acabamento e conexões prontas para montagem.</p></div>
+          <div class="vline"></div>
+          <div style="flex:1;"><div class="mini-h" style="color:var(--cyan)">Sustentabilidade</div><p class="desc">Materiais reciclados e certificação ambiental pesam cada vez mais na obra corporativa e no varejo consciente. Diferencial de venda que já move decisão de compra em linhas de tinta e revestimento.</p></div>
+          <div class="vline"></div>
+          <div style="flex:1;"><div class="mini-h" style="color:var(--yellow)">Eficiência de estoque</div><p class="desc">Menos ruptura, mais giro: o indicador setorial supera a planilha estática. Acompanhar preço e disponibilidade em tempo real vira vantagem competitiva frente à concorrência local.</p></div>
+          <div class="vline"></div>
+          <div style="flex:1;"><div class="mini-h" style="color:var(--green)">Crédito e demanda</div><p class="desc">MCMV (Faixa 4) e investimento em infraestrutura sustentam a demanda mesmo com juro alto. O consumidor busca financiamento, e a reforma segue como motor do varejo de material.</p></div>
+        </div>
+        <div class="ref">Ref. <b>2026</b> · CBIC · Abramat · SNIC · leitura Nova Casa</div>
+      </div>
+    </section>
+
+<section class="screen" id="screen3">
+      <div class="screen-title"><span class="kicker">Tela 03</span><h2>Insumos &amp; Preços</h2><span class="rule"><span class="rule-prog"></span></span><div class="nav-arrows"><button class="nav-btn" data-nav="prev" aria-label="Aba anterior">&#10094;</button><button class="nav-btn" data-nav="next" aria-label="Proxima aba">&#10095;</button></div></div>
       <div class="card">
         <div class="eyebrow"><span>Estrutural</span><span class="tag">Aço CA-50</span></div>
         <h3>Vergalhão de Aço</h3>
@@ -400,7 +482,7 @@ window.DADOS = {
         <div class="eyebrow"><span>Esquadrias</span><span class="tag">Alumínio</span></div>
         <h3>Alumínio</h3>
         <div class="figure"><span class="num" style="color:var(--red)">+89%</span><span class="unit">em 12 meses (LME)</span></div>
-        <p class="desc">Tonelada saltou de US$ 3.220 para US$ 6.100 após ataques a fundições no Golfo e bloqueio no Estreito de Ormuz, que concentra parte da produção mundial. Componente a monitorar de perto para esquadrias e estruturas metálicas.</p>
+        <p class="desc">Tonelada saltou de US$ 3.220 para US$ 6.100 após ataques a fundições no Golfo e bloqueio no Estreito de Ormuz. Monitorar de perto para esquadrias e estruturas metálicas.</p>
         <div class="chip down">&#9660; Maior alta entre os insumos monitorados</div>
         <div class="ref">Ref. <b>mar-mai/26</b> · Bloomberg Línea</div>
       </div>
@@ -409,67 +491,23 @@ window.DADOS = {
         <div class="split" style="align-items:center;">
           <h3 style="font-size:18px; margin:0; max-width:260px; line-height:1.3;">Cesta dividida: estrutura cai, hidráulica e acabamento sobem</h3>
           <div class="vline" style="height:52px;"></div>
-          <p class="desc" style="font-size:13.5px;">Momento pede recomposição de mix e revisão de tabela por linha. Antecipar PVC e tintas antes de novos reajustes, enquanto o aço abre espaço para preço competitivo em estrutura.</p>
+          <p class="desc" style="font-size:13.5px;">Momento pede recomposição de mix e revisão de tabela por linha: antecipar PVC e tintas antes de novos reajustes; aço abre espaço para preço competitivo em estrutura.</p>
         </div>
         <div class="ref" style="margin-top:12px;">Ref. <b>jul-ago/26</b> · leitura Nova Casa</div>
         <div style="display:none">
         </div>
       </div>
-      <div class="card news-strip" style="grid-column:1 / -1;" id="news-insumos">
-        <div class="eyebrow"><span>No radar de insumos</span><span class="tag">Notícias</span></div>
-        <div class="news-row" id="news-insumos-row"></div>
-      </div>
     </section>
 
-    <!-- TELA 3 -->
-    <section class="screen" id="screen3">
-      <div class="screen-title"><span class="kicker">Tela 03</span><h2>Custos &amp; Tendências</h2><span class="rule"></span></div>
-      <div class="card">
-        <div class="eyebrow"><span>Logística</span><span class="tag">Cadeia produtiva</span></div>
-        <h3>Frete, Diesel &amp; Jornada</h3>
-        <div class="figure"><span class="num" style="color:var(--red)">+25%</span><span class="unit">frete rodoviário</span></div>
-        <p class="desc">Diesel encarece o transporte, enquanto frete marítimo e coque de petróleo sobem cerca de 30% no ano. Eventual jornada 5x2 pode somar <b>+15%</b> ao custo trabalhista da indústria.</p>
-        <div class="chip down">&#9660; Margem industrial sob pressão</div>
-        <div class="ref">Ref. <b>1º sem/26</b> · SNIC · cadeia produtiva</div>
-      </div>
-      <div class="card">
-        <div class="eyebrow"><span>Gatilhos de curto prazo</span><span class="tag">Câmbio &amp; Petróleo</span></div>
-        <h3>Dólar &amp; Barril</h3>
-        <div class="figure"><span class="num" style="color:var(--yellow)">2</span><span class="unit">variáveis-chave</span></div>
-        <p class="desc">Insumos dolarizados (minério, coque, resinas) reagem rápido ao câmbio e ao petróleo. Tensão no Oriente Médio mantém o barril volátil e alimenta o repasse na cadeia.</p>
-        <div class="chip flat">&#9679; Monitoramento diário</div>
-        <div class="ref">Ref. <b>ago/26</b> · Banco Central · Brent</div>
-      </div>
-      <div class="card">
-        <div class="eyebrow"><span>Política comercial</span><span class="tag">Antidumping</span></div>
-        <h3>Defesa Comercial</h3>
-        <div class="figure"><span class="num" style="color:var(--cyan)">43%</span><span class="unit">alíquota PVC</span></div>
-        <p class="desc">Revisão de antidumping sobre PVC (43%) e polietileno (79%), somada a medidas no aço, redesenha custo de importação e a competitividade das linhas nacionais.</p>
-        <div class="chip flat">&#9679; Impacto no custo de importação</div>
-        <div class="ref">Ref. <b>2026</b> · Camex · Gecex</div>
-      </div>
-      <div class="card" style="grid-column:1 / -1;">
-        <div class="eyebrow"><span>Para onde o setor caminha este ano</span><span class="tag">Síntese</span></div>
-        <div class="split">
-          <div style="flex:1;"><div class="mini-h" style="color:var(--accent)">Industrialização</div><p class="desc">Pré-fabricados trazem padronização e menos retrabalho.</p></div>
-          <div class="vline"></div>
-          <div style="flex:1;"><div class="mini-h" style="color:var(--cyan)">Sustentabilidade</div><p class="desc">Reciclados e certificação pesam mais na obra corporativa.</p></div>
-          <div class="vline"></div>
-          <div style="flex:1;"><div class="mini-h" style="color:var(--yellow)">Eficiência</div><p class="desc">Menos ruptura, mais giro. Indicador supera planilha estática.</p></div>
-          <div class="vline"></div>
-          <div style="flex:1;"><div class="mini-h" style="color:var(--green)">Crédito</div><p class="desc">MCMV e infraestrutura sustentam a demanda mesmo com juro alto.</p></div>
-        </div>
-        <div class="ref">Ref. <b>2026</b> · CBIC · Abramat · SNIC</div>
-      </div>
-      <div class="card news-strip" style="grid-column:1 / -1;" id="news-custos">
-        <div class="eyebrow"><span>No radar de custos</span><span class="tag">Notícias</span></div>
-        <div class="news-row" id="news-custos-row"></div>
-      </div>
-    </section>
-
-    <!-- TELA 4 · ANAMACO -->
     <section class="screen" id="screen4">
-      <div class="screen-title"><span class="kicker">Tela 04</span><h2>Associações do Setor · Anamaco &amp; ABRAMAT</h2><span class="rule"></span></div>
+      <div class="screen-title"><span class="kicker">Tela 04</span><h2>Newsletter · Insumos &amp; Custos</h2><span class="rule"><span class="rule-prog"></span></span><div class="nav-arrows"><button class="nav-btn" data-nav="prev" aria-label="Aba anterior">&#10094;</button><button class="nav-btn" data-nav="next" aria-label="Proxima aba">&#10095;</button></div></div>
+      <div class="card news-full" style="grid-column:1 / -1;">
+        <div class="news-grid" id="newsfull-insumos"></div>
+      </div>
+    </section>
+
+<section class="screen" id="screen5">
+      <div class="screen-title"><span class="kicker">Tela 05</span><h2>Associações do Setor · Anamaco &amp; ABRAMAT</h2><span class="rule"><span class="rule-prog"></span></span><div class="nav-arrows"><button class="nav-btn" data-nav="prev" aria-label="Aba anterior">&#10094;</button><button class="nav-btn" data-nav="next" aria-label="Proxima aba">&#10095;</button></div></div>
       <div class="card">
         <div class="eyebrow"><span>Percepção de vendas</span><span class="tag">1º sem/26</span></div>
         <h3>Termômetro Anamaco</h3>
@@ -484,14 +522,13 @@ window.DADOS = {
           <div><span class="dot" style="background:var(--cyan)"></span>Estabilidade</div>
           <div><span class="dot" style="background:var(--red)"></span>Retração</div>
         </div>
-        <p class="desc" style="margin-top:12px;">Em todos os meses do semestre, quem percebeu aumento superou quem indicou queda.</p>
         <div class="ref">Ref. <b>1º sem/26</b> · Termômetro Anamaco</div>
       </div>
       <div class="card">
         <div class="eyebrow"><span>Expectativa dos lojistas</span><span class="tag">Próx. 3 meses</span></div>
         <h3>Confiança no Curto Prazo</h3>
         <div class="figure"><span class="num" style="color:var(--green)">68,7%</span><span class="unit">esperam crescer</span></div>
-        <p class="desc">Contra apenas <b>7,8%</b> que projetam retração. Otimismo maior entre lojas de maior porte e no segmento de revestimentos cerâmicos. O 2º trimestre, porém, veio abaixo do esperado, sinalizando previsão mais difícil.</p>
+        <p class="desc">Contra apenas <b>7,8%</b> que projetam retração. Otimismo maior em lojas grandes e em revestimentos cerâmicos, mas o 2º trimestre veio abaixo do esperado.</p>
         <div class="chip up">&#9650; Saldo positivo em todas as regiões</div>
         <div class="ref">Ref. <b>1º sem/26</b> · Anamaco</div>
       </div>
@@ -505,19 +542,6 @@ window.DADOS = {
         </div>
         <div class="ref">Ref. <b>jun-jul/26</b> · IBGE · CNC</div>
       </div>
-      <div class="card">
-        <div class="eyebrow"><span>Voz do varejo</span><span class="tag">Institucional</span></div>
-        <h3>Agenda da Anamaco</h3>
-        <div class="figure" style="margin-top:2px; margin-bottom:6px;"><span class="num" style="color:var(--accent); font-size:36px;">159<span style="font-size:18px"> mil</span></span><span class="unit">varejistas representados</span></div>
-        <p class="desc">Pautas prioritárias defendidas junto ao Poder Público:</p>
-        <div class="pautas">
-          <span>Cesta Básica de Material de Construção</span>
-          <span>Reforma Tributária equilibrada</span>
-          <span>Certificação de produtos</span>
-          <span>Crédito para reforma</span>
-        </div>
-        <div class="ref">Ref. <b>2026</b> · Anamaco institucional</div>
-      </div>
       <div class="card" id="card-abramat">
         <div class="eyebrow"><span>Faturamento do setor</span><span class="tag">ABRAMAT</span></div>
         <h3>Índice ABRAMAT</h3>
@@ -526,25 +550,17 @@ window.DADOS = {
         <div class="chip" id="abramat-chip">&#9650; Reação mensal, recuperação gradual</div>
         <div class="ref" id="abramat-ref">Ref. <b>jun/26</b> · ABRAMAT · FGV/Ecconit</div>
       </div>
-      <div class="card" style="grid-column:span 3;">
-        <div class="split" style="align-items:center;">
-          <div style="flex:0 0 300px; padding-right:24px; border-right:1px solid var(--line);">
-            <div class="mini-h" style="color:var(--accent); margin-bottom:2px;">Ranking Anamaco 2026</div>
-            <p class="desc" style="font-size:12.5px;">26ª edição · 219 indústrias apontaram os maiores compradores</p>
-          </div>
-          <p class="desc" style="font-size:13.5px; padding-left:24px;">Leitura da entidade para o 2º sem: setor resiliente, mas resistência não é crescimento. Avançar depende de mais crédito, programas eficientes e estímulo ao consumo.</p>
-        </div>
-        <div class="ref">Ref. <b>26ª edição · 2026</b> · Anamaco</div>
-      </div>
-      <div class="card news-strip" style="grid-column:1 / -1;" id="news-demanda">
-        <div class="eyebrow"><span>No radar de demanda e mercado</span><span class="tag">Notícias</span></div>
-        <div class="news-row" id="news-demanda-row"></div>
+      </section>
+
+    <section class="screen" id="screen6">
+      <div class="screen-title"><span class="kicker">Tela 06</span><h2>Newsletter · Associações</h2><span class="rule"><span class="rule-prog"></span></span><div class="nav-arrows"><button class="nav-btn" data-nav="prev" aria-label="Aba anterior">&#10094;</button><button class="nav-btn" data-nav="next" aria-label="Proxima aba">&#10095;</button></div></div>
+      <div class="card news-full" style="grid-column:1 / -1;">
+        <div class="news-grid" id="newsfull-assoc"></div>
       </div>
     </section>
 
-    <!-- TELA 5 · MANCHETES DO DIA -->
-    <section class="screen" id="screen5">
-      <div class="screen-title"><span class="kicker">Tela 05</span><h2>Manchetes do Setor</h2><span class="rule"></span><span id="selo-atualizacao" class="selo">carregando</span></div>
+<section class="screen" id="screen7">
+      <div class="screen-title"><span class="kicker">Tela 07</span><h2>Newsletter · Mercado</h2><span class="rule"><span class="rule-prog"></span></span><div class="nav-arrows"><button class="nav-btn" data-nav="prev" aria-label="Aba anterior">&#10094;</button><button class="nav-btn" data-nav="next" aria-label="Proxima aba">&#10095;</button></div><span id="selo-atualizacao" class="selo">carregando</span></div>
       <div class="card" id="mancheteDestaque1"></div>
       <div class="card" id="mancheteDestaque2"></div>
       <div class="card" id="listaManchetes">
@@ -650,11 +666,11 @@ window.DADOS = {
     let pool = baseManchetes.filter(m=> parseD(m.data)===maxD && !destaques.includes(m));
     if (!pool.length) pool = baseManchetes.filter(m=>!destaques.includes(m));
     pool = pool.slice().sort((a,b)=> parseD(b.data)-parseD(a.data));  // giro: mais recente primeiro
-    feed.innerHTML = pool.slice(0,5).map(m=>{
+    feed.innerHTML = pool.slice(0,6).map(m=>{
       const conteudo =
         '<span class="quando"><b>'+(m.data||'').slice(0,5)+'</b>'+semTr(m.fonte||'')+'</span>'+
         '<span class="txt"><b>'+semTr(m.titulo)+'</b>'+
-        (m.resumo ? '<i>'+semTr(corta(m.resumo,105))+'</i>' : '')+'</span>';
+        (m.resumo ? '<i>'+semTr(corta(m.resumo,180))+'</i>' : '')+'</span>';
       return m.link
         ? '<a class="item" href="'+esc(m.link)+'" target="_blank" rel="noopener">'+conteudo+'</a>'
         : '<div class="item">'+conteudo+'</div>';
@@ -665,17 +681,21 @@ window.DADOS = {
   // usando a etiqueta "aba" que o robo grava em cada manchete.
   (function preencherRadares(){
     const rotulo = { insumos:'Insumos', custos:'Custos', demanda:'Demanda', geral:'Geral' };
-    function montaRadar(aba, alvoId, fontesPermitidas){
+    function montaRadar(aba, alvoId, fontesPermitidas, opts){
       const alvo = document.getElementById(alvoId);
       if (!alvo) return;
       // pega as noticias do tema, mais recentes primeiro, no maximo 3.
       // se fontesPermitidas for passado, so entram noticias dessas fontes
       // (ex.: aba Associacoes so mostra Anamaco e ABRAMAT no radar).
+      const lim = (opts && opts.limite) || 3;
+      const cheio = opts && opts.cheio;
+      const corteResumo = cheio ? 200 : 90;
+      const abas = Array.isArray(aba) ? aba : [aba];
       const doTema = mans
-        .filter(m => (m.aba||'geral') === aba)
+        .filter(m => abas.includes(m.aba||'geral'))
         .filter(m => !fontesPermitidas || fontesPermitidas.includes((m.fonte||'').toLowerCase()))
         .sort((a,b)=> parseD(b.data) - parseD(a.data))
-        .slice(0,3);
+        .slice(0,lim);
       if (!doTema.length){
         alvo.innerHTML = '<div class="vazio">Sem notícias novas do tema hoje. Assim que sair, aparece aqui.</div>';
         return;
@@ -684,15 +704,16 @@ window.DADOS = {
         const inner =
           '<span class="nf"><b>'+(m.data||'').slice(0,5)+'</b>'+semTr(m.fonte||'')+'</span>'+
           '<span class="nt">'+semTr(m.titulo)+'</span>'+
-          (m.resumo ? '<span class="nd">'+semTr(corta(m.resumo,90))+'</span>' : '');
+          (m.resumo ? '<span class="nd">'+semTr(corta(m.resumo,corteResumo))+'</span>' : '');
         return m.link
           ? '<a class="ncard" href="'+esc(m.link)+'" target="_blank" rel="noopener">'+inner+'</a>'
           : '<div class="ncard">'+inner+'</div>';
       }).join('');
     }
-    montaRadar('insumos', 'news-insumos-row');
-    montaRadar('custos',  'news-custos-row');
-    montaRadar('demanda', 'news-demanda-row', ['anamaco','abramat']);
+    // telas de news (cheias, ate 6 noticias com mais texto)
+    // News Insumos agora reune insumos E custos (o radar saiu da aba Custos)
+    montaRadar(['insumos','custos'], 'newsfull-insumos', null, {limite:6, cheio:true});
+    montaRadar('demanda', 'newsfull-assoc', ['anamaco','abramat'], {limite:6, cheio:true});
   })();
 
   // indicadores mensais com data de referência
@@ -753,8 +774,12 @@ window.DADOS = {
   track.style.animationDuration = duracaoSegundos + 's';
 
   const screens=[...document.querySelectorAll('.screen')];
-  const tabs=[...document.querySelectorAll('#tabs .tab')];
-  const DUR=60000; let idx=0, timer;
+  // duracao por aba (ms): indicadores 40s, abas de noticias 90s.
+  // ordem: 01 Indices, 02 Custos, 03 Insumos, 04 News Insumos,
+  //        05 Associacoes, 06 News Associacoes, 07 News Mercado
+  const DURS=[40000,40000,40000,90000,40000,90000,90000];
+  let idx=0, timer;
+  const durOf = i => DURS[i] || 40000;
 
   // No mobile (tela estreita) o painel vira pagina unica empilhada: todas as
   // telas ficam visiveis e a rotacao automatica e desligada. So a TV/desktop
@@ -764,17 +789,31 @@ window.DADOS = {
   function activate(i){
     idx=i;
     screens.forEach((s,k)=>s.classList.toggle('show',k===i));
-    tabs.forEach((t,k)=>{ const p=t.querySelector('.prog'); if(!p) return; t.classList.remove('on'); p.style.animation='none'; void p.offsetWidth;
-      if(k<i){ p.style.width='100%'; } else if(k===i){ p.style.width='0'; t.classList.add('on'); p.style.animation='fillseg linear forwards'; p.style.animationDuration=(DUR/1000)+'s'; } else { p.style.width='0'; } });
+    // anima a barra de progresso no titulo da tela ativa (sensacao de migracao)
+    const ativa = screens[i];
+    if (ativa){
+      const p = ativa.querySelector('.rule-prog');
+      if (p){
+        p.style.animation='none'; p.style.width='0'; void p.offsetWidth;
+        p.style.animation='fillseg linear forwards';
+        p.style.animationDuration=(durOf(i)/1000)+'s';
+      }
+    }
   }
   function next(){ activate((idx+1)%screens.length); schedule(); }
-  function schedule(){ clearTimeout(timer); timer=setTimeout(next,DUR); }
+  function prev(){ activate((idx-1+screens.length)%screens.length); schedule(); }
+  function schedule(){ clearTimeout(timer); timer=setTimeout(next,durOf(idx)); }
 
   if (ehMobile){
     // mostra todas as telas empilhadas, sem rotacao nem timer
     screens.forEach(s=>s.classList.add('show'));
   } else {
-    tabs.forEach(t=>t.addEventListener('click',()=>{ activate(+t.dataset.i); schedule(); }));
+    // botoes < > em cada titulo migram de aba manualmente (e reiniciam o timer)
+    document.querySelectorAll('.nav-btn').forEach(btn=>{
+      btn.addEventListener('click', ()=>{
+        if (btn.dataset.nav === 'prev') prev(); else next();
+      });
+    });
     activate(0); schedule();
   }
 
