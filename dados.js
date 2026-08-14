@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "14/08/2026 11:27",
+ "atualizado_em": "14/08/2026 12:07",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Confiança do empresário paulistano recua",
+   "data": "14/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "Em junho, a confiança dos empresários do comércio paulistano registrou o pior patamar em cinco anos, de acordo com a FecomercioSP. O Índice de Confiança do Empresário do Comércio no Município de São Paulo registrou...",
+   "link": "http://www.revistaanamaco.com.br/confianca-do-empresario-paulistano-recua-1",
+   "aba": "demanda"
   },
   {
    "titulo": "Cores da Coral dão vida à instalação de Sol Calero no Vão Livre do Masp",
@@ -24,6 +32,14 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "A Dexco encerrou o segundo trimestre deste ano com EBITDA ajustado e recorrente de R$ 547 milhões, o que significa alta de 23,6% na comparação anual. A receita líquida alcançou R$ 2,23 bilhões, crescimento de 5,2%",
    "link": "http://www.revistaanamaco.com.br/dexco-registra-ebitda-ajustado-e-recorrente-de-r-547-milhoes-de-abril-a-junho-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Debêntures perdem espaço e fundos imobiliários e ações crescem em julho",
+   "data": "14/08/2026",
+   "fonte": "InfoMoney",
+   "resumo": "Emissões de FIIs voltaram a crescer e tiveram o melhor mês do ano, junto com outros fundos estruturados, como Fiagros e FIDCs The post Debêntures perdem espaço e fundos imobiliários e ações crescem em julho appeared...",
+   "link": "https://www.infomoney.com.br/onde-investir/debentures-perdem-espaco-e-fundos-imobiliarios-e-acoes-crescem-em-julho/",
    "aba": "insumos"
   },
   {
@@ -75,14 +91,6 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "Vendas no Varejo Brasileiro Sobem Mais do Que o Esperado em Junho",
-   "data": "13/08/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Na comparação anual, as vendas cresceram 2,9% no mês O post Vendas no Varejo Brasileiro Sobem Mais do Que o Esperado em Junho apareceu primeiro em...",
-   "link": "https://forbes.com.br/forbes-money/2026/08/vendas-no-varejo-brasileiro-sobem-mais-do-que-o-esperado-em-junho/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "Governo destina R$ 3,5 bilhões para crédito empresarial e habitação de interesse social",
    "data": "13/08/2026",
    "fonte": "CBIC",
@@ -113,14 +121,6 @@ window.DADOS = {
    "resumo": "A sustentabilidade deixou de ser um assunto complementar e passou a fazer parte das decisões estratégicas da construção civil. Esse foi um dos principais pontos do Café Empresarial, realizado nesta quarta-feira (12),...",
    "link": "https://cbic.org.br/sinduscon-rio-sustentabilidade-ganha-espaco-como-estrategia-para-a-construcao-civil/",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Construlev Expo 2026",
-   "data": "13/08/2026",
-   "fonte": "ABRAMAT",
-   "resumo": "O post Construlev Expo 2026 apareceu primeiro em ABRAMAT - Associação Brasileira da Indústria de Materiais de Construção .",
-   "link": "https://abramat.org.br/construlev-expo-2026/",
-   "aba": "demanda"
   },
   {
    "titulo": "Custos desaceleraram",
