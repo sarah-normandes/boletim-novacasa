@@ -176,6 +176,20 @@
   .news-grid .ncard .nt{ font-size:clamp(15px,2.1vh,20px); font-weight:600; line-height:1.28; color:var(--ink); }
   .news-grid .ncard .nd{ font-size:clamp(12.5px,1.65vh,15px); line-height:1.42; color:var(--ink-2); }
   .news-grid .vazio{ grid-column:1 / -1; font-size:14px; color:var(--ink-3); font-style:italic; padding:20px; text-align:center; }
+
+  /* News Insumos e News Associacoes em formato GIRO (lista compacta),
+     nao card por noticia. Duas colunas para aproveitar a largura da TV. */
+  .feed-full{ column-count:2; column-gap:clamp(24px,3vw,54px); height:100%; }
+  .feed-full .item{ display:flex; gap:16px; break-inside:avoid; padding:clamp(10px,1.6vh,18px) 0;
+    border-bottom:1px solid var(--line); text-decoration:none; color:inherit; transition:opacity .15s; }
+  .feed-full a.item:hover{ opacity:.75; }
+  .feed-full .quando{ font-family:'JetBrains Mono'; font-size:11px; color:var(--ink-3); flex:0 0 62px;
+    padding-top:2px; text-transform:uppercase; line-height:1.4; }
+  .feed-full .quando b{ display:block; font-size:14px; font-weight:700; color:var(--accent); }
+  .feed-full .txt{ font-size:clamp(14px,1.9vh,17px); line-height:1.35; color:var(--ink); }
+  .feed-full .txt b{ display:block; font-weight:600; margin-bottom:4px; }
+  .feed-full .txt i{ display:block; font-style:normal; font-size:clamp(12.5px,1.6vh,14.5px); line-height:1.4; color:var(--ink-2); }
+  .feed-full .vazio{ font-size:14px; color:var(--ink-3); font-style:italic; padding:20px; text-align:center; }
   .news-row .vazio{ font-size:12px; color:var(--ink-3); font-style:italic; padding:6px 2px; }
   .feed .quando{ font-family:'JetBrains Mono'; font-size:9.5px; color:var(--ink-3); flex:0 0 58px; padding-top:2px; text-transform:uppercase; line-height:1.35; }
   .feed .quando b{ display:block; font-size:11.5px; font-weight:700; color:var(--accent); }
@@ -298,6 +312,7 @@
     /* faixas de noticias e feed viram coluna no mobile */
     .news-row{ flex-direction:column !important; gap:10px; }
     .news-grid{ grid-template-columns:1fr !important; grid-auto-rows:auto !important; }
+    .feed-full{ column-count:1 !important; }
     .news-row .ncard{ width:auto; }
 
     /* tipografia reescalada para o celular */
@@ -514,7 +529,7 @@ window.DADOS = {
     <section class="screen" id="screen4">
       <div class="screen-title"><span class="kicker">Tela 04</span><h2>Newsletter · Insumos &amp; Custos</h2><span class="rule"><span class="rule-prog"></span></span><div class="nav-arrows"><button class="nav-btn" data-nav="prev" aria-label="Aba anterior">&#10094;</button><button class="nav-btn" data-nav="next" aria-label="Proxima aba">&#10095;</button></div></div>
       <div class="card news-full" style="grid-column:1 / -1;">
-        <div class="news-grid" id="newsfull-insumos"></div>
+        <div class="feed feed-full" id="newsfull-insumos"></div>
       </div>
     </section>
 
@@ -567,7 +582,7 @@ window.DADOS = {
     <section class="screen" id="screen6">
       <div class="screen-title"><span class="kicker">Tela 06</span><h2>Newsletter · Associações</h2><span class="rule"><span class="rule-prog"></span></span><div class="nav-arrows"><button class="nav-btn" data-nav="prev" aria-label="Aba anterior">&#10094;</button><button class="nav-btn" data-nav="next" aria-label="Proxima aba">&#10095;</button></div></div>
       <div class="card news-full" style="grid-column:1 / -1;">
-        <div class="news-grid" id="newsfull-assoc"></div>
+        <div class="feed feed-full" id="newsfull-assoc"></div>
       </div>
     </section>
 
@@ -634,12 +649,16 @@ window.DADOS = {
   function ehDeAssociacao(m){ return FONTES_ASSOC.includes((m.fonte||'').toLowerCase()); }
   let baseManchetes = mans.filter(m => {
     const aba = m.aba || 'geral';
-    if (!TEMATICAS.has(aba)) return true;                       // geral -> Manchetes
-    if (aba === 'demanda' && !ehDeAssociacao(m)) return true;   // demanda de fora -> Manchetes
-    return false;                                               // resto fica nos radares
+    // notícias de associação (Anamaco/ABRAMAT) NUNCA entram no News Mercado:
+    // o lugar delas é a aba Associações, mesmo quando classificadas como geral.
+    if (ehDeAssociacao(m)) return false;
+    if (!TEMATICAS.has(aba)) return true;                       // geral (não-associação) -> Mercado
+    if (aba === 'demanda' && !ehDeAssociacao(m)) return true;   // demanda de fora -> Mercado
+    return false;                                               // resto fica nos radares temáticos
   });
   if (baseManchetes.length < 3) {
-    const extras = mans.filter(m => !baseManchetes.includes(m));
+    // completa SEM nunca puxar associacao (Anamaco/ABRAMAT ficam so na aba delas)
+    const extras = mans.filter(m => !baseManchetes.includes(m) && !ehDeAssociacao(m));
     baseManchetes = baseManchetes.concat(extras);
   }
 
@@ -710,6 +729,19 @@ window.DADOS = {
         .slice(0,lim);
       if (!doTema.length){
         alvo.innerHTML = '<div class="vazio">Sem notícias novas do tema hoje. Assim que sair, aparece aqui.</div>';
+        return;
+      }
+      if (cheio){
+        // formato GIRO (lista compacta): data+fonte a esquerda, titulo+resumo a direita
+        alvo.innerHTML = doTema.map(m=>{
+          const conteudo =
+            '<span class="quando"><b>'+(m.data||'').slice(0,5)+'</b>'+semTr(m.fonte||'')+'</span>'+
+            '<span class="txt"><b>'+semTr(m.titulo)+'</b>'+
+            (m.resumo ? '<i>'+semTr(corta(m.resumo,180))+'</i>' : '')+'</span>';
+          return m.link
+            ? '<a class="item" href="'+esc(m.link)+'" target="_blank" rel="noopener">'+conteudo+'</a>'
+            : '<div class="item">'+conteudo+'</div>';
+        }).join('');
         return;
       }
       alvo.innerHTML = doTema.map(m=>{
