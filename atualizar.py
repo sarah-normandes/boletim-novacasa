@@ -74,6 +74,16 @@ def buscar_manchetes(qtd=12):
             if len(resumo) > 220:
                 resumo = resumo[:217].rsplit(" ", 1)[0] + "..."
 
+        # descarta manchete sem texto util (so titulo)
+        if not resumo or len(resumo.strip()) < 40:
+            continue
+        # nada anterior a 7 dias
+        try:
+            d = datetime.strptime(data, "%d/%m/%Y").replace(tzinfo=HOJE.tzinfo)
+            if (HOJE - d).days > 7:
+                continue
+        except Exception:
+            pass
         if titulo not in [n["titulo"] for n in noticias]:
             noticias.append({
                 "titulo": titulo,
@@ -108,6 +118,9 @@ FONTES_RSS = [
     # Investing.com: mercado/bolsa. Costuma bloquear robos; se falhar, o robo
     # ignora e segue. So entram materias relacionadas ao setor (passa pelo FILTRO).
     ("Investing",     "https://br.investing.com/rss/news_25.rss"),
+    # IBGE (releases oficiais: varejo, construcao civil, IPCA, etc). Padrao
+    # Plone: url da listagem + /feed. Se sair do ar, o robo ignora e segue.
+    ("IBGE",          "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa.html/feed"),
 ]
 
 # Filtro de palavras-chave do setor
@@ -119,7 +132,9 @@ FILTRO = re.compile(
     r"engenharia civil|incorporador\w*|construtora\w*|vergalhão|"
     r"vergalhões|alvenaria|cerâmic\w* (de piso|de revestimento)|"
     r"resina\w*|petroquímic\w*|termoplástic\w*|polímero\w*|tubo\w*|conexõe\w*|"
-    r"polietileno|polipropileno|\bPP\b|\bPE\b|\bPEAD\b|\bPEBD\b)",
+    r"polietileno|polipropileno|\bPP\b|\bPE\b|\bPEAD\b|\bPEBD\b|"
+    r"varejo|com[ée]rcio varejista|vendas no varejo|material de acabamento|"
+    r"SINAPI|custo da constru\w*|[íi]ndice nacional da constru\w*)",
     re.I)
 
 # Filtro de exclusao para remover temas irrelevantes
@@ -182,7 +197,7 @@ PAYWALL = re.compile(
 PAYWALL_CAT = re.compile(r"\b(assinante[s]?|exclusivo|premium|pago)\b", re.I)
 
 def eh_assinante(it, titulo, desc):
-    """True se a materia parece ser conteudo pago/exclusivo de assinante."""
+    """True se a materia e paga/exclusiva de assinante OU nao tem texto util."""
     # 1) selo no titulo ou no resumo
     if PAYWALL.search(titulo) or PAYWALL.search(desc):
         return True
@@ -193,8 +208,11 @@ def eh_assinante(it, titulo, desc):
             return True
     except Exception:
         pass
-    # 3) resumo vazio ou minusculo costuma ser materia cortada por paywall
-    if desc and len(desc.strip()) < 15:
+    # 3) materia SEM texto (resumo vazio) ou minusculo: descarta. Cobre tanto
+    #    paywall que corta o resumo quanto paginas so de titulo/evento (ex:
+    #    abramat.org.br/construlev-expo-2026 sem descricao). Exige um minimo
+    #    de conteudo para a noticia valer no painel.
+    if not desc or len(desc.strip()) < 40:
         return True
     return False
 
@@ -225,10 +243,24 @@ def buscar_rss(qtd_por_fonte=4):
             if eh_assinante(it, titulo, desc):
                 continue
             data = ""
+            dt_pub = None
             if it.pubDate:
                 try:
                     from email.utils import parsedate_to_datetime
-                    data = parsedate_to_datetime(it.pubDate.get_text()).strftime("%d/%m/%Y")
+                    dt_pub = parsedate_to_datetime(it.pubDate.get_text())
+                    data = dt_pub.strftime("%d/%m/%Y")
+                except Exception:
+                    pass
+            # AJUSTE: nada anterior a 7 dias. Se a materia tem data e ela e
+            # mais velha que o limite, descarta. Sem data confiavel, mantem
+            # (algumas fontes nao trazem pubDate, mas costumam listar recentes).
+            if dt_pub is not None:
+                from datetime import timezone
+                agora = HOJE if dt_pub.tzinfo is None else HOJE.astimezone(dt_pub.tzinfo)
+                try:
+                    idade_dias = (agora - dt_pub).days
+                    if idade_dias > 7:
+                        continue
                 except Exception:
                     pass
             achados.append({
