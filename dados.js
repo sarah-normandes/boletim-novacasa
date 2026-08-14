@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "14/08/2026 06:55",
+ "atualizado_em": "14/08/2026 08:30",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -11,52 +11,12 @@ window.DADOS = {
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
-   "titulo": "Norton aposta no varejo regional para reforçar presença no matcon",
-   "data": "13/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Norton Abrasivos vem reforçando sua atuação comercial e de trade marketing voltada ao varejo regional, com iniciativas direcionadas a treinamento, ativação no ponto de venda, campanhas promocionais e relacionamento...",
-   "link": "http://www.revistaanamaco.com.br/norton-aposta-no-varejo-regional-para-reforcar-presenca-no-matcon",
+   "titulo": "Consórcio RioS mapeia risco climático na bacia do Guaíba para priorizar obras de resiliência",
+   "data": "14/08/2026",
+   "fonte": "Valor",
+   "resumo": "Mais de 250 municípios do Rio Grande do Sul compartilham o mesmo problema: o risco de enchentes e estiagens na bacia hidrográfica do Guaíba, que pode prejudicar a vida e ganha pão de 61% da população do estado, ou...",
+   "link": "https://valor.globo.com/brasil/esg/noticia/2026/08/14/consorcio-rios-mapeia-risco-climatico-na-bacia-do-guaiba-para-priorizar-obras-de-resiliencia.ghtml",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Grupo Aço Cearense investe e democratiza a capacitação entre os funcionários",
-   "data": "13/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Grupo Aço Cearense desenvolveu a \"Trilhar\", plataforma de aprendizagem corporativa construída em parceria com a Edusense, que colocou treinamentos e conteúdo de desenvolvimento na palma da mão dos colaboradores",
-   "link": "http://www.revistaanamaco.com.br/grupo-aco-cearense-investe-e-democratiza-a-capacitacao-entre-os-funcionarios",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Eucatex apoia projeto para transformar espaços de convivência e moradia",
-   "data": "13/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Eucatex amplia, em 2026, sua parceria com a Decor Social, organização sem fins lucrativos que utiliza a arquitetura, o design de interiores e o paisagismo para transformar espaços de convivência e moradia,...",
-   "link": "http://www.revistaanamaco.com.br/eucatex-apoia-projeto-para-transformar-espacos-de-convivencia-e-moradia",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Varejo fecha primeiro semestre em queda de 2,2%, apesar de reação no 2º trimestre",
-   "data": "13/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "O varejo físico brasileiro encerrou o primeiro semestre com retração de 2,2% em relação ao mesmo período do ano passado. Apesar do resultado acumulado negativo, o desempenho ao longo dos seis meses mostra uma melhora...",
-   "link": "http://www.revistaanamaco.com.br/varejo-fecha-primeiro-semestre-em-queda-de-22-apesar-de-reacao-no-2-trimestre-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Dia do Bem Fazer, do Instituto InterCement, mobiliza voluntários em 13 municípios",
-   "data": "13/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "Mais de 6,5 mil pessoas serão beneficiadas por projetos sociais apoiados pelo Instituto InterCement em 13 municípios de diferentes regiões do País durante a 18ª edição do Dia do Bem Fazer, marcada para os dias 15 e...",
-   "link": "http://www.revistaanamaco.com.br/dia-do-bem-fazer-do-instituto-intercement-mobiliza-voluntarios-em-13-municipios-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "1º Feirão Amigo, da Cicalfer, deverá reunir indústrias e lojistas em Sumaré",
-   "data": "13/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Cicalfer Atacadista realiza, no próximo sábado, 15 de agosto, das 12h às 17h, em Sumaré (SP), o 1º Feirão Amigo Cicalfer, reunindo clientes, lojistas, profissionais do setor e indústrias de material de construção",
-   "link": "http://www.revistaanamaco.com.br/1-feirao-amigo-da-cicalfer-devera-reunir-industrias-e-lojistas-em-sumare-",
-   "aba": "insumos"
   },
   {
    "titulo": "Vendas de material de construção caem 3,5% em junho e afetam varejo ampliado, diz IBGE",
@@ -99,36 +59,76 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "Custos desaceleraram",
-   "data": "12/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Custo Unitário Básico global da indústria da construção paulista, nas obras não incluídas na desoneração da folha de pagamentos, desacelerou para 0,45% em julho. Com isso, o indicador acumula elevação de 5,06% no...",
-   "link": "http://www.revistaanamaco.com.br/custos-desaceleraram",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Tigre apresenta novo posicionamento, que reflete a evolução da companhia",
-   "data": "12/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Tigre apresenta um novo sistema de marcas que acompanha a evolução da companhia ao longo dos últimos anos. Como parte desse movimento, a empresa passa a adotar a marca corporativa Grupo Tigre para sua comunicação...",
-   "link": "http://www.revistaanamaco.com.br/tigre-apresenta-novo-posicionamento-que-reflete-a-evolucao-da-companhia-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Confiança empresarial recuou em julho",
-   "data": "12/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Índice de Confiança Empresarial, calculado pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas, recuou 1,4 ponto em julho, para 91,3 pontos. Na métrica de médias móveis trimestrais, o índice registra...",
-   "link": "http://www.revistaanamaco.com.br/confianca-empresarial-recuou-em-julho-",
+   "titulo": "Construlev Expo 2026",
+   "data": "13/08/2026",
+   "fonte": "ABRAMAT",
+   "resumo": "O post Construlev Expo 2026 apareceu primeiro em ABRAMAT - Associação Brasileira da Indústria de Materiais de Construção .",
+   "link": "https://abramat.org.br/construlev-expo-2026/",
    "aba": "demanda"
   },
   {
-   "titulo": "Gerdau encerra segundo trimestre com Ebitda ajustado de R$ 3,4 bilhões",
+   "titulo": "Prefeitura reabre licitação para contratar projeto da obra do Terminal Cristal",
    "data": "12/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Gerdau acaba de divulgar os números do desempenho da empresa no segundo trimestre. De acordo com os dados apresentados, a companhia concluiu o segundo trimestre com Ebitda ajustado de R$ 3,4 bilhões, com margem...",
-   "link": "http://www.revistaanamaco.com.br/gerdau-encerra-segundo-trimestre-com-ebitda-ajustado-de-r-34-bilhoes-",
+   "fonte": "O Empreiteiro",
+   "resumo": "A Prefeitura de Porto Alegre reabriu a licitação para contratar a empresa que ficará responsável pela elaboração do projeto executivo e os estudos ambientais para O post Prefeitura reabre licitação para contratar...",
+   "link": "https://revistaoe.com.br/licitacao-terminal-cristal/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "ABRAMAT lança relatório mensal para acompanhar desempenho da indústria de materiais de construção",
+   "data": "12/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "A Associação Brasileira da Indústria de Materiais de Construção, ABRAMAT, lançou nesta segunda-feira (10) o Pulso ABRAMAT, novo relatório mensal dedicado ao acompanhamento da indústria O post ABRAMAT lança relatório...",
+   "link": "https://revistaoe.com.br/pulso-abramat-novo-relatorio-do-setor/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Evento gratuito atrai especialistas para discutir transformações no mercado da construção; inscreva-se",
+   "data": "12/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "A Faculdade Senai da Construção promove, nesta semana, em Campo Grande, as aulas magnas do Design Conecta, com uma programação gratuita e aberta à comunidade O post Evento gratuito atrai especialistas para discutir...",
+   "link": "https://revistaoe.com.br/design-conecta-aulas-magnas-senai/",
    "aba": "geral"
+  },
+  {
+   "titulo": "Engenharia estrutural: o papel do projeto e do engenheiro calculista na evolução da construção brasileira",
+   "data": "11/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "Entrevista feita com a engenheira Suely B. Bueno, que acaba de ser eleita para a presidência da Associação Brasileira de Engenharia e Consultoria Estrutural (Abece). O post Engenharia estrutural: o papel do projeto e...",
+   "link": "https://revistaoe.com.br/engenharia-estrutural-evolucao-desafios-brasil/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Forúm Construindo Cidades Resilientes",
+   "data": "05/08/2026",
+   "fonte": "ABRAMAT",
+   "resumo": "o fórum reunirá lideranças e especialistas para debater os caminhos para ampliar o financiamento sustentável e acelerar a transição para uma construção mais resiliente e de baixo carbono. O post Forúm Construindo...",
+   "link": "https://abramat.org.br/forum-construindo-cidades-resilientes/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Dow anuncia novo aumento de US$ 220/t e reabre a crise das resinas no Brasil",
+   "data": "25/07/2026",
+   "fonte": "PlásticoNews",
+   "resumo": "Carta da Dow de US$ 220/t para a América Latina expõe onda global de reajustes que já dura cinco meses e reacende o alerta sobre custo e desabastecimento na embalagem flexível Em carta datada de 24 de julho de 2026,...",
+   "link": "https://plasticonews.org/dow-anuncia-novo-aumento-de-us-220-t-e-reabre-a-crise-das-resinas-no-brasil/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "ABRAMAT participa da Construsummit 2026 e reforça o papel da indústria na transformação da construção civil",
+   "data": "23/07/2026",
+   "fonte": "ABRAMAT",
+   "resumo": "Em painel da Construsummit 2026, a ABRAMAT destacou como a indústria de materiais impulsiona a industrialização e a transformação da construção civil. O post ABRAMAT participa da Construsummit 2026 e reforça o papel...",
+   "link": "https://abramat.org.br/abramat-participa-da-construsummit-2026/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Indústria do Cimento em 2024 e as Perspectivas para 2025",
+   "data": "13/01/2025",
+   "fonte": "Cimento",
+   "resumo": "A indústria brasileira do cimento fechou o ano de 2024 com um desempenho positivo, encerrando um ciclo de retração e retomando o crescimento. De acordo com dados do Sindicato Nacional da Indústria de Cimento (SNIC),...",
+   "link": "https://cimento.org/industria-do-cimento-em-2024-e-as-perspectivas-para-2025/",
+   "aba": "insumos"
   }
  ],
  "diarios": {
