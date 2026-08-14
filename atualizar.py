@@ -77,13 +77,13 @@ def buscar_manchetes(qtd=12):
         # descarta manchete sem texto util (so titulo)
         if not resumo or len(resumo.strip()) < 40:
             continue
-        # nada anterior a 7 dias
+        # nada anterior a 7 dias (se a data nao parsear, descarta por seguranca)
         try:
             d = datetime.strptime(data, "%d/%m/%Y").replace(tzinfo=HOJE.tzinfo)
             if (HOJE - d).days > 7:
                 continue
         except Exception:
-            pass
+            continue
         if titulo not in [n["titulo"] for n in noticias]:
             noticias.append({
                 "titulo": titulo,
@@ -217,6 +217,52 @@ def eh_assinante(it, titulo, desc):
     return False
 
 
+def extrair_data_item(it, titulo="", desc=""):
+    """Extrai a data de publicacao de um <item> de RSS de forma robusta.
+    Testa varias tags (pubDate, dc:date, date, published, updated) e, em
+    ultimo caso, procura uma data dd/mm/aaaa no titulo/resumo. Retorna um
+    datetime (com timezone quando disponivel) ou None se nada for encontrado.
+    """
+    from email.utils import parsedate_to_datetime
+    # 1) tags padrao de RSS/Atom, em varias grafias
+    for nome_tag in ["pubDate", "pubdate", "published", "updated", "date"]:
+        tag = it.find(nome_tag)
+        if tag and tag.get_text(strip=True):
+            txt = tag.get_text(strip=True)
+            # tenta formato RFC (Mon, 13 Jan 2025 ...)
+            try:
+                return parsedate_to_datetime(txt)
+            except Exception:
+                pass
+            # tenta ISO (2025-01-13T...)
+            try:
+                iso = txt.replace("Z", "+00:00")
+                return datetime.fromisoformat(iso)
+            except Exception:
+                pass
+    # 2) dc:date (Dublin Core) aparece como "date" com prefixo; tenta explicito
+    for tag in it.find_all(True):
+        if tag.name and tag.name.lower().endswith("date"):
+            txt = tag.get_text(strip=True)
+            if txt:
+                try:
+                    return datetime.fromisoformat(txt.replace("Z", "+00:00"))
+                except Exception:
+                    try:
+                        return parsedate_to_datetime(txt)
+                    except Exception:
+                        pass
+    # 3) ultimo recurso: procura dd/mm/aaaa no titulo ou resumo
+    m = re.search(r"(\d{2})/(\d{2})/(\d{4})", (titulo or "") + " " + (desc or ""))
+    if m:
+        try:
+            return datetime(int(m.group(3)), int(m.group(2)), int(m.group(1)),
+                            tzinfo=HOJE.tzinfo)
+        except Exception:
+            pass
+    return None
+
+
 def buscar_rss(qtd_por_fonte=4):
     """Le os feeds RSS e devolve so o que interessa ao setor."""
     achados = []
@@ -242,27 +288,21 @@ def buscar_rss(qtd_por_fonte=4):
             # descarta conteudo exclusivo para assinantes (paywall)
             if eh_assinante(it, titulo, desc):
                 continue
-            data = ""
-            dt_pub = None
-            if it.pubDate:
-                try:
-                    from email.utils import parsedate_to_datetime
-                    dt_pub = parsedate_to_datetime(it.pubDate.get_text())
-                    data = dt_pub.strftime("%d/%m/%Y")
-                except Exception:
-                    pass
-            # AJUSTE: nada anterior a 7 dias. Se a materia tem data e ela e
-            # mais velha que o limite, descarta. Sem data confiavel, mantem
-            # (algumas fontes nao trazem pubDate, mas costumam listar recentes).
-            if dt_pub is not None:
-                from datetime import timezone
-                agora = HOJE if dt_pub.tzinfo is None else HOJE.astimezone(dt_pub.tzinfo)
-                try:
-                    idade_dias = (agora - dt_pub).days
-                    if idade_dias > 7:
-                        continue
-                except Exception:
-                    pass
+            # extrai a data de publicacao de forma robusta: tags de RSS
+            # variam (pubDate, dc:date, date). Testa varias e tambem procura
+            # uma data dd/mm/aaaa no proprio texto como ultimo recurso.
+            dt_pub = extrair_data_item(it, titulo, desc)
+            data = dt_pub.strftime("%d/%m/%Y") if dt_pub else ""
+            # AJUSTE: nada anterior a 7 dias. Sem data valida, DESCARTA (para
+            # garantir o corte; melhor perder uma recente que deixar uma velha).
+            if dt_pub is None:
+                continue
+            agora = HOJE if dt_pub.tzinfo is None else HOJE.astimezone(dt_pub.tzinfo)
+            try:
+                if (agora - dt_pub).days > 7:
+                    continue
+            except Exception:
+                continue
             achados.append({
                 "titulo": titulo, "data": data, "fonte": nome,
                 "resumo": desc,
