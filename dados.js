@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "14/08/2026 12:07",
+ "atualizado_em": "14/08/2026 17:00",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Cimento mantém alta de vendas em julho",
+   "data": "14/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A indústria brasileira de cimento comercializou 6,2 milhões de toneladas em julho, o que representa aumento de 2,5% frente ao mesmo mês do ano anterior, segundo o SNIC. Com isso, no acumulado do ano, as vendas...",
+   "link": "http://www.revistaanamaco.com.br/cimento-mantem-alta-de-vendas-em-julho-",
+   "aba": "insumos"
   },
   {
    "titulo": "Confiança do empresário paulistano recua",
@@ -35,11 +43,27 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "Debêntures perdem espaço e fundos imobiliários e ações crescem em julho",
+   "titulo": "Polícia de SP Recupera Obras de Matisse Roubadas da Biblioteca Mário de Andrade",
    "data": "14/08/2026",
-   "fonte": "InfoMoney",
-   "resumo": "Emissões de FIIs voltaram a crescer e tiveram o melhor mês do ano, junto com outros fundos estruturados, como Fiagros e FIDCs The post Debêntures perdem espaço e fundos imobiliários e ações crescem em julho appeared...",
-   "link": "https://www.infomoney.com.br/onde-investir/debentures-perdem-espaco-e-fundos-imobiliarios-e-acoes-crescem-em-julho/",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Obras avaliadas em mais de R$ 1 milhão foram localizadas pela polícia em uma residência no centro de São Bernardo do Campo O post Polícia de SP...",
+   "link": "https://forbes.com.br/geral/2026/08/policia-de-sp-recupera-obras-de-matisse-roubadas-da-biblioteca-mario-de-andrade/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Deu na mídia: indicadores econômicos da construção repercutem na imprensa",
+   "data": "14/08/2026",
+   "fonte": "CBIC",
+   "resumo": "Os indicadores econômicos da construção civil, divulgados pela CBIC em coletiva de imprensa nesta quinta-feira (13), ganharam repercussão em veículos nacionais e especializados. O destaque foi o avanço da...",
+   "link": "https://cbic.org.br/deu-na-midia-indicadores-economicos-da-construcao-repercutem-na-imprensa/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Votorantim Cimentos amplia investimentos e capacidade de produção no Brasil",
+   "data": "14/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "A Votorantim Cimentos mantém o plano de investir R$5 bilhões no Brasil entre 2024 e 2028, dos quais R$3,1 bilhões já estão em execução. No O post Votorantim Cimentos amplia investimentos e capacidade de produção no...",
+   "link": "https://revistaoe.com.br/votorantim-cimentos-amplia-investimentos/",
    "aba": "insumos"
   },
   {
@@ -105,30 +129,6 @@ window.DADOS = {
    "resumo": "A industrialização da construção esteve entre os principais temas discutidos no primeiro dia da ConstruNordeste, realizada em Salvador. O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo...",
    "link": "https://cbic.org.br/cbic-destaca-importancia-de-incentivos-para-empresas-avancarem-na-industrializacao-na-construnordeste/",
    "aba": "geral"
-  },
-  {
-   "titulo": "CBIC participa de abertura do ConstruNordeste e destaca geração de emprego do setor na região",
-   "data": "13/08/2026",
-   "fonte": "CBIC",
-   "resumo": "O setor da construção foi responsável por cerca de 40% dos empregos gerados na Bahia no primeiro semestre deste ano, segundo o presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo Aroeira. O...",
-   "link": "https://cbic.org.br/cbic-participa-de-abertura-do-construnordeste-e-destaca-geracao-de-emprego-do-setor-na-regiao/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Sinduscon-Rio: Sustentabilidade ganha espaço como estratégia para a construção civil",
-   "data": "13/08/2026",
-   "fonte": "CBIC",
-   "resumo": "A sustentabilidade deixou de ser um assunto complementar e passou a fazer parte das decisões estratégicas da construção civil. Esse foi um dos principais pontos do Café Empresarial, realizado nesta quarta-feira (12),...",
-   "link": "https://cbic.org.br/sinduscon-rio-sustentabilidade-ganha-espaco-como-estrategia-para-a-construcao-civil/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Custos desaceleraram",
-   "data": "12/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Custo Unitário Básico global da indústria da construção paulista, nas obras não incluídas na desoneração da folha de pagamentos, desacelerou para 0,45% em julho. Com isso, o indicador acumula elevação de 5,06% no...",
-   "link": "http://www.revistaanamaco.com.br/custos-desaceleraram",
-   "aba": "custos"
   }
  ],
  "diarios": {
