@@ -108,6 +108,18 @@
   #screen3{ grid-template-columns:repeat(4,1fr); grid-template-rows:auto minmax(0,auto) minmax(0,1fr); align-content:start; }        /* Insumos */
   #screen4{ grid-template-columns:1fr; grid-template-rows:auto minmax(0,1fr); align-content:start; }                                  /* News Insumos */
   #screen5{ grid-template-columns:1fr 1fr; grid-template-rows:auto 1fr 1fr; align-content:stretch; }  /* Associacoes: 4 cards em 2x2, preenchem a tela */
+  /* aba Associacoes: cabecalho dos cards compacto para nada cortar/rolar.
+     o eyebrow (rotulo + tag) fica numa linha fina e o titulo logo abaixo,
+     com margens minimas. A tag continua visivel. */
+  #screen5 .card{ padding-top:clamp(8px,1.2vh,14px); }
+  #screen5 .card .eyebrow{ margin-bottom:clamp(2px,0.5vh,5px); }
+  #screen5 .card h3{ margin-bottom:clamp(2px,0.6vh,6px); }
+  #screen5 .card .figure{ margin:clamp(1px,0.3vh,4px) 0 clamp(3px,0.6vh,6px) 0; }
+  #screen5 .card .ref{ margin-top:clamp(6px,1.2vh,12px); }
+  #screen5 .card .legend{ gap:clamp(2px,0.5vh,6px); margin-top:clamp(3px,0.7vh,8px); }
+  #screen5 .card .legend div{ font-size:clamp(10.5px,1.4vh,13px); }
+  #screen5 .card .stack{ margin:clamp(4px,0.8vh,10px) 0 clamp(3px,0.6vh,6px) 0; }
+
   /* screen-title ocupa a linha toda; os 4 cards ficam 2x2 e esticam para
      preencher a altura sem vazio nem rolagem. */
   #screen6{ grid-template-columns:1fr; grid-template-rows:auto minmax(0,1fr); align-content:start; }                                  /* News Associacoes */
