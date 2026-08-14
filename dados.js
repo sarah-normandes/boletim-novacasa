@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "14/08/2026 17:00",
+ "atualizado_em": "14/08/2026 18:52",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -67,6 +67,14 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
+   "titulo": "Conversas da Braskem com credores são construtivas e avançam bem, diz novo diretor financeiro",
+   "data": "14/08/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "A nova administração da Braskem afirmou nesta sexta-feira que as negociações da empresa com credores bancários e detentores de títulos de dívida da companhia estão evoluindo positivamente para dar à petroquímica uma...",
+   "link": "https://www.moneytimes.com.br/conversas-da-braskem-com-credores-sao-construtivas-e-avancam-bem-diz-novo-diretor-financeiro/",
+   "aba": "insumos"
+  },
+  {
    "titulo": "Norton aposta no varejo regional para reforçar presença no matcon",
    "data": "13/08/2026",
    "fonte": "Anamaco",
@@ -121,14 +129,6 @@ window.DADOS = {
    "resumo": "O governo federal abriu crédito extraordinário de R$ 3,5 bilhões para ampliar o acesso ao crédito por empresas e reforçar fundos garantidores voltados à habitação popular. A medida consta da Medida Provisória nº...",
    "link": "https://cbic.org.br/governo-destina-r-35-bilhoes-para-credito-empresarial-e-habitacao-de-interesse-social/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "CBIC destaca importância de incentivos para empresas avançarem na industrialização na ConstruNordeste",
-   "data": "13/08/2026",
-   "fonte": "CBIC",
-   "resumo": "A industrialização da construção esteve entre os principais temas discutidos no primeiro dia da ConstruNordeste, realizada em Salvador. O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo...",
-   "link": "https://cbic.org.br/cbic-destaca-importancia-de-incentivos-para-empresas-avancarem-na-industrializacao-na-construnordeste/",
-   "aba": "geral"
   }
  ],
  "diarios": {
