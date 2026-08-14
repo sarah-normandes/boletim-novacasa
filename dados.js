@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "14/08/2026 06:50",
+ "atualizado_em": "14/08/2026 06:53",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -99,6 +99,14 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
+   "titulo": "Construlev Expo 2026",
+   "data": "13/08/2026",
+   "fonte": "ABRAMAT",
+   "resumo": "O post Construlev Expo 2026 apareceu primeiro em ABRAMAT - Associação Brasileira da Indústria de Materiais de Construção .",
+   "link": "https://abramat.org.br/construlev-expo-2026/",
+   "aba": "demanda"
+  },
+  {
    "titulo": "Custos desaceleraram",
    "data": "12/08/2026",
    "fonte": "Anamaco",
@@ -121,14 +129,6 @@ window.DADOS = {
    "resumo": "O Índice de Confiança Empresarial, calculado pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas, recuou 1,4 ponto em julho, para 91,3 pontos. Na métrica de médias móveis trimestrais, o índice registra...",
    "link": "http://www.revistaanamaco.com.br/confianca-empresarial-recuou-em-julho-",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Gerdau encerra segundo trimestre com Ebitda ajustado de R$ 3,4 bilhões",
-   "data": "12/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Gerdau acaba de divulgar os números do desempenho da empresa no segundo trimestre. De acordo com os dados apresentados, a companhia concluiu o segundo trimestre com Ebitda ajustado de R$ 3,4 bilhões, com margem...",
-   "link": "http://www.revistaanamaco.com.br/gerdau-encerra-segundo-trimestre-com-ebitda-ajustado-de-r-34-bilhoes-",
-   "aba": "geral"
   }
  ],
  "diarios": {
