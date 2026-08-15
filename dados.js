@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "15/08/2026 12:41",
+ "atualizado_em": "15/08/2026 16:00",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -75,6 +75,14 @@ window.DADOS = {
    "aba": "geral"
   },
   {
+   "titulo": "Votorantim Cimentos amplia investimentos e capacidade de produção no Brasil",
+   "data": "14/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "A Votorantim Cimentos mantém o plano de investir R$5 bilhões no Brasil entre 2024 e 2028, dos quais R$3,1 bilhões já estão em execução. No O post Votorantim Cimentos amplia investimentos e capacidade de produção no...",
+   "link": "https://revistaoe.com.br/votorantim-cimentos-amplia-investimentos/",
+   "aba": "insumos"
+  },
+  {
    "titulo": "Norton aposta no varejo regional para reforçar presença no matcon",
    "data": "13/08/2026",
    "fonte": "Anamaco",
@@ -121,14 +129,6 @@ window.DADOS = {
    "resumo": "A Cicalfer Atacadista realiza, no próximo sábado, 15 de agosto, das 12h às 17h, em Sumaré (SP), o 1º Feirão Amigo Cicalfer, reunindo clientes, lojistas, profissionais do setor e indústrias de material de construção",
    "link": "http://www.revistaanamaco.com.br/1-feirao-amigo-da-cicalfer-devera-reunir-industrias-e-lojistas-em-sumare-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Governo destina R$ 3,5 bilhões para crédito empresarial e habitação de interesse social",
-   "data": "13/08/2026",
-   "fonte": "CBIC",
-   "resumo": "O governo federal abriu crédito extraordinário de R$ 3,5 bilhões para ampliar o acesso ao crédito por empresas e reforçar fundos garantidores voltados à habitação popular. A medida consta da Medida Provisória nº...",
-   "link": "https://cbic.org.br/governo-destina-r-35-bilhoes-para-credito-empresarial-e-habitacao-de-interesse-social/",
-   "aba": "demanda"
   }
  ],
  "diarios": {
