@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "15/08/2026 10:38",
+ "atualizado_em": "15/08/2026 12:41",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Programa da Sinobras Florestal previne e combate incêndios florestais",
+   "data": "15/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Sinobras Florestal mantém o Programa de Prevenção e Combate a Incêndios Florestais, iniciativa que reúne ações de educação ambiental, monitoramento, capacitação de equipes e relacionamento com as comunidades dos...",
+   "link": "http://www.revistaanamaco.com.br/programa-da-sinobras-florestal-previne-e-combate-incendios-florestais",
+   "aba": "geral"
   },
   {
    "titulo": "Setor de serviços fecha julho em alta e varejo tem segundo mês de retração",
@@ -65,14 +73,6 @@ window.DADOS = {
    "resumo": "Os indicadores econômicos da construção civil, divulgados pela CBIC em coletiva de imprensa nesta quinta-feira (13), ganharam repercussão em veículos nacionais e especializados. O destaque foi o avanço da...",
    "link": "https://cbic.org.br/deu-na-midia-indicadores-economicos-da-construcao-repercutem-na-imprensa/",
    "aba": "geral"
-  },
-  {
-   "titulo": "Votorantim Cimentos amplia investimentos e capacidade de produção no Brasil",
-   "data": "14/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A Votorantim Cimentos mantém o plano de investir R$5 bilhões no Brasil entre 2024 e 2028, dos quais R$3,1 bilhões já estão em execução. No O post Votorantim Cimentos amplia investimentos e capacidade de produção no...",
-   "link": "https://revistaoe.com.br/votorantim-cimentos-amplia-investimentos/",
-   "aba": "insumos"
   },
   {
    "titulo": "Norton aposta no varejo regional para reforçar presença no matcon",
