@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "15/08/2026 06:51",
+ "atualizado_em": "15/08/2026 10:38",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Setor de serviços fecha julho em alta e varejo tem segundo mês de retração",
+   "data": "15/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Getnet acaba de divulgar os resultados do índice econômico desenvolvido em parceria com o Santander, com destaques do mês de julho. Os dados do mês mostraram resultados mistos na atividade econômica. Enquanto o...",
+   "link": "http://www.revistaanamaco.com.br/-setor-de-servicos-fecha-julho-em-alta-e-varejo-tem-segundo-mes-de-retracao-1",
+   "aba": "demanda"
   },
   {
    "titulo": "Cimento mantém alta de vendas em julho",
@@ -121,14 +129,6 @@ window.DADOS = {
    "resumo": "O governo federal abriu crédito extraordinário de R$ 3,5 bilhões para ampliar o acesso ao crédito por empresas e reforçar fundos garantidores voltados à habitação popular. A medida consta da Medida Provisória nº...",
    "link": "https://cbic.org.br/governo-destina-r-35-bilhoes-para-credito-empresarial-e-habitacao-de-interesse-social/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "CBIC destaca importância de incentivos para empresas avançarem na industrialização na ConstruNordeste",
-   "data": "13/08/2026",
-   "fonte": "CBIC",
-   "resumo": "A industrialização da construção esteve entre os principais temas discutidos no primeiro dia da ConstruNordeste, realizada em Salvador. O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo...",
-   "link": "https://cbic.org.br/cbic-destaca-importancia-de-incentivos-para-empresas-avancarem-na-industrializacao-na-construnordeste/",
-   "aba": "geral"
   }
  ],
  "diarios": {
