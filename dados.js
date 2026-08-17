@@ -1,14 +1,38 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "15/08/2026 18:41",
+ "atualizado_em": "17/08/2026 07:17",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "15/08/2026",
+   "data": "17/08/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Mão de obra em queda, Reforma Tributária e a visão do CEO da MRV para o setor",
+   "data": "17/08/2026",
+   "fonte": "InfoMoney",
+   "resumo": "Ao InfoMoney Entrevista, Eduardo Fischer, CEO da MRV&CO, falou sobre o gargalo estrutural de mão de obra no setor, os impactos da reforma tributária, o \"ato de fé\" de construir no Brasil e a próxima fronteira da...",
+   "link": "https://www.infomoney.com.br/business/mao-de-obra-em-queda-reforma-tributaria-e-a-visao-do-ceo-da-mrv-para-o-setor/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Vedacit apoia projeto para capacitação de mulheres refugiadas na construção",
+   "data": "16/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "O projeto Mulheres que Constroem o Futuro, realizado pela Dr. Telhado em parceria com a Associação Paulista de Apoio à Família, com apoio do Grupo Mulheres do Brasil e da Vedacit, concluiu mais uma turma de...",
+   "link": "http://www.revistaanamaco.com.br/vedacit-apoia-projeto-para-capacitacao-de-mulheres-refugiadas-na-construcao",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Lojas Quero-Quero registra receita bruta de R$ 834,5 milhões no 2º trimestre",
+   "data": "16/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Lojas Quero-Quero encerrou o segundo 2º trimestre com receita bruta de R$ 834,5 milhões. O resultado representa crescimento de 9,7% em relação ao mesmo período do ano passado e reflete o desempenho positivo das...",
+   "link": "http://www.revistaanamaco.com.br/lojas-quero-quero-registra-receita-bruta-de-r-8345-milhoes-no-2-trimestre-",
+   "aba": "insumos"
   },
   {
    "titulo": "Programa da Sinobras Florestal previne e combate incêndios florestais",
@@ -59,14 +83,6 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "Polícia de SP Recupera Obras de Matisse Roubadas da Biblioteca Mário de Andrade",
-   "data": "14/08/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Obras avaliadas em mais de R$ 1 milhão foram localizadas pela polícia em uma residência no centro de São Bernardo do Campo O post Polícia de SP...",
-   "link": "https://forbes.com.br/geral/2026/08/policia-de-sp-recupera-obras-de-matisse-roubadas-da-biblioteca-mario-de-andrade/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "Deu na mídia: indicadores econômicos da construção repercutem na imprensa",
    "data": "14/08/2026",
    "fonte": "CBIC",
@@ -113,28 +129,12 @@ window.DADOS = {
    "resumo": "O varejo físico brasileiro encerrou o primeiro semestre com retração de 2,2% em relação ao mesmo período do ano passado. Apesar do resultado acumulado negativo, o desempenho ao longo dos seis meses mostra uma melhora...",
    "link": "http://www.revistaanamaco.com.br/varejo-fecha-primeiro-semestre-em-queda-de-22-apesar-de-reacao-no-2-trimestre-",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Dia do Bem Fazer, do Instituto InterCement, mobiliza voluntários em 13 municípios",
-   "data": "13/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "Mais de 6,5 mil pessoas serão beneficiadas por projetos sociais apoiados pelo Instituto InterCement em 13 municípios de diferentes regiões do País durante a 18ª edição do Dia do Bem Fazer, marcada para os dias 15 e...",
-   "link": "http://www.revistaanamaco.com.br/dia-do-bem-fazer-do-instituto-intercement-mobiliza-voluntarios-em-13-municipios-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "1º Feirão Amigo, da Cicalfer, deverá reunir indústrias e lojistas em Sumaré",
-   "data": "13/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Cicalfer Atacadista realiza, no próximo sábado, 15 de agosto, das 12h às 17h, em Sumaré (SP), o 1º Feirão Amigo Cicalfer, reunindo clientes, lojistas, profissionais do setor e indústrias de material de construção",
-   "link": "http://www.revistaanamaco.com.br/1-feirao-amigo-da-cicalfer-devera-reunir-industrias-e-lojistas-em-sumare-",
-   "aba": "insumos"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 14.0,
-   "data": "15/08/2026"
+   "data": "17/08/2026"
   },
   "ipca12": {
    "valor": 4.44,
