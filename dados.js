@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "17/08/2026 10:55",
+ "atualizado_em": "17/08/2026 12:52",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -11,6 +11,14 @@ window.DADOS = {
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
+   "titulo": "Sherwin-Williams lança seu estudo global de tendências de cores para 2027",
+   "data": "17/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Sherwin-Williams apresenta o Colormix Tendências 2027: Renascer, seu estudo global de tendências de cores, desenvolvido, anualmente, para identificar os movimentos culturais, comportamentais e estéticos que irão...",
+   "link": "http://www.revistaanamaco.com.br/sherwin-williams-lanca-seu-estudo-global-de-tendencias-de-cores-para-2027-",
+   "aba": "geral"
+  },
+  {
    "titulo": "Inadimplência das pessoas físicas deve chegar a 7,83% em agosto, projeta pesquisa",
    "data": "17/08/2026",
    "fonte": "Anamaco",
@@ -19,12 +27,28 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Real Time: Raquel Lyra e João Campos empatam com 43% no 1º turno em PE",
+   "titulo": "Índice Mostra Leve Recuperação na Construção Residencial dos EUA, Mas Segue Pressionado por Juros e Incertezas Econômicas",
+   "data": "17/08/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Indicador subiu para 35 pontos em agosto, mas segue distante da marca neutra em meio a juros altos e incerteza econômica O post Índice Mostra Leve...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/08/indice-mercado-imobiliario-eua-nahb-agosto/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "XP vê cenário difícil para varejo e ainda pior para Grupo Mateus e corta recomendação",
    "data": "17/08/2026",
    "fonte": "InfoMoney",
-   "resumo": "Pesquisa reforça cenário equilibrado na disputa, embora a atual governadora seja o nome mais rejeitado pelo eleitorado The post Real Time: Raquel Lyra e João Campos empatam com 43% no 1º turno em PE appeared first on...",
-   "link": "https://www.infomoney.com.br/politica/real-time-raquel-lyra-e-joao-campos-empatam-com-43-no-1o-turno-em-pe/",
-   "aba": "geral"
+   "resumo": "Varejsta enfrenta desafios adicionais devido à sua forte presença no Norte e Nordeste, regiões mais dependentes de programas de transferência de renda The post XP vê cenário difícil para varejo e ainda pior para...",
+   "link": "https://www.infomoney.com.br/mercados/xp-ve-cenario-dificil-para-varejo-e-ainda-pior-para-grupo-mateus-e-corta-recomendacao/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Governo tem intensas rodadas de conversas sobre proposta de mudanças no MCMV, diz secretário",
+   "data": "17/08/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "A proposta de corte de juros e ampliação do Minha Casa, Minha Vida está sendo alvo de “debates intensos” dentro do governo federal, mas ainda sem uma definição. “Teve a proposta apresentada, mas não há uma decisão...",
+   "link": "https://www.moneytimes.com.br/governo-tem-intensas-rodadas-de-conversas-sobre-proposta-de-mudancas-no-mcmv-diz-secretario/",
+   "aba": "custos"
   },
   {
    "titulo": "Vedacit apoia projeto para capacitação de mulheres refugiadas na construção",
@@ -104,30 +128,6 @@ window.DADOS = {
    "fonte": "O Empreiteiro",
    "resumo": "A Votorantim Cimentos mantém o plano de investir R$5 bilhões no Brasil entre 2024 e 2028, dos quais R$3,1 bilhões já estão em execução. No O post Votorantim Cimentos amplia investimentos e capacidade de produção no...",
    "link": "https://revistaoe.com.br/votorantim-cimentos-amplia-investimentos/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Norton aposta no varejo regional para reforçar presença no matcon",
-   "data": "13/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Norton Abrasivos vem reforçando sua atuação comercial e de trade marketing voltada ao varejo regional, com iniciativas direcionadas a treinamento, ativação no ponto de venda, campanhas promocionais e relacionamento...",
-   "link": "http://www.revistaanamaco.com.br/norton-aposta-no-varejo-regional-para-reforcar-presenca-no-matcon",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Grupo Aço Cearense investe e democratiza a capacitação entre os funcionários",
-   "data": "13/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Grupo Aço Cearense desenvolveu a \"Trilhar\", plataforma de aprendizagem corporativa construída em parceria com a Edusense, que colocou treinamentos e conteúdo de desenvolvimento na palma da mão dos colaboradores",
-   "link": "http://www.revistaanamaco.com.br/grupo-aco-cearense-investe-e-democratiza-a-capacitacao-entre-os-funcionarios",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Eucatex apoia projeto para transformar espaços de convivência e moradia",
-   "data": "13/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Eucatex amplia, em 2026, sua parceria com a Decor Social, organização sem fins lucrativos que utiliza a arquitetura, o design de interiores e o paisagismo para transformar espaços de convivência e moradia,...",
-   "link": "http://www.revistaanamaco.com.br/eucatex-apoia-projeto-para-transformar-espacos-de-convivencia-e-moradia",
    "aba": "insumos"
   }
  ],
