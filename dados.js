@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "17/08/2026 16:17",
+ "atualizado_em": "17/08/2026 18:53",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -51,6 +51,14 @@ window.DADOS = {
    "aba": "geral"
   },
   {
+   "titulo": "Ibovespa Fecha Quase Estável com Varejo no Foco: Casas Bahia derrete e Magalu dispara",
+   "data": "17/08/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Com tal desempenho, o Ibovespa atingiu 10 sessões seguidas com fechamento negativo, a maior série de perdas desde agosto de 2023 O post Ibovespa...",
+   "link": "https://forbes.com.br/forbes-money/2026/08/ibovespa-fecha-quase-estavel-com-varejo-no-foco-petroleo-ganha-2-e-dolar-recua/",
+   "aba": "demanda"
+  },
+  {
    "titulo": "Índice Mostra Leve Recuperação na Construção Residencial dos EUA, Mas Segue Pressionado por Juros e Incertezas Econômicas",
    "data": "17/08/2026",
    "fonte": "Forbes",
@@ -73,14 +81,6 @@ window.DADOS = {
    "resumo": "O projeto Elas Constroem, coordenado nacionalmente pela Câmara Brasileira da Indústria da Construção (CBIC), formou, nesta sexta-feira (14), sua segunda turma em Campo Grande. Desenvolvida pelo Sindicato...",
    "link": "https://cbic.org.br/projeto-elas-constroem-forma-segunda-turma-e-amplia-participacao-feminina-na-industria-da-construcao/",
    "aba": "geral"
-  },
-  {
-   "titulo": "Fim da isenção das LCIs ameaça disparar juros e travar o mercado imobiliário, dizem bancos",
-   "data": "17/08/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "A potencial tributação das letras de crédito imobiliário (LCI) e do agronegócio (LCA), se confirmada, terá como principal consequência a elevação do custo de captação de recursos pelos bancos e o repasse disso para o...",
-   "link": "https://www.moneytimes.com.br/bancos-se-opoem-a-possivel-fim-da-isencao-de-imposto-para-letras-de-credito-imobiliario-lci-jcav/",
-   "aba": "custos"
   },
   {
    "titulo": "Vedacit apoia projeto para capacitação de mulheres refugiadas na construção",
