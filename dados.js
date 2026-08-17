@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "17/08/2026 07:17",
+ "atualizado_em": "17/08/2026 10:55",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -11,12 +11,20 @@ window.DADOS = {
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
-   "titulo": "Mão de obra em queda, Reforma Tributária e a visão do CEO da MRV para o setor",
+   "titulo": "Inadimplência das pessoas físicas deve chegar a 7,83% em agosto, projeta pesquisa",
+   "data": "17/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A taxa de inadimplência de pessoas físicas na modalidade de recursos livres deve registrar nova alta neste mês de agosto, atingindo uma média estimada de 7,83%. A projeção foi elaborada conjuntamente pelo Ibevar e...",
+   "link": "http://www.revistaanamaco.com.br/inadimplencia-das-pessoas-fisicas-deve-chegar-a-783-em-agosto-projeta-pesquisa--",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Real Time: Raquel Lyra e João Campos empatam com 43% no 1º turno em PE",
    "data": "17/08/2026",
    "fonte": "InfoMoney",
-   "resumo": "Ao InfoMoney Entrevista, Eduardo Fischer, CEO da MRV&CO, falou sobre o gargalo estrutural de mão de obra no setor, os impactos da reforma tributária, o \"ato de fé\" de construir no Brasil e a próxima fronteira da...",
-   "link": "https://www.infomoney.com.br/business/mao-de-obra-em-queda-reforma-tributaria-e-a-visao-do-ceo-da-mrv-para-o-setor/",
-   "aba": "custos"
+   "resumo": "Pesquisa reforça cenário equilibrado na disputa, embora a atual governadora seja o nome mais rejeitado pelo eleitorado The post Real Time: Raquel Lyra e João Campos empatam com 43% no 1º turno em PE appeared first on...",
+   "link": "https://www.infomoney.com.br/politica/real-time-raquel-lyra-e-joao-campos-empatam-com-43-no-1o-turno-em-pe/",
+   "aba": "geral"
   },
   {
    "titulo": "Vedacit apoia projeto para capacitação de mulheres refugiadas na construção",
@@ -121,14 +129,6 @@ window.DADOS = {
    "resumo": "A Eucatex amplia, em 2026, sua parceria com a Decor Social, organização sem fins lucrativos que utiliza a arquitetura, o design de interiores e o paisagismo para transformar espaços de convivência e moradia,...",
    "link": "http://www.revistaanamaco.com.br/eucatex-apoia-projeto-para-transformar-espacos-de-convivencia-e-moradia",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Varejo fecha primeiro semestre em queda de 2,2%, apesar de reação no 2º trimestre",
-   "data": "13/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "O varejo físico brasileiro encerrou o primeiro semestre com retração de 2,2% em relação ao mesmo período do ano passado. Apesar do resultado acumulado negativo, o desempenho ao longo dos seis meses mostra uma melhora...",
-   "link": "http://www.revistaanamaco.com.br/varejo-fecha-primeiro-semestre-em-queda-de-22-apesar-de-reacao-no-2-trimestre-",
-   "aba": "demanda"
   }
  ],
  "diarios": {
