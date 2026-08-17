@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "17/08/2026 12:52",
+ "atualizado_em": "17/08/2026 16:17",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,30 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Portobello Grupo e o Grupo Almeida assinam contrato de compra e venda da Pointer",
+   "data": "17/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "Após a conclusão do processo de aprovação do Cade, o Portobello Grupo e o Grupo Almeida assinaram na última sexta-feira, 14 de agosto, o contrato de compra e venda da Pointer. A transição de gestão está prevista para...",
+   "link": "http://www.revistaanamaco.com.br/portobello-grupo-e-o-grupo-almeida-assinam-contrato-de-compra-e-venda-da-pointer",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "10ª edição do Prêmio Abilux Design de Luminárias já tem seus ganhadores",
+   "data": "17/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "Os vencedores da 10ª edição do Prêmio Abilux Design de Luminárias foram revelados durante evento realizado em São Paulo. A premiação tem o objetivo de estimular e promover a indústria nacional de iluminação com...",
+   "link": "http://www.revistaanamaco.com.br/10-edicao-do-premio-abilux-design-de-luminarias-ja-tem-seus-ganhadores-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Taschibra lamenta a morte de Afonso Luiz Schreiber, fundador da empresa",
+   "data": "17/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Taschibra anunciou hoje, por meio de suas redes sociais, o falecimento, nesta segunda-feira, de Afonso Luiz Schreiber, fundador da empresa, aos 68 anos, na cidade de Blumenau (SC)",
+   "link": "http://www.revistaanamaco.com.br/taschibra-lamenta-a-morte-de-afonso-luiz-schreiber-fundador-da-empresa",
+   "aba": "insumos"
   },
   {
    "titulo": "Sherwin-Williams lança seu estudo global de tendências de cores para 2027",
@@ -35,19 +59,27 @@ window.DADOS = {
    "aba": "custos"
   },
   {
-   "titulo": "XP vê cenário difícil para varejo e ainda pior para Grupo Mateus e corta recomendação",
+   "titulo": "Seconci-DF : Trabalhadoras da construção reforçam importância do Agosto Lilás",
    "data": "17/08/2026",
-   "fonte": "InfoMoney",
-   "resumo": "Varejsta enfrenta desafios adicionais devido à sua forte presença no Norte e Nordeste, regiões mais dependentes de programas de transferência de renda The post XP vê cenário difícil para varejo e ainda pior para...",
-   "link": "https://www.infomoney.com.br/mercados/xp-ve-cenario-dificil-para-varejo-e-ainda-pior-para-grupo-mateus-e-corta-recomendacao/",
-   "aba": "demanda"
+   "fonte": "CBIC",
+   "resumo": "Em alusão ao Agosto Lilás, mês dedicado à conscientização e ao enfrentamento da violência contra a mulher, o Serviço Social da Indústria da Construção Civil do Distrito Federal (Seconci-DF) promove palestras e ações...",
+   "link": "https://cbic.org.br/seconci-df-trabalhadoras-da-construcao-reforcam-importancia-do-agosto-lilas/",
+   "aba": "geral"
   },
   {
-   "titulo": "Governo tem intensas rodadas de conversas sobre proposta de mudanças no MCMV, diz secretário",
+   "titulo": "Projeto Elas Constroem forma segunda turma e amplia participação feminina na indústria da construção",
+   "data": "17/08/2026",
+   "fonte": "CBIC",
+   "resumo": "O projeto Elas Constroem, coordenado nacionalmente pela Câmara Brasileira da Indústria da Construção (CBIC), formou, nesta sexta-feira (14), sua segunda turma em Campo Grande. Desenvolvida pelo Sindicato...",
+   "link": "https://cbic.org.br/projeto-elas-constroem-forma-segunda-turma-e-amplia-participacao-feminina-na-industria-da-construcao/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Fim da isenção das LCIs ameaça disparar juros e travar o mercado imobiliário, dizem bancos",
    "data": "17/08/2026",
    "fonte": "MoneyTimes",
-   "resumo": "A proposta de corte de juros e ampliação do Minha Casa, Minha Vida está sendo alvo de “debates intensos” dentro do governo federal, mas ainda sem uma definição. “Teve a proposta apresentada, mas não há uma decisão...",
-   "link": "https://www.moneytimes.com.br/governo-tem-intensas-rodadas-de-conversas-sobre-proposta-de-mudancas-no-mcmv-diz-secretario/",
+   "resumo": "A potencial tributação das letras de crédito imobiliário (LCI) e do agronegócio (LCA), se confirmada, terá como principal consequência a elevação do custo de captação de recursos pelos bancos e o repasse disso para o...",
+   "link": "https://www.moneytimes.com.br/bancos-se-opoem-a-possivel-fim-da-isencao-de-imposto-para-letras-de-credito-imobiliario-lci-jcav/",
    "aba": "custos"
   },
   {
@@ -97,38 +129,6 @@ window.DADOS = {
    "resumo": "Em junho, a confiança dos empresários do comércio paulistano registrou o pior patamar em cinco anos, de acordo com a FecomercioSP. O Índice de Confiança do Empresário do Comércio no Município de São Paulo registrou...",
    "link": "http://www.revistaanamaco.com.br/confianca-do-empresario-paulistano-recua-1",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Cores da Coral dão vida à instalação de Sol Calero no Vão Livre do Masp",
-   "data": "14/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "Quem passar pelo Vão Livre do Masp, até maio de 2027, poderá conhecer a Casa María Lionza, instalação inédita da artista venezuelana Sol Calero, realizada com apoio da Coral no fornecimento das tintas que dão vida à obra",
-   "link": "http://www.revistaanamaco.com.br/cores-da-coral-dao-vida-a-instalacao-de-sol-calero-no-vao-livre-do-masp-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Dexco registra EBITDA ajustado e recorrente de R$ 547 milhões de abril a junho",
-   "data": "14/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Dexco encerrou o segundo trimestre deste ano com EBITDA ajustado e recorrente de R$ 547 milhões, o que significa alta de 23,6% na comparação anual. A receita líquida alcançou R$ 2,23 bilhões, crescimento de 5,2%",
-   "link": "http://www.revistaanamaco.com.br/dexco-registra-ebitda-ajustado-e-recorrente-de-r-547-milhoes-de-abril-a-junho-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Deu na mídia: indicadores econômicos da construção repercutem na imprensa",
-   "data": "14/08/2026",
-   "fonte": "CBIC",
-   "resumo": "Os indicadores econômicos da construção civil, divulgados pela CBIC em coletiva de imprensa nesta quinta-feira (13), ganharam repercussão em veículos nacionais e especializados. O destaque foi o avanço da...",
-   "link": "https://cbic.org.br/deu-na-midia-indicadores-economicos-da-construcao-repercutem-na-imprensa/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Votorantim Cimentos amplia investimentos e capacidade de produção no Brasil",
-   "data": "14/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A Votorantim Cimentos mantém o plano de investir R$5 bilhões no Brasil entre 2024 e 2028, dos quais R$3,1 bilhões já estão em execução. No O post Votorantim Cimentos amplia investimentos e capacidade de produção no...",
-   "link": "https://revistaoe.com.br/votorantim-cimentos-amplia-investimentos/",
-   "aba": "insumos"
   }
  ],
  "diarios": {
