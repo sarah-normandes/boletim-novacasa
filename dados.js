@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "18/08/2026 11:05",
+ "atualizado_em": "18/08/2026 13:01",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Expectativa de alta até outubro",
+   "data": "18/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Ibevar, em cooperação com a FIA Business School, divulga o relatório de Projeção de Vendas do Varejo para o trimestre compreendido entre agosto e outubro. O estudo indica continuidade no ritmo de expansão moderada...",
+   "link": "http://www.revistaanamaco.com.br/expectativa-de-alta-ate-outubro--",
+   "aba": "demanda"
   },
   {
    "titulo": "Faturamento da indústria recuou no 1º semestre",
@@ -43,20 +51,20 @@ window.DADOS = {
    "aba": "geral"
   },
   {
+   "titulo": "Licenças de Construção nos EUA Mostram Descompasso",
+   "data": "18/08/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Autorizações sobem 5% e batem projeções, mas o setor amarga queda na construção de novas casas frente aos números do ano anterior O post Licenças de...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/08/licencas-construcao-eua-julho-26/",
+   "aba": "geral"
+  },
+  {
    "titulo": "O Que Está por trás da Oferta Bilionária do TRXF11, Que Pode Se Tornar o Maior Fundo Imobiliário da Bolsa de Valores",
    "data": "18/08/2026",
    "fonte": "Forbes",
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Oferta abaixo do VP ainda inspira cautela, mas mercado vê boas aquisições nos movimentos recentes do fundo da TRX O post O Que Está por trás da...",
    "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/08/trxf11-oferta-bilionaria-maior-fii/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Construtoras de baixa renda mostram resultados mais consistentes no 2T, diz XP",
-   "data": "18/08/2026",
-   "fonte": "InfoMoney",
-   "resumo": "Todas as incorporadas do segmento reportaram crescimento de receita e a maioria manteve ou ampliou suas margens em relação ao trimestre anterior The post Construtoras de baixa renda mostram resultados mais...",
-   "link": "https://www.infomoney.com.br/mercados/construtoras-de-baixa-renda-mostram-resultados-mais-consistentes-no-2t-diz-xp/",
-   "aba": "insumos"
   },
   {
    "titulo": "Portobello Grupo e o Grupo Almeida assinam contrato de compra e venda da Pointer",
@@ -105,14 +113,6 @@ window.DADOS = {
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Com tal desempenho, o Ibovespa atingiu 10 sessões seguidas com fechamento negativo, a maior série de perdas desde agosto de 2023 O post Ibovespa...",
    "link": "https://forbes.com.br/forbes-money/2026/08/ibovespa-fecha-quase-estavel-com-varejo-no-foco-petroleo-ganha-2-e-dolar-recua/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Índice Mostra Leve Recuperação na Construção Residencial dos EUA, Mas Segue Pressionado por Juros e Incertezas Econômicas",
-   "data": "17/08/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Indicador subiu para 35 pontos em agosto, mas segue distante da marca neutra em meio a juros altos e incerteza econômica O post Índice Mostra Leve...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/08/indice-mercado-imobiliario-eua-nahb-agosto/",
-   "aba": "custos"
   },
   {
    "titulo": "Seconci-DF : Trabalhadoras da construção reforçam importância do Agosto Lilás",
