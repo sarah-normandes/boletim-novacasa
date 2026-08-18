@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "18/08/2026 07:02",
+ "atualizado_em": "18/08/2026 11:05",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -11,12 +11,52 @@ window.DADOS = {
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
+   "titulo": "Faturamento da indústria recuou no 1º semestre",
+   "data": "18/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "O faturamento da indústria de transformação cresceu 0,8% em junho, mas fechou o primeiro semestre 1% abaixo do patamar registrado no mesmo período de 2025, apontam os Indicadores Industriais, divulgados pela CNI",
+   "link": "http://www.revistaanamaco.com.br/faturamento-da-industria-recuou-no-1-semestre-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Unecs realiza encontro com presidenciáveis para discutir propostas para o Brasil",
+   "data": "18/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Unecs realiza hoje, em Brasília, o Encontro com os presidenciáveis - Diálogo pelo futuro do Brasil. O evento acontece até as 18h, e deverá reunir representantes do setor produtivo e candidatos à Presidência da...",
+   "link": "http://www.revistaanamaco.com.br/unecs-realiza-encontro-com-presidenciaveis-para-discutir-propostas-para-o-brasil",
+   "aba": "geral"
+  },
+  {
+   "titulo": "FBM premia, esta noite, os cases vencedores do Prêmio Marketing Strategy 2026",
+   "data": "18/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Fundação Brasileira de Marketing realiza, hoje à noite, em São Paulo, a cerimônia de entrega aos vencedores do Prêmio Marketing Strategy Matcon e Prêmio Marketing Strategy Energia e Instalações Elétricas",
+   "link": "http://www.revistaanamaco.com.br/fbm-premia-esta-noite-os-cases-vencedores-do-premio-marketing-strategy-2026",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Arte transforma paisagem urbana de Jaraguá do Sul com apoio da Menegotti",
+   "data": "18/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "Inaugurado, recentemente, o Caminho das Artes transformou 600m da ciclovia, que parte da Praça Ângelo Piazera, em Jaraguá do Sul (SC), em uma galeria a céu aberto, com murais produzidos por 30 artistas entre...",
+   "link": "http://www.revistaanamaco.com.br/arte-transforma-paisagem-urbana-de-jaragua-do-sul-com-apoio-da-menegotti-",
+   "aba": "geral"
+  },
+  {
    "titulo": "O Que Está por trás da Oferta Bilionária do TRXF11, Que Pode Se Tornar o Maior Fundo Imobiliário da Bolsa de Valores",
    "data": "18/08/2026",
    "fonte": "Forbes",
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Oferta abaixo do VP ainda inspira cautela, mas mercado vê boas aquisições nos movimentos recentes do fundo da TRX O post O Que Está por trás da...",
    "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/08/trxf11-oferta-bilionaria-maior-fii/",
    "aba": "demanda"
+  },
+  {
+   "titulo": "Construtoras de baixa renda mostram resultados mais consistentes no 2T, diz XP",
+   "data": "18/08/2026",
+   "fonte": "InfoMoney",
+   "resumo": "Todas as incorporadas do segmento reportaram crescimento de receita e a maioria manteve ou ampliou suas margens em relação ao trimestre anterior The post Construtoras de baixa renda mostram resultados mais...",
+   "link": "https://www.infomoney.com.br/mercados/construtoras-de-baixa-renda-mostram-resultados-mais-consistentes-no-2t-diz-xp/",
+   "aba": "insumos"
   },
   {
    "titulo": "Portobello Grupo e o Grupo Almeida assinam contrato de compra e venda da Pointer",
@@ -89,46 +129,6 @@ window.DADOS = {
    "resumo": "O projeto Elas Constroem, coordenado nacionalmente pela Câmara Brasileira da Indústria da Construção (CBIC), formou, nesta sexta-feira (14), sua segunda turma em Campo Grande. Desenvolvida pelo Sindicato...",
    "link": "https://cbic.org.br/projeto-elas-constroem-forma-segunda-turma-e-amplia-participacao-feminina-na-industria-da-construcao/",
    "aba": "geral"
-  },
-  {
-   "titulo": "Vedacit apoia projeto para capacitação de mulheres refugiadas na construção",
-   "data": "16/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "O projeto Mulheres que Constroem o Futuro, realizado pela Dr. Telhado em parceria com a Associação Paulista de Apoio à Família, com apoio do Grupo Mulheres do Brasil e da Vedacit, concluiu mais uma turma de...",
-   "link": "http://www.revistaanamaco.com.br/vedacit-apoia-projeto-para-capacitacao-de-mulheres-refugiadas-na-construcao",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Lojas Quero-Quero registra receita bruta de R$ 834,5 milhões no 2º trimestre",
-   "data": "16/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Lojas Quero-Quero encerrou o segundo 2º trimestre com receita bruta de R$ 834,5 milhões. O resultado representa crescimento de 9,7% em relação ao mesmo período do ano passado e reflete o desempenho positivo das...",
-   "link": "http://www.revistaanamaco.com.br/lojas-quero-quero-registra-receita-bruta-de-r-8345-milhoes-no-2-trimestre-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Programa da Sinobras Florestal previne e combate incêndios florestais",
-   "data": "15/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Sinobras Florestal mantém o Programa de Prevenção e Combate a Incêndios Florestais, iniciativa que reúne ações de educação ambiental, monitoramento, capacitação de equipes e relacionamento com as comunidades dos...",
-   "link": "http://www.revistaanamaco.com.br/programa-da-sinobras-florestal-previne-e-combate-incendios-florestais",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Setor de serviços fecha julho em alta e varejo tem segundo mês de retração",
-   "data": "15/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Getnet acaba de divulgar os resultados do índice econômico desenvolvido em parceria com o Santander, com destaques do mês de julho. Os dados do mês mostraram resultados mistos na atividade econômica. Enquanto o...",
-   "link": "http://www.revistaanamaco.com.br/-setor-de-servicos-fecha-julho-em-alta-e-varejo-tem-segundo-mes-de-retracao-1",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Cimento mantém alta de vendas em julho",
-   "data": "14/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A indústria brasileira de cimento comercializou 6,2 milhões de toneladas em julho, o que representa aumento de 2,5% frente ao mesmo mês do ano anterior, segundo o SNIC. Com isso, no acumulado do ano, as vendas...",
-   "link": "http://www.revistaanamaco.com.br/cimento-mantem-alta-de-vendas-em-julho-",
-   "aba": "insumos"
   }
  ],
  "diarios": {
