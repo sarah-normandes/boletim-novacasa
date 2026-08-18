@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "18/08/2026 13:01",
+ "atualizado_em": "18/08/2026 16:18",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -67,6 +67,30 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
+   "titulo": "Ademi-AL: salão do imóvel reúne R$ 2,6 bilhões em imóveis e movimenta mercado imobiliário de Alagoas",
+   "data": "18/08/2026",
+   "fonte": "CBIC",
+   "resumo": "Evento acontece de 20 a 23 de agosto, no Centro de Convenções de Maceió, com mais de 2.700 unidades a partir de R$ 316 mil, além de programação de conteúdo e entretenimento O mercado imobiliário alagoano estará...",
+   "link": "https://cbic.org.br/ademi-al-salao-do-imovel-reune-r-26-bilhoes-em-imoveis-e-movimenta-mercado-imobiliario-de-alagoas/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Sinduscon-RS acompanha evolução do mercado imobiliário no Litoral Norte",
+   "data": "18/08/2026",
+   "fonte": "CBIC",
+   "resumo": "R$ 3,74 bilhões em apenas seis meses. Esse é o tamanho estimado da movimentação do mercado imobiliário do Litoral Norte do Rio Grande do Sul no primeiro semestre de 2026. O resultado revela a dimensão que o setor...",
+   "link": "https://cbic.org.br/sinduscon-rs-acompanha-evolucao-do-mercado-imobiliario-no-litoral-norte/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Sinduscon-CE: Fortaleza integra mobilização nacional de valorização dos trabalhadores da construção civil",
+   "data": "18/08/2026",
+   "fonte": "CBIC",
+   "resumo": "Dia Nacional da Construção Social reunirá ações de saúde, esporte e lazer no SESI Parangaba, no dia 22 de agosto Fortaleza será uma das 15 cidades brasileiras mobilizadas pelo Dia Nacional da Construção Social (DNCS)...",
+   "link": "https://cbic.org.br/sinduscon-ce-fortaleza-integra-mobilizacao-nacional-de-valorizacao-dos-trabalhadores-da-construcao-civil/",
+   "aba": "geral"
+  },
+  {
    "titulo": "Portobello Grupo e o Grupo Almeida assinam contrato de compra e venda da Pointer",
    "data": "17/08/2026",
    "fonte": "Anamaco",
@@ -104,30 +128,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "A taxa de inadimplência de pessoas físicas na modalidade de recursos livres deve registrar nova alta neste mês de agosto, atingindo uma média estimada de 7,83%. A projeção foi elaborada conjuntamente pelo Ibevar e...",
    "link": "http://www.revistaanamaco.com.br/inadimplencia-das-pessoas-fisicas-deve-chegar-a-783-em-agosto-projeta-pesquisa--",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Ibovespa Fecha Quase Estável com Varejo no Foco: Casas Bahia derrete e Magalu dispara",
-   "data": "17/08/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Com tal desempenho, o Ibovespa atingiu 10 sessões seguidas com fechamento negativo, a maior série de perdas desde agosto de 2023 O post Ibovespa...",
-   "link": "https://forbes.com.br/forbes-money/2026/08/ibovespa-fecha-quase-estavel-com-varejo-no-foco-petroleo-ganha-2-e-dolar-recua/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Seconci-DF : Trabalhadoras da construção reforçam importância do Agosto Lilás",
-   "data": "17/08/2026",
-   "fonte": "CBIC",
-   "resumo": "Em alusão ao Agosto Lilás, mês dedicado à conscientização e ao enfrentamento da violência contra a mulher, o Serviço Social da Indústria da Construção Civil do Distrito Federal (Seconci-DF) promove palestras e ações...",
-   "link": "https://cbic.org.br/seconci-df-trabalhadoras-da-construcao-reforcam-importancia-do-agosto-lilas/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Projeto Elas Constroem forma segunda turma e amplia participação feminina na indústria da construção",
-   "data": "17/08/2026",
-   "fonte": "CBIC",
-   "resumo": "O projeto Elas Constroem, coordenado nacionalmente pela Câmara Brasileira da Indústria da Construção (CBIC), formou, nesta sexta-feira (14), sua segunda turma em Campo Grande. Desenvolvida pelo Sindicato...",
-   "link": "https://cbic.org.br/projeto-elas-constroem-forma-segunda-turma-e-amplia-participacao-feminina-na-industria-da-construcao/",
    "aba": "geral"
   }
  ],
