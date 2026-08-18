@@ -1,14 +1,22 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "17/08/2026 18:53",
+ "atualizado_em": "18/08/2026 07:02",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "17/08/2026",
+   "data": "18/08/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "O Que Está por trás da Oferta Bilionária do TRXF11, Que Pode Se Tornar o Maior Fundo Imobiliário da Bolsa de Valores",
+   "data": "18/08/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Oferta abaixo do VP ainda inspira cautela, mas mercado vê boas aquisições nos movimentos recentes do fundo da TRX O post O Que Está por trás da...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/08/trxf11-oferta-bilionaria-maior-fii/",
+   "aba": "demanda"
   },
   {
    "titulo": "Portobello Grupo e o Grupo Almeida assinam contrato de compra e venda da Pointer",
@@ -121,20 +129,12 @@ window.DADOS = {
    "resumo": "A indústria brasileira de cimento comercializou 6,2 milhões de toneladas em julho, o que representa aumento de 2,5% frente ao mesmo mês do ano anterior, segundo o SNIC. Com isso, no acumulado do ano, as vendas...",
    "link": "http://www.revistaanamaco.com.br/cimento-mantem-alta-de-vendas-em-julho-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Confiança do empresário paulistano recua",
-   "data": "14/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "Em junho, a confiança dos empresários do comércio paulistano registrou o pior patamar em cinco anos, de acordo com a FecomercioSP. O Índice de Confiança do Empresário do Comércio no Município de São Paulo registrou...",
-   "link": "http://www.revistaanamaco.com.br/confianca-do-empresario-paulistano-recua-1",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 14.0,
-   "data": "17/08/2026"
+   "data": "18/08/2026"
   },
   "ipca12": {
    "valor": 4.44,
