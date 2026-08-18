@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "18/08/2026 16:18",
+ "atualizado_em": "18/08/2026 18:49",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Encontro com presidenciáveis colocou as propostas para o Brasil no centro dos debates",
+   "data": "18/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Unecs realizou, em Brasília, o Encontro com os presidenciáveis - Diálogo pelo futuro do Brasil. O evento, realizado hoje, 18 de agosto, reuniu representantes do setor produtivo e candidatos à Presidência da...",
+   "link": "http://www.revistaanamaco.com.br/encontro-com-presidenciaveis-colocou-as-propostas-para-o-brasil-no-centro-dos-debates",
+   "aba": "geral"
   },
   {
    "titulo": "Expectativa de alta até outubro",
@@ -91,6 +99,22 @@ window.DADOS = {
    "aba": "geral"
   },
   {
+   "titulo": "Areia descartada de fundição pode ser aplicada em outras obras de infraestrutura",
+   "data": "18/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "A Nova Era Soluções Ambientais foi premiada no 7º InovaInfra da revista O Empreiteiro pelo projeto de aplicação de areia descartada de fundição (ADF) na O post Areia descartada de fundição pode ser aplicada em outras...",
+   "link": "https://revistaoe.com.br/areia-descartada-de-fundicao-premiada/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Como IA e dados estão ajudando a resolver o maior gargalo da construção: produtividade",
+   "data": "18/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "Seis vezes mais dados são gerados por projeto, mas cerca de 95%  dessas informações nunca são utilizadas pelas empresas. Com tanta  informação sem integração, o O post Como IA e dados estão ajudando a resolver o...",
+   "link": "https://revistaoe.com.br/impacto-da-ia-nas-empresas-de-aeco/",
+   "aba": "geral"
+  },
+  {
    "titulo": "Portobello Grupo e o Grupo Almeida assinam contrato de compra e venda da Pointer",
    "data": "17/08/2026",
    "fonte": "Anamaco",
@@ -104,30 +128,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "Os vencedores da 10ª edição do Prêmio Abilux Design de Luminárias foram revelados durante evento realizado em São Paulo. A premiação tem o objetivo de estimular e promover a indústria nacional de iluminação com...",
    "link": "http://www.revistaanamaco.com.br/10-edicao-do-premio-abilux-design-de-luminarias-ja-tem-seus-ganhadores-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Taschibra lamenta a morte de Afonso Luiz Schreiber, fundador da empresa",
-   "data": "17/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Taschibra anunciou hoje, por meio de suas redes sociais, o falecimento, nesta segunda-feira, de Afonso Luiz Schreiber, fundador da empresa, aos 68 anos, na cidade de Blumenau (SC)",
-   "link": "http://www.revistaanamaco.com.br/taschibra-lamenta-a-morte-de-afonso-luiz-schreiber-fundador-da-empresa",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Sherwin-Williams lança seu estudo global de tendências de cores para 2027",
-   "data": "17/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Sherwin-Williams apresenta o Colormix Tendências 2027: Renascer, seu estudo global de tendências de cores, desenvolvido, anualmente, para identificar os movimentos culturais, comportamentais e estéticos que irão...",
-   "link": "http://www.revistaanamaco.com.br/sherwin-williams-lanca-seu-estudo-global-de-tendencias-de-cores-para-2027-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Inadimplência das pessoas físicas deve chegar a 7,83% em agosto, projeta pesquisa",
-   "data": "17/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A taxa de inadimplência de pessoas físicas na modalidade de recursos livres deve registrar nova alta neste mês de agosto, atingindo uma média estimada de 7,83%. A projeção foi elaborada conjuntamente pelo Ibevar e...",
-   "link": "http://www.revistaanamaco.com.br/inadimplencia-das-pessoas-fisicas-deve-chegar-a-783-em-agosto-projeta-pesquisa--",
    "aba": "geral"
   }
  ],
