@@ -341,7 +341,17 @@
     .card-hero .figure .num{ font-size:48px; }
   }
 </style>
-<script src="dados.js" onerror="window.__semArquivo=true"></script>
+<script>
+  // carrega o dados.js sempre fresco (cache-bust), para a TV nunca ficar presa
+  // numa versao antiga em cache. Se falhar (ex: aberto por duplo clique sem
+  // servidor), marca a flag e o fallback embutido assume.
+  (function(){
+    var s = document.createElement('script');
+    s.src = 'dados.js?t=' + Date.now();
+    s.onerror = function(){ window.__semArquivo = true; };
+    document.write(s.outerHTML);
+  })();
+</script>
 <script>
 // FALLBACK embutido: usado quando dados.js nao carrega (abertura por duplo clique)
 if(!window.DADOS){
@@ -867,6 +877,25 @@ window.DADOS = {
   // No mobile (<=820px) nao escala: la o layout vira pagina rolavel.
   // ====================================================================
   // (escala automatica removida: o painel agora preenche a viewport real)
+
+  // ====================================================================
+  // ATUALIZACAO AUTOMATICA NA TV
+  // A TV fica com a pagina aberta o dia todo e nao recarrega sozinha, entao
+  // o painel "congela" nos dados de quando foi aberto. Aqui a propria pagina
+  // se recarrega de tempos em tempos, buscando o dados.js novo (que o robo
+  // atualiza a cada 3h). A recarga completa garante dados E layout novos, e
+  // ainda limpa a memoria de uma TV ligada 24h.
+  // ====================================================================
+  (function autoReload(){
+    var MIN = 15;                       // recarrega a cada 15 minutos
+    var alvo = MIN * 60 * 1000;
+    setTimeout(function(){
+      // cache-bust: muda a URL para forcar o navegador a baixar tudo de novo
+      var u = new URL(window.location.href);
+      u.searchParams.set('r', Date.now());
+      window.location.replace(u.toString());
+    }, alvo);
+  })();
 </script>
 </body>
 </html>
