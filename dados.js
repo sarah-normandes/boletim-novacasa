@@ -1,14 +1,22 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "18/08/2026 18:49",
+ "atualizado_em": "19/08/2026 07:02",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "18/08/2026",
+   "data": "19/08/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Dow Jones Futuro opera quase estável antes da ata do Fed e balanços do varejo",
+   "data": "19/08/2026",
+   "fonte": "InfoMoney",
+   "resumo": "Investidores aguardam ata do Fed em busca de sinais sobre juros, enquanto balanços de varejistas dão pistas sobre a força do consumidor americano The post Dow Jones Futuro opera quase estável antes da ata do Fed e...",
+   "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-opera-quase-estavel-antes-da-ata-do-fed-e-balancos-do-varejo/",
+   "aba": "custos"
   },
   {
    "titulo": "Encontro com presidenciáveis colocou as propostas para o Brasil no centro dos debates",
@@ -35,14 +43,6 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Unecs realiza encontro com presidenciáveis para discutir propostas para o Brasil",
-   "data": "18/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Unecs realiza hoje, em Brasília, o Encontro com os presidenciáveis - Diálogo pelo futuro do Brasil. O evento acontece até as 18h, e deverá reunir representantes do setor produtivo e candidatos à Presidência da...",
-   "link": "http://www.revistaanamaco.com.br/unecs-realiza-encontro-com-presidenciaveis-para-discutir-propostas-para-o-brasil",
-   "aba": "geral"
-  },
-  {
    "titulo": "FBM premia, esta noite, os cases vencedores do Prêmio Marketing Strategy 2026",
    "data": "18/08/2026",
    "fonte": "Anamaco",
@@ -67,12 +67,20 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "O Que Está por trás da Oferta Bilionária do TRXF11, Que Pode Se Tornar o Maior Fundo Imobiliário da Bolsa de Valores",
+   "titulo": "Presidente da CBIC se reúne com presidente da Caixa para discutir habitação e financiamento",
    "data": "18/08/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Oferta abaixo do VP ainda inspira cautela, mas mercado vê boas aquisições nos movimentos recentes do fundo da TRX O post O Que Está por trás da...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/08/trxf11-oferta-bilionaria-maior-fii/",
+   "fonte": "CBIC",
+   "resumo": "Para debater novas possibilidades de crédito para o setor da construção, o desempenho do  programa Minha Casa Minha Vida e caminhos para condições de financiamento habitacional, a Câmara Brasileira da Indústria da...",
+   "link": "https://cbic.org.br/108473-2/",
    "aba": "demanda"
+  },
+  {
+   "titulo": "CONJUR reúne especialistas para discutir segurança jurídica e modernização da construção civil",
+   "data": "18/08/2026",
+   "fonte": "CBIC",
+   "resumo": "O Conselho Jurídico da Câmara Brasileira da Indústria da Construção (CONJUR/CBIC) realizou, nesta terça-feira (18), sua 45ª Reunião Ordinária. Conduzido pelo presidente do Conselho, Felipe Melazzo, o encontro reuniu...",
+   "link": "https://cbic.org.br/conjur-reune-especialistas-para-discutir-seguranca-juridica-e-modernizacao-da-construcao-civil/",
+   "aba": "geral"
   },
   {
    "titulo": "Ademi-AL: salão do imóvel reúne R$ 2,6 bilhões em imóveis e movimenta mercado imobiliário de Alagoas",
@@ -89,14 +97,6 @@ window.DADOS = {
    "resumo": "R$ 3,74 bilhões em apenas seis meses. Esse é o tamanho estimado da movimentação do mercado imobiliário do Litoral Norte do Rio Grande do Sul no primeiro semestre de 2026. O resultado revela a dimensão que o setor...",
    "link": "https://cbic.org.br/sinduscon-rs-acompanha-evolucao-do-mercado-imobiliario-no-litoral-norte/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Sinduscon-CE: Fortaleza integra mobilização nacional de valorização dos trabalhadores da construção civil",
-   "data": "18/08/2026",
-   "fonte": "CBIC",
-   "resumo": "Dia Nacional da Construção Social reunirá ações de saúde, esporte e lazer no SESI Parangaba, no dia 22 de agosto Fortaleza será uma das 15 cidades brasileiras mobilizadas pelo Dia Nacional da Construção Social (DNCS)...",
-   "link": "https://cbic.org.br/sinduscon-ce-fortaleza-integra-mobilizacao-nacional-de-valorizacao-dos-trabalhadores-da-construcao-civil/",
-   "aba": "geral"
   },
   {
    "titulo": "Areia descartada de fundição pode ser aplicada em outras obras de infraestrutura",
@@ -134,7 +134,7 @@ window.DADOS = {
  "diarios": {
   "selic": {
    "valor": 14.0,
-   "data": "18/08/2026"
+   "data": "19/08/2026"
   },
   "ipca12": {
    "valor": 4.44,
