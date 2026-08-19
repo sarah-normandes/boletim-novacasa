@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "19/08/2026 07:02",
+ "atualizado_em": "19/08/2026 11:05",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -11,12 +11,28 @@ window.DADOS = {
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
-   "titulo": "Dow Jones Futuro opera quase estável antes da ata do Fed e balanços do varejo",
+   "titulo": "Brasil registra o maior patamar de inadimplência da história: 75,08 milhões de pessoas",
    "data": "19/08/2026",
-   "fonte": "InfoMoney",
-   "resumo": "Investidores aguardam ata do Fed em busca de sinais sobre juros, enquanto balanços de varejistas dão pistas sobre a força do consumidor americano The post Dow Jones Futuro opera quase estável antes da ata do Fed e...",
-   "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-opera-quase-estavel-antes-da-ata-do-fed-e-balancos-do-varejo/",
-   "aba": "custos"
+   "fonte": "Anamaco",
+   "resumo": "De acordo com dados do Indicador de Inadimplência, da CNDL e do SPC Brasil, o País registrou, em julho, o maior patamar de inadimplência de sua história, com 75,08 milhões de brasileiros com contas em atraso. Esse...",
+   "link": "http://www.revistaanamaco.com.br/brasil-registra-o-maior-patamar-de-inadimplencia-da-historia-7508-milhoes-de-pessoas-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Índice Nacional da Construção Civil desacelerou para 0,44% em julho",
+   "data": "19/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Índice Nacional da Construção Civil, calculado pelo IBGE, variou 0,44% em julho. A taxa é 0,75 ponto percentual abaixo do que havia sido registrado em junho (1,19%). Com isso, o acumulado nos últimos doze meses foi...",
+   "link": "http://www.revistaanamaco.com.br/indice-nacional-da-construcao-civil-desacelerou-para-044-em-julho",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Votorantim Cimentos apresenta balanço positivo do segundo trimestre",
+   "data": "19/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Votorantim Cimentos encerrou o segundo trimestre com receita líquida global de R$ 8,2 bilhões, o que significa avanço de 16% em relação ao mesmo período do ano anterior, desconsiderando os efeitos da variação cambial",
+   "link": "http://www.revistaanamaco.com.br/votorantim-cimentos-apresenta-balanco-positivo-do-segundo-trimestre",
+   "aba": "insumos"
   },
   {
    "titulo": "Encontro com presidenciáveis colocou as propostas para o Brasil no centro dos debates",
@@ -56,14 +72,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "Inaugurado, recentemente, o Caminho das Artes transformou 600m da ciclovia, que parte da Praça Ângelo Piazera, em Jaraguá do Sul (SC), em uma galeria a céu aberto, com murais produzidos por 30 artistas entre...",
    "link": "http://www.revistaanamaco.com.br/arte-transforma-paisagem-urbana-de-jaragua-do-sul-com-apoio-da-menegotti-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Licenças de Construção nos EUA Mostram Descompasso",
-   "data": "18/08/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Autorizações sobem 5% e batem projeções, mas o setor amarga queda na construção de novas casas frente aos números do ano anterior O post Licenças de...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/08/licencas-construcao-eua-julho-26/",
    "aba": "geral"
   },
   {
@@ -121,14 +129,6 @@ window.DADOS = {
    "resumo": "Após a conclusão do processo de aprovação do Cade, o Portobello Grupo e o Grupo Almeida assinaram na última sexta-feira, 14 de agosto, o contrato de compra e venda da Pointer. A transição de gestão está prevista para...",
    "link": "http://www.revistaanamaco.com.br/portobello-grupo-e-o-grupo-almeida-assinam-contrato-de-compra-e-venda-da-pointer",
    "aba": "demanda"
-  },
-  {
-   "titulo": "10ª edição do Prêmio Abilux Design de Luminárias já tem seus ganhadores",
-   "data": "17/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "Os vencedores da 10ª edição do Prêmio Abilux Design de Luminárias foram revelados durante evento realizado em São Paulo. A premiação tem o objetivo de estimular e promover a indústria nacional de iluminação com...",
-   "link": "http://www.revistaanamaco.com.br/10-edicao-do-premio-abilux-design-de-luminarias-ja-tem-seus-ganhadores-",
-   "aba": "geral"
   }
  ],
  "diarios": {
