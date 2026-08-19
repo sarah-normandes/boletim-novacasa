@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "19/08/2026 11:05",
+ "atualizado_em": "19/08/2026 12:01",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,14 +9,6 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
-  },
-  {
-   "titulo": "Brasil registra o maior patamar de inadimplência da história: 75,08 milhões de pessoas",
-   "data": "19/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "De acordo com dados do Indicador de Inadimplência, da CNDL e do SPC Brasil, o País registrou, em julho, o maior patamar de inadimplência de sua história, com 75,08 milhões de brasileiros com contas em atraso. Esse...",
-   "link": "http://www.revistaanamaco.com.br/brasil-registra-o-maior-patamar-de-inadimplencia-da-historia-7508-milhoes-de-pessoas-",
-   "aba": "geral"
   },
   {
    "titulo": "Índice Nacional da Construção Civil desacelerou para 0,44% em julho",
@@ -32,6 +24,14 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "A Votorantim Cimentos encerrou o segundo trimestre com receita líquida global de R$ 8,2 bilhões, o que significa avanço de 16% em relação ao mesmo período do ano anterior, desconsiderando os efeitos da variação cambial",
    "link": "http://www.revistaanamaco.com.br/votorantim-cimentos-apresenta-balanco-positivo-do-segundo-trimestre",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Por que a Madeira Engenheirada Tem Gerado Interesse em Empresas de Tecnologia e Incorporadoras",
+   "data": "19/08/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Alternativa ao aço e concreto ganha força com foco em ESG e promete transformar o futuro da construção civil sustentável O post Por que a Madeira...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/08/madeira-engenheirada-mercado-imobiliario/",
    "aba": "insumos"
   },
   {
