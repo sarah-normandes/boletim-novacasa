@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "19/08/2026 13:02",
+ "atualizado_em": "19/08/2026 16:12",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Amanco Wavin e SindusCon-SP ampliam programa de reciclagem de PVC",
+   "data": "19/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Amanco Wavin inicia uma nova fase do programa Takeback, em parceria com o SindusCon-SP. A iniciativa busca incentivar a adoção de novas soluções para a valorização e a logística reversa dos resíduos de PVC,...",
+   "link": "http://www.revistaanamaco.com.br/amanco-wavin-e-sinduscon-sp-ampliam-programa-de-reciclagem-de-pvc-",
+   "aba": "insumos"
   },
   {
    "titulo": "Placas do Brasil participa da 19ª edição da Morar Mais BH com dois ambientes",
@@ -120,14 +128,6 @@ window.DADOS = {
    "fonte": "CBIC",
    "resumo": "R$ 3,74 bilhões em apenas seis meses. Esse é o tamanho estimado da movimentação do mercado imobiliário do Litoral Norte do Rio Grande do Sul no primeiro semestre de 2026. O resultado revela a dimensão que o setor...",
    "link": "https://cbic.org.br/sinduscon-rs-acompanha-evolucao-do-mercado-imobiliario-no-litoral-norte/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Areia descartada de fundição pode ser aplicada em outras obras de infraestrutura",
-   "data": "18/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A Nova Era Soluções Ambientais foi premiada no 7º InovaInfra da revista O Empreiteiro pelo projeto de aplicação de areia descartada de fundição (ADF) na O post Areia descartada de fundição pode ser aplicada em outras...",
-   "link": "https://revistaoe.com.br/areia-descartada-de-fundicao-premiada/",
    "aba": "demanda"
   }
  ],
