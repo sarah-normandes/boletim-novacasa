@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "19/08/2026 12:01",
+ "atualizado_em": "19/08/2026 13:02",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Placas do Brasil participa da 19ª edição da Morar Mais BH com dois ambientes",
+   "data": "19/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Placas do Brasil marca presença na 19ª edição da Morar Mais BH, uma das principais Mostras de arquitetura, design, decoração, paisagismo, arte e gastronomia de Minas Gerais. O evento acontece, entre os dias 04 e 30...",
+   "link": "http://www.revistaanamaco.com.br/placas-do-brasil-participa-da-19-edicao-da-morar-mais-bh-com-dois-ambientes-",
+   "aba": "geral"
   },
   {
    "titulo": "Índice Nacional da Construção Civil desacelerou para 0,44% em julho",
@@ -32,6 +40,14 @@ window.DADOS = {
    "fonte": "Forbes",
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Alternativa ao aço e concreto ganha força com foco em ESG e promete transformar o futuro da construção civil sustentável O post Por que a Madeira...",
    "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/08/madeira-engenheirada-mercado-imobiliario/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Evento em Vitória discute descarbonização da siderurgia com hidrogênio verde",
+   "data": "19/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "O Espírito Santo reúne a maior parte das usinas siderúrgicas do país e, por conta do parque industrial robusto, tem avançado nas discussões sobre a O post Evento em Vitória discute descarbonização da siderurgia com...",
+   "link": "https://revistaoe.com.br/evento-com-foco-no-hidrogenio-verde-na-siderurgia/",
    "aba": "insumos"
   },
   {
@@ -112,22 +128,6 @@ window.DADOS = {
    "fonte": "O Empreiteiro",
    "resumo": "A Nova Era Soluções Ambientais foi premiada no 7º InovaInfra da revista O Empreiteiro pelo projeto de aplicação de areia descartada de fundição (ADF) na O post Areia descartada de fundição pode ser aplicada em outras...",
    "link": "https://revistaoe.com.br/areia-descartada-de-fundicao-premiada/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Como IA e dados estão ajudando a resolver o maior gargalo da construção: produtividade",
-   "data": "18/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "Seis vezes mais dados são gerados por projeto, mas cerca de 95%  dessas informações nunca são utilizadas pelas empresas. Com tanta  informação sem integração, o O post Como IA e dados estão ajudando a resolver o...",
-   "link": "https://revistaoe.com.br/impacto-da-ia-nas-empresas-de-aeco/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Portobello Grupo e o Grupo Almeida assinam contrato de compra e venda da Pointer",
-   "data": "17/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "Após a conclusão do processo de aprovação do Cade, o Portobello Grupo e o Grupo Almeida assinaram na última sexta-feira, 14 de agosto, o contrato de compra e venda da Pointer. A transição de gestão está prevista para...",
-   "link": "http://www.revistaanamaco.com.br/portobello-grupo-e-o-grupo-almeida-assinam-contrato-de-compra-e-venda-da-pointer",
    "aba": "demanda"
   }
  ],
