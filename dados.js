@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "20/08/2026 13:03",
+ "atualizado_em": "20/08/2026 14:58",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Laboratório Central da InterCement Brasil conquista premiação internacional",
+   "data": "20/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "Centro de referência em pesquisa, desenvolvimento e inovação para a indústria do cimento, o Laboratório Central da InterCement Brasil obteve o primeiro lugar Classe A no quesito desempenho técnico no programa...",
+   "link": "http://www.revistaanamaco.com.br/laboratorio-central-da-intercement-brasil-conquista-premiacao-internacional",
+   "aba": "insumos"
   },
   {
    "titulo": "Prysmian e CEEE Equatorial levam mais estabilidade energética ao Sul do RS",
@@ -43,19 +51,19 @@ window.DADOS = {
    "aba": "geral"
   },
   {
+   "titulo": "“O Brasil precisa ser construído. E construir, nós sabemos fazer”, afirma Eduardo Aroeira na posse da CBIC",
+   "data": "20/08/2026",
+   "fonte": "CBIC",
+   "resumo": "O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo Aroeira, destacou a importância da construção para o desenvolvimento econômico do país e apresentou os alicerces que devem orientar sua...",
+   "link": "https://cbic.org.br/o-brasil-precisa-ser-construido-e-construir-nos-sabemos-fazer-afirma-eduardo-aroeira-na-posse-da-cbic/",
+   "aba": "geral"
+  },
+  {
    "titulo": "Renato Correia encerra gestão na CBIC com foco no fortalecimento institucional e no protagonismo da construção",
    "data": "20/08/2026",
    "fonte": "CBIC",
    "resumo": "Ao transmitir o cargo de presidente da Câmara Brasileira da Indústria da Construção (CBIC), Renato Correia destacou o fortalecimento institucional, a ampliação do protagonismo da construção e a preparação da entidade...",
    "link": "https://cbic.org.br/renato-correia-encerra-gestao-na-cbic-com-foco-no-fortalecimento-institucional-e-no-protagonismo-da-construcao/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Gerdau (GGBR4): Tarifas menores sobre o aço canadense pelos EUA mudam a tese de investimentos?",
-   "data": "20/08/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "A Gerdau (GGBR4) aparece entre os destaques negativos do Ibovespa (IBOV) nesta quinta-feira (20) com as notícias de que os Estados Unidos e Canadá podem chegar a um acordo comercial preliminar, potencialmente...",
-   "link": "https://www.moneytimes.com.br/gerdau-ggbr4-tarifas-menores-sobre-o-aco-canadense-pelos-eua-mudam-a-tese-de-investimentos-apsa/",
    "aba": "insumos"
   },
   {
@@ -121,14 +129,6 @@ window.DADOS = {
    "resumo": "O faturamento da indústria de transformação cresceu 0,8% em junho, mas fechou o primeiro semestre 1% abaixo do patamar registrado no mesmo período de 2025, apontam os Indicadores Industriais, divulgados pela CNI",
    "link": "http://www.revistaanamaco.com.br/faturamento-da-industria-recuou-no-1-semestre-",
    "aba": "demanda"
-  },
-  {
-   "titulo": "FBM premia, esta noite, os cases vencedores do Prêmio Marketing Strategy 2026",
-   "data": "18/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Fundação Brasileira de Marketing realiza, hoje à noite, em São Paulo, a cerimônia de entrega aos vencedores do Prêmio Marketing Strategy Matcon e Prêmio Marketing Strategy Energia e Instalações Elétricas",
-   "link": "http://www.revistaanamaco.com.br/fbm-premia-esta-noite-os-cases-vencedores-do-premio-marketing-strategy-2026",
-   "aba": "custos"
   }
  ],
  "diarios": {
