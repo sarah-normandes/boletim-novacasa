@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "20/08/2026 07:05",
+ "atualizado_em": "20/08/2026 11:09",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,30 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Indústria de matcon recuou 1,0% em julho",
+   "data": "20/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A indústria de matcon encerrou julho com faturamento estável em relação ao mesmo mês de 2025 e recuo de 1,0% frente a junho, considerando os dados dessazonalizados.  O dado faz parte da primeira edição do Pulso...",
+   "link": "http://www.revistaanamaco.com.br/industria-de-matcon-recuou-10-em-julho",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Expo Revestir 2027 realizará o maior Projeto Comprador de sua história",
+   "data": "20/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Expo Revestir 2027, por meio do projeto Ceramics of Brazil, desenvolvido pela Anfacer, em parceria com a ApexBrasil, realizará a maior edição do Projeto Comprador desde a implantação da iniciativa na feira. Ao...",
+   "link": "http://www.revistaanamaco.com.br/expo-revestir-2027-realizara-o-maior-projeto-comprador-de-sua-historia-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Schneider Electric e Senai ensinam transição energética a meninas do DF",
+   "data": "20/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Schneider Electric acaba de inaugurar um laboratório de ensino técnico na Escola Vila das Crianças, instituição mantida pelas Irmãs de Maria e voltada à educação de meninas em situação de vulnerabilidade em Santa...",
+   "link": "http://www.revistaanamaco.com.br/schneider-electric-e-senai-ensinam-transicao-energetica-a-meninas-do-df-",
+   "aba": "geral"
   },
   {
    "titulo": "Amanco Wavin e SindusCon-SP ampliam programa de reciclagem de PVC",
@@ -105,30 +129,6 @@ window.DADOS = {
    "resumo": "O Conselho Jurídico da Câmara Brasileira da Indústria da Construção (CONJUR/CBIC) realizou, nesta terça-feira (18), sua 45ª Reunião Ordinária. Conduzido pelo presidente do Conselho, Felipe Melazzo, o encontro reuniu...",
    "link": "https://cbic.org.br/conjur-reune-especialistas-para-discutir-seguranca-juridica-e-modernizacao-da-construcao-civil/",
    "aba": "geral"
-  },
-  {
-   "titulo": "Ademi-AL: salão do imóvel reúne R$ 2,6 bilhões em imóveis e movimenta mercado imobiliário de Alagoas",
-   "data": "18/08/2026",
-   "fonte": "CBIC",
-   "resumo": "Evento acontece de 20 a 23 de agosto, no Centro de Convenções de Maceió, com mais de 2.700 unidades a partir de R$ 316 mil, além de programação de conteúdo e entretenimento O mercado imobiliário alagoano estará...",
-   "link": "https://cbic.org.br/ademi-al-salao-do-imovel-reune-r-26-bilhoes-em-imoveis-e-movimenta-mercado-imobiliario-de-alagoas/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Sinduscon-RS acompanha evolução do mercado imobiliário no Litoral Norte",
-   "data": "18/08/2026",
-   "fonte": "CBIC",
-   "resumo": "R$ 3,74 bilhões em apenas seis meses. Esse é o tamanho estimado da movimentação do mercado imobiliário do Litoral Norte do Rio Grande do Sul no primeiro semestre de 2026. O resultado revela a dimensão que o setor...",
-   "link": "https://cbic.org.br/sinduscon-rs-acompanha-evolucao-do-mercado-imobiliario-no-litoral-norte/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Areia descartada de fundição pode ser aplicada em outras obras de infraestrutura",
-   "data": "18/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A Nova Era Soluções Ambientais foi premiada no 7º InovaInfra da revista O Empreiteiro pelo projeto de aplicação de areia descartada de fundição (ADF) na O post Areia descartada de fundição pode ser aplicada em outras...",
-   "link": "https://revistaoe.com.br/areia-descartada-de-fundicao-premiada/",
-   "aba": "demanda"
   }
  ],
  "diarios": {
