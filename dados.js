@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "20/08/2026 11:09",
+ "atualizado_em": "20/08/2026 13:03",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Prysmian e CEEE Equatorial levam mais estabilidade energética ao Sul do RS",
+   "data": "20/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Prysmian e a CEEE Equatorial acabam de finalizar uma das obras de infraestrutura energética mais complexas do Rio Grande do Sul: a nova interligação elétrica entre Rio Grande e São José do Norte, que amplia a...",
+   "link": "http://www.revistaanamaco.com.br/prysmian-e-ceee-equatorial-levam-mais-estabilidade-energetica-ao-sul-do-rs",
+   "aba": "demanda"
   },
   {
    "titulo": "Indústria de matcon recuou 1,0% em julho",
@@ -33,6 +41,22 @@ window.DADOS = {
    "resumo": "A Schneider Electric acaba de inaugurar um laboratório de ensino técnico na Escola Vila das Crianças, instituição mantida pelas Irmãs de Maria e voltada à educação de meninas em situação de vulnerabilidade em Santa...",
    "link": "http://www.revistaanamaco.com.br/schneider-electric-e-senai-ensinam-transicao-energetica-a-meninas-do-df-",
    "aba": "geral"
+  },
+  {
+   "titulo": "Renato Correia encerra gestão na CBIC com foco no fortalecimento institucional e no protagonismo da construção",
+   "data": "20/08/2026",
+   "fonte": "CBIC",
+   "resumo": "Ao transmitir o cargo de presidente da Câmara Brasileira da Indústria da Construção (CBIC), Renato Correia destacou o fortalecimento institucional, a ampliação do protagonismo da construção e a preparação da entidade...",
+   "link": "https://cbic.org.br/renato-correia-encerra-gestao-na-cbic-com-foco-no-fortalecimento-institucional-e-no-protagonismo-da-construcao/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Gerdau (GGBR4): Tarifas menores sobre o aço canadense pelos EUA mudam a tese de investimentos?",
+   "data": "20/08/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "A Gerdau (GGBR4) aparece entre os destaques negativos do Ibovespa (IBOV) nesta quinta-feira (20) com as notícias de que os Estados Unidos e Canadá podem chegar a um acordo comercial preliminar, potencialmente...",
+   "link": "https://www.moneytimes.com.br/gerdau-ggbr4-tarifas-menores-sobre-o-aco-canadense-pelos-eua-mudam-a-tese-de-investimentos-apsa/",
+   "aba": "insumos"
   },
   {
    "titulo": "Amanco Wavin e SindusCon-SP ampliam programa de reciclagem de PVC",
@@ -105,30 +129,6 @@ window.DADOS = {
    "resumo": "A Fundação Brasileira de Marketing realiza, hoje à noite, em São Paulo, a cerimônia de entrega aos vencedores do Prêmio Marketing Strategy Matcon e Prêmio Marketing Strategy Energia e Instalações Elétricas",
    "link": "http://www.revistaanamaco.com.br/fbm-premia-esta-noite-os-cases-vencedores-do-premio-marketing-strategy-2026",
    "aba": "custos"
-  },
-  {
-   "titulo": "Arte transforma paisagem urbana de Jaraguá do Sul com apoio da Menegotti",
-   "data": "18/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "Inaugurado, recentemente, o Caminho das Artes transformou 600m da ciclovia, que parte da Praça Ângelo Piazera, em Jaraguá do Sul (SC), em uma galeria a céu aberto, com murais produzidos por 30 artistas entre...",
-   "link": "http://www.revistaanamaco.com.br/arte-transforma-paisagem-urbana-de-jaragua-do-sul-com-apoio-da-menegotti-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Presidente da CBIC se reúne com presidente da Caixa para discutir habitação e financiamento",
-   "data": "18/08/2026",
-   "fonte": "CBIC",
-   "resumo": "Para debater novas possibilidades de crédito para o setor da construção, o desempenho do  programa Minha Casa Minha Vida e caminhos para condições de financiamento habitacional, a Câmara Brasileira da Indústria da...",
-   "link": "https://cbic.org.br/108473-2/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "CONJUR reúne especialistas para discutir segurança jurídica e modernização da construção civil",
-   "data": "18/08/2026",
-   "fonte": "CBIC",
-   "resumo": "O Conselho Jurídico da Câmara Brasileira da Indústria da Construção (CONJUR/CBIC) realizou, nesta terça-feira (18), sua 45ª Reunião Ordinária. Conduzido pelo presidente do Conselho, Felipe Melazzo, o encontro reuniu...",
-   "link": "https://cbic.org.br/conjur-reune-especialistas-para-discutir-seguranca-juridica-e-modernizacao-da-construcao-civil/",
-   "aba": "geral"
   }
  ],
  "diarios": {
