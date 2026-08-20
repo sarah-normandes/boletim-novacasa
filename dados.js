@@ -1,15 +1,7 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "20/08/2026 14:58",
+ "atualizado_em": "20/08/2026 16:44",
  "manchetes": [
-  {
-   "titulo": "Selic mantida em 14% ao ano",
-   "data": "20/08/2026",
-   "fonte": "Banco Central",
-   "aba": "custos",
-   "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
-   "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
-  },
   {
    "titulo": "Laboratório Central da InterCement Brasil conquista premiação internacional",
    "data": "20/08/2026",
@@ -64,6 +56,14 @@ window.DADOS = {
    "fonte": "CBIC",
    "resumo": "Ao transmitir o cargo de presidente da Câmara Brasileira da Indústria da Construção (CBIC), Renato Correia destacou o fortalecimento institucional, a ampliação do protagonismo da construção e a preparação da entidade...",
    "link": "https://cbic.org.br/renato-correia-encerra-gestao-na-cbic-com-foco-no-fortalecimento-institucional-e-no-protagonismo-da-construcao/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Haddad diz que São Paulo tem feito privatizações açodadas para agradar o mercado financeiro e promete renegociar contratos",
+   "data": "20/08/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "O ex-ministro da Fazenda e candidato do PT ao governo de São Paulo, Fernando Haddad, voltou a criticar o que considera ser uma agenda de privatizações “açodada” que vem ocorrendo no Estado de São Paulo sob a atual...",
+   "link": "https://www.moneytimes.com.br/sao-paulo-tem-feito-privatizacoes-acodadas-para-agradar-o-mercado-financeiro-diz-haddad-gaep/",
    "aba": "insumos"
   },
   {
@@ -132,10 +132,6 @@ window.DADOS = {
   }
  ],
  "diarios": {
-  "selic": {
-   "valor": 14.0,
-   "data": "20/08/2026"
-  },
   "ipca12": {
    "valor": 4.44,
    "data": "01/07/2026"
