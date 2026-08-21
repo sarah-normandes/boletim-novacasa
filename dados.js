@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "21/08/2026 07:06",
+ "atualizado_em": "21/08/2026 11:05",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,22 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Segurança com o emprego",
+   "data": "21/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A 14ª edição dos Indicadores de Qualidade do Trabalho da Sondagem de Mercado de Trabalho, do FGV Ibre, aborda o tema da chance de perder emprego e/ou principal fonte de renda. O resultado mostra que a maior parte dos...",
+   "link": "http://www.revistaanamaco.com.br/seguranca-com-o-emprego",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Eucatex amplia lucro líquido semestral para R$ 223,3 milhões no primeiro semestre",
+   "data": "21/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Eucatex registrou lucro líquido recorrente de R$ 223,3 milhões no primeiro semestre, o que representa crescimento de 18,1% em relação ao mesmo período do ano passado. No segundo trimestre, o lucro líquido...",
+   "link": "http://www.revistaanamaco.com.br/eucatex-amplia-lucro-liquido-semestral-para-r-2233-milhoes-no-primeiro-semestre-",
+   "aba": "insumos"
   },
   {
    "titulo": "Laboratório Central da InterCement Brasil conquista premiação internacional",
@@ -113,22 +129,6 @@ window.DADOS = {
    "resumo": "A Votorantim Cimentos encerrou o segundo trimestre com receita líquida global de R$ 8,2 bilhões, o que significa avanço de 16% em relação ao mesmo período do ano anterior, desconsiderando os efeitos da variação cambial",
    "link": "http://www.revistaanamaco.com.br/votorantim-cimentos-apresenta-balanco-positivo-do-segundo-trimestre",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Evento em Vitória discute descarbonização da siderurgia com hidrogênio verde",
-   "data": "19/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "O Espírito Santo reúne a maior parte das usinas siderúrgicas do país e, por conta do parque industrial robusto, tem avançado nas discussões sobre a O post Evento em Vitória discute descarbonização da siderurgia com...",
-   "link": "https://revistaoe.com.br/evento-com-foco-no-hidrogenio-verde-na-siderurgia/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Encontro com presidenciáveis colocou as propostas para o Brasil no centro dos debates",
-   "data": "18/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Unecs realizou, em Brasília, o Encontro com os presidenciáveis - Diálogo pelo futuro do Brasil. O evento, realizado hoje, 18 de agosto, reuniu representantes do setor produtivo e candidatos à Presidência da...",
-   "link": "http://www.revistaanamaco.com.br/encontro-com-presidenciaveis-colocou-as-propostas-para-o-brasil-no-centro-dos-debates",
-   "aba": "geral"
   }
  ],
  "diarios": {
