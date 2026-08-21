@@ -1,10 +1,10 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "20/08/2026 18:57",
+ "atualizado_em": "21/08/2026 07:06",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "20/08/2026",
+   "data": "21/08/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
@@ -51,12 +51,20 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Goldman Sachs atualiza para baixo estimativas para o varejo na América Latina",
+   "titulo": "Eduardo Aroeira apresenta panorama da construção civil brasileira em encontro do mercado imobiliário",
    "data": "20/08/2026",
-   "fonte": "InfoMoney",
-   "resumo": "Trimestre foi marcado pelo consumo fraco em toda a região The post Goldman Sachs atualiza para baixo estimativas para o varejo na América Latina appeared first on InfoMoney .",
-   "link": "https://www.infomoney.com.br/mercados/goldman-sachs-atualiza-para-baixo-estimativas-para-o-varejo-na-america-latina/",
-   "aba": "insumos"
+   "fonte": "CBIC",
+   "resumo": "O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo Aroeira, apresentou, nesta quinta-feira (20), um panorama da construção civil brasileira durante o 102º Encontro da Associação Brasileira...",
+   "link": "https://cbic.org.br/eduardo-aroeira-apresenta-panorama-da-construcao-civil-brasileira-em-encontro-do-mercado-imobiliario/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "CBIC debate financiamento e MCMV em Rodada de Negócios da Habitação da CHIS",
+   "data": "20/08/2026",
+   "fonte": "CBIC",
+   "resumo": "A execução do Minha Casa, Minha Vida (MCMV), o orçamento do FGTS e do Fundo de Arrendamento Residencial (FAR) e os desafios para ampliar a produção habitacional estiveram no centro da 4ª Rodada de Negócios da...",
+   "link": "https://cbic.org.br/cbic-debate-financiamento-e-mcmv-em-rodada-de-negocios-da-habitacao-da-chis/",
+   "aba": "demanda"
   },
   {
    "titulo": "“O Brasil precisa ser construído. E construir, nós sabemos fazer”, afirma Eduardo Aroeira na posse da CBIC",
@@ -121,28 +129,12 @@ window.DADOS = {
    "resumo": "A Unecs realizou, em Brasília, o Encontro com os presidenciáveis - Diálogo pelo futuro do Brasil. O evento, realizado hoje, 18 de agosto, reuniu representantes do setor produtivo e candidatos à Presidência da...",
    "link": "http://www.revistaanamaco.com.br/encontro-com-presidenciaveis-colocou-as-propostas-para-o-brasil-no-centro-dos-debates",
    "aba": "geral"
-  },
-  {
-   "titulo": "Expectativa de alta até outubro",
-   "data": "18/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Ibevar, em cooperação com a FIA Business School, divulga o relatório de Projeção de Vendas do Varejo para o trimestre compreendido entre agosto e outubro. O estudo indica continuidade no ritmo de expansão moderada...",
-   "link": "http://www.revistaanamaco.com.br/expectativa-de-alta-ate-outubro--",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 14.0,
-   "data": "20/08/2026"
-  },
-  "ipca12": {
-   "valor": 4.44,
-   "data": "01/07/2026"
-  },
-  "igpm12": {
-   "valor": -0.86,
-   "data": "01/07/2026"
+   "data": "21/08/2026"
   }
  },
  "mensais": {
