@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "21/08/2026 13:03",
+ "atualizado_em": "21/08/2026 16:16",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -41,6 +41,14 @@ window.DADOS = {
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Aos 81 anos, Richard Barrett reflete sobre nova era do trabalho e aponta a inteligência relacional como o grande diferencial dos brasileiros O post...",
    "link": "https://forbes.com.br/carreira/2026/08/construa-uma-vida-nao-uma-carreira-defende-autor-best-seller-britanico/",
    "aba": "geral"
+  },
+  {
+   "titulo": "Tesouro IPCA+ 2026 venceu: Como usar os recursos para acelerar a sua construção de patrimônio?",
+   "data": "21/08/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "Empiricus Research aponta cinco oportunidades para dar um novo destino aos recursos do Tesouro IPCA+ 2026; saiba mais",
+   "link": "https://www.moneytimes.com.br/tesouro-ipca-2026-venceu-como-usar-os-recursos-para-acelerar-a-sua-construcao-de-patrimonio-lbrdgm083/",
+   "aba": "custos"
   },
   {
    "titulo": "Laboratório Central da InterCement Brasil conquista premiação internacional",
@@ -121,14 +129,6 @@ window.DADOS = {
    "resumo": "A Amanco Wavin inicia uma nova fase do programa Takeback, em parceria com o SindusCon-SP. A iniciativa busca incentivar a adoção de novas soluções para a valorização e a logística reversa dos resíduos de PVC,...",
    "link": "http://www.revistaanamaco.com.br/amanco-wavin-e-sinduscon-sp-ampliam-programa-de-reciclagem-de-pvc-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Placas do Brasil participa da 19ª edição da Morar Mais BH com dois ambientes",
-   "data": "19/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Placas do Brasil marca presença na 19ª edição da Morar Mais BH, uma das principais Mostras de arquitetura, design, decoração, paisagismo, arte e gastronomia de Minas Gerais. O evento acontece, entre os dias 04 e 30...",
-   "link": "http://www.revistaanamaco.com.br/placas-do-brasil-participa-da-19-edicao-da-morar-mais-bh-com-dois-ambientes-",
-   "aba": "geral"
   }
  ],
  "diarios": {
