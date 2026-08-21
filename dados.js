@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "21/08/2026 16:16",
+ "atualizado_em": "21/08/2026 18:52",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -43,12 +43,44 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Tesouro IPCA+ 2026 venceu: Como usar os recursos para acelerar a sua construção de patrimônio?",
+   "titulo": "Suprema Corte libera Trump para manter obra de salão bilionário na Casa Branca",
+   "data": "21/08/2026",
+   "fonte": "InfoMoney",
+   "resumo": "Presidente da Corte, John Roberts, suspendeu decisão que obrigaria a paralisação do projeto, contestado por avançar sem autorização explícita do Congresso The post Suprema Corte libera Trump para manter obra de salão...",
+   "link": "https://www.infomoney.com.br/mundo/suprema-corte-libera-trump-para-manter-obra-de-salao-bilionario-na-casa-branca/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Dia Nacional da Construção Social reforça valorização dos trabalhadores e o compromisso social do setor",
+   "data": "21/08/2026",
+   "fonte": "CBIC",
+   "resumo": "Valorizar quem está diariamente nos canteiros de obras e reconhecer a importância de suas famílias para o desenvolvimento do setor. É com esse propósito que o Dia Nacional da Construção Social (DNCS) se consolidou,...",
+   "link": "https://cbic.org.br/dia-nacional-da-construcao-social-reforca-valorizacao-dos-trabalhadores-e-o-compromisso-social-do-setor/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "CBIC promove workshop sobre impactos da redução da jornada nos encargos sociais da construção",
+   "data": "21/08/2026",
+   "fonte": "CBIC",
+   "resumo": "Quais podem ser os efeitos da redução da jornada de trabalho sobre os custos das empresas do setor da construção? A discussão será tema de workshop promovido pela Câmara Brasileira da Indústria da Construção (CBIC),...",
+   "link": "https://cbic.org.br/cbic-promove-workshop-sobre-impactos-da-reducao-da-jornada-nos-encargos-sociais-da-construcao/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Com primeiro arranha-céu de Sinop em andamento, construtora do Centro-Oeste anuncia R$ 630 milhões em VGV projetados para 2026",
+   "data": "21/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "Em um mercado imobiliário historicamente concentrado no eixo Rio de Janeiro–São Paulo, uma construtora do Centro-Oeste vem desenhando uma trajetória diferente. A São Benedito, fundada O post Com primeiro arranha-céu...",
+   "link": "https://revistaoe.com.br/com-primeiro-arranha-ceu-de-sinop-em-andamento-construtora-do-centro-oeste-anuncia-r-630-milhoes-em-vgv-projetados-para-2026/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Casas Bahia (BHIA3): Ministro nega haver crise no varejo e culpa juros altos e e-commerce por dificuldades",
    "data": "21/08/2026",
    "fonte": "MoneyTimes",
-   "resumo": "Empiricus Research aponta cinco oportunidades para dar um novo destino aos recursos do Tesouro IPCA+ 2026; saiba mais",
-   "link": "https://www.moneytimes.com.br/tesouro-ipca-2026-venceu-como-usar-os-recursos-para-acelerar-a-sua-construcao-de-patrimonio-lbrdgm083/",
-   "aba": "custos"
+   "resumo": "O ministro da Fazenda, Dario Durigan, afirmou que não há que se falar em uma crise no setor varejista brasileiro e frisou que as dificuldades passam pelo nível da taxa de juros no País. Ele destacou que o crescimento...",
+   "link": "https://www.moneytimes.com.br/durigan-crescimento-das-vendas-no-varejo-acompanhou-o-crescimento-do-pib-brasileiro/",
+   "aba": "insumos"
   },
   {
    "titulo": "Laboratório Central da InterCement Brasil conquista premiação internacional",
@@ -97,38 +129,6 @@ window.DADOS = {
    "resumo": "O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo Aroeira, apresentou, nesta quinta-feira (20), um panorama da construção civil brasileira durante o 102º Encontro da Associação Brasileira...",
    "link": "https://cbic.org.br/eduardo-aroeira-apresenta-panorama-da-construcao-civil-brasileira-em-encontro-do-mercado-imobiliario/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "CBIC debate financiamento e MCMV em Rodada de Negócios da Habitação da CHIS",
-   "data": "20/08/2026",
-   "fonte": "CBIC",
-   "resumo": "A execução do Minha Casa, Minha Vida (MCMV), o orçamento do FGTS e do Fundo de Arrendamento Residencial (FAR) e os desafios para ampliar a produção habitacional estiveram no centro da 4ª Rodada de Negócios da...",
-   "link": "https://cbic.org.br/cbic-debate-financiamento-e-mcmv-em-rodada-de-negocios-da-habitacao-da-chis/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "“O Brasil precisa ser construído. E construir, nós sabemos fazer”, afirma Eduardo Aroeira na posse da CBIC",
-   "data": "20/08/2026",
-   "fonte": "CBIC",
-   "resumo": "O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo Aroeira, destacou a importância da construção para o desenvolvimento econômico do país e apresentou os alicerces que devem orientar sua...",
-   "link": "https://cbic.org.br/o-brasil-precisa-ser-construido-e-construir-nos-sabemos-fazer-afirma-eduardo-aroeira-na-posse-da-cbic/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Renato Correia encerra gestão na CBIC com foco no fortalecimento institucional e no protagonismo da construção",
-   "data": "20/08/2026",
-   "fonte": "CBIC",
-   "resumo": "Ao transmitir o cargo de presidente da Câmara Brasileira da Indústria da Construção (CBIC), Renato Correia destacou o fortalecimento institucional, a ampliação do protagonismo da construção e a preparação da entidade...",
-   "link": "https://cbic.org.br/renato-correia-encerra-gestao-na-cbic-com-foco-no-fortalecimento-institucional-e-no-protagonismo-da-construcao/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Amanco Wavin e SindusCon-SP ampliam programa de reciclagem de PVC",
-   "data": "19/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Amanco Wavin inicia uma nova fase do programa Takeback, em parceria com o SindusCon-SP. A iniciativa busca incentivar a adoção de novas soluções para a valorização e a logística reversa dos resíduos de PVC,...",
-   "link": "http://www.revistaanamaco.com.br/amanco-wavin-e-sinduscon-sp-ampliam-programa-de-reciclagem-de-pvc-",
-   "aba": "insumos"
   }
  ],
  "diarios": {
