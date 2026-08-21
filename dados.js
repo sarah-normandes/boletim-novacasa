@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "21/08/2026 11:05",
+ "atualizado_em": "21/08/2026 13:03",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Confiança melhora em agosto",
+   "data": "21/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "Após recuar em junho e julho, o Índice de Confiança do Empresário Industrial subiu 1,9 ponto em agosto, para 46,3 pontos, aponta pesquisa divulgada pela CNI. Mesmo com o resultado, o indicador segue abaixo da linha...",
+   "link": "http://www.revistaanamaco.com.br/confianca-melhora-em-agosto-",
+   "aba": "demanda"
   },
   {
    "titulo": "Segurança com o emprego",
@@ -25,6 +33,14 @@ window.DADOS = {
    "resumo": "A Eucatex registrou lucro líquido recorrente de R$ 223,3 milhões no primeiro semestre, o que representa crescimento de 18,1% em relação ao mesmo período do ano passado. No segundo trimestre, o lucro líquido...",
    "link": "http://www.revistaanamaco.com.br/eucatex-amplia-lucro-liquido-semestral-para-r-2233-milhoes-no-primeiro-semestre-",
    "aba": "insumos"
+  },
+  {
+   "titulo": "“Construa uma Vida, Não uma Carreira”, Defende Autor Best-Seller Britânico",
+   "data": "21/08/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Aos 81 anos, Richard Barrett reflete sobre nova era do trabalho e aponta a inteligência relacional como o grande diferencial dos brasileiros O post...",
+   "link": "https://forbes.com.br/carreira/2026/08/construa-uma-vida-nao-uma-carreira-defende-autor-best-seller-britanico/",
+   "aba": "geral"
   },
   {
    "titulo": "Laboratório Central da InterCement Brasil conquista premiação internacional",
@@ -113,22 +129,6 @@ window.DADOS = {
    "resumo": "A Placas do Brasil marca presença na 19ª edição da Morar Mais BH, uma das principais Mostras de arquitetura, design, decoração, paisagismo, arte e gastronomia de Minas Gerais. O evento acontece, entre os dias 04 e 30...",
    "link": "http://www.revistaanamaco.com.br/placas-do-brasil-participa-da-19-edicao-da-morar-mais-bh-com-dois-ambientes-",
    "aba": "geral"
-  },
-  {
-   "titulo": "Índice Nacional da Construção Civil desacelerou para 0,44% em julho",
-   "data": "19/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Índice Nacional da Construção Civil, calculado pelo IBGE, variou 0,44% em julho. A taxa é 0,75 ponto percentual abaixo do que havia sido registrado em junho (1,19%). Com isso, o acumulado nos últimos doze meses foi...",
-   "link": "http://www.revistaanamaco.com.br/indice-nacional-da-construcao-civil-desacelerou-para-044-em-julho",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Votorantim Cimentos apresenta balanço positivo do segundo trimestre",
-   "data": "19/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Votorantim Cimentos encerrou o segundo trimestre com receita líquida global de R$ 8,2 bilhões, o que significa avanço de 16% em relação ao mesmo período do ano anterior, desconsiderando os efeitos da variação cambial",
-   "link": "http://www.revistaanamaco.com.br/votorantim-cimentos-apresenta-balanco-positivo-do-segundo-trimestre",
-   "aba": "insumos"
   }
  ],
  "diarios": {
