@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "22/08/2026 12:44",
+ "atualizado_em": "22/08/2026 16:02",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -49,14 +49,6 @@ window.DADOS = {
    "resumo": "A Eucatex registrou lucro líquido recorrente de R$ 223,3 milhões no primeiro semestre, o que representa crescimento de 18,1% em relação ao mesmo período do ano passado. No segundo trimestre, o lucro líquido...",
    "link": "http://www.revistaanamaco.com.br/eucatex-amplia-lucro-liquido-semestral-para-r-2233-milhoes-no-primeiro-semestre-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "“Construa uma Vida, Não uma Carreira”, Defende Autor Best-Seller Britânico",
-   "data": "21/08/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Aos 81 anos, Richard Barrett reflete sobre nova era do trabalho e aponta a inteligência relacional como o grande diferencial dos brasileiros O post...",
-   "link": "https://forbes.com.br/carreira/2026/08/construa-uma-vida-nao-uma-carreira-defende-autor-best-seller-britanico/",
-   "aba": "geral"
   },
   {
    "titulo": "Dia Nacional da Construção Social reforça valorização dos trabalhadores e o compromisso social do setor",
@@ -128,6 +120,14 @@ window.DADOS = {
    "fonte": "CBIC",
    "resumo": "O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo Aroeira, apresentou, nesta quinta-feira (20), um panorama da construção civil brasileira durante o 102º Encontro da Associação Brasileira...",
    "link": "https://cbic.org.br/eduardo-aroeira-apresenta-panorama-da-construcao-civil-brasileira-em-encontro-do-mercado-imobiliario/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "CBIC debate financiamento e MCMV em Rodada de Negócios da Habitação da CHIS",
+   "data": "20/08/2026",
+   "fonte": "CBIC",
+   "resumo": "A execução do Minha Casa, Minha Vida (MCMV), o orçamento do FGTS e do Fundo de Arrendamento Residencial (FAR) e os desafios para ampliar a produção habitacional estiveram no centro da 4ª Rodada de Negócios da...",
+   "link": "https://cbic.org.br/cbic-debate-financiamento-e-mcmv-em-rodada-de-negocios-da-habitacao-da-chis/",
    "aba": "demanda"
   }
  ],
