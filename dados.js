@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "22/08/2026 10:43",
+ "atualizado_em": "22/08/2026 12:44",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Pesquisa revela que o Brasil registra o maior patamar de inadimplência da história",
+   "data": "22/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "De acordo com dados do Indicador de Inadimplência, da CNDL e do SPC Brasil, o País registrou, em julho, o maior patamar de inadimplência de sua história, com 75,08 milhões de brasileiros com contas em atraso. Esse...",
+   "link": "http://www.revistaanamaco.com.br/pesquisa-revela-que-o-brasil-registra-o-maior-patamar-de-inadimplencia-da-historia",
+   "aba": "geral"
   },
   {
    "titulo": "Cristallux amplia presença em Mostras de arquitetura e design no Rio Grande do Sul",
@@ -67,6 +75,14 @@ window.DADOS = {
    "aba": "custos"
   },
   {
+   "titulo": "Com primeiro arranha-céu de Sinop em andamento, construtora do Centro-Oeste anuncia R$ 630 milhões em VGV projetados para 2026",
+   "data": "21/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "Em um mercado imobiliário historicamente concentrado no eixo Rio de Janeiro–São Paulo, uma construtora do Centro-Oeste vem desenhando uma trajetória diferente. A São Benedito, fundada O post Com primeiro arranha-céu...",
+   "link": "https://revistaoe.com.br/com-primeiro-arranha-ceu-de-sinop-em-andamento-construtora-do-centro-oeste-anuncia-r-630-milhoes-em-vgv-projetados-para-2026/",
+   "aba": "demanda"
+  },
+  {
    "titulo": "Laboratório Central da InterCement Brasil conquista premiação internacional",
    "data": "20/08/2026",
    "fonte": "Anamaco",
@@ -113,22 +129,6 @@ window.DADOS = {
    "resumo": "O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo Aroeira, apresentou, nesta quinta-feira (20), um panorama da construção civil brasileira durante o 102º Encontro da Associação Brasileira...",
    "link": "https://cbic.org.br/eduardo-aroeira-apresenta-panorama-da-construcao-civil-brasileira-em-encontro-do-mercado-imobiliario/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "CBIC debate financiamento e MCMV em Rodada de Negócios da Habitação da CHIS",
-   "data": "20/08/2026",
-   "fonte": "CBIC",
-   "resumo": "A execução do Minha Casa, Minha Vida (MCMV), o orçamento do FGTS e do Fundo de Arrendamento Residencial (FAR) e os desafios para ampliar a produção habitacional estiveram no centro da 4ª Rodada de Negócios da...",
-   "link": "https://cbic.org.br/cbic-debate-financiamento-e-mcmv-em-rodada-de-negocios-da-habitacao-da-chis/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Amanco Wavin e SindusCon-SP ampliam programa de reciclagem de PVC",
-   "data": "19/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Amanco Wavin inicia uma nova fase do programa Takeback, em parceria com o SindusCon-SP. A iniciativa busca incentivar a adoção de novas soluções para a valorização e a logística reversa dos resíduos de PVC,...",
-   "link": "http://www.revistaanamaco.com.br/amanco-wavin-e-sinduscon-sp-ampliam-programa-de-reciclagem-de-pvc-",
-   "aba": "insumos"
   }
  ],
  "diarios": {
