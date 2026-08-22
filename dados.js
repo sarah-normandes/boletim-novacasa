@@ -1,10 +1,10 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "21/08/2026 18:52",
+ "atualizado_em": "22/08/2026 06:54",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "21/08/2026",
+   "data": "22/08/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
@@ -43,14 +43,6 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Suprema Corte libera Trump para manter obra de salão bilionário na Casa Branca",
-   "data": "21/08/2026",
-   "fonte": "InfoMoney",
-   "resumo": "Presidente da Corte, John Roberts, suspendeu decisão que obrigaria a paralisação do projeto, contestado por avançar sem autorização explícita do Congresso The post Suprema Corte libera Trump para manter obra de salão...",
-   "link": "https://www.infomoney.com.br/mundo/suprema-corte-libera-trump-para-manter-obra-de-salao-bilionario-na-casa-branca/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "Dia Nacional da Construção Social reforça valorização dos trabalhadores e o compromisso social do setor",
    "data": "21/08/2026",
    "fonte": "CBIC",
@@ -65,14 +57,6 @@ window.DADOS = {
    "resumo": "Quais podem ser os efeitos da redução da jornada de trabalho sobre os custos das empresas do setor da construção? A discussão será tema de workshop promovido pela Câmara Brasileira da Indústria da Construção (CBIC),...",
    "link": "https://cbic.org.br/cbic-promove-workshop-sobre-impactos-da-reducao-da-jornada-nos-encargos-sociais-da-construcao/",
    "aba": "custos"
-  },
-  {
-   "titulo": "Com primeiro arranha-céu de Sinop em andamento, construtora do Centro-Oeste anuncia R$ 630 milhões em VGV projetados para 2026",
-   "data": "21/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "Em um mercado imobiliário historicamente concentrado no eixo Rio de Janeiro–São Paulo, uma construtora do Centro-Oeste vem desenhando uma trajetória diferente. A São Benedito, fundada O post Com primeiro arranha-céu...",
-   "link": "https://revistaoe.com.br/com-primeiro-arranha-ceu-de-sinop-em-andamento-construtora-do-centro-oeste-anuncia-r-630-milhoes-em-vgv-projetados-para-2026/",
-   "aba": "demanda"
   },
   {
    "titulo": "Casas Bahia (BHIA3): Ministro nega haver crise no varejo e culpa juros altos e e-commerce por dificuldades",
@@ -129,12 +113,28 @@ window.DADOS = {
    "resumo": "O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo Aroeira, apresentou, nesta quinta-feira (20), um panorama da construção civil brasileira durante o 102º Encontro da Associação Brasileira...",
    "link": "https://cbic.org.br/eduardo-aroeira-apresenta-panorama-da-construcao-civil-brasileira-em-encontro-do-mercado-imobiliario/",
    "aba": "demanda"
+  },
+  {
+   "titulo": "CBIC debate financiamento e MCMV em Rodada de Negócios da Habitação da CHIS",
+   "data": "20/08/2026",
+   "fonte": "CBIC",
+   "resumo": "A execução do Minha Casa, Minha Vida (MCMV), o orçamento do FGTS e do Fundo de Arrendamento Residencial (FAR) e os desafios para ampliar a produção habitacional estiveram no centro da 4ª Rodada de Negócios da...",
+   "link": "https://cbic.org.br/cbic-debate-financiamento-e-mcmv-em-rodada-de-negocios-da-habitacao-da-chis/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Amanco Wavin e SindusCon-SP ampliam programa de reciclagem de PVC",
+   "data": "19/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Amanco Wavin inicia uma nova fase do programa Takeback, em parceria com o SindusCon-SP. A iniciativa busca incentivar a adoção de novas soluções para a valorização e a logística reversa dos resíduos de PVC,...",
+   "link": "http://www.revistaanamaco.com.br/amanco-wavin-e-sinduscon-sp-ampliam-programa-de-reciclagem-de-pvc-",
+   "aba": "insumos"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 14.0,
-   "data": "21/08/2026"
+   "data": "22/08/2026"
   }
  },
  "mensais": {
