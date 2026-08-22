@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "22/08/2026 06:54",
+ "atualizado_em": "22/08/2026 10:43",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Cristallux amplia presença em Mostras de arquitetura e design no Rio Grande do Sul",
+   "data": "22/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Cristallux participa de duas das principais Mostras de arquitetura e design do Rio Grande do Sul. A empresa estreia na CasaCor, como patrocinadora prata, e confirma presença em mais uma edição da Mostra Glass, em...",
+   "link": "http://www.revistaanamaco.com.br/cristallux-amplia-presenca-em-mostras-de-arquitetura-e-design-no-rio-grande-do-sul-",
+   "aba": "geral"
   },
   {
    "titulo": "Confiança melhora em agosto",
@@ -57,14 +65,6 @@ window.DADOS = {
    "resumo": "Quais podem ser os efeitos da redução da jornada de trabalho sobre os custos das empresas do setor da construção? A discussão será tema de workshop promovido pela Câmara Brasileira da Indústria da Construção (CBIC),...",
    "link": "https://cbic.org.br/cbic-promove-workshop-sobre-impactos-da-reducao-da-jornada-nos-encargos-sociais-da-construcao/",
    "aba": "custos"
-  },
-  {
-   "titulo": "Casas Bahia (BHIA3): Ministro nega haver crise no varejo e culpa juros altos e e-commerce por dificuldades",
-   "data": "21/08/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "O ministro da Fazenda, Dario Durigan, afirmou que não há que se falar em uma crise no setor varejista brasileiro e frisou que as dificuldades passam pelo nível da taxa de juros no País. Ele destacou que o crescimento...",
-   "link": "https://www.moneytimes.com.br/durigan-crescimento-das-vendas-no-varejo-acompanhou-o-crescimento-do-pib-brasileiro/",
-   "aba": "insumos"
   },
   {
    "titulo": "Laboratório Central da InterCement Brasil conquista premiação internacional",
