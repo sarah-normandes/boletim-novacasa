@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "24/08/2026 11:25",
+ "atualizado_em": "24/08/2026 13:19",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -27,44 +27,44 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Dia Nacional da Construção Social reúne cerca de mil pessoas em alagoas em celebração aos trabalhadores da construção civil",
+   "titulo": "DNCS 2026: Prêmio Orgulho da Construção reconhece profissionais que se destacam no setor em Roraima",
    "data": "24/08/2026",
    "fonte": "CBIC",
-   "resumo": "Evento promovido pela ADEMI Alagoas e correalizado pelo Sinduscon Alagoas e SESI Regional reuniu trabalhadores da construção civil e seus familiares em um dia de lazer, cidadania, saúde, esporte e integração A...",
-   "link": "https://cbic.org.br/dia-nacional-da-construcao-social-reune-cerca-de-mil-pessoas-em-alagoas-em-celebracao-aos-trabalhadores-da-construcao-civil/",
+   "resumo": "Premiação integrou a programação do 19º Dia Nacional da Construção Social e homenageou trabalhadores indicados por empresas participantes O reconhecimento a profissionais que contribuem para o desenvolvimento da...",
+   "link": "https://cbic.org.br/dncs-2026-premio-orgulho-da-construcao-reconhece-profissionais-que-se-destacam-no-setor-em-roraima/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Manaus celebra a 19ª edição do Dia Nacional da Construção Social",
+   "data": "24/08/2026",
+   "fonte": "CBIC",
+   "resumo": "Evento contou com torneio de futsal e ações de cidadania no Clube do Trabalhador do SESI No sábado, 22 de agosto, Manaus foi palco da edição 2026 do Dia Nacional da Construção Social (DNCS), reunindo trabalhadores da...",
+   "link": "https://cbic.org.br/manaus-celebra-a-19a-edicao-do-dia-nacional-da-construcao-social/",
    "aba": "geral"
   },
   {
-   "titulo": "INDICADORES IMOBILIÁRIOS NACIONAIS – 2º TRIMESTRE 2026",
+   "titulo": "DNCS 2026 movimenta construção civil de Cascavel",
    "data": "24/08/2026",
    "fonte": "CBIC",
-   "resumo": "The post INDICADORES IMOBILIÁRIOS NACIONAIS – 2º TRIMESTRE 2026 appeared first on CBIC – Câmara Brasileira da Industria da Construção .",
-   "link": "https://cbic.org.br/wp-content/uploads/2026/08/ind2t2026cbic.pdf#new_tab",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Dia Nacional da Construção Social reúne mais de 2,4 mil pessoas e bate recorde de público no Ceará",
-   "data": "24/08/2026",
-   "fonte": "CBIC",
-   "resumo": "Evento promovido pelo Sinduscon Ceará e CBIC ofereceu mais de 14 mil atendimentos e atividades de saúde, cidadania, educação e lazer para trabalhadores da construção civil e suas famílias O Dia Nacional...",
-   "link": "https://cbic.org.br/dia-nacional-da-construcao-social-reune-mais-de-24-mil-pessoas-e-bate-recorde-de-publico-no-ceara/",
+   "resumo": "O Dia Nacional da Construção Social (DNCS 2026) foi realizado neste sábado, dia 22 de agosto, no Seminário São José, em Cascavel, com uma programação especial dedicada aos trabalhadores da construção civil e suas...",
+   "link": "https://cbic.org.br/dncs-2026-movimenta-construcao-civil-de-cascavel/",
    "aba": "geral"
   },
   {
-   "titulo": "DNCS reúne trabalhadores da construção e familiares em programação de saúde, esporte e lazer",
+   "titulo": "No sábado, evento gratuito reuniu trabalhadores da construção em Maringá",
    "data": "24/08/2026",
    "fonte": "CBIC",
-   "resumo": "Fortaleza foi uma das 15 cidades brasileiras mobilizadas pelo Dia Nacional da Construção Social (DNCS) 2026. Realizado pela Câmara Brasileira da Indústria da Construção (CBIC), o DNCS teve, na capital cearense,...",
-   "link": "https://cbic.org.br/dncs-reune-trabalhadores-da-construcao-e-familiares-em-programacao-de-saude-esporte-e-lazer/",
+   "resumo": "Tradicional e realizado simultaneamente em 15 cidades de 13 estados brasileiros, o Dia Nacional da Construção Social aconteceu neste sábado (22), das 9h às 15h, em Maringá. Voltado aos trabalhadores da construção...",
+   "link": "https://cbic.org.br/no-sabado-evento-gratuito-reuniu-trabalhadores-da-construcao-em-maringa/",
    "aba": "geral"
   },
   {
-   "titulo": "Como a Track Field (TFCO4) desafia a crise do varejo enquanto Casas Bahia (BHIA3) luta para sobreviver",
+   "titulo": "Trump ameaça elevar tarifas sobre veículos, autopeças e aço do Canadá a 50% a partir de 2027",
    "data": "24/08/2026",
    "fonte": "MoneyTimes",
-   "resumo": "A recuperação judicial da Casas Bahia (BHIA3) anunciada nos últimos dias não chegou a ser uma grande surpresa. Após um longo período de juros elevados, aumento do endividamento das famílias, mudanças nos hábitos de...",
-   "link": "https://www.moneytimes.com.br/como-a-track-field-tfco4-desafia-a-crise-do-varejo-enquanto-casas-bahia-bhia3-luta-para-sobreviver/",
-   "aba": "custos"
+   "resumo": "O presidente dos Estados Unidos, Donald Trump, afirmou nesta segunda-feira (24) que pretende elevar para 50% as tarifas sobre carros, caminhões, autopeças e aço importados do Canadá a partir de 1º de janeiro de 2027....",
+   "link": "https://www.moneytimes.com.br/trump-ameaca-elevar-tarifas-sobre-veiculos-autopecas-e-aco-do-canada-a-50-a-partir-de-2027/",
+   "aba": "insumos"
   },
   {
    "titulo": "Intenção de investimento recua",
