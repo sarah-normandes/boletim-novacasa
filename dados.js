@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "24/08/2026 13:19",
+ "atualizado_em": "24/08/2026 16:19",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Gerdau renova patrocínio, por mais um ano, ao time de vôlei feminino Gerdau Minas",
+   "data": "24/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "Parte do time de vôlei feminino Gerdau Minas para a temporada 2026/27 esteve presente na sede da Gerdau, no Centro de Belo Horizonte (MG), para celebrar o início de um novo ciclo nas quadras. O patrocínio, que teve...",
+   "link": "http://www.revistaanamaco.com.br/gerdau-renova-patrocinio-por-mais-um-ano-ao-time-de-volei-feminino-gerdau-minas",
+   "aba": "geral"
   },
   {
    "titulo": "Cobrecom lança livro para profissionais, estudantes e interessados no setor elétrico",
@@ -27,44 +35,52 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "DNCS 2026: Prêmio Orgulho da Construção reconhece profissionais que se destacam no setor em Roraima",
+   "titulo": "O Fenômeno em Vaca Muerta, na Argentina, e o Seu Boom Imobiliário",
    "data": "24/08/2026",
-   "fonte": "CBIC",
-   "resumo": "Premiação integrou a programação do 19º Dia Nacional da Construção Social e homenageou trabalhadores indicados por empresas participantes O reconhecimento a profissionais que contribuem para o desenvolvimento da...",
-   "link": "https://cbic.org.br/dncs-2026-premio-orgulho-da-construcao-reconhece-profissionais-que-se-destacam-no-setor-em-roraima/",
-   "aba": "insumos"
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Localidade tinha menos de 3 mil habitantes pouco mais de uma década atrás, e as projeções apontam para 50 mil até 2032 O post O Fenômeno em Vaca...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/08/boom-imobiliario-vaca-muerta-argentina/",
+   "aba": "demanda"
   },
   {
-   "titulo": "Manaus celebra a 19ª edição do Dia Nacional da Construção Social",
+   "titulo": "Dia Nacional da Construção Social reúne trabalhadores para um dia de lazer, integração e cuidados no Sesc Betim",
    "data": "24/08/2026",
    "fonte": "CBIC",
-   "resumo": "Evento contou com torneio de futsal e ações de cidadania no Clube do Trabalhador do SESI No sábado, 22 de agosto, Manaus foi palco da edição 2026 do Dia Nacional da Construção Social (DNCS), reunindo trabalhadores da...",
-   "link": "https://cbic.org.br/manaus-celebra-a-19a-edicao-do-dia-nacional-da-construcao-social/",
+   "resumo": "Evento promovido por entidades do setor da construção reuniu mais de 500 trabalhadores e familiares em programação com atividades esportivas, música, almoço, sorteios e ações de saúde e cidadania Um dia para deixar...",
+   "link": "https://cbic.org.br/dia-nacional-da-construcao-social-reune-trabalhadores-para-um-dia-de-lazer-integracao-e-cuidados-no-sesc-betim/",
    "aba": "geral"
   },
   {
-   "titulo": "DNCS 2026 movimenta construção civil de Cascavel",
+   "titulo": "CPRT debate qualificação profissional do setor da construção no Concrete Show",
    "data": "24/08/2026",
    "fonte": "CBIC",
-   "resumo": "O Dia Nacional da Construção Social (DNCS 2026) foi realizado neste sábado, dia 22 de agosto, no Seminário São José, em Cascavel, com uma programação especial dedicada aos trabalhadores da construção civil e suas...",
-   "link": "https://cbic.org.br/dncs-2026-movimenta-construcao-civil-de-cascavel/",
+   "resumo": "A falta de mão de obra qualificada é um dos desafios para ampliar a adoção de novas tecnologias e sistemas construtivos no setor. Esse será um dos temas debatidos pelo vice-presidente de política de relações...",
+   "link": "https://cbic.org.br/cprt-debate-qualificacao-profissional-do-setor-da-construcao-no-concrete-show/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "DNCS 2026 reúne 938 trabalhadores da construção civil em Volta Redonda",
+   "data": "24/08/2026",
+   "fonte": "CBIC",
+   "resumo": "Evento realizado pelo Sinduscon-SF ofereceu mais de 1,4 mil atendimentos gratuitos, atividades de saúde, cidadania, lazer e distribuição de brindes. Volta Redonda (RJ) — Saúde, cidadania, lazer, convivência e...",
+   "link": "https://cbic.org.br/dncs-2026-reune-938-trabalhadores-da-construcao-civil-em-volta-redonda/",
    "aba": "geral"
   },
   {
-   "titulo": "No sábado, evento gratuito reuniu trabalhadores da construção em Maringá",
+   "titulo": "DNCS transforma sábado em dia de lazer e valorização para trabalhadores da construção civil em Caxias",
    "data": "24/08/2026",
    "fonte": "CBIC",
-   "resumo": "Tradicional e realizado simultaneamente em 15 cidades de 13 estados brasileiros, o Dia Nacional da Construção Social aconteceu neste sábado (22), das 9h às 15h, em Maringá. Voltado aos trabalhadores da construção...",
-   "link": "https://cbic.org.br/no-sabado-evento-gratuito-reuniu-trabalhadores-da-construcao-em-maringa/",
+   "resumo": "Evento reuniu trabalhadores e famílias neste sábado (22), no Centro Esportivo do SESI, com futebol, música, atividades infantis, mateada e alimentação gratuita Quem trabalha na construção civil teve um sábado...",
+   "link": "https://cbic.org.br/dncs-transforma-sabado-em-dia-de-lazer-e-valorizacao-para-trabalhadores-da-construcao-civil-em-caxias/",
    "aba": "geral"
   },
   {
-   "titulo": "Trump ameaça elevar tarifas sobre veículos, autopeças e aço do Canadá a 50% a partir de 2027",
+   "titulo": "Abecip eleva projeção de alta nos financiamentos imobiliários neste ano de 16% para 25%",
    "data": "24/08/2026",
    "fonte": "MoneyTimes",
-   "resumo": "O presidente dos Estados Unidos, Donald Trump, afirmou nesta segunda-feira (24) que pretende elevar para 50% as tarifas sobre carros, caminhões, autopeças e aço importados do Canadá a partir de 1º de janeiro de 2027....",
-   "link": "https://www.moneytimes.com.br/trump-ameaca-elevar-tarifas-sobre-veiculos-autopecas-e-aco-do-canada-a-50-a-partir-de-2027/",
-   "aba": "insumos"
+   "resumo": "Os bancos subiram as projeções de alta para o volume de financiamentos imobiliários em 2026, passando de 16% para 25%. Os dados são da Associação Brasileira das Entidades de Crédito Imobiliário e Poupança (Abecip) e...",
+   "link": "https://www.moneytimes.com.br/abecip-eleva-projecao-de-alta-nos-financiamentos-imobiliarios-neste-ano-de-16-para-25-jcav/",
+   "aba": "demanda"
   },
   {
    "titulo": "Intenção de investimento recua",
@@ -112,22 +128,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "A 14ª edição dos Indicadores de Qualidade do Trabalho da Sondagem de Mercado de Trabalho, do FGV Ibre, aborda o tema da chance de perder emprego e/ou principal fonte de renda. O resultado mostra que a maior parte dos...",
    "link": "http://www.revistaanamaco.com.br/seguranca-com-o-emprego",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Eucatex amplia lucro líquido semestral para R$ 223,3 milhões no primeiro semestre",
-   "data": "21/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Eucatex registrou lucro líquido recorrente de R$ 223,3 milhões no primeiro semestre, o que representa crescimento de 18,1% em relação ao mesmo período do ano passado. No segundo trimestre, o lucro líquido...",
-   "link": "http://www.revistaanamaco.com.br/eucatex-amplia-lucro-liquido-semestral-para-r-2233-milhoes-no-primeiro-semestre-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Com primeiro arranha-céu de Sinop em andamento, construtora do Centro-Oeste anuncia R$ 630 milhões em VGV projetados para 2026",
-   "data": "21/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "Em um mercado imobiliário historicamente concentrado no eixo Rio de Janeiro–São Paulo, uma construtora do Centro-Oeste vem desenhando uma trajetória diferente. A São Benedito, fundada O post Com primeiro arranha-céu...",
-   "link": "https://revistaoe.com.br/com-primeiro-arranha-ceu-de-sinop-em-andamento-construtora-do-centro-oeste-anuncia-r-630-milhoes-em-vgv-projetados-para-2026/",
    "aba": "demanda"
   }
  ],
