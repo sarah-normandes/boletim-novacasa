@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "24/08/2026 16:19",
+ "atualizado_em": "24/08/2026 18:57",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -35,12 +35,36 @@ window.DADOS = {
    "aba": "geral"
   },
   {
+   "titulo": "Selic Alta Preocupa Mais a Construção Civil do Que Carga Tributária e Custo de Mão de Obra",
+   "data": "24/08/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Setor de edificações tem alta de confiança, mas expectativas gerais de investimento e atividade recuam com a lentidão no corte da Selic O post Selic...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/08/selic-juros-construcao-civil-preocupacao/",
+   "aba": "custos"
+  },
+  {
    "titulo": "O Fenômeno em Vaca Muerta, na Argentina, e o Seu Boom Imobiliário",
    "data": "24/08/2026",
    "fonte": "Forbes",
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Localidade tinha menos de 3 mil habitantes pouco mais de uma década atrás, e as projeções apontam para 50 mil até 2032 O post O Fenômeno em Vaca...",
    "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/08/boom-imobiliario-vaca-muerta-argentina/",
    "aba": "demanda"
+  },
+  {
+   "titulo": "Dia Nacional da Construção Social reúne trabalhadores e famílias em Aparecida de Goiânia",
+   "data": "24/08/2026",
+   "fonte": "CBIC",
+   "resumo": "Evento gratuito promovido pelo Seconci Goiás e Sinduscon-GO foi realizado no dia 23 de agosto, com ações de saúde, esporte, lazer, cultura, tecnologia e distribuição de brindes Trabalhadores da construção civil e...",
+   "link": "https://cbic.org.br/dia-nacional-da-construcao-social-reune-trabalhadores-e-familias-em-aparecida-de-goiania/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Vendas de imóveis avançam 5,4% no primeiro semestre e MCMV registra participação recorde",
+   "data": "24/08/2026",
+   "fonte": "CBIC",
+   "resumo": "O mercado imobiliário brasileiro encerrou o primeiro semestre de 2026 com crescimento nas vendas de imóveis residenciais novos, mesmo diante de um cenário de juros ainda elevados. De janeiro a junho, foram...",
+   "link": "https://cbic.org.br/vendas-de-imoveis-avancam-54-no-primeiro-semestre-e-mcmv-registra-participacao-recorde/",
+   "aba": "insumos"
   },
   {
    "titulo": "Dia Nacional da Construção Social reúne trabalhadores para um dia de lazer, integração e cuidados no Sesc Betim",
@@ -56,30 +80,6 @@ window.DADOS = {
    "fonte": "CBIC",
    "resumo": "A falta de mão de obra qualificada é um dos desafios para ampliar a adoção de novas tecnologias e sistemas construtivos no setor. Esse será um dos temas debatidos pelo vice-presidente de política de relações...",
    "link": "https://cbic.org.br/cprt-debate-qualificacao-profissional-do-setor-da-construcao-no-concrete-show/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "DNCS 2026 reúne 938 trabalhadores da construção civil em Volta Redonda",
-   "data": "24/08/2026",
-   "fonte": "CBIC",
-   "resumo": "Evento realizado pelo Sinduscon-SF ofereceu mais de 1,4 mil atendimentos gratuitos, atividades de saúde, cidadania, lazer e distribuição de brindes. Volta Redonda (RJ) — Saúde, cidadania, lazer, convivência e...",
-   "link": "https://cbic.org.br/dncs-2026-reune-938-trabalhadores-da-construcao-civil-em-volta-redonda/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "DNCS transforma sábado em dia de lazer e valorização para trabalhadores da construção civil em Caxias",
-   "data": "24/08/2026",
-   "fonte": "CBIC",
-   "resumo": "Evento reuniu trabalhadores e famílias neste sábado (22), no Centro Esportivo do SESI, com futebol, música, atividades infantis, mateada e alimentação gratuita Quem trabalha na construção civil teve um sábado...",
-   "link": "https://cbic.org.br/dncs-transforma-sabado-em-dia-de-lazer-e-valorizacao-para-trabalhadores-da-construcao-civil-em-caxias/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Abecip eleva projeção de alta nos financiamentos imobiliários neste ano de 16% para 25%",
-   "data": "24/08/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "Os bancos subiram as projeções de alta para o volume de financiamentos imobiliários em 2026, passando de 16% para 25%. Os dados são da Associação Brasileira das Entidades de Crédito Imobiliário e Poupança (Abecip) e...",
-   "link": "https://www.moneytimes.com.br/abecip-eleva-projecao-de-alta-nos-financiamentos-imobiliarios-neste-ano-de-16-para-25-jcav/",
    "aba": "demanda"
   },
   {
