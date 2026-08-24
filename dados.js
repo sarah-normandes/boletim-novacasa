@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "24/08/2026 07:57",
+ "atualizado_em": "24/08/2026 11:25",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,62 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Cobrecom lança livro para profissionais, estudantes e interessados no setor elétrico",
+   "data": "24/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "Dando continuidade ao seu compromisso de contribuir com a formação, atualização e valorização de quem faz e instalação elétrica acontecer, a Cobrecom lança o livro ‘Dimensionamento de cabos elétricos para instalações...",
+   "link": "http://www.revistaanamaco.com.br/cobrecom-lanca-livro-para-profissionais-estudantes-e-interessados-no-setor-eletrico-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Eternit amplia em 50,3% receita de Construção Industrializada no 2º trimestre",
+   "data": "24/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Eternit acaba de apresentar seu relatório financeiro do 2º trimestre e exercício de 2026. Entre os destaques do período está o avanço de 50,3% da receita de Construção Industrializada em relação ao 2T25, que...",
+   "link": "http://www.revistaanamaco.com.br/eternit-amplia-em-503-receita-de-construcao-industrializada-no-2-trimestre",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Dia Nacional da Construção Social reúne cerca de mil pessoas em alagoas em celebração aos trabalhadores da construção civil",
+   "data": "24/08/2026",
+   "fonte": "CBIC",
+   "resumo": "Evento promovido pela ADEMI Alagoas e correalizado pelo Sinduscon Alagoas e SESI Regional reuniu trabalhadores da construção civil e seus familiares em um dia de lazer, cidadania, saúde, esporte e integração A...",
+   "link": "https://cbic.org.br/dia-nacional-da-construcao-social-reune-cerca-de-mil-pessoas-em-alagoas-em-celebracao-aos-trabalhadores-da-construcao-civil/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "INDICADORES IMOBILIÁRIOS NACIONAIS – 2º TRIMESTRE 2026",
+   "data": "24/08/2026",
+   "fonte": "CBIC",
+   "resumo": "The post INDICADORES IMOBILIÁRIOS NACIONAIS – 2º TRIMESTRE 2026 appeared first on CBIC – Câmara Brasileira da Industria da Construção .",
+   "link": "https://cbic.org.br/wp-content/uploads/2026/08/ind2t2026cbic.pdf#new_tab",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Dia Nacional da Construção Social reúne mais de 2,4 mil pessoas e bate recorde de público no Ceará",
+   "data": "24/08/2026",
+   "fonte": "CBIC",
+   "resumo": "Evento promovido pelo Sinduscon Ceará e CBIC ofereceu mais de 14 mil atendimentos e atividades de saúde, cidadania, educação e lazer para trabalhadores da construção civil e suas famílias O Dia Nacional...",
+   "link": "https://cbic.org.br/dia-nacional-da-construcao-social-reune-mais-de-24-mil-pessoas-e-bate-recorde-de-publico-no-ceara/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "DNCS reúne trabalhadores da construção e familiares em programação de saúde, esporte e lazer",
+   "data": "24/08/2026",
+   "fonte": "CBIC",
+   "resumo": "Fortaleza foi uma das 15 cidades brasileiras mobilizadas pelo Dia Nacional da Construção Social (DNCS) 2026. Realizado pela Câmara Brasileira da Indústria da Construção (CBIC), o DNCS teve, na capital cearense,...",
+   "link": "https://cbic.org.br/dncs-reune-trabalhadores-da-construcao-e-familiares-em-programacao-de-saude-esporte-e-lazer/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Como a Track Field (TFCO4) desafia a crise do varejo enquanto Casas Bahia (BHIA3) luta para sobreviver",
+   "data": "24/08/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "A recuperação judicial da Casas Bahia (BHIA3) anunciada nos últimos dias não chegou a ser uma grande surpresa. Após um longo período de juros elevados, aumento do endividamento das famílias, mudanças nos hábitos de...",
+   "link": "https://www.moneytimes.com.br/como-a-track-field-tfco4-desafia-a-crise-do-varejo-enquanto-casas-bahia-bhia3-luta-para-sobreviver/",
+   "aba": "custos"
   },
   {
    "titulo": "Intenção de investimento recua",
@@ -67,68 +123,12 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "Dia Nacional da Construção Social reforça valorização dos trabalhadores e o compromisso social do setor",
-   "data": "21/08/2026",
-   "fonte": "CBIC",
-   "resumo": "Valorizar quem está diariamente nos canteiros de obras e reconhecer a importância de suas famílias para o desenvolvimento do setor. É com esse propósito que o Dia Nacional da Construção Social (DNCS) se consolidou,...",
-   "link": "https://cbic.org.br/dia-nacional-da-construcao-social-reforca-valorizacao-dos-trabalhadores-e-o-compromisso-social-do-setor/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "CBIC promove workshop sobre impactos da redução da jornada nos encargos sociais da construção",
-   "data": "21/08/2026",
-   "fonte": "CBIC",
-   "resumo": "Quais podem ser os efeitos da redução da jornada de trabalho sobre os custos das empresas do setor da construção? A discussão será tema de workshop promovido pela Câmara Brasileira da Indústria da Construção (CBIC),...",
-   "link": "https://cbic.org.br/cbic-promove-workshop-sobre-impactos-da-reducao-da-jornada-nos-encargos-sociais-da-construcao/",
-   "aba": "custos"
-  },
-  {
    "titulo": "Com primeiro arranha-céu de Sinop em andamento, construtora do Centro-Oeste anuncia R$ 630 milhões em VGV projetados para 2026",
    "data": "21/08/2026",
    "fonte": "O Empreiteiro",
    "resumo": "Em um mercado imobiliário historicamente concentrado no eixo Rio de Janeiro–São Paulo, uma construtora do Centro-Oeste vem desenhando uma trajetória diferente. A São Benedito, fundada O post Com primeiro arranha-céu...",
    "link": "https://revistaoe.com.br/com-primeiro-arranha-ceu-de-sinop-em-andamento-construtora-do-centro-oeste-anuncia-r-630-milhoes-em-vgv-projetados-para-2026/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Laboratório Central da InterCement Brasil conquista premiação internacional",
-   "data": "20/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "Centro de referência em pesquisa, desenvolvimento e inovação para a indústria do cimento, o Laboratório Central da InterCement Brasil obteve o primeiro lugar Classe A no quesito desempenho técnico no programa...",
-   "link": "http://www.revistaanamaco.com.br/laboratorio-central-da-intercement-brasil-conquista-premiacao-internacional",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Prysmian e CEEE Equatorial levam mais estabilidade energética ao Sul do RS",
-   "data": "20/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Prysmian e a CEEE Equatorial acabam de finalizar uma das obras de infraestrutura energética mais complexas do Rio Grande do Sul: a nova interligação elétrica entre Rio Grande e São José do Norte, que amplia a...",
-   "link": "http://www.revistaanamaco.com.br/prysmian-e-ceee-equatorial-levam-mais-estabilidade-energetica-ao-sul-do-rs",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Indústria de matcon recuou 1,0% em julho",
-   "data": "20/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A indústria de matcon encerrou julho com faturamento estável em relação ao mesmo mês de 2025 e recuo de 1,0% frente a junho, considerando os dados dessazonalizados.  O dado faz parte da primeira edição do Pulso...",
-   "link": "http://www.revistaanamaco.com.br/industria-de-matcon-recuou-10-em-julho",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Expo Revestir 2027 realizará o maior Projeto Comprador de sua história",
-   "data": "20/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Expo Revestir 2027, por meio do projeto Ceramics of Brazil, desenvolvido pela Anfacer, em parceria com a ApexBrasil, realizará a maior edição do Projeto Comprador desde a implantação da iniciativa na feira. Ao...",
-   "link": "http://www.revistaanamaco.com.br/expo-revestir-2027-realizara-o-maior-projeto-comprador-de-sua-historia-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Schneider Electric e Senai ensinam transição energética a meninas do DF",
-   "data": "20/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Schneider Electric acaba de inaugurar um laboratório de ensino técnico na Escola Vila das Crianças, instituição mantida pelas Irmãs de Maria e voltada à educação de meninas em situação de vulnerabilidade em Santa...",
-   "link": "http://www.revistaanamaco.com.br/schneider-electric-e-senai-ensinam-transicao-energetica-a-meninas-do-df-",
-   "aba": "geral"
   }
  ],
  "diarios": {
