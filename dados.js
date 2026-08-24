@@ -1,14 +1,30 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "22/08/2026 18:44",
+ "atualizado_em": "24/08/2026 07:57",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "22/08/2026",
+   "data": "24/08/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Intenção de investimento recua",
+   "data": "23/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "O índice que mede a intenção de investimento da indústria caiu 0,6 ponto em agosto, passando de 53,2 para 52,6 pontos. Trata-se do terceiro recuo consecutivo do indicador, que atingiu seu patamar mais baixo em 2026....",
+   "link": "http://www.revistaanamaco.com.br/intencao-de-investimento-recua1",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Arauco leva capacitação gratuita de motoristas para Campo Grande (MS)",
+   "data": "23/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Arauco expande as ações de qualificação profissional em Mato Grosso do Sul e abre as inscrições para o processo seletivo do seu Programa de Formação de Motoristas em Campo Grande (MS). A iniciativa oferece...",
+   "link": "http://www.revistaanamaco.com.br/arauco-leva-capacitacao-gratuita-de-motoristas-para-campo-grande-ms-",
+   "aba": "geral"
   },
   {
    "titulo": "Pesquisa revela que o Brasil registra o maior patamar de inadimplência da história",
@@ -113,28 +129,12 @@ window.DADOS = {
    "resumo": "A Schneider Electric acaba de inaugurar um laboratório de ensino técnico na Escola Vila das Crianças, instituição mantida pelas Irmãs de Maria e voltada à educação de meninas em situação de vulnerabilidade em Santa...",
    "link": "http://www.revistaanamaco.com.br/schneider-electric-e-senai-ensinam-transicao-energetica-a-meninas-do-df-",
    "aba": "geral"
-  },
-  {
-   "titulo": "Eduardo Aroeira apresenta panorama da construção civil brasileira em encontro do mercado imobiliário",
-   "data": "20/08/2026",
-   "fonte": "CBIC",
-   "resumo": "O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo Aroeira, apresentou, nesta quinta-feira (20), um panorama da construção civil brasileira durante o 102º Encontro da Associação Brasileira...",
-   "link": "https://cbic.org.br/eduardo-aroeira-apresenta-panorama-da-construcao-civil-brasileira-em-encontro-do-mercado-imobiliario/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "CBIC debate financiamento e MCMV em Rodada de Negócios da Habitação da CHIS",
-   "data": "20/08/2026",
-   "fonte": "CBIC",
-   "resumo": "A execução do Minha Casa, Minha Vida (MCMV), o orçamento do FGTS e do Fundo de Arrendamento Residencial (FAR) e os desafios para ampliar a produção habitacional estiveram no centro da 4ª Rodada de Negócios da...",
-   "link": "https://cbic.org.br/cbic-debate-financiamento-e-mcmv-em-rodada-de-negocios-da-habitacao-da-chis/",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 14.0,
-   "data": "22/08/2026"
+   "data": "24/08/2026"
   }
  },
  "mensais": {
