@@ -1,14 +1,22 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "24/08/2026 18:57",
+ "atualizado_em": "25/08/2026 07:05",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "24/08/2026",
+   "data": "25/08/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Braskem protocola recuperação extrajudicial: o que muda para quem converte filmes de PE e PP",
+   "data": "25/08/2026",
+   "fonte": "PlásticoNews",
+   "resumo": "Análise e opinião — 24 de agosto de 2026 A Braskem protocolou nesta segunda-feira, 24 de agosto de 2026, pedido de recuperação extrajudicial na 2ª Vara de Falências e Recuperações Judiciais de São Paulo. O objetivo é...",
+   "link": "https://plasticonews.org/braskem-na-recuperacao-extrajudicial-o-que-muda-daqui-para-frente-para-quem-converte-filmes-de-pe-e-pp/",
+   "aba": "geral"
   },
   {
    "titulo": "Gerdau renova patrocínio, por mais um ano, ao time de vôlei feminino Gerdau Minas",
@@ -121,20 +129,12 @@ window.DADOS = {
    "resumo": "Após recuar em junho e julho, o Índice de Confiança do Empresário Industrial subiu 1,9 ponto em agosto, para 46,3 pontos, aponta pesquisa divulgada pela CNI. Mesmo com o resultado, o indicador segue abaixo da linha...",
    "link": "http://www.revistaanamaco.com.br/confianca-melhora-em-agosto-",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Segurança com o emprego",
-   "data": "21/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A 14ª edição dos Indicadores de Qualidade do Trabalho da Sondagem de Mercado de Trabalho, do FGV Ibre, aborda o tema da chance de perder emprego e/ou principal fonte de renda. O resultado mostra que a maior parte dos...",
-   "link": "http://www.revistaanamaco.com.br/seguranca-com-o-emprego",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 14.0,
-   "data": "24/08/2026"
+   "data": "25/08/2026"
   }
  },
  "mensais": {
