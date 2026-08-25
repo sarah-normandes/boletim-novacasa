@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "25/08/2026 16:19",
+ "atualizado_em": "25/08/2026 18:56",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -67,6 +67,14 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
+   "titulo": "Associadas da ABRAMAT premiadas em grande estilo no Prêmio Qualidade Construbusiness 2026",
+   "data": "25/08/2026",
+   "fonte": "ABRAMAT",
+   "resumo": "Promovido pelo SINAPROCIM, pelo SINPROCIM e pelo Instituto ConstruBusiness, o Prêmio Qualidade Construbusiness 2026 reuniu representantes da indústria, de entidades setoriais e do poder público para apresentar dados...",
+   "link": "https://abramat.org.br/associadas-da-abramat-premiadas-no-construbusiness-2026/",
+   "aba": "geral"
+  },
+  {
    "titulo": "Gerdau renova patrocínio, por mais um ano, ao time de vôlei feminino Gerdau Minas",
    "data": "24/08/2026",
    "fonte": "Anamaco",
@@ -120,14 +128,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "De acordo com dados do Indicador de Inadimplência, da CNDL e do SPC Brasil, o País registrou, em julho, o maior patamar de inadimplência de sua história, com 75,08 milhões de brasileiros com contas em atraso. Esse...",
    "link": "http://www.revistaanamaco.com.br/pesquisa-revela-que-o-brasil-registra-o-maior-patamar-de-inadimplencia-da-historia",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Cristallux amplia presença em Mostras de arquitetura e design no Rio Grande do Sul",
-   "data": "22/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Cristallux participa de duas das principais Mostras de arquitetura e design do Rio Grande do Sul. A empresa estreia na CasaCor, como patrocinadora prata, e confirma presença em mais uma edição da Mostra Glass, em...",
-   "link": "http://www.revistaanamaco.com.br/cristallux-amplia-presenca-em-mostras-de-arquitetura-e-design-no-rio-grande-do-sul-",
    "aba": "geral"
   }
  ],
