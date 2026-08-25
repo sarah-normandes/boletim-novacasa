@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "25/08/2026 11:27",
+ "atualizado_em": "25/08/2026 14:04",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Piora no humor das famílias",
+   "data": "25/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Índice de Confiança do Consumidor, calculado pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas, recuou 3,6 pontos em agosto, para 84,7 pontos, o que representa o menor nível desde novembro de 2022...",
+   "link": "http://www.revistaanamaco.com.br/piora-no-humor-das-familias-",
+   "aba": "demanda"
   },
   {
    "titulo": "Endividamento maior",
@@ -25,6 +33,14 @@ window.DADOS = {
    "resumo": "A Abilux em parceria com a ApexBrasil e com o apoio da Secretaria de Comunicação Social do Consulado do Brasil em Toronto promoverão, por meio do projeto de exportação Lux Brasil, a Missão Comercial da Indústria...",
    "link": "http://www.revistaanamaco.com.br/abilux-e-apexbrasil-levarao-missao-comercial-da-industria-de-iluminacao-ao-canada-",
    "aba": "custos"
+  },
+  {
+   "titulo": "Braskem: o que levou a petroquímica ao processo de recuperação extrajudicial?",
+   "data": "25/08/2026",
+   "fonte": "InfoMoney",
+   "resumo": "Maior fabricante de polímeros das Américas precisa renegociar passivo sem retirar da operação o caixa necessário para manter plantas funcionando The post Braskem: o que levou a petroquímica ao processo de recuperação...",
+   "link": "https://www.infomoney.com.br/business/braskem-o-que-levou-a-petroquimica-ao-processo-de-recuperacao-extrajudicial/",
+   "aba": "insumos"
   },
   {
    "titulo": "Braskem protocola recuperação extrajudicial: o que muda para quem converte filmes de PE e PP",
@@ -112,22 +128,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "O índice que mede a intenção de investimento da indústria caiu 0,6 ponto em agosto, passando de 53,2 para 52,6 pontos. Trata-se do terceiro recuo consecutivo do indicador, que atingiu seu patamar mais baixo em 2026....",
    "link": "http://www.revistaanamaco.com.br/intencao-de-investimento-recua1",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Arauco leva capacitação gratuita de motoristas para Campo Grande (MS)",
-   "data": "23/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Arauco expande as ações de qualificação profissional em Mato Grosso do Sul e abre as inscrições para o processo seletivo do seu Programa de Formação de Motoristas em Campo Grande (MS). A iniciativa oferece...",
-   "link": "http://www.revistaanamaco.com.br/arauco-leva-capacitacao-gratuita-de-motoristas-para-campo-grande-ms-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Pesquisa revela que o Brasil registra o maior patamar de inadimplência da história",
-   "data": "22/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "De acordo com dados do Indicador de Inadimplência, da CNDL e do SPC Brasil, o País registrou, em julho, o maior patamar de inadimplência de sua história, com 75,08 milhões de brasileiros com contas em atraso. Esse...",
-   "link": "http://www.revistaanamaco.com.br/pesquisa-revela-que-o-brasil-registra-o-maior-patamar-de-inadimplencia-da-historia",
    "aba": "geral"
   }
  ],
