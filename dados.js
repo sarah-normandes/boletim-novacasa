@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "25/08/2026 14:04",
+ "atualizado_em": "25/08/2026 16:19",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -35,20 +35,28 @@ window.DADOS = {
    "aba": "custos"
   },
   {
-   "titulo": "Braskem: o que levou a petroquímica ao processo de recuperação extrajudicial?",
-   "data": "25/08/2026",
-   "fonte": "InfoMoney",
-   "resumo": "Maior fabricante de polímeros das Américas precisa renegociar passivo sem retirar da operação o caixa necessário para manter plantas funcionando The post Braskem: o que levou a petroquímica ao processo de recuperação...",
-   "link": "https://www.infomoney.com.br/business/braskem-o-que-levou-a-petroquimica-ao-processo-de-recuperacao-extrajudicial/",
-   "aba": "insumos"
-  },
-  {
    "titulo": "Braskem protocola recuperação extrajudicial: o que muda para quem converte filmes de PE e PP",
    "data": "25/08/2026",
    "fonte": "PlásticoNews",
    "resumo": "Análise e opinião — 24 de agosto de 2026 A Braskem protocolou nesta segunda-feira, 24 de agosto de 2026, pedido de recuperação extrajudicial na 2ª Vara de Falências e Recuperações Judiciais de São Paulo. O objetivo é...",
    "link": "https://plasticonews.org/braskem-na-recuperacao-extrajudicial-o-que-muda-daqui-para-frente-para-quem-converte-filmes-de-pe-e-pp/",
    "aba": "geral"
+  },
+  {
+   "titulo": "CBIC reúne representantes do mercado imobiliário para discutir crédito, financiamento e reforma tributária em SP",
+   "data": "25/08/2026",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC), por meio da Comissão da Indústria Imobiliária (CII), realiza nesta quinta-feira (27), em São Paulo, a Rodada de Negócios do Mercado Imobiliário. O encontro vai...",
+   "link": "https://cbic.org.br/cbic-reune-representantes-do-mercado-imobiliario-para-discutir-credito-financiamento-e-reforma-tributaria-em-sp/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "CNI: atividade da indústria da construção desacelera, mas emprego no setor resiste",
+   "data": "25/08/2026",
+   "fonte": "CBIC",
+   "resumo": "A indústria da construção segue em ritmo inferior ao registrado no ano passado. Em julho, o índice que mede a evolução da atividade do setor variou apenas 0,1 ponto, para 47,2 pontos. Com isso, o indicador se manteve...",
+   "link": "https://cbic.org.br/cni-atividade-da-industria-da-construcao-desacelera-mas-emprego-no-setor-resiste/",
+   "aba": "demanda"
   },
   {
    "titulo": "SindusconPR realizou 19ª edição do Dia Nacional da Construção Social em Curitiba",
@@ -83,22 +91,6 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Selic Alta Preocupa Mais a Construção Civil do Que Carga Tributária e Custo de Mão de Obra",
-   "data": "24/08/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Setor de edificações tem alta de confiança, mas expectativas gerais de investimento e atividade recuam com a lentidão no corte da Selic O post Selic...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/08/selic-juros-construcao-civil-preocupacao/",
-   "aba": "custos"
-  },
-  {
-   "titulo": "O Fenômeno em Vaca Muerta, na Argentina, e o Seu Boom Imobiliário",
-   "data": "24/08/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Localidade tinha menos de 3 mil habitantes pouco mais de uma década atrás, e as projeções apontam para 50 mil até 2032 O post O Fenômeno em Vaca...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/08/boom-imobiliario-vaca-muerta-argentina/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "Dia Nacional da Construção Social reúne trabalhadores e famílias em Aparecida de Goiânia",
    "data": "24/08/2026",
    "fonte": "CBIC",
@@ -107,27 +99,35 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Vendas de imóveis avançam 5,4% no primeiro semestre e MCMV registra participação recorde",
-   "data": "24/08/2026",
-   "fonte": "CBIC",
-   "resumo": "O mercado imobiliário brasileiro encerrou o primeiro semestre de 2026 com crescimento nas vendas de imóveis residenciais novos, mesmo diante de um cenário de juros ainda elevados. De janeiro a junho, foram...",
-   "link": "https://cbic.org.br/vendas-de-imoveis-avancam-54-no-primeiro-semestre-e-mcmv-registra-participacao-recorde/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Dia Nacional da Construção Social reúne trabalhadores para um dia de lazer, integração e cuidados no Sesc Betim",
-   "data": "24/08/2026",
-   "fonte": "CBIC",
-   "resumo": "Evento promovido por entidades do setor da construção reuniu mais de 500 trabalhadores e familiares em programação com atividades esportivas, música, almoço, sorteios e ações de saúde e cidadania Um dia para deixar...",
-   "link": "https://cbic.org.br/dia-nacional-da-construcao-social-reune-trabalhadores-para-um-dia-de-lazer-integracao-e-cuidados-no-sesc-betim/",
-   "aba": "geral"
-  },
-  {
    "titulo": "Intenção de investimento recua",
    "data": "23/08/2026",
    "fonte": "Anamaco",
    "resumo": "O índice que mede a intenção de investimento da indústria caiu 0,6 ponto em agosto, passando de 53,2 para 52,6 pontos. Trata-se do terceiro recuo consecutivo do indicador, que atingiu seu patamar mais baixo em 2026....",
    "link": "http://www.revistaanamaco.com.br/intencao-de-investimento-recua1",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Arauco leva capacitação gratuita de motoristas para Campo Grande (MS)",
+   "data": "23/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Arauco expande as ações de qualificação profissional em Mato Grosso do Sul e abre as inscrições para o processo seletivo do seu Programa de Formação de Motoristas em Campo Grande (MS). A iniciativa oferece...",
+   "link": "http://www.revistaanamaco.com.br/arauco-leva-capacitacao-gratuita-de-motoristas-para-campo-grande-ms-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Pesquisa revela que o Brasil registra o maior patamar de inadimplência da história",
+   "data": "22/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "De acordo com dados do Indicador de Inadimplência, da CNDL e do SPC Brasil, o País registrou, em julho, o maior patamar de inadimplência de sua história, com 75,08 milhões de brasileiros com contas em atraso. Esse...",
+   "link": "http://www.revistaanamaco.com.br/pesquisa-revela-que-o-brasil-registra-o-maior-patamar-de-inadimplencia-da-historia",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Cristallux amplia presença em Mostras de arquitetura e design no Rio Grande do Sul",
+   "data": "22/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Cristallux participa de duas das principais Mostras de arquitetura e design do Rio Grande do Sul. A empresa estreia na CasaCor, como patrocinadora prata, e confirma presença em mais uma edição da Mostra Glass, em...",
+   "link": "http://www.revistaanamaco.com.br/cristallux-amplia-presenca-em-mostras-de-arquitetura-e-design-no-rio-grande-do-sul-",
    "aba": "geral"
   }
  ],
