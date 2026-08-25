@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "25/08/2026 07:05",
+ "atualizado_em": "25/08/2026 11:27",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -11,12 +11,36 @@ window.DADOS = {
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
+   "titulo": "Endividamento maior",
+   "data": "25/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "O percentual de famílias brasileiras com dívidas a vencer voltou a crescer e alcançou 82% em julho. O resultado representa um avanço de 0,4 ponto percentual frente a junho (81,6%). O dado é da Pesquisa de...",
+   "link": "http://www.revistaanamaco.com.br/endividamento-maior-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Abilux e ApexBrasil levarão missão comercial da indústria de iluminação ao Canadá",
+   "data": "25/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Abilux em parceria com a ApexBrasil e com o apoio da Secretaria de Comunicação Social do Consulado do Brasil em Toronto promoverão, por meio do projeto de exportação Lux Brasil, a Missão Comercial da Indústria...",
+   "link": "http://www.revistaanamaco.com.br/abilux-e-apexbrasil-levarao-missao-comercial-da-industria-de-iluminacao-ao-canada-",
+   "aba": "custos"
+  },
+  {
    "titulo": "Braskem protocola recuperação extrajudicial: o que muda para quem converte filmes de PE e PP",
    "data": "25/08/2026",
    "fonte": "PlásticoNews",
    "resumo": "Análise e opinião — 24 de agosto de 2026 A Braskem protocolou nesta segunda-feira, 24 de agosto de 2026, pedido de recuperação extrajudicial na 2ª Vara de Falências e Recuperações Judiciais de São Paulo. O objetivo é...",
    "link": "https://plasticonews.org/braskem-na-recuperacao-extrajudicial-o-que-muda-daqui-para-frente-para-quem-converte-filmes-de-pe-e-pp/",
    "aba": "geral"
+  },
+  {
+   "titulo": "SindusconPR realizou 19ª edição do Dia Nacional da Construção Social em Curitiba",
+   "data": "25/08/2026",
+   "fonte": "CBIC",
+   "resumo": "A indústria da construção civil segue como um dos principais motores do desenvolvimento econômico no Paraná, liderando a geração de empregos e renda. Com um estoque superior a 180 mil trabalhadores formais no estado...",
+   "link": "https://cbic.org.br/sindusconpr-realizou-19a-edicao-do-dia-nacional-da-construcao-social-em-curitiba/",
+   "aba": "demanda"
   },
   {
    "titulo": "Gerdau renova patrocínio, por mais um ano, ao time de vôlei feminino Gerdau Minas",
@@ -83,14 +107,6 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "CPRT debate qualificação profissional do setor da construção no Concrete Show",
-   "data": "24/08/2026",
-   "fonte": "CBIC",
-   "resumo": "A falta de mão de obra qualificada é um dos desafios para ampliar a adoção de novas tecnologias e sistemas construtivos no setor. Esse será um dos temas debatidos pelo vice-presidente de política de relações...",
-   "link": "https://cbic.org.br/cprt-debate-qualificacao-profissional-do-setor-da-construcao-no-concrete-show/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "Intenção de investimento recua",
    "data": "23/08/2026",
    "fonte": "Anamaco",
@@ -113,22 +129,6 @@ window.DADOS = {
    "resumo": "De acordo com dados do Indicador de Inadimplência, da CNDL e do SPC Brasil, o País registrou, em julho, o maior patamar de inadimplência de sua história, com 75,08 milhões de brasileiros com contas em atraso. Esse...",
    "link": "http://www.revistaanamaco.com.br/pesquisa-revela-que-o-brasil-registra-o-maior-patamar-de-inadimplencia-da-historia",
    "aba": "geral"
-  },
-  {
-   "titulo": "Cristallux amplia presença em Mostras de arquitetura e design no Rio Grande do Sul",
-   "data": "22/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Cristallux participa de duas das principais Mostras de arquitetura e design do Rio Grande do Sul. A empresa estreia na CasaCor, como patrocinadora prata, e confirma presença em mais uma edição da Mostra Glass, em...",
-   "link": "http://www.revistaanamaco.com.br/cristallux-amplia-presenca-em-mostras-de-arquitetura-e-design-no-rio-grande-do-sul-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Confiança melhora em agosto",
-   "data": "21/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "Após recuar em junho e julho, o Índice de Confiança do Empresário Industrial subiu 1,9 ponto em agosto, para 46,3 pontos, aponta pesquisa divulgada pela CNI. Mesmo com o resultado, o indicador segue abaixo da linha...",
-   "link": "http://www.revistaanamaco.com.br/confianca-melhora-em-agosto-",
-   "aba": "demanda"
   }
  ],
  "diarios": {
