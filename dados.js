@@ -1,37 +1,21 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "25/08/2026 18:56",
+ "atualizado_em": "26/08/2026 07:54",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "25/08/2026",
+   "data": "26/08/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
-   "titulo": "Piora no humor das famílias",
-   "data": "25/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Índice de Confiança do Consumidor, calculado pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas, recuou 3,6 pontos em agosto, para 84,7 pontos, o que representa o menor nível desde novembro de 2022...",
-   "link": "http://www.revistaanamaco.com.br/piora-no-humor-das-familias-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Endividamento maior",
-   "data": "25/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "O percentual de famílias brasileiras com dívidas a vencer voltou a crescer e alcançou 82% em julho. O resultado representa um avanço de 0,4 ponto percentual frente a junho (81,6%). O dado é da Pesquisa de...",
-   "link": "http://www.revistaanamaco.com.br/endividamento-maior-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Abilux e ApexBrasil levarão missão comercial da indústria de iluminação ao Canadá",
-   "data": "25/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Abilux em parceria com a ApexBrasil e com o apoio da Secretaria de Comunicação Social do Consulado do Brasil em Toronto promoverão, por meio do projeto de exportação Lux Brasil, a Missão Comercial da Indústria...",
-   "link": "http://www.revistaanamaco.com.br/abilux-e-apexbrasil-levarao-missao-comercial-da-industria-de-iluminacao-ao-canada-",
+   "titulo": "O Próximo Choque da Inflação dos Alimentos nos EUA Está Sendo Construído e a Caminho",
+   "data": "26/08/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Alta dos grãos, clima extremo, guerra no Mar Negro e margens apertadas em restaurantes aumentam o risco de novas pressões sobre custos e preços ao...",
+   "link": "https://forbes.com.br/forbes-agro/2026/08/o-proximo-choque-da-inflacao-dos-alimentos-nos-eua-esta-sendo-construido-e-a-caminho/",
    "aba": "custos"
   },
   {
@@ -40,6 +24,14 @@ window.DADOS = {
    "fonte": "PlásticoNews",
    "resumo": "Análise e opinião — 24 de agosto de 2026 A Braskem protocolou nesta segunda-feira, 24 de agosto de 2026, pedido de recuperação extrajudicial na 2ª Vara de Falências e Recuperações Judiciais de São Paulo. O objetivo é...",
    "link": "https://plasticonews.org/braskem-na-recuperacao-extrajudicial-o-que-muda-daqui-para-frente-para-quem-converte-filmes-de-pe-e-pp/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "GT da CBIC debate impactos climáticos e importância da resiliência para a construção",
+   "data": "25/08/2026",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) realizou, nesta terça-feira (25), a 13ª Reunião Ordinária do Grupo de Trabalho (GT) de Segurança Hídrica e Cidades Resilientes. O encontro reuniu representantes...",
+   "link": "https://cbic.org.br/gt-da-cbic-debate-impactos-climaticos-e-importancia-da-resiliencia-para-a-construcao/",
    "aba": "geral"
   },
   {
@@ -75,66 +67,18 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Gerdau renova patrocínio, por mais um ano, ao time de vôlei feminino Gerdau Minas",
-   "data": "24/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "Parte do time de vôlei feminino Gerdau Minas para a temporada 2026/27 esteve presente na sede da Gerdau, no Centro de Belo Horizonte (MG), para celebrar o início de um novo ciclo nas quadras. O patrocínio, que teve...",
-   "link": "http://www.revistaanamaco.com.br/gerdau-renova-patrocinio-por-mais-um-ano-ao-time-de-volei-feminino-gerdau-minas",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Cobrecom lança livro para profissionais, estudantes e interessados no setor elétrico",
-   "data": "24/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "Dando continuidade ao seu compromisso de contribuir com a formação, atualização e valorização de quem faz e instalação elétrica acontecer, a Cobrecom lança o livro ‘Dimensionamento de cabos elétricos para instalações...",
-   "link": "http://www.revistaanamaco.com.br/cobrecom-lanca-livro-para-profissionais-estudantes-e-interessados-no-setor-eletrico-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Eternit amplia em 50,3% receita de Construção Industrializada no 2º trimestre",
-   "data": "24/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Eternit acaba de apresentar seu relatório financeiro do 2º trimestre e exercício de 2026. Entre os destaques do período está o avanço de 50,3% da receita de Construção Industrializada em relação ao 2T25, que...",
-   "link": "http://www.revistaanamaco.com.br/eternit-amplia-em-503-receita-de-construcao-industrializada-no-2-trimestre",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Dia Nacional da Construção Social reúne trabalhadores e famílias em Aparecida de Goiânia",
-   "data": "24/08/2026",
-   "fonte": "CBIC",
-   "resumo": "Evento gratuito promovido pelo Seconci Goiás e Sinduscon-GO foi realizado no dia 23 de agosto, com ações de saúde, esporte, lazer, cultura, tecnologia e distribuição de brindes Trabalhadores da construção civil e...",
-   "link": "https://cbic.org.br/dia-nacional-da-construcao-social-reune-trabalhadores-e-familias-em-aparecida-de-goiania/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Intenção de investimento recua",
-   "data": "23/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "O índice que mede a intenção de investimento da indústria caiu 0,6 ponto em agosto, passando de 53,2 para 52,6 pontos. Trata-se do terceiro recuo consecutivo do indicador, que atingiu seu patamar mais baixo em 2026....",
-   "link": "http://www.revistaanamaco.com.br/intencao-de-investimento-recua1",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Arauco leva capacitação gratuita de motoristas para Campo Grande (MS)",
-   "data": "23/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Arauco expande as ações de qualificação profissional em Mato Grosso do Sul e abre as inscrições para o processo seletivo do seu Programa de Formação de Motoristas em Campo Grande (MS). A iniciativa oferece...",
-   "link": "http://www.revistaanamaco.com.br/arauco-leva-capacitacao-gratuita-de-motoristas-para-campo-grande-ms-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Pesquisa revela que o Brasil registra o maior patamar de inadimplência da história",
-   "data": "22/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "De acordo com dados do Indicador de Inadimplência, da CNDL e do SPC Brasil, o País registrou, em julho, o maior patamar de inadimplência de sua história, com 75,08 milhões de brasileiros com contas em atraso. Esse...",
-   "link": "http://www.revistaanamaco.com.br/pesquisa-revela-que-o-brasil-registra-o-maior-patamar-de-inadimplencia-da-historia",
-   "aba": "geral"
+   "titulo": "Com primeiro arranha-céu de Sinop em andamento, construtora do Centro-Oeste anuncia R$ 630 milhões em VGV projetados para 2026",
+   "data": "21/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "Em um mercado imobiliário historicamente concentrado no eixo Rio de Janeiro–São Paulo, uma construtora do Centro-Oeste vem desenhando uma trajetória diferente. A São Benedito, fundada O post Com primeiro arranha-céu...",
+   "link": "https://revistaoe.com.br/com-primeiro-arranha-ceu-de-sinop-em-andamento-construtora-do-centro-oeste-anuncia-r-630-milhoes-em-vgv-projetados-para-2026/",
+   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 14.0,
-   "data": "25/08/2026"
+   "data": "26/08/2026"
   }
  },
  "mensais": {
