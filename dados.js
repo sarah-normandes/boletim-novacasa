@@ -1,22 +1,86 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "27/08/2026 22:00",
+ "atualizado_em": "28/08/2026 18:57",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "27/08/2026",
+   "data": "28/08/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
-   "titulo": "Livro ‘Mulheres na Construção’ tem histórias de mulheres que atuam no setor",
+   "titulo": "Comerciantes cautelosos",
+   "data": "28/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "Dados apurados pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas revelam que o Índice de Confiança do Comércio caiu 1,3 ponto em agosto, para 84,2 pontos. Em médias móveis trimestrais, o índice se...",
+   "link": "http://www.revistaanamaco.com.br/comerciantes-cautelosos",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Perspectiva de desaceleração na indústria",
+   "data": "28/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Índice de Confiança da Indústria, do Instituto Brasileiro de Economia da Fundação Getulio Vargas, caiu 3,5 pontos em agosto, para 93,7 pontos. Em médias móveis trimestrais, o índice recuou 1,1 ponto, para 97,0 pontos",
+   "link": "http://www.revistaanamaco.com.br/perspectiva-de-desaceleracao-na-industria",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Coritiba e Tintas Coral apresentam cor que reproduz o verde do escudo do clube",
+   "data": "28/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Coritiba apresenta ao torcedor uma novidade que une paixão, identidade e história: a cor Verde Coritiba. Desenvolvida em parceria com a Tintas Coral, marca de tintas decorativas da AkzoNobel, a nova cor está...",
+   "link": "http://www.revistaanamaco.com.br/coritiba-e-tintas-coral-apresentam-cor-que-reproduz-o-verde-do-escudo-do-clube-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Em julho, do total de negativações, 86,54% foram de devedores reincidentes",
+   "data": "28/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Indicador de Reincidência de Pessoas Físicas, apurado pela CNDL e pelo SPC Brasil, revelou que, em julho, do total de negativações, 86,54% foram de devedores reincidentes. O dado refere-se a consumidores que já...",
+   "link": "http://www.revistaanamaco.com.br/em-julho-do-total-de-negativacoes-8654-foram-de-devedores-reincidentes",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Quem São os Sete Bilionários Brasileiros do Setor de Construção",
+   "data": "28/08/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Sócios de empresas como JHSF, MRV e Cyrela representam 2,75% da seleta lista de super-ricos do país e acumulam fortunas na bolsa de valores O post...",
+   "link": "https://forbes.com.br/forbes-money/2026/08/bilionarios-construcao-forbes-2026/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Construção respondeu por mais de 21% dos novos empregos formais do país em julho",
+   "data": "28/08/2026",
+   "fonte": "CBIC",
+   "resumo": "Setor teve o segundo melhor desempenho entre as atividades econômicas, abriu 12,7 mil vagas no mês e acumula mais de 180 mil novos postos em 2026 A construção civil abriu 12.691 novas vagas de trabalho com carteira...",
+   "link": "https://cbic.org.br/construcao-respondeu-por-mais-de-21-dos-novos-empregos-formais-do-pais-em-julho/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "CBIC se reúne com líderes globais da habitação na Austrália para discutir desafios do setor",
+   "data": "28/08/2026",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) participou, nesta quinta e sexta-feira (27 e 28), da reunião da International Housing Association (IHA), realizada no Parlamento de Victoria, em Melbourne, na...",
+   "link": "https://cbic.org.br/cbic-se-reune-com-lideres-globais-da-habitacao-em-melbourne-para-discutir-desafios-do-setor/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "SINDUSCON Joinville: Profissão Construir supera marca de mil alunos formados",
+   "data": "28/08/2026",
+   "fonte": "CBIC",
+   "resumo": "O número acumulado em dois anos e meio confirma a premissa da instituição: o caminho para acabar com o apagão de mão de obra no setor começa pela qualificação profissional e pela conexão dos trabalhadores com o...",
+   "link": "https://cbic.org.br/sinduscon-joinville-profissao-construir-supera-marca-de-mil-alunos-formados/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Livro ‘Mulheres na Construção’ expõe histórias de superação e força",
    "data": "27/08/2026",
    "fonte": "Anamaco",
-   "resumo": "A editora Leader acaba de lançar o livro “Mulheres na Construção” - edição Poder de uma História. Com prefácio de Beth Bridi, diretora da Grau 10 Editora, publisher da Revista Anamaco, e de Bia Kern, fundadora e...",
-   "link": "http://www.revistaanamaco.com.br/livro-mulheres-na-construcao-tem-historias-de-mulheres-que-atuam-no-setor",
-   "aba": "insumos"
+   "resumo": "A Editora Leader acaba de lançar o livro “Mulheres na Construção” - edição Poder de uma História. Com prefácio de Bia Kern, fundadora e presidente do Instituto Mulher em Construção e de Beth Bridi, diretora da Grau...",
+   "link": "http://www.revistaanamaco.com.br/livro-mulheres-na-construcao-expoe-historias-de-superacao-e-forca",
+   "aba": "geral"
   },
   {
    "titulo": "Taxa de desocupação recua",
@@ -65,76 +129,12 @@ window.DADOS = {
    "resumo": "No ano em que completa 48 anos, a Blumenau Iluminação celebra os resultados alcançados no primeiro semestre. De janeiro a junho, a empresa cresceu 26% em relação ao mesmo período do ano passado, número que supera a...",
    "link": "http://www.revistaanamaco.com.br/blumenau-iluminacao-registra-crescimento-acima-das-expectativas-no-1o-semestre-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "A Arte de Construir Pontes",
-   "data": "27/08/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Como o projeto de intercâmbio Roesler Hotel consolidou pontes entre artistas brasileiros e estrangeiros ao longo de três décadas O post A Arte de...",
-   "link": "https://forbes.com.br/forbes-life/2026/08/a-arte-de-construir-pontes/",
-   "aba": "custos"
-  },
-  {
-   "titulo": "CBIC reúne setor imobiliário para discutir crédito, Reforma Tributária e cenário do mercado",
-   "data": "27/08/2026",
-   "fonte": "CBIC",
-   "resumo": "A ampliação do crédito imobiliário, as perspectivas para o financiamento pelo SBPE, os impactos da regulamentação da Reforma Tributária e o cenário do mercado estiveram no centro dos debates da Rodada de Negócios do...",
-   "link": "https://cbic.org.br/cbic-reune-setor-imobiliario-para-discutir-credito-reforma-tributaria-e-cenario-do-mercado/",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Workshop apresenta metodologia para mensurar impactos da redução da jornada de trabalho na construção civil",
-   "data": "27/08/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC), por meio da Comissão de Política de Relações Trabalhistas (CPRT), promoveu nesta quarta-feira (26) o workshop “Os Impactos Reais da Redução da Jornada de...",
-   "link": "https://cbic.org.br/workshop-apresenta-metodologia-para-mensurar-impactos-da-reducao-da-jornada-de-trabalho-na-construcao-civil/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Kärcher reforça apoio ao Sertões com soluções para reduzir o impacto ambiental",
-   "data": "26/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Kärcher participa, mais uma vez, do Sertões. Realizado, anualmente, é um dos maiores eventos esportivos itinerantes do País. A competição reúne carros, motos, caminhões, quadriciclos e UTVs em um percurso que...",
-   "link": "http://www.revistaanamaco.com.br/karcher-reforca-apoio-ao-sertoes-com-solucoes-para-reduzir-o-impacto-ambiental-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Tatiana Weston Webb é a primeira atleta da plataforma esportiva do Grupo Tigre",
-   "data": "26/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Tigre lança o Squad Tigre, plataforma esportiva da marca criada em parceria com o Comitê Olímpico do Brasil como parte de sua estratégia de patrocínio ao esporte ao longo do ciclo olímpico até Los Angeles 2028. A...",
-   "link": "http://www.revistaanamaco.com.br/tatiana-weston-webb-e-a-primeira-atleta-da-plataforma-esportiva-do-grupo-tigre-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Custos da construção registraram alta de 0.85% em agosto, apura FGV Ibre",
-   "data": "26/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Índice Nacional de Custo da Construção - M, calculado pelo FGV Ibre, registrou alta de 0,85% em agosto, acima dos 0,62% observados no mês anterior. Com isso, em 12 meses, a taxa acumulada atingiu 6,56%. Esse...",
-   "link": "http://www.revistaanamaco.com.br/custos-da-construcao-registraram-alta-de-085-em-agosto-apura-fgv-ibre",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Casa Mimosa lança projeto para criar conexões fora do ambiente comercial",
-   "data": "26/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Casa Mimosa lançou, na noite desta terça-feira (25 de agosto), o  projeto Resenha Mimosa, iniciativa voltada ao fortalecimento do relacionamento B2B e à criação de experiências exclusivas para seus clientes,...",
-   "link": "http://www.revistaanamaco.com.br/casa-mimosa-lanca-projeto-para-criar-conexoes-fora-do-ambiente-comercial-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Belgo patrocina CasaCor Minas e apresenta a versatilidade do arame de aço",
-   "data": "26/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Belgo Arames participa, pela primeira vez, da CasaCor Minas Gerais, Mostra de arquitetura, design de interiores e paisagismo. Com o tema “Mente e Coração”, a iniciativa propõe uma reflexão sobre o morar como espaço...",
-   "link": "http://www.revistaanamaco.com.br/belgo-patrocina-casacor-minas-e-apresenta-a-versatilidade-do-arame-de-aco-",
-   "aba": "insumos"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 14.0,
-   "data": "27/08/2026"
+   "data": "28/08/2026"
   }
  },
  "mensais": {
