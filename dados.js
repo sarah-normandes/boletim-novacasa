@@ -1,14 +1,118 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "26/08/2026 11:25",
+ "atualizado_em": "27/08/2026 22:00",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "26/08/2026",
+   "data": "27/08/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Livro ‘Mulheres na Construção’ tem histórias de mulheres que atuam no setor",
+   "data": "27/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A editora Leader acaba de lançar o livro “Mulheres na Construção” - edição Poder de uma História. Com prefácio de Beth Bridi, diretora da Grau 10 Editora, publisher da Revista Anamaco, e de Bia Kern, fundadora e...",
+   "link": "http://www.revistaanamaco.com.br/livro-mulheres-na-construcao-tem-historias-de-mulheres-que-atuam-no-setor",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Taxa de desocupação recua",
+   "data": "27/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "O IBGE divulgou hoje, 27 de agosto, o resultado da Pnad Contínua. De acordo com os dados apresentados, a taxa de desocupação, no trimestre encerrado em julho, foi de 5,3%, o que representa uma queda de 0,5 ponto...",
+   "link": "http://www.revistaanamaco.com.br/taxa-de-desocupacao-recua",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Bostik é reconhecida duas vezes no Prêmio Qualidade ConstruBusiness 2026",
+   "data": "27/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Bostik Brasil recebeu dois Troféus Menção Honrosa no Prêmio Qualidade ConstruBusiness 2026, nas categorias “argamassa para rejuntamento” e “argamassa colante”. Esse é o segundo ano consecutivo em que a empresa é...",
+   "link": "http://www.revistaanamaco.com.br/bostik-e-reconhecida-duas-vezes-no-premio-qualidade-construbusiness-2026-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Confiança menor na construção em agosto",
+   "data": "27/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "De acordo com dados apurados pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas, o Índice de Confiança da Construção caiu 0,6 ponto em agosto, para 91,9 pontos. Em médias móveis trimestrais, o índice...",
+   "link": "http://www.revistaanamaco.com.br/confianca-menor-na-construcao-em-agosto-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Nichele completa 50 anos e premia colaboradores em concurso cultural",
+   "data": "27/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "No ano em que celebra 50 anos de operações, a Nichele realizou um concurso cultural interno entre seus colaboradores. A ação, batizada de “Minha Casa, Nossa História”, convidou os funcionários a contar como a empresa...",
+   "link": "http://www.revistaanamaco.com.br/nichele-completa-50-anos-e-premia-colaboradores-em-concurso-cultural",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Prolata divulga relatório e mostra fortalecimento da logística reversa em SP",
+   "data": "27/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Prolata Reciclagem apresenta relatório com os resultados obtidos em São Paulo durante o ano passado. O trabalho foi desenvolvido em quatro frentes principais: entrepostos, cooperativas, Pontos de Entrega Voluntária...",
+   "link": "http://www.revistaanamaco.com.br/prolata-divulga-relatorio-e-mostra-fortalecimento-da-logistica-reversa-em-sp",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Blumenau Iluminação registra crescimento acima das expectativas no 1º semestre",
+   "data": "27/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "No ano em que completa 48 anos, a Blumenau Iluminação celebra os resultados alcançados no primeiro semestre. De janeiro a junho, a empresa cresceu 26% em relação ao mesmo período do ano passado, número que supera a...",
+   "link": "http://www.revistaanamaco.com.br/blumenau-iluminacao-registra-crescimento-acima-das-expectativas-no-1o-semestre-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "A Arte de Construir Pontes",
+   "data": "27/08/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Como o projeto de intercâmbio Roesler Hotel consolidou pontes entre artistas brasileiros e estrangeiros ao longo de três décadas O post A Arte de...",
+   "link": "https://forbes.com.br/forbes-life/2026/08/a-arte-de-construir-pontes/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "CBIC reúne setor imobiliário para discutir crédito, Reforma Tributária e cenário do mercado",
+   "data": "27/08/2026",
+   "fonte": "CBIC",
+   "resumo": "A ampliação do crédito imobiliário, as perspectivas para o financiamento pelo SBPE, os impactos da regulamentação da Reforma Tributária e o cenário do mercado estiveram no centro dos debates da Rodada de Negócios do...",
+   "link": "https://cbic.org.br/cbic-reune-setor-imobiliario-para-discutir-credito-reforma-tributaria-e-cenario-do-mercado/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Workshop apresenta metodologia para mensurar impactos da redução da jornada de trabalho na construção civil",
+   "data": "27/08/2026",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC), por meio da Comissão de Política de Relações Trabalhistas (CPRT), promoveu nesta quarta-feira (26) o workshop “Os Impactos Reais da Redução da Jornada de...",
+   "link": "https://cbic.org.br/workshop-apresenta-metodologia-para-mensurar-impactos-da-reducao-da-jornada-de-trabalho-na-construcao-civil/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Kärcher reforça apoio ao Sertões com soluções para reduzir o impacto ambiental",
+   "data": "26/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Kärcher participa, mais uma vez, do Sertões. Realizado, anualmente, é um dos maiores eventos esportivos itinerantes do País. A competição reúne carros, motos, caminhões, quadriciclos e UTVs em um percurso que...",
+   "link": "http://www.revistaanamaco.com.br/karcher-reforca-apoio-ao-sertoes-com-solucoes-para-reduzir-o-impacto-ambiental-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Tatiana Weston Webb é a primeira atleta da plataforma esportiva do Grupo Tigre",
+   "data": "26/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Tigre lança o Squad Tigre, plataforma esportiva da marca criada em parceria com o Comitê Olímpico do Brasil como parte de sua estratégia de patrocínio ao esporte ao longo do ciclo olímpico até Los Angeles 2028. A...",
+   "link": "http://www.revistaanamaco.com.br/tatiana-weston-webb-e-a-primeira-atleta-da-plataforma-esportiva-do-grupo-tigre-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Custos da construção registraram alta de 0.85% em agosto, apura FGV Ibre",
+   "data": "26/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Índice Nacional de Custo da Construção - M, calculado pelo FGV Ibre, registrou alta de 0,85% em agosto, acima dos 0,62% observados no mês anterior. Com isso, em 12 meses, a taxa acumulada atingiu 6,56%. Esse...",
+   "link": "http://www.revistaanamaco.com.br/custos-da-construcao-registraram-alta-de-085-em-agosto-apura-fgv-ibre",
+   "aba": "custos"
   },
   {
    "titulo": "Casa Mimosa lança projeto para criar conexões fora do ambiente comercial",
@@ -25,116 +129,12 @@ window.DADOS = {
    "resumo": "A Belgo Arames participa, pela primeira vez, da CasaCor Minas Gerais, Mostra de arquitetura, design de interiores e paisagismo. Com o tema “Mente e Coração”, a iniciativa propõe uma reflexão sobre o morar como espaço...",
    "link": "http://www.revistaanamaco.com.br/belgo-patrocina-casacor-minas-e-apresenta-a-versatilidade-do-arame-de-aco-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Tatiana Weston Webb é a primeira atleta da plataforma esportiva do Grupo Tigre",
-   "data": "26/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Tigre lança o Squad Tigre, plataforma esportiva da marca criada em parceria com o Comitê Olímpico do Brasil como parte de sua estratégia de patrocínio ao esporte ao longo do ciclo olímpico até Los Angeles 2028. A...",
-   "link": "http://www.revistaanamaco.com.br/tatiana-weston-webb-e-a-primeira-atleta-da-plataforma-esportiva-do-grupo-tigre-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "CNA Aponta Escassez de Mão de Obra Como Limite À Produtividade no Agro",
-   "data": "26/08/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Pesquisa com produtores relaciona contratação, qualificação, tecnologia, programas sociais e jornada às mudanças em curso no mercado laboral...",
-   "link": "https://forbes.com.br/forbes-agro/2026/08/cna-aponta-escassez-de-mao-de-obra-como-limite-a-produtividade-no-agro/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "O Próximo Choque da Inflação dos Alimentos nos EUA Está Sendo Construído e a Caminho",
-   "data": "26/08/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Alta dos grãos, clima extremo, guerra no Mar Negro e margens apertadas em restaurantes aumentam o risco de novas pressões sobre custos e preços ao...",
-   "link": "https://forbes.com.br/forbes-agro/2026/08/o-proximo-choque-da-inflacao-dos-alimentos-nos-eua-esta-sendo-construido-e-a-caminho/",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Vendas de imóveis avançam 5,4% no primeiro semestre e MCMV registra participação recorde",
-   "data": "26/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "O mercado imobiliário brasileiro encerrou o primeiro semestre de 2026 com crescimento nas vendas de imóveis residenciais novos, mesmo diante de um cenário de juros O post Vendas de imóveis avançam 5,4% no primeiro...",
-   "link": "https://revistaoe.com.br/vendas-de-imoveis-crescem-5-4-no-primeiro-semestre/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Fundo imobiliário anuncia amortização de R$ 5,47 por cota; Ifix avança",
-   "data": "26/08/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "O fundo imobiliário Panorama Real Estate Crédito (PNRC11) anunciou uma amortização parcial de suas cotas no valor total de R$ 2,24 milhões, equivalente a R$ 5,47 por cota, segundo fato relevante divulgado ao mercado....",
-   "link": "https://www.moneytimes.com.br/fundo-imobiliario-anuncia-amortizacao-de-r-547-por-cota-ifix-avanca/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Piora no humor das famílias",
-   "data": "25/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Índice de Confiança do Consumidor, calculado pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas, recuou 3,6 pontos em agosto, para 84,7 pontos, o que representa o menor nível desde novembro de 2022...",
-   "link": "http://www.revistaanamaco.com.br/piora-no-humor-das-familias-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Endividamento maior",
-   "data": "25/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "O percentual de famílias brasileiras com dívidas a vencer voltou a crescer e alcançou 82% em julho. O resultado representa um avanço de 0,4 ponto percentual frente a junho (81,6%). O dado é da Pesquisa de...",
-   "link": "http://www.revistaanamaco.com.br/endividamento-maior-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Abilux e ApexBrasil levarão missão comercial da indústria de iluminação ao Canadá",
-   "data": "25/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Abilux em parceria com a ApexBrasil e com o apoio da Secretaria de Comunicação Social do Consulado do Brasil em Toronto promoverão, por meio do projeto de exportação Lux Brasil, a Missão Comercial da Indústria...",
-   "link": "http://www.revistaanamaco.com.br/abilux-e-apexbrasil-levarao-missao-comercial-da-industria-de-iluminacao-ao-canada-",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Braskem protocola recuperação extrajudicial: o que muda para quem converte filmes de PE e PP",
-   "data": "25/08/2026",
-   "fonte": "PlásticoNews",
-   "resumo": "Análise e opinião — 24 de agosto de 2026 A Braskem protocolou nesta segunda-feira, 24 de agosto de 2026, pedido de recuperação extrajudicial na 2ª Vara de Falências e Recuperações Judiciais de São Paulo. O objetivo é...",
-   "link": "https://plasticonews.org/braskem-na-recuperacao-extrajudicial-o-que-muda-daqui-para-frente-para-quem-converte-filmes-de-pe-e-pp/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "GT da CBIC debate impactos climáticos e importância da resiliência para a construção",
-   "data": "25/08/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) realizou, nesta terça-feira (25), a 13ª Reunião Ordinária do Grupo de Trabalho (GT) de Segurança Hídrica e Cidades Resilientes. O encontro reuniu representantes...",
-   "link": "https://cbic.org.br/gt-da-cbic-debate-impactos-climaticos-e-importancia-da-resiliencia-para-a-construcao/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "CBIC reúne representantes do mercado imobiliário para discutir crédito, financiamento e reforma tributária em SP",
-   "data": "25/08/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC), por meio da Comissão da Indústria Imobiliária (CII), realiza nesta quinta-feira (27), em São Paulo, a Rodada de Negócios do Mercado Imobiliário. O encontro vai...",
-   "link": "https://cbic.org.br/cbic-reune-representantes-do-mercado-imobiliario-para-discutir-credito-financiamento-e-reforma-tributaria-em-sp/",
-   "aba": "custos"
-  },
-  {
-   "titulo": "CNI: atividade da indústria da construção desacelera, mas emprego no setor resiste",
-   "data": "25/08/2026",
-   "fonte": "CBIC",
-   "resumo": "A indústria da construção segue em ritmo inferior ao registrado no ano passado. Em julho, o índice que mede a evolução da atividade do setor variou apenas 0,1 ponto, para 47,2 pontos. Com isso, o indicador se manteve...",
-   "link": "https://cbic.org.br/cni-atividade-da-industria-da-construcao-desacelera-mas-emprego-no-setor-resiste/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "SindusconPR realizou 19ª edição do Dia Nacional da Construção Social em Curitiba",
-   "data": "25/08/2026",
-   "fonte": "CBIC",
-   "resumo": "A indústria da construção civil segue como um dos principais motores do desenvolvimento econômico no Paraná, liderando a geração de empregos e renda. Com um estoque superior a 180 mil trabalhadores formais no estado...",
-   "link": "https://cbic.org.br/sindusconpr-realizou-19a-edicao-do-dia-nacional-da-construcao-social-em-curitiba/",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 14.0,
-   "data": "26/08/2026"
+   "data": "27/08/2026"
   }
  },
  "mensais": {
