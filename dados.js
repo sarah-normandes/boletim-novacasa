@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "29/08/2026 12:02",
+ "atualizado_em": "29/08/2026 15:03",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Votorantim Cimentos celebra 90 anos com exposição interativa em São Paulo",
+   "data": "29/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Votorantim Cimentos completa, em 2026, 90 anos. Para marcar a data, a empresa preparou uma exposição especial na cidade de São Paulo (SP), que convida o público a embarcar em uma viagem no tempo e conhecer, de...",
+   "link": "http://www.revistaanamaco.com.br/votorantim-cimentos-celebra-90-anos-com-exposicao-interativa-em-sao-paulo--",
+   "aba": "insumos"
   },
   {
    "titulo": "Rede Construmaster elege nova diretoria em assembleia realizada em Goiânia",
@@ -121,14 +129,6 @@ window.DADOS = {
    "resumo": "No ano em que celebra 50 anos de operações, a Nichele realizou um concurso cultural interno entre seus colaboradores. A ação, batizada de “Minha Casa, Nossa História”, convidou os funcionários a contar como a empresa...",
    "link": "http://www.revistaanamaco.com.br/nichele-completa-50-anos-e-premia-colaboradores-em-concurso-cultural",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Prolata divulga relatório e mostra fortalecimento da logística reversa em SP",
-   "data": "27/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Prolata Reciclagem apresenta relatório com os resultados obtidos em São Paulo durante o ano passado. O trabalho foi desenvolvido em quatro frentes principais: entrepostos, cooperativas, Pontos de Entrega Voluntária...",
-   "link": "http://www.revistaanamaco.com.br/prolata-divulga-relatorio-e-mostra-fortalecimento-da-logistica-reversa-em-sp",
-   "aba": "insumos"
   }
  ],
  "diarios": {
