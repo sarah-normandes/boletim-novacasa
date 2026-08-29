@@ -1,14 +1,22 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "28/08/2026 18:57",
+ "atualizado_em": "29/08/2026 06:03",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "28/08/2026",
+   "data": "29/08/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Quem São os 22 Bilionários do Varejo Brasileiro em 2026?",
+   "data": "29/08/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. De Havan e Magazine Luiza a redes de farmácias e supermercados, os 22 representantes do setor acumulam R$ 53,6 bilhões; Luciano Hang lidera o grupo...",
+   "link": "https://forbes.com.br/forbes-money/2026/08/bilionarios-varejo-brasileiro-2026/",
+   "aba": "demanda"
   },
   {
    "titulo": "Comerciantes cautelosos",
@@ -40,14 +48,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "O Indicador de Reincidência de Pessoas Físicas, apurado pela CNDL e pelo SPC Brasil, revelou que, em julho, do total de negativações, 86,54% foram de devedores reincidentes. O dado refere-se a consumidores que já...",
    "link": "http://www.revistaanamaco.com.br/em-julho-do-total-de-negativacoes-8654-foram-de-devedores-reincidentes",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Quem São os Sete Bilionários Brasileiros do Setor de Construção",
-   "data": "28/08/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Sócios de empresas como JHSF, MRV e Cyrela representam 2,75% da seleta lista de super-ricos do país e acumulam fortunas na bolsa de valores O post...",
-   "link": "https://forbes.com.br/forbes-money/2026/08/bilionarios-construcao-forbes-2026/",
    "aba": "geral"
   },
   {
@@ -134,7 +134,7 @@ window.DADOS = {
  "diarios": {
   "selic": {
    "valor": 14.0,
-   "data": "28/08/2026"
+   "data": "29/08/2026"
   }
  },
  "mensais": {
