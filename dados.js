@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "29/08/2026 06:03",
+ "atualizado_em": "29/08/2026 09:03",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Rede Construmaster elege nova diretoria em assembleia realizada em Goiânia",
+   "data": "29/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Rede Construmaster realizou, em meados de agosto, em Goiânia (GO), uma assembleia geral para compor sua nova diretoria. A eleição marca o início de um novo ciclo estratégico para a entidade, reafirmando os pilares...",
+   "link": "http://www.revistaanamaco.com.br/rede-construmaster-elege-nova-diretoria-em-assembleia-realizada-em-goiania-",
+   "aba": "geral"
   },
   {
    "titulo": "Quem São os 22 Bilionários do Varejo Brasileiro em 2026?",
@@ -120,14 +128,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "A Prolata Reciclagem apresenta relatório com os resultados obtidos em São Paulo durante o ano passado. O trabalho foi desenvolvido em quatro frentes principais: entrepostos, cooperativas, Pontos de Entrega Voluntária...",
    "link": "http://www.revistaanamaco.com.br/prolata-divulga-relatorio-e-mostra-fortalecimento-da-logistica-reversa-em-sp",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Blumenau Iluminação registra crescimento acima das expectativas no 1º semestre",
-   "data": "27/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "No ano em que completa 48 anos, a Blumenau Iluminação celebra os resultados alcançados no primeiro semestre. De janeiro a junho, a empresa cresceu 26% em relação ao mesmo período do ano passado, número que supera a...",
-   "link": "http://www.revistaanamaco.com.br/blumenau-iluminacao-registra-crescimento-acima-das-expectativas-no-1o-semestre-",
    "aba": "insumos"
   }
  ],
