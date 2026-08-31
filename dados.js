@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "31/08/2026 09:03",
+ "atualizado_em": "31/08/2026 12:03",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,22 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Voluntários transformam depósito em novo espaço para crianças e adolescentes",
+   "data": "31/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "Com o trabalho de cerca de 60 voluntários mobilizados pelo Dia do Bem Fazer, principal frente do programa de voluntariado do Instituto InterCement, um depósito do Núcleo Assistencial Irmão Alfredo, na capital...",
+   "link": "http://www.revistaanamaco.com.br/voluntarios-transformam-deposito-em-novo-espaco-para-criancas-e-adolescentes-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Schneider Electric entre as Melhores Empresas Para Trabalhar na América Latina",
+   "data": "31/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Schneider Electric está entre as Melhores Empresas Para Trabalhar na América Latina 2026, segundo o ranking da Great Place to Work. Esse é o quarto ano consecutivo em que a companhia figura entre as organizações...",
+   "link": "http://www.revistaanamaco.com.br/schneider-electric-entre-as-melhores-empresas-para-trabalhar-na-america-latina-",
+   "aba": "geral"
   },
   {
    "titulo": "Atividade da indústria da construção desacelera, mas emprego no setor resiste",
@@ -113,22 +129,6 @@ window.DADOS = {
    "resumo": "O IBGE divulgou hoje, 27 de agosto, o resultado da Pnad Contínua. De acordo com os dados apresentados, a taxa de desocupação, no trimestre encerrado em julho, foi de 5,3%, o que representa uma queda de 0,5 ponto...",
    "link": "http://www.revistaanamaco.com.br/taxa-de-desocupacao-recua",
    "aba": "geral"
-  },
-  {
-   "titulo": "Bostik é reconhecida duas vezes no Prêmio Qualidade ConstruBusiness 2026",
-   "data": "27/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Bostik Brasil recebeu dois Troféus Menção Honrosa no Prêmio Qualidade ConstruBusiness 2026, nas categorias “argamassa para rejuntamento” e “argamassa colante”. Esse é o segundo ano consecutivo em que a empresa é...",
-   "link": "http://www.revistaanamaco.com.br/bostik-e-reconhecida-duas-vezes-no-premio-qualidade-construbusiness-2026-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Confiança menor na construção em agosto",
-   "data": "27/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "De acordo com dados apurados pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas, o Índice de Confiança da Construção caiu 0,6 ponto em agosto, para 91,9 pontos. Em médias móveis trimestrais, o índice...",
-   "link": "http://www.revistaanamaco.com.br/confianca-menor-na-construcao-em-agosto-",
-   "aba": "demanda"
   }
  ],
  "diarios": {
