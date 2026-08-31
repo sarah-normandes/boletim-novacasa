@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "31/08/2026 12:03",
+ "atualizado_em": "31/08/2026 15:03",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,22 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Lukscolor apoia projeto que transforma centro de Jaraguá do Sul em galeria pública",
+   "data": "31/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Lukscolor é uma das apoiadoras do projeto cultural Caminho das Artes, iniciativa da Sociedade Cultura Artística que pretende transformar um trecho do centro de Jaraguá do Sul (SC) em uma galeria pública de arte urbana",
+   "link": "http://www.revistaanamaco.com.br/lukscolor-apoia-projeto-que-transforma-centro-de-jaragua-do-sul-em-galeria-publica",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Akafloor anuncia abertura de sua nova flagship na capital paulista",
+   "data": "31/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A emblemática Alameda Gabriel Monteiro da Silva, na capital paulista, acaba de ganhar um novo epicentro criativo com a abertura da nova flagship da Akafloor. O espaço nasce como um hub de conexões e inovação,...",
+   "link": "http://www.revistaanamaco.com.br/akafloor-anuncia-abertura-de-sua-nova-flagship-na-capital-paulista",
+   "aba": "insumos"
   },
   {
    "titulo": "Voluntários transformam depósito em novo espaço para crianças e adolescentes",
@@ -113,22 +129,6 @@ window.DADOS = {
    "resumo": "O número acumulado em dois anos e meio confirma a premissa da instituição: o caminho para acabar com o apagão de mão de obra no setor começa pela qualificação profissional e pela conexão dos trabalhadores com o...",
    "link": "https://cbic.org.br/sinduscon-joinville-profissao-construir-supera-marca-de-mil-alunos-formados/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Livro ‘Mulheres na Construção’ expõe histórias de superação e força",
-   "data": "27/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Editora Leader acaba de lançar o livro “Mulheres na Construção” - edição Poder de uma História. Com prefácio de Bia Kern, fundadora e presidente do Instituto Mulher em Construção e de Beth Bridi, diretora da Grau...",
-   "link": "http://www.revistaanamaco.com.br/livro-mulheres-na-construcao-expoe-historias-de-superacao-e-forca",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Taxa de desocupação recua",
-   "data": "27/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "O IBGE divulgou hoje, 27 de agosto, o resultado da Pnad Contínua. De acordo com os dados apresentados, a taxa de desocupação, no trimestre encerrado em julho, foi de 5,3%, o que representa uma queda de 0,5 ponto...",
-   "link": "http://www.revistaanamaco.com.br/taxa-de-desocupacao-recua",
-   "aba": "geral"
   }
  ],
  "diarios": {
