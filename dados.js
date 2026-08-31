@@ -1,14 +1,30 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "29/08/2026 18:03",
+ "atualizado_em": "31/08/2026 06:03",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "29/08/2026",
+   "data": "31/08/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Atividade da indústria da construção desacelera, mas emprego no setor resiste",
+   "data": "30/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "Em julho, o índice que mede a evolução da atividade do setor variou apenas 0,1 ponto, para 47,2 pontos. Com isso, o indicador se manteve meio ponto abaixo da média para os meses de julho. Os dados constam na Sondagem...",
+   "link": "http://www.revistaanamaco.com.br/atividade-da-industria-da-construcao-desacelera-mas-emprego-no-setor-resiste--",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Amanco Wavin investe em digitalização de projetos e fortalece integração BIM",
+   "data": "30/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Amanco Wavin reforça a atuação da sua Central Nacional de Projetos, área responsável por apoiar projetistas, engenheiros, construtoras e incorporadoras com suporte técnico especializado, desenvolvimento de projetos...",
+   "link": "http://www.revistaanamaco.com.br/amanco-wavin-investe-em-digitalizacao-de-projetos-e-fortalece-integracao-bim-",
+   "aba": "demanda"
   },
   {
    "titulo": "Votorantim Cimentos celebra 90 anos com exposição interativa em São Paulo",
@@ -25,14 +41,6 @@ window.DADOS = {
    "resumo": "A Rede Construmaster realizou, em meados de agosto, em Goiânia (GO), uma assembleia geral para compor sua nova diretoria. A eleição marca o início de um novo ciclo estratégico para a entidade, reafirmando os pilares...",
    "link": "http://www.revistaanamaco.com.br/rede-construmaster-elege-nova-diretoria-em-assembleia-realizada-em-goiania-",
    "aba": "geral"
-  },
-  {
-   "titulo": "Quem São os 22 Bilionários do Varejo Brasileiro em 2026?",
-   "data": "29/08/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. De Havan e Magazine Luiza a redes de farmácias e supermercados, os 22 representantes do setor acumulam R$ 53,6 bilhões; Luciano Hang lidera o grupo...",
-   "link": "https://forbes.com.br/forbes-money/2026/08/bilionarios-varejo-brasileiro-2026/",
-   "aba": "demanda"
   },
   {
    "titulo": "Comerciantes cautelosos",
@@ -121,20 +129,12 @@ window.DADOS = {
    "resumo": "De acordo com dados apurados pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas, o Índice de Confiança da Construção caiu 0,6 ponto em agosto, para 91,9 pontos. Em médias móveis trimestrais, o índice...",
    "link": "http://www.revistaanamaco.com.br/confianca-menor-na-construcao-em-agosto-",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Nichele completa 50 anos e premia colaboradores em concurso cultural",
-   "data": "27/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "No ano em que celebra 50 anos de operações, a Nichele realizou um concurso cultural interno entre seus colaboradores. A ação, batizada de “Minha Casa, Nossa História”, convidou os funcionários a contar como a empresa...",
-   "link": "http://www.revistaanamaco.com.br/nichele-completa-50-anos-e-premia-colaboradores-em-concurso-cultural",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 14.0,
-   "data": "29/08/2026"
+   "data": "31/08/2026"
   }
  },
  "mensais": {
