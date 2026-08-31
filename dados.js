@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "31/08/2026 15:03",
+ "atualizado_em": "31/08/2026 18:03",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -41,6 +41,22 @@ window.DADOS = {
    "resumo": "A Schneider Electric está entre as Melhores Empresas Para Trabalhar na América Latina 2026, segundo o ranking da Great Place to Work. Esse é o quarto ano consecutivo em que a companhia figura entre as organizações...",
    "link": "http://www.revistaanamaco.com.br/schneider-electric-entre-as-melhores-empresas-para-trabalhar-na-america-latina-",
    "aba": "geral"
+  },
+  {
+   "titulo": "Feira de construção e infraestrutura reúne 450 expositores e mais de 26 mil visitante sem São Paulo",
+   "data": "31/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "Em sua 17ª edição, a Concrete Show South America ocorreu entre os dias 25 e 27 de agosto, no São Paulo Expo. Um dos principais O post Feira de construção e infraestrutura reúne 450 expositores e mais de 26 mil...",
+   "link": "https://revistaoe.com.br/feira-de-construcao-e-infraestrutura-26-mil-visitantes/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "DNIT inicia obras de dragagem de manutenção em quatro trechos hidroviários do Amazonas",
+   "data": "31/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "Departamento Nacional de Infraestrutura de Transportes DNIT iniciará, na primeira quinzena de setembro, obras de dragagem de manutenção em quatro trechos hidroviários do Amazonas. As O post DNIT inicia obras de...",
+   "link": "https://revistaoe.com.br/dragagem-no-amazonas-quatro-trechos-hidroviarios/",
+   "aba": "demanda"
   },
   {
    "titulo": "Atividade da indústria da construção desacelera, mas emprego no setor resiste",
@@ -112,22 +128,6 @@ window.DADOS = {
    "fonte": "CBIC",
    "resumo": "Setor teve o segundo melhor desempenho entre as atividades econômicas, abriu 12,7 mil vagas no mês e acumula mais de 180 mil novos postos em 2026 A construção civil abriu 12.691 novas vagas de trabalho com carteira...",
    "link": "https://cbic.org.br/construcao-respondeu-por-mais-de-21-dos-novos-empregos-formais-do-pais-em-julho/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "CBIC se reúne com líderes globais da habitação na Austrália para discutir desafios do setor",
-   "data": "28/08/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) participou, nesta quinta e sexta-feira (27 e 28), da reunião da International Housing Association (IHA), realizada no Parlamento de Victoria, em Melbourne, na...",
-   "link": "https://cbic.org.br/cbic-se-reune-com-lideres-globais-da-habitacao-em-melbourne-para-discutir-desafios-do-setor/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "SINDUSCON Joinville: Profissão Construir supera marca de mil alunos formados",
-   "data": "28/08/2026",
-   "fonte": "CBIC",
-   "resumo": "O número acumulado em dois anos e meio confirma a premissa da instituição: o caminho para acabar com o apagão de mão de obra no setor começa pela qualificação profissional e pela conexão dos trabalhadores com o...",
-   "link": "https://cbic.org.br/sinduscon-joinville-profissao-construir-supera-marca-de-mil-alunos-formados/",
    "aba": "demanda"
   }
  ],
