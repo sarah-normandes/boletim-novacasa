@@ -1,10 +1,10 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "31/08/2026 18:03",
+ "atualizado_em": "01/09/2026 06:05",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "31/08/2026",
+   "data": "01/09/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
@@ -134,7 +134,7 @@ window.DADOS = {
  "diarios": {
   "selic": {
    "valor": 14.0,
-   "data": "31/08/2026"
+   "data": "01/09/2026"
   }
  },
  "mensais": {
