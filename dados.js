@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "01/09/2026 15:06",
+ "atualizado_em": "01/09/2026 18:05",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -51,6 +51,14 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
+   "titulo": "Construção nos Estados Unidos Tem Retração em Julho com Baque no Setor Habitacional",
+   "data": "01/09/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. O mercado de construção americano acumula queda de 3,5% no ano, pressionado pelo fraco desempenho das novas moradias unifamiliares O post Construção...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/queda-gastos-construcao-estados-unidos/",
+   "aba": "insumos"
+  },
+  {
    "titulo": "CBIC participa de encontro sobre importância do ESG para a construção no Sinduscon-BA",
    "data": "01/09/2026",
    "fonte": "CBIC",
@@ -65,14 +73,6 @@ window.DADOS = {
    "resumo": "Mercado de trabalho mantém resultados positivos, mas setor sente os efeitos dos juros elevados por um período prolongado O Produto Interno Bruto (PIB) brasileiro cresceu 0,5% no segundo trimestre de 2026, na...",
    "link": "https://cbic.org.br/pib-construcao-recua-04-no-segundo-trimestre-mas-cresce-11-no-semestre/",
    "aba": "custos"
-  },
-  {
-   "titulo": "Cury quer dobrar produção de 700 milhões de grãos do Brasil em 10 anos e construir 100 usinas; ‘Podemos controlar os preços’",
-   "data": "01/09/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "O candidato à Presidência pelo Avante, Augusto Cury, afirmou que quer que o Brasil possa dobrar a produção de grãos em dez anos dos atuais 350 milhões de toneladas para 700 milhões de toneladas. A declaração foi...",
-   "link": "https://www.moneytimes.com.br/cury-quer-dobrar-producao-de-700-milhoes-de-graos-do-brasil-em-10-anos-e-construcao-de-100-usinas-podemos-controlar-os-precos-pads/",
-   "aba": "geral"
   },
   {
    "titulo": "Akafloor anuncia abertura de sua nova flagship na capital paulista",
@@ -107,28 +107,28 @@ window.DADOS = {
    "aba": "geral"
   },
   {
+   "titulo": "Feira de construção e infraestrutura reúne 450 expositores e mais de 26 mil visitantes em São Paulo",
+   "data": "31/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "Em sua 17ª edição, a Concrete Show South America ocorreu entre os dias 25 e 27 de agosto, no São Paulo Expo. Um dos principais O post Feira de construção e infraestrutura reúne 450 expositores e mais de 26 mil...",
+   "link": "https://revistaoe.com.br/feira-de-construcao-e-infraestrutura-26-mil-visitantes/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "DNIT inicia obras de dragagem de manutenção em quatro trechos hidroviários do Amazonas",
+   "data": "31/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "Departamento Nacional de Infraestrutura de Transportes DNIT iniciará, na primeira quinzena de setembro, obras de dragagem de manutenção em quatro trechos hidroviários do Amazonas. As O post DNIT inicia obras de...",
+   "link": "https://revistaoe.com.br/dragagem-no-amazonas-quatro-trechos-hidroviarios/",
+   "aba": "demanda"
+  },
+  {
    "titulo": "Atividade da indústria da construção desacelera, mas emprego no setor resiste",
    "data": "30/08/2026",
    "fonte": "Anamaco",
    "resumo": "Em julho, o índice que mede a evolução da atividade do setor variou apenas 0,1 ponto, para 47,2 pontos. Com isso, o indicador se manteve meio ponto abaixo da média para os meses de julho. Os dados constam na Sondagem...",
    "link": "http://www.revistaanamaco.com.br/atividade-da-industria-da-construcao-desacelera-mas-emprego-no-setor-resiste--",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Amanco Wavin investe em digitalização de projetos e fortalece integração BIM",
-   "data": "30/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Amanco Wavin reforça a atuação da sua Central Nacional de Projetos, área responsável por apoiar projetistas, engenheiros, construtoras e incorporadoras com suporte técnico especializado, desenvolvimento de projetos...",
-   "link": "http://www.revistaanamaco.com.br/amanco-wavin-investe-em-digitalizacao-de-projetos-e-fortalece-integracao-bim-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Votorantim Cimentos celebra 90 anos com exposição interativa em São Paulo",
-   "data": "29/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Votorantim Cimentos completa, em 2026, 90 anos. Para marcar a data, a empresa preparou uma exposição especial na cidade de São Paulo (SP), que convida o público a embarcar em uma viagem no tempo e conhecer, de...",
-   "link": "http://www.revistaanamaco.com.br/votorantim-cimentos-celebra-90-anos-com-exposicao-interativa-em-sao-paulo--",
-   "aba": "insumos"
   }
  ],
  "diarios": {
