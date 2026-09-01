@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "01/09/2026 06:05",
+ "atualizado_em": "01/09/2026 09:07",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Tintas Iquine conquista selo RA1000 de excelência no Reclame Aqui",
+   "data": "01/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Tintas Iquine atingiu o nível máximo de excelência em reputação e atendimento ao consumidor ao ser reconhecida com o selo RA1000, a certificação mais alta concedida pelo portal Reclame Aqui. O reconhecimento é...",
+   "link": "http://www.revistaanamaco.com.br/tintas-iquine-conquista-selo-ra1000-de-excelencia-no-reclame-aqui-",
+   "aba": "insumos"
   },
   {
    "titulo": "Lukscolor apoia projeto que transforma centro de Jaraguá do Sul em galeria pública",
@@ -113,14 +121,6 @@ window.DADOS = {
    "resumo": "O Coritiba apresenta ao torcedor uma novidade que une paixão, identidade e história: a cor Verde Coritiba. Desenvolvida em parceria com a Tintas Coral, marca de tintas decorativas da AkzoNobel, a nova cor está...",
    "link": "http://www.revistaanamaco.com.br/coritiba-e-tintas-coral-apresentam-cor-que-reproduz-o-verde-do-escudo-do-clube-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Em julho, do total de negativações, 86,54% foram de devedores reincidentes",
-   "data": "28/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Indicador de Reincidência de Pessoas Físicas, apurado pela CNDL e pelo SPC Brasil, revelou que, em julho, do total de negativações, 86,54% foram de devedores reincidentes. O dado refere-se a consumidores que já...",
-   "link": "http://www.revistaanamaco.com.br/em-julho-do-total-de-negativacoes-8654-foram-de-devedores-reincidentes",
-   "aba": "geral"
   },
   {
    "titulo": "Construção respondeu por mais de 21% dos novos empregos formais do país em julho",
