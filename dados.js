@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "01/09/2026 09:07",
+ "atualizado_em": "01/09/2026 12:04",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -11,11 +11,59 @@ window.DADOS = {
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
+   "titulo": "Otimismo subiu em 13 segmentos",
+   "data": "01/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "O número de setores industriais pessimistas caiu de 26 para 25 em agosto, revelam os Resultado Setoriais do Índice de Confiança do Empresário Industrial, divulgados pela CNI. De acordo com a pesquisa, empresários de...",
+   "link": "http://www.revistaanamaco.com.br/otimismo-subiu-em-13-segmentos",
+   "aba": "demanda"
+  },
+  {
    "titulo": "Tintas Iquine conquista selo RA1000 de excelência no Reclame Aqui",
    "data": "01/09/2026",
    "fonte": "Anamaco",
    "resumo": "A Tintas Iquine atingiu o nível máximo de excelência em reputação e atendimento ao consumidor ao ser reconhecida com o selo RA1000, a certificação mais alta concedida pelo portal Reclame Aqui. O reconhecimento é...",
    "link": "http://www.revistaanamaco.com.br/tintas-iquine-conquista-selo-ra1000-de-excelencia-no-reclame-aqui-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Construção nos Estados Unidos Tem Retração em Julho com Baque no Setor Habitacional",
+   "data": "01/09/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. O mercado de construção americano acumula queda de 3,5% no ano, pressionado pelo fraco desempenho das novas moradias unifamiliares O post Construção...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/queda-gastos-construcao-estados-unidos/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Com 100 campos de futebol “no bolso”, Multiplan diversifica no imobiliário",
+   "data": "01/09/2026",
+   "fonte": "InfoMoney",
+   "resumo": "Para o CFO da Multiplan, Armando Neto, a linha de imobiliário vai ganhar ainda mais espaço no balanço da companhia The post Com 100 campos de futebol “no bolso”, Multiplan diversifica no imobiliário appeared first on...",
+   "link": "https://www.infomoney.com.br/business/com-100-campos-de-futebol-no-bolso-multiplan-diversifica-no-imobiliario/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "CBIC participa de encontro sobre importância do ESG para a construção no Sinduscon-BA",
+   "data": "01/09/2026",
+   "fonte": "CBIC",
+   "resumo": "Evento discutiu como sustentabilidade, responsabilidade social e governança podem contribuir para a competitividade e a geração de valor no setor A importância da agenda ESG para o fortalecimento da construção civil...",
+   "link": "https://cbic.org.br/cbic-participa-de-encontro-sobre-importancia-do-esg-para-a-construcao-no-sinduscon-ba/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "PIB: Construção recua 0,4% no segundo trimestre, mas cresce 1,1% no semestre",
+   "data": "01/09/2026",
+   "fonte": "CBIC",
+   "resumo": "Mercado de trabalho mantém resultados positivos, mas setor sente os efeitos dos juros elevados por um período prolongado O Produto Interno Bruto (PIB) brasileiro cresceu 0,5% no segundo trimestre de 2026, na...",
+   "link": "https://cbic.org.br/pib-construcao-recua-04-no-segundo-trimestre-mas-cresce-11-no-semestre/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Akafloor anuncia abertura de sua nova flagship na capital paulista",
+   "data": "31/08/2026",
+   "fonte": "Anamaco",
+   "resumo": "A emblemática Alameda Gabriel Monteiro da Silva, na capital paulista, acaba de ganhar um novo epicentro criativo com a abertura da nova flagship da Akafloor. O espaço nasce como um hub de conexões e inovação,...",
+   "link": "http://www.revistaanamaco.com.br/akafloor-anuncia-abertura-de-sua-nova-flagship-na-capital-paulista",
    "aba": "insumos"
   },
   {
@@ -25,14 +73,6 @@ window.DADOS = {
    "resumo": "A Lukscolor é uma das apoiadoras do projeto cultural Caminho das Artes, iniciativa da Sociedade Cultura Artística que pretende transformar um trecho do centro de Jaraguá do Sul (SC) em uma galeria pública de arte urbana",
    "link": "http://www.revistaanamaco.com.br/lukscolor-apoia-projeto-que-transforma-centro-de-jaragua-do-sul-em-galeria-publica",
    "aba": "geral"
-  },
-  {
-   "titulo": "Akafloor anuncia abertura de sua nova flagship na capital paulista",
-   "data": "31/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A emblemática Alameda Gabriel Monteiro da Silva, na capital paulista, acaba de ganhar um novo epicentro criativo com a abertura da nova flagship da Akafloor. O espaço nasce como um hub de conexões e inovação,...",
-   "link": "http://www.revistaanamaco.com.br/akafloor-anuncia-abertura-de-sua-nova-flagship-na-capital-paulista",
-   "aba": "insumos"
   },
   {
    "titulo": "Voluntários transformam depósito em novo espaço para crianças e adolescentes",
@@ -89,46 +129,6 @@ window.DADOS = {
    "resumo": "A Votorantim Cimentos completa, em 2026, 90 anos. Para marcar a data, a empresa preparou uma exposição especial na cidade de São Paulo (SP), que convida o público a embarcar em uma viagem no tempo e conhecer, de...",
    "link": "http://www.revistaanamaco.com.br/votorantim-cimentos-celebra-90-anos-com-exposicao-interativa-em-sao-paulo--",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Rede Construmaster elege nova diretoria em assembleia realizada em Goiânia",
-   "data": "29/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Rede Construmaster realizou, em meados de agosto, em Goiânia (GO), uma assembleia geral para compor sua nova diretoria. A eleição marca o início de um novo ciclo estratégico para a entidade, reafirmando os pilares...",
-   "link": "http://www.revistaanamaco.com.br/rede-construmaster-elege-nova-diretoria-em-assembleia-realizada-em-goiania-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Comerciantes cautelosos",
-   "data": "28/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "Dados apurados pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas revelam que o Índice de Confiança do Comércio caiu 1,3 ponto em agosto, para 84,2 pontos. Em médias móveis trimestrais, o índice se...",
-   "link": "http://www.revistaanamaco.com.br/comerciantes-cautelosos",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Perspectiva de desaceleração na indústria",
-   "data": "28/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Índice de Confiança da Indústria, do Instituto Brasileiro de Economia da Fundação Getulio Vargas, caiu 3,5 pontos em agosto, para 93,7 pontos. Em médias móveis trimestrais, o índice recuou 1,1 ponto, para 97,0 pontos",
-   "link": "http://www.revistaanamaco.com.br/perspectiva-de-desaceleracao-na-industria",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Coritiba e Tintas Coral apresentam cor que reproduz o verde do escudo do clube",
-   "data": "28/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Coritiba apresenta ao torcedor uma novidade que une paixão, identidade e história: a cor Verde Coritiba. Desenvolvida em parceria com a Tintas Coral, marca de tintas decorativas da AkzoNobel, a nova cor está...",
-   "link": "http://www.revistaanamaco.com.br/coritiba-e-tintas-coral-apresentam-cor-que-reproduz-o-verde-do-escudo-do-clube-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Construção respondeu por mais de 21% dos novos empregos formais do país em julho",
-   "data": "28/08/2026",
-   "fonte": "CBIC",
-   "resumo": "Setor teve o segundo melhor desempenho entre as atividades econômicas, abriu 12,7 mil vagas no mês e acumula mais de 180 mil novos postos em 2026 A construção civil abriu 12.691 novas vagas de trabalho com carteira...",
-   "link": "https://cbic.org.br/construcao-respondeu-por-mais-de-21-dos-novos-empregos-formais-do-pais-em-julho/",
-   "aba": "demanda"
   }
  ],
  "diarios": {
