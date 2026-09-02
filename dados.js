@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "02/09/2026 15:06",
+ "atualizado_em": "02/09/2026 18:05",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Famastil investe em tecnologia e automação para elevar a produção industrial",
+   "data": "02/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Famastil vem ampliando sua capacidade produtiva e modernizando seus processos industriais. A marca acompanha a evolução do mercado por meio de novas tecnologias e ganhos de eficiência, fortalecendo sua atuação nos...",
+   "link": "http://www.revistaanamaco.com.br/famastil-investe-em-tecnologia-e-automacao-para-elevar-a-producao-industrial-",
+   "aba": "geral"
   },
   {
    "titulo": "Incerteza com o trabalho e inadimplência derrubaram intenção de consumo",
@@ -51,12 +59,20 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Importações para Construir Barcos de Luxo Crescem 23% no Brasil e Chegam a US$ 75,6 Milhões",
+   "titulo": "Liderança na Era da Convergência e a Construção de Legados com Propósito",
    "data": "02/09/2026",
    "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Avanço reflete a demanda por motores, sistemas eletrônicos, resinas e acabamentos importados para atender projetos cada vez mais sofisticados O post...",
-   "link": "https://forbes.com.br/forbes-life/forbes-motors/2026/09/importacoes-para-construir-barcos-de-luxo-crescem-23-no-brasil-e-chegam-a-us-756-milhoes/",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. O alinhamento entre crescimento econômico e relevância social para transformar organizações em referências de longo prazo O post Liderança na Era da...",
+   "link": "https://forbes.com.br/carreira/2026/09/lideranca-na-era-da-convergencia-e-a-construcao-de-legados-com-proposito/",
    "aba": "insumos"
+  },
+  {
+   "titulo": "Programa Trilhas Profissionais da Construção é lançado pelo SindusCon-SP",
+   "data": "02/09/2026",
+   "fonte": "CBIC",
+   "resumo": "Em evento no Salão Nobre da Fiesp, foi lançado em 2 de setembro o programa Trilhas Profissionais da Construção, uma iniciativa de SindusCon-SP, Senai-SP, Sintracon-SP e Feticom-SP. O evento contou com as presenças de...",
+   "link": "https://cbic.org.br/programa-trilhas-profissionais-da-construcao-e-lancado-pelo-sinduscon-sp/",
+   "aba": "geral"
   },
   {
    "titulo": "CBIC promove Workshop de Negociações Coletivas na Construção Civil em novembro",
@@ -112,22 +128,6 @@ window.DADOS = {
    "fonte": "CBIC",
    "resumo": "Evento discutiu como sustentabilidade, responsabilidade social e governança podem contribuir para a competitividade e a geração de valor no setor A importância da agenda ESG para o fortalecimento da construção civil...",
    "link": "https://cbic.org.br/cbic-participa-de-encontro-sobre-importancia-do-esg-para-a-construcao-no-sinduscon-ba/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "PIB: Construção recua 0,4% no segundo trimestre, mas cresce 1,1% no semestre",
-   "data": "01/09/2026",
-   "fonte": "CBIC",
-   "resumo": "Mercado de trabalho mantém resultados positivos, mas setor sente os efeitos dos juros elevados por um período prolongado O Produto Interno Bruto (PIB) brasileiro cresceu 0,5% no segundo trimestre de 2026, na...",
-   "link": "https://cbic.org.br/pib-construcao-recua-04-no-segundo-trimestre-mas-cresce-11-no-semestre/",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Akafloor anuncia abertura de sua nova flagship na capital paulista",
-   "data": "31/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A emblemática Alameda Gabriel Monteiro da Silva, na capital paulista, acaba de ganhar um novo epicentro criativo com a abertura da nova flagship da Akafloor. O espaço nasce como um hub de conexões e inovação,...",
-   "link": "http://www.revistaanamaco.com.br/akafloor-anuncia-abertura-de-sua-nova-flagship-na-capital-paulista",
    "aba": "insumos"
   }
  ],
