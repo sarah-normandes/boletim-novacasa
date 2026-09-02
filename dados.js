@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "02/09/2026 12:10",
+ "atualizado_em": "02/09/2026 15:06",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,30 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Incerteza com o trabalho e inadimplência derrubaram intenção de consumo",
+   "data": "02/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Intenção de Consumo das Famílias, apurada pela CNC, recuou 0,6% em agosto, na comparação dessazonalizada com julho, atingindo 104,9 pontos.\r\nA retração do indicador foi liderada pela forte deterioração da percepção...",
+   "link": "http://www.revistaanamaco.com.br/incerteza-com-o-trabalho-e-inadimplencia-derrubaram-intencao-de-consumo-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Dryko anuncia Romeu Martinelli como novo CEO da empresa",
+   "data": "02/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "Romeu Martinelli é o novo CEO da Dryko Impermeabilizantes. O executivo possui 18 anos de experiência em gestão de empresas do setor de químicos para a construção civil, ingressou na companhia em 2025,como...",
+   "link": "http://www.revistaanamaco.com.br/dryko-anuncia-romeu-martinelli-como-novo-ceo-da-empresa",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Em homenagem a funcionário, Andra batiza CD como Roberto Mancoso",
+   "data": "02/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "Em meio às celebrações de seus 50 anos de fundação em 2026, a Andra reuniu mais de 40 dos seus principais fornecedores e parceiros de negócios no CD, de Cajamar (SP), para realizar a nomeação oficial da estrutura,...",
+   "link": "http://www.revistaanamaco.com.br/em-homenagem-a-funcionario-andra-batiza-cd-como-roberto-mancoso",
+   "aba": "geral"
   },
   {
    "titulo": "Evento da Viapol debateu desempenho e estanqueidade das construções",
@@ -33,6 +57,14 @@ window.DADOS = {
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Avanço reflete a demanda por motores, sistemas eletrônicos, resinas e acabamentos importados para atender projetos cada vez mais sofisticados O post...",
    "link": "https://forbes.com.br/forbes-life/forbes-motors/2026/09/importacoes-para-construir-barcos-de-luxo-crescem-23-no-brasil-e-chegam-a-us-756-milhoes/",
    "aba": "insumos"
+  },
+  {
+   "titulo": "CBIC promove Workshop de Negociações Coletivas na Construção Civil em novembro",
+   "data": "02/09/2026",
+   "fonte": "CBIC",
+   "resumo": "A preparação dos profissionais que atuam nas relações trabalhistas é fundamental para a condução de negociações coletivas cada vez mais qualificadas no setor da construção. Com esse objetivo, a Câmara Brasileira da...",
+   "link": "https://cbic.org.br/cbic-promove-workshop-de-negociacoes-coletivas-na-construcao-civil-em-novembro/",
+   "aba": "geral"
   },
   {
    "titulo": "Confiança empresarial recua",
@@ -97,38 +129,6 @@ window.DADOS = {
    "resumo": "A emblemática Alameda Gabriel Monteiro da Silva, na capital paulista, acaba de ganhar um novo epicentro criativo com a abertura da nova flagship da Akafloor. O espaço nasce como um hub de conexões e inovação,...",
    "link": "http://www.revistaanamaco.com.br/akafloor-anuncia-abertura-de-sua-nova-flagship-na-capital-paulista",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Lukscolor apoia projeto que transforma centro de Jaraguá do Sul em galeria pública",
-   "data": "31/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Lukscolor é uma das apoiadoras do projeto cultural Caminho das Artes, iniciativa da Sociedade Cultura Artística que pretende transformar um trecho do centro de Jaraguá do Sul (SC) em uma galeria pública de arte urbana",
-   "link": "http://www.revistaanamaco.com.br/lukscolor-apoia-projeto-que-transforma-centro-de-jaragua-do-sul-em-galeria-publica",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Voluntários transformam depósito em novo espaço para crianças e adolescentes",
-   "data": "31/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "Com o trabalho de cerca de 60 voluntários mobilizados pelo Dia do Bem Fazer, principal frente do programa de voluntariado do Instituto InterCement, um depósito do Núcleo Assistencial Irmão Alfredo, na capital...",
-   "link": "http://www.revistaanamaco.com.br/voluntarios-transformam-deposito-em-novo-espaco-para-criancas-e-adolescentes-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Schneider Electric entre as Melhores Empresas Para Trabalhar na América Latina",
-   "data": "31/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Schneider Electric está entre as Melhores Empresas Para Trabalhar na América Latina 2026, segundo o ranking da Great Place to Work. Esse é o quarto ano consecutivo em que a companhia figura entre as organizações...",
-   "link": "http://www.revistaanamaco.com.br/schneider-electric-entre-as-melhores-empresas-para-trabalhar-na-america-latina-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Feira de construção e infraestrutura reúne 450 expositores e mais de 26 mil visitantes em São Paulo",
-   "data": "31/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "Em sua 17ª edição, a Concrete Show South America ocorreu entre os dias 25 e 27 de agosto, no São Paulo Expo. Um dos principais O post Feira de construção e infraestrutura reúne 450 expositores e mais de 26 mil...",
-   "link": "https://revistaoe.com.br/feira-de-construcao-e-infraestrutura-26-mil-visitantes/",
-   "aba": "geral"
   }
  ],
  "diarios": {
