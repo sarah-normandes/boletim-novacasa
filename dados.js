@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "02/09/2026 06:05",
+ "atualizado_em": "02/09/2026 09:06",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Belgo Arames e Fiemg Lab querem conectar startups a desafios da indústria",
+   "data": "02/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Belgo Arames e o Fiemg Lab apresentam a primeira edição do Belgo Arames Challenge Fiemg Lab. O lançamento reuniu representantes da indústria e do ecossistema de inovação para apresentar dois desafios tecnológicos...",
+   "link": "http://www.revistaanamaco.com.br/belgo-arames-e-fiemg-lab-querem-conectar-startups-a-desafios-da-industria-",
+   "aba": "demanda"
   },
   {
    "titulo": "Importações para Construir Barcos de Luxo Crescem 23% no Brasil e Chegam a US$ 75,6 Milhões",
@@ -107,28 +115,20 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Atividade da indústria da construção desacelera, mas emprego no setor resiste",
-   "data": "30/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "Em julho, o índice que mede a evolução da atividade do setor variou apenas 0,1 ponto, para 47,2 pontos. Com isso, o indicador se manteve meio ponto abaixo da média para os meses de julho. Os dados constam na Sondagem...",
-   "link": "http://www.revistaanamaco.com.br/atividade-da-industria-da-construcao-desacelera-mas-emprego-no-setor-resiste--",
-   "aba": "demanda"
+   "titulo": "Feira de construção e infraestrutura reúne 450 expositores e mais de 26 mil visitantes em São Paulo",
+   "data": "31/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "Em sua 17ª edição, a Concrete Show South America ocorreu entre os dias 25 e 27 de agosto, no São Paulo Expo. Um dos principais O post Feira de construção e infraestrutura reúne 450 expositores e mais de 26 mil...",
+   "link": "https://revistaoe.com.br/feira-de-construcao-e-infraestrutura-26-mil-visitantes/",
+   "aba": "geral"
   },
   {
-   "titulo": "Amanco Wavin investe em digitalização de projetos e fortalece integração BIM",
-   "data": "30/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Amanco Wavin reforça a atuação da sua Central Nacional de Projetos, área responsável por apoiar projetistas, engenheiros, construtoras e incorporadoras com suporte técnico especializado, desenvolvimento de projetos...",
-   "link": "http://www.revistaanamaco.com.br/amanco-wavin-investe-em-digitalizacao-de-projetos-e-fortalece-integracao-bim-",
+   "titulo": "DNIT inicia obras de dragagem de manutenção em quatro trechos hidroviários do Amazonas",
+   "data": "31/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "Departamento Nacional de Infraestrutura de Transportes DNIT iniciará, na primeira quinzena de setembro, obras de dragagem de manutenção em quatro trechos hidroviários do Amazonas. As O post DNIT inicia obras de...",
+   "link": "https://revistaoe.com.br/dragagem-no-amazonas-quatro-trechos-hidroviarios/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Votorantim Cimentos celebra 90 anos com exposição interativa em São Paulo",
-   "data": "29/08/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Votorantim Cimentos completa, em 2026, 90 anos. Para marcar a data, a empresa preparou uma exposição especial na cidade de São Paulo (SP), que convida o público a embarcar em uma viagem no tempo e conhecer, de...",
-   "link": "http://www.revistaanamaco.com.br/votorantim-cimentos-celebra-90-anos-com-exposicao-interativa-em-sao-paulo--",
-   "aba": "insumos"
   }
  ],
  "diarios": {
