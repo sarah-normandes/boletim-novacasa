@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "02/09/2026 09:06",
+ "atualizado_em": "02/09/2026 12:10",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Evento da Viapol debateu desempenho e estanqueidade das construções",
+   "data": "02/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Viapol realizou, na capital paulista, o Encontro Técnico Viapol, evento que reuniu especialistas, entidades do setor e profissionais da construção civil em um ambiente de troca de conhecimento, experiências e...",
+   "link": "http://www.revistaanamaco.com.br/evento-da-viapol-debateu-desempenho-e-estanqueidade-das-construcoes",
+   "aba": "insumos"
   },
   {
    "titulo": "Belgo Arames e Fiemg Lab querem conectar startups a desafios da indústria",
@@ -121,14 +129,6 @@ window.DADOS = {
    "resumo": "Em sua 17ª edição, a Concrete Show South America ocorreu entre os dias 25 e 27 de agosto, no São Paulo Expo. Um dos principais O post Feira de construção e infraestrutura reúne 450 expositores e mais de 26 mil...",
    "link": "https://revistaoe.com.br/feira-de-construcao-e-infraestrutura-26-mil-visitantes/",
    "aba": "geral"
-  },
-  {
-   "titulo": "DNIT inicia obras de dragagem de manutenção em quatro trechos hidroviários do Amazonas",
-   "data": "31/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "Departamento Nacional de Infraestrutura de Transportes DNIT iniciará, na primeira quinzena de setembro, obras de dragagem de manutenção em quatro trechos hidroviários do Amazonas. As O post DNIT inicia obras de...",
-   "link": "https://revistaoe.com.br/dragagem-no-amazonas-quatro-trechos-hidroviarios/",
-   "aba": "demanda"
   }
  ],
  "diarios": {
