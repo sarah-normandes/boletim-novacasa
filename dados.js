@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "03/09/2026 06:05",
+ "atualizado_em": "03/09/2026 09:07",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Com aporte de R$ 8 milhões, Comercial Maia amplia sua capacidade logística",
+   "data": "03/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Comercial Maia ampliou seu Centro de Distribuição, em Maracanaú (CE), em um investimento de, aproximadamente, R$ 8 milhões voltado ao aumento da capacidade operacional da empresa. Com a nova estrutura, a área...",
+   "link": "http://www.revistaanamaco.com.br/com-aporte-de-r-8-milhoes-comercial-maia-amplia-sua-capacidade-logistica-",
+   "aba": "geral"
   },
   {
    "titulo": "As Bilionárias Brasileiras Que Construíram a Própria Fortuna",
@@ -121,14 +129,6 @@ window.DADOS = {
    "resumo": "Projetos que exploram a relação entre arquitetura, natureza, bem-estar e sustentabilidade foram os destaques da 29ª edição do Prêmio Deca, uma das principais premiações de arquitetura e design do País. O evento...",
    "link": "http://www.revistaanamaco.com.br/premio-deca-reconhece-novos-caminhos-para-a-arquitetura-e-o-design",
    "aba": "geral"
-  },
-  {
-   "titulo": "Atlas vai reunir lideranças do matcon, no Panamá, para debater o futuro do setor",
-   "data": "01/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Os principais desafios do setor de matcon, o intercâmbio de conhecimento e a realização de parcerias são oportunidades que atrairão mais de 600 convidados para o Summit Americas e ExpoShow, que será realizado pela...",
-   "link": "http://www.revistaanamaco.com.br/atlas-vai-reunir-liderancas-do-matcon-no-panama-para-debater-o-futuro-do-setor-",
-   "aba": "insumos"
   }
  ],
  "diarios": {
