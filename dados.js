@@ -1,14 +1,30 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "02/09/2026 18:05",
+ "atualizado_em": "03/09/2026 06:05",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "02/09/2026",
+   "data": "03/09/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "As Bilionárias Brasileiras Que Construíram a Própria Fortuna",
+   "data": "03/09/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. De 50 super-ricas no país, apenas sete não herdaram seu patrimônio; juntas, elas acumulam R$ 39,1 bilhões O post As Bilionárias Brasileiras Que...",
+   "link": "https://forbes.com.br/forbes-mulher/2026/09/as-bilionarias-brasileiras-que-construiram-a-propria-fortuna/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "CCJ do Senado aprova fim da jornada 6x1",
+   "data": "02/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Comissão de Constituição e Justiça do Senado aprovou, hoje, por votação simbólica, a proposta de emenda à Constituição (PEC) que propõe fim à jornada de seis dias de trabalho por um de descanso (6 x 1). A matéria...",
+   "link": "http://www.revistaanamaco.com.br/ccj-do-senado-aprova-fim-da-jornada-6x1",
+   "aba": "geral"
   },
   {
    "titulo": "Famastil investe em tecnologia e automação para elevar a produção industrial",
@@ -67,6 +83,14 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
+   "titulo": "COIC debate oportunidades para construção industrial na Guiana e na Margem Equatorial",
+   "data": "02/09/2026",
+   "fonte": "CBIC",
+   "resumo": "Explorar novas possibilidades de negócios para o setor da construção, tanto além das fronteiras brasileiras quanto no litoral do país, foi o tema da 62ª Reunião Ordinária da Comissão de Obras Industriais da Câmara...",
+   "link": "https://cbic.org.br/coic-debate-oportunidades-para-construcao-industrial-na-guiana-e-na-margem-equatorial/",
+   "aba": "demanda"
+  },
+  {
    "titulo": "Programa Trilhas Profissionais da Construção é lançado pelo SindusCon-SP",
    "data": "02/09/2026",
    "fonte": "CBIC",
@@ -105,36 +129,12 @@ window.DADOS = {
    "resumo": "Os principais desafios do setor de matcon, o intercâmbio de conhecimento e a realização de parcerias são oportunidades que atrairão mais de 600 convidados para o Summit Americas e ExpoShow, que será realizado pela...",
    "link": "http://www.revistaanamaco.com.br/atlas-vai-reunir-liderancas-do-matcon-no-panama-para-debater-o-futuro-do-setor-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Otimismo subiu em 13 segmentos",
-   "data": "01/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "O número de setores industriais pessimistas caiu de 26 para 25 em agosto, revelam os Resultado Setoriais do Índice de Confiança do Empresário Industrial, divulgados pela CNI. De acordo com a pesquisa, empresários de...",
-   "link": "http://www.revistaanamaco.com.br/otimismo-subiu-em-13-segmentos",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Tintas Iquine conquista selo RA1000 de excelência no Reclame Aqui",
-   "data": "01/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Tintas Iquine atingiu o nível máximo de excelência em reputação e atendimento ao consumidor ao ser reconhecida com o selo RA1000, a certificação mais alta concedida pelo portal Reclame Aqui. O reconhecimento é...",
-   "link": "http://www.revistaanamaco.com.br/tintas-iquine-conquista-selo-ra1000-de-excelencia-no-reclame-aqui-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "CBIC participa de encontro sobre importância do ESG para a construção no Sinduscon-BA",
-   "data": "01/09/2026",
-   "fonte": "CBIC",
-   "resumo": "Evento discutiu como sustentabilidade, responsabilidade social e governança podem contribuir para a competitividade e a geração de valor no setor A importância da agenda ESG para o fortalecimento da construção civil...",
-   "link": "https://cbic.org.br/cbic-participa-de-encontro-sobre-importancia-do-esg-para-a-construcao-no-sinduscon-ba/",
-   "aba": "insumos"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 14.0,
-   "data": "02/09/2026"
+   "data": "03/09/2026"
   }
  },
  "mensais": {
