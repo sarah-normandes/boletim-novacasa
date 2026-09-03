@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "03/09/2026 09:07",
+ "atualizado_em": "03/09/2026 12:05",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,22 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Artecola fortalece agenda ESG e amplia avanços em foco sustentável",
+   "data": "03/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A sustentabilidade vem ganhando cada vez mais espaço na estratégia da Artecola, com avanços em diferentes frentes da agenda ESG. As iniciativas desenvolvidas pela companhia refletem um movimento de melhoria contínua...",
+   "link": "http://www.revistaanamaco.com.br/artecola-fortalece-agenda-esg-e-amplia-avancos-em-foco-sustentavel-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Kohler anuncia fim da marca Fiori e quer reforçar segmentos premium e luxo",
+   "data": "03/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Kohler anuncia uma reformulação estratégica de sua operação no Brasil. A mudança inclui o fechamento da fábrica da empresa em Andradas (MG) e a descontinuação da marca Fiori como parte de uma estratégia para...",
+   "link": "http://www.revistaanamaco.com.br/kohler-anuncia-fim-da-marca-fiori-e-quer-reforcar-segmentos-premium-e-luxo-",
+   "aba": "geral"
   },
   {
    "titulo": "Com aporte de R$ 8 milhões, Comercial Maia amplia sua capacidade logística",
@@ -83,14 +99,6 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Liderança na Era da Convergência e a Construção de Legados com Propósito",
-   "data": "02/09/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. O alinhamento entre crescimento econômico e relevância social para transformar organizações em referências de longo prazo O post Liderança na Era da...",
-   "link": "https://forbes.com.br/carreira/2026/09/lideranca-na-era-da-convergencia-e-a-construcao-de-legados-com-proposito/",
-   "aba": "insumos"
-  },
-  {
    "titulo": "COIC debate oportunidades para construção industrial na Guiana e na Margem Equatorial",
    "data": "02/09/2026",
    "fonte": "CBIC",
@@ -121,14 +129,6 @@ window.DADOS = {
    "resumo": "O Índice de Confiança Empresarial, do FGV Ibre, recuou 0,5 ponto em agosto, passando a 91,1 pontos. Na métrica de médias móveis trimestrais, o índice passa a estar em tendência declinante pela primeira vez desde...",
    "link": "http://www.revistaanamaco.com.br/confianca-empresarial-recua-",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Prêmio Deca reconhece novos caminhos para a arquitetura e o design",
-   "data": "01/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Projetos que exploram a relação entre arquitetura, natureza, bem-estar e sustentabilidade foram os destaques da 29ª edição do Prêmio Deca, uma das principais premiações de arquitetura e design do País. O evento...",
-   "link": "http://www.revistaanamaco.com.br/premio-deca-reconhece-novos-caminhos-para-a-arquitetura-e-o-design",
-   "aba": "geral"
   }
  ],
  "diarios": {
