@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "03/09/2026 15:06",
+ "atualizado_em": "03/09/2026 19:54",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -75,12 +75,12 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Real Time Big Data: João Campos e Raquel Lyra empatam com 43% na disputa no PE",
+   "titulo": "Encontro CBIC de Incorporadores e Construtores reúne lideranças no Recife para discutir mercado, crédito e cenário econômico",
    "data": "03/09/2026",
-   "fonte": "InfoMoney",
-   "resumo": "Em uma eventual disputa de segundo turno, Campos e Raquel permanecem empatados com 44% cada The post Real Time Big Data: João Campos e Raquel Lyra empatam com 43% na disputa no PE appeared first on InfoMoney .",
-   "link": "https://www.infomoney.com.br/politica/real-time-big-data-joao-campos-e-raquel-lyra-empatam-com-43-na-disputa-no-pe/",
-   "aba": "geral"
+   "fonte": "CBIC",
+   "resumo": "O mercado imobiliário, as perspectivas de financiamento e os desafios para o crescimento do setor no Nordeste estarão no centro dos debates do Encontro CBIC de Incorporadores e Construtores Nordeste, que será...",
+   "link": "https://cbic.org.br/encontro-cbic-de-incorporadores-e-construtores-reune-liderancas-no-recife-para-discutir-mercado-credito-e-cenario-economico/",
+   "aba": "insumos"
   },
   {
    "titulo": "Setembro Amarelo: Seconci-DF promove acolhimento e cuidado com a saúde mental dos trabalhadores da construção",
@@ -89,14 +89,6 @@ window.DADOS = {
    "resumo": "Em um canteiro de obras, todos os dias começam cedo. Há o barulho das máquinas, o ritmo acelerado do trabalho, as metas a cumprir e uma rotina que exige atenção constante. Mas, por trás do capacete e do uniforme,...",
    "link": "https://cbic.org.br/setembro-amarelo-seconci-df-promove-acolhimento-e-cuidado-com-a-saude-mental-dos-trabalhadores-da-construcao/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Não há crise generalizada no varejo, diz Durigan",
-   "data": "03/09/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "O ministro da Fazenda, Dario Durigan, afirmou, nesta quinta-feira (3) em entrevista à TV Record, que o setor do varejo não vive uma crise. Pontuou, entretanto, que as taxas de juros pressionam o consumo. “Não há...",
-   "link": "https://www.moneytimes.com.br/nao-ha-crise-no-varejo-diz-durigan-lils/",
-   "aba": "custos"
   },
   {
    "titulo": "CCJ do Senado aprova fim da jornada 6x1",
@@ -128,6 +120,14 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "Romeu Martinelli é o novo CEO da Dryko Impermeabilizantes. O executivo possui 18 anos de experiência em gestão de empresas do setor de químicos para a construção civil, ingressou na companhia em 2025,como...",
    "link": "http://www.revistaanamaco.com.br/dryko-anuncia-romeu-martinelli-como-novo-ceo-da-empresa",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Em homenagem a funcionário, Andra batiza CD como Roberto Mancoso",
+   "data": "02/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "Em meio às celebrações de seus 50 anos de fundação em 2026, a Andra reuniu mais de 40 dos seus principais fornecedores e parceiros de negócios no CD, de Cajamar (SP), para realizar a nomeação oficial da estrutura,...",
+   "link": "http://www.revistaanamaco.com.br/em-homenagem-a-funcionario-andra-batiza-cd-como-roberto-mancoso",
    "aba": "geral"
   }
  ],
