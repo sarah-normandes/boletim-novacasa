@@ -1,14 +1,22 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "03/09/2026 19:54",
+ "atualizado_em": "04/09/2026 10:02",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "03/09/2026",
+   "data": "04/09/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Elgin e Sebrae-SP capacitam mulheres para o mercado de instalações elétricas",
+   "data": "04/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Elgin e o Sebrae-SP estão promovendo a primeira edição do projeto Se Liga Nelas, voltado à capacitação de mulheres em situação de vulnerabilidade em Mogi das Cruzes (SP) para ampliar suas possibilidades de geração...",
+   "link": "http://www.revistaanamaco.com.br/elgin-e-sebrae-sp-capacitam-mulheres-para-o-mercado-de-instalacoes-eletricas-",
+   "aba": "geral"
   },
   {
    "titulo": "Aspacer realiza campanha de conscientização sobre os riscos das apostas on-line",
@@ -64,14 +72,6 @@ window.DADOS = {
    "fonte": "Forbes",
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Uma nova IA do Google traduz a língua de sinais diretamente para texto, mas levanta desafios sobre acessibilidade, precisão e o papel dos...",
    "link": "https://forbes.com.br/forbes-tech/2026/09/construida-por-pessoas-surdas-para-pessoas-surdas-a-nova-tecnologia-do-google/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "As Bilionárias Brasileiras Que Construíram a Própria Fortuna",
-   "data": "03/09/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. De 50 super-ricas no país, apenas sete não herdaram seu patrimônio; juntas, elas acumulam R$ 39,1 bilhões O post As Bilionárias Brasileiras Que...",
-   "link": "https://forbes.com.br/forbes-mulher/2026/09/as-bilionarias-brasileiras-que-construiram-a-propria-fortuna/",
    "aba": "geral"
   },
   {
@@ -134,7 +134,7 @@ window.DADOS = {
  "diarios": {
   "selic": {
    "valor": 14.0,
-   "data": "03/09/2026"
+   "data": "04/09/2026"
   }
  },
  "mensais": {
