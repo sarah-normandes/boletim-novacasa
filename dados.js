@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "04/09/2026 14:56",
+ "atualizado_em": "04/09/2026 17:13",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -11,11 +11,83 @@ window.DADOS = {
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
-   "titulo": "Construída por Pessoas Surdas, para Pessoas Surdas: a Nova Tecnologia do Google",
+   "titulo": "Aperto no salário pode custar empregos",
+   "data": "04/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "Um novo estudo do Instituto Brasileiro de Executivos de Varejo & Mercado de Consumo - FIA Business School mapeou, de forma inédita, o caminho que liga a perda do poder de compra das famílias brasileiras ao...",
+   "link": "http://www.revistaanamaco.com.br/aperto-no-salario-pode-custar-empregos-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Absolar apresenta agenda de propostas para o próximo Governo Federal",
+   "data": "04/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Absolar acaba de apresentar uma agenda de propostas para o próximo Governo Federal, voltada a reduzir o desperdício de energia renovável, aumentar a flexibilidade e confiabilidade do sistema elétrico, ampliar o...",
+   "link": "http://www.revistaanamaco.com.br/absolar-apresenta-agenda-de-propostas-para-o-proximo-governo-federal-",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Elgin e Sebrae-SP capacitam mulheres para o mercado de instalações elétricas",
+   "data": "04/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Elgin e o Sebrae-SP estão promovendo a primeira edição do projeto Se Liga Nelas, voltado à capacitação de mulheres em situação de vulnerabilidade em Mogi das Cruzes (SP) para ampliar suas possibilidades de geração...",
+   "link": "http://www.revistaanamaco.com.br/elgin-e-sebrae-sp-capacitam-mulheres-para-o-mercado-de-instalacoes-eletricas-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "O Futuro da Minha Cidade: CBIC promove evento sobre sustentabilidade, inovação e novos métodos construtivos em Fortaleza",
+   "data": "04/09/2026",
+   "fonte": "CBIC",
+   "resumo": "Como a sustentabilidade, a inovação e os novos métodos construtivos podem contribuir para transformar as cidades? Esse será o ponto de partida do workshop “Construção do Amanhã: Sustentabilidade, Inovação e Novos...",
+   "link": "https://cbic.org.br/o-futuro-da-minha-cidade-cbic-promove-evento-sobre-sustentabilidade-inovacao-e-novos-metodos-construtivos-em-fortaleza/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Aspacer realiza campanha de conscientização sobre os riscos das apostas on-line",
    "data": "03/09/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Uma nova IA do Google traduz a língua de sinais diretamente para texto, mas levanta desafios sobre acessibilidade, precisão e o papel dos...",
-   "link": "https://forbes.com.br/forbes-tech/2026/09/construida-por-pessoas-surdas-para-pessoas-surdas-a-nova-tecnologia-do-google/",
+   "fonte": "Anamaco",
+   "resumo": "A Aspacer e seus parceiros estão iniciando uma campanha integrada de conscientização e prevenção aos problemas relacionados às apostas on-line. A iniciativa é voltada a trabalhadores, familiares, cooperados,...",
+   "link": "http://www.revistaanamaco.com.br/aspacer-realiza-campanha-de-conscientizacao-sobre-os-riscos-das-apostas-on-line-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Benjamin Steinbruch deixa a presidência da CSN. Fabio Schvartsman assume",
+   "data": "03/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A CSN escolheu o executivo Fabio Schvartsman para assumir a presidência executiva da companhia. Benjamin Steinbruch passará a exercer a presidência do Conselho de Administração, posição a partir da qual continuará...",
+   "link": "http://www.revistaanamaco.com.br/benjamin-steinbruch-deixa-a-presidencia-da-csn-fabio-schvartsman-assume-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Custos desaceleraram em agosto",
+   "data": "03/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "Após registrar alta de 0,45% em julho, o CUB global da indústria da construção paulista, nas obras não incluídas na desoneração da folha de pagamentos, desacelerou para 0,19% em agosto. Com isso, o indicador acumula...",
+   "link": "http://www.revistaanamaco.com.br/custos-desaceleraram-em-agosto",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Artecola fortalece agenda ESG e amplia avanços em foco sustentável",
+   "data": "03/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A sustentabilidade vem ganhando cada vez mais espaço na estratégia da Artecola, com avanços em diferentes frentes da agenda ESG. As iniciativas desenvolvidas pela companhia refletem um movimento de melhoria contínua...",
+   "link": "http://www.revistaanamaco.com.br/artecola-fortalece-agenda-esg-e-amplia-avancos-em-foco-sustentavel-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Kohler anuncia fim da marca Fiori e quer reforçar segmentos premium e luxo",
+   "data": "03/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Kohler anuncia uma reformulação estratégica de sua operação no Brasil. A mudança inclui o fechamento da fábrica da empresa em Andradas (MG) e a descontinuação da marca Fiori como parte de uma estratégia para...",
+   "link": "http://www.revistaanamaco.com.br/kohler-anuncia-fim-da-marca-fiori-e-quer-reforcar-segmentos-premium-e-luxo-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Com aporte de R$ 8 milhões, Comercial Maia amplia sua capacidade logística",
+   "data": "03/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Comercial Maia ampliou seu Centro de Distribuição, em Maracanaú (CE), em um investimento de, aproximadamente, R$ 8 milhões voltado ao aumento da capacidade operacional da empresa. Com a nova estrutura, a área...",
+   "link": "http://www.revistaanamaco.com.br/com-aporte-de-r-8-milhoes-comercial-maia-amplia-sua-capacidade-logistica-",
    "aba": "geral"
   },
   {
@@ -35,35 +107,27 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "COIC debate oportunidades para construção industrial na Guiana e na Margem Equatorial",
+   "titulo": "CCJ do Senado aprova fim da jornada 6x1",
    "data": "02/09/2026",
-   "fonte": "CBIC",
-   "resumo": "Explorar novas possibilidades de negócios para o setor da construção, tanto além das fronteiras brasileiras quanto no litoral do país, foi o tema da 62ª Reunião Ordinária da Comissão de Obras Industriais da Câmara...",
-   "link": "https://cbic.org.br/coic-debate-oportunidades-para-construcao-industrial-na-guiana-e-na-margem-equatorial/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Programa Trilhas Profissionais da Construção é lançado pelo SindusCon-SP",
-   "data": "02/09/2026",
-   "fonte": "CBIC",
-   "resumo": "Em evento no Salão Nobre da Fiesp, foi lançado em 2 de setembro o programa Trilhas Profissionais da Construção, uma iniciativa de SindusCon-SP, Senai-SP, Sintracon-SP e Feticom-SP. O evento contou com as presenças de...",
-   "link": "https://cbic.org.br/programa-trilhas-profissionais-da-construcao-e-lancado-pelo-sinduscon-sp/",
+   "fonte": "Anamaco",
+   "resumo": "A Comissão de Constituição e Justiça do Senado aprovou, hoje, por votação simbólica, a proposta de emenda à Constituição (PEC) que propõe fim à jornada de seis dias de trabalho por um de descanso (6 x 1). A matéria...",
+   "link": "http://www.revistaanamaco.com.br/ccj-do-senado-aprova-fim-da-jornada-6x1",
    "aba": "geral"
   },
   {
-   "titulo": "Feira de construção e infraestrutura reúne 450 expositores e mais de 26 mil visitantes em São Paulo",
-   "data": "31/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "Em sua 17ª edição, a Concrete Show South America ocorreu entre os dias 25 e 27 de agosto, no São Paulo Expo. Um dos principais O post Feira de construção e infraestrutura reúne 450 expositores e mais de 26 mil...",
-   "link": "https://revistaoe.com.br/feira-de-construcao-e-infraestrutura-26-mil-visitantes/",
+   "titulo": "Famastil investe em tecnologia e automação para elevar a produção industrial",
+   "data": "02/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Famastil vem ampliando sua capacidade produtiva e modernizando seus processos industriais. A marca acompanha a evolução do mercado por meio de novas tecnologias e ganhos de eficiência, fortalecendo sua atuação nos...",
+   "link": "http://www.revistaanamaco.com.br/famastil-investe-em-tecnologia-e-automacao-para-elevar-a-producao-industrial-",
    "aba": "geral"
   },
   {
-   "titulo": "DNIT inicia obras de dragagem de manutenção em quatro trechos hidroviários do Amazonas",
-   "data": "31/08/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "Departamento Nacional de Infraestrutura de Transportes DNIT iniciará, na primeira quinzena de setembro, obras de dragagem de manutenção em quatro trechos hidroviários do Amazonas. As O post DNIT inicia obras de...",
-   "link": "https://revistaoe.com.br/dragagem-no-amazonas-quatro-trechos-hidroviarios/",
+   "titulo": "Incerteza com o trabalho e inadimplência derrubaram intenção de consumo",
+   "data": "02/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Intenção de Consumo das Famílias, apurada pela CNC, recuou 0,6% em agosto, na comparação dessazonalizada com julho, atingindo 104,9 pontos.\r\nA retração do indicador foi liderada pela forte deterioração da percepção...",
+   "link": "http://www.revistaanamaco.com.br/incerteza-com-o-trabalho-e-inadimplencia-derrubaram-intencao-de-consumo-",
    "aba": "demanda"
   }
  ],
