@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "04/09/2026 17:13",
+ "atualizado_em": "04/09/2026 19:40",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -35,12 +35,28 @@ window.DADOS = {
    "aba": "geral"
   },
   {
+   "titulo": "BB, Caixa e cooperativas firmam acordo para tokenizar crédito imobiliário",
+   "data": "04/09/2026",
+   "fonte": "InfoMoney",
+   "resumo": "Testes estão previstos para começar em março do ano que vem e devem garantir a interoperabilidade entre os participantes The post BB, Caixa e cooperativas firmam acordo para tokenizar crédito imobiliário appeared...",
+   "link": "https://www.infomoney.com.br/business/bb-caixa-e-cooperativas-firmam-acordo-para-tokenizar-credito-imobiliario/",
+   "aba": "demanda"
+  },
+  {
    "titulo": "O Futuro da Minha Cidade: CBIC promove evento sobre sustentabilidade, inovação e novos métodos construtivos em Fortaleza",
    "data": "04/09/2026",
    "fonte": "CBIC",
    "resumo": "Como a sustentabilidade, a inovação e os novos métodos construtivos podem contribuir para transformar as cidades? Esse será o ponto de partida do workshop “Construção do Amanhã: Sustentabilidade, Inovação e Novos...",
    "link": "https://cbic.org.br/o-futuro-da-minha-cidade-cbic-promove-evento-sobre-sustentabilidade-inovacao-e-novos-metodos-construtivos-em-fortaleza/",
    "aba": "geral"
+  },
+  {
+   "titulo": "Itaú BBA substitui varejo pelo agro nas small caps; confira as três modificações",
+   "data": "04/09/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "A carteira de small caps do Itaú BBA para setembro de 2026 abriu os braços para três novas ações. O BBA incluiu a SLC Agrícola (SLCE3) e a Irani (RANI3), substituindo a C&A (CEAB3) e o Grupo SBF (SBFG3). As mudanças...",
+   "link": "https://www.moneytimes.com.br/itau-bba-substitui-varejo-pelo-agro-nas-small-caps-confira-apsa/",
+   "aba": "insumos"
   },
   {
    "titulo": "Aspacer realiza campanha de conscientização sobre os riscos das apostas on-line",
@@ -113,22 +129,6 @@ window.DADOS = {
    "resumo": "A Comissão de Constituição e Justiça do Senado aprovou, hoje, por votação simbólica, a proposta de emenda à Constituição (PEC) que propõe fim à jornada de seis dias de trabalho por um de descanso (6 x 1). A matéria...",
    "link": "http://www.revistaanamaco.com.br/ccj-do-senado-aprova-fim-da-jornada-6x1",
    "aba": "geral"
-  },
-  {
-   "titulo": "Famastil investe em tecnologia e automação para elevar a produção industrial",
-   "data": "02/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Famastil vem ampliando sua capacidade produtiva e modernizando seus processos industriais. A marca acompanha a evolução do mercado por meio de novas tecnologias e ganhos de eficiência, fortalecendo sua atuação nos...",
-   "link": "http://www.revistaanamaco.com.br/famastil-investe-em-tecnologia-e-automacao-para-elevar-a-producao-industrial-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Incerteza com o trabalho e inadimplência derrubaram intenção de consumo",
-   "data": "02/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Intenção de Consumo das Famílias, apurada pela CNC, recuou 0,6% em agosto, na comparação dessazonalizada com julho, atingindo 104,9 pontos.\r\nA retração do indicador foi liderada pela forte deterioração da percepção...",
-   "link": "http://www.revistaanamaco.com.br/incerteza-com-o-trabalho-e-inadimplencia-derrubaram-intencao-de-consumo-",
-   "aba": "demanda"
   }
  ],
  "diarios": {
