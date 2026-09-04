@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "04/09/2026 10:02",
+ "atualizado_em": "04/09/2026 14:56",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,62 +9,6 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
-  },
-  {
-   "titulo": "Elgin e Sebrae-SP capacitam mulheres para o mercado de instalações elétricas",
-   "data": "04/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Elgin e o Sebrae-SP estão promovendo a primeira edição do projeto Se Liga Nelas, voltado à capacitação de mulheres em situação de vulnerabilidade em Mogi das Cruzes (SP) para ampliar suas possibilidades de geração...",
-   "link": "http://www.revistaanamaco.com.br/elgin-e-sebrae-sp-capacitam-mulheres-para-o-mercado-de-instalacoes-eletricas-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Aspacer realiza campanha de conscientização sobre os riscos das apostas on-line",
-   "data": "03/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Aspacer e seus parceiros estão iniciando uma campanha integrada de conscientização e prevenção aos problemas relacionados às apostas on-line. A iniciativa é voltada a trabalhadores, familiares, cooperados,...",
-   "link": "http://www.revistaanamaco.com.br/aspacer-realiza-campanha-de-conscientizacao-sobre-os-riscos-das-apostas-on-line-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Benjamin Steinbruch deixa a presidência da CSN. Fabio Schvartsman assume",
-   "data": "03/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A CSN escolheu o executivo Fabio Schvartsman para assumir a presidência executiva da companhia. Benjamin Steinbruch passará a exercer a presidência do Conselho de Administração, posição a partir da qual continuará...",
-   "link": "http://www.revistaanamaco.com.br/benjamin-steinbruch-deixa-a-presidencia-da-csn-fabio-schvartsman-assume-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Custos desaceleraram em agosto",
-   "data": "03/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Após registrar alta de 0,45% em julho, o CUB global da indústria da construção paulista, nas obras não incluídas na desoneração da folha de pagamentos, desacelerou para 0,19% em agosto. Com isso, o indicador acumula...",
-   "link": "http://www.revistaanamaco.com.br/custos-desaceleraram-em-agosto",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Artecola fortalece agenda ESG e amplia avanços em foco sustentável",
-   "data": "03/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A sustentabilidade vem ganhando cada vez mais espaço na estratégia da Artecola, com avanços em diferentes frentes da agenda ESG. As iniciativas desenvolvidas pela companhia refletem um movimento de melhoria contínua...",
-   "link": "http://www.revistaanamaco.com.br/artecola-fortalece-agenda-esg-e-amplia-avancos-em-foco-sustentavel-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Kohler anuncia fim da marca Fiori e quer reforçar segmentos premium e luxo",
-   "data": "03/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Kohler anuncia uma reformulação estratégica de sua operação no Brasil. A mudança inclui o fechamento da fábrica da empresa em Andradas (MG) e a descontinuação da marca Fiori como parte de uma estratégia para...",
-   "link": "http://www.revistaanamaco.com.br/kohler-anuncia-fim-da-marca-fiori-e-quer-reforcar-segmentos-premium-e-luxo-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Com aporte de R$ 8 milhões, Comercial Maia amplia sua capacidade logística",
-   "data": "03/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Comercial Maia ampliou seu Centro de Distribuição, em Maracanaú (CE), em um investimento de, aproximadamente, R$ 8 milhões voltado ao aumento da capacidade operacional da empresa. Com a nova estrutura, a área...",
-   "link": "http://www.revistaanamaco.com.br/com-aporte-de-r-8-milhoes-comercial-maia-amplia-sua-capacidade-logistica-",
-   "aba": "geral"
   },
   {
    "titulo": "Construída por Pessoas Surdas, para Pessoas Surdas: a Nova Tecnologia do Google",
@@ -91,44 +35,36 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "CCJ do Senado aprova fim da jornada 6x1",
+   "titulo": "COIC debate oportunidades para construção industrial na Guiana e na Margem Equatorial",
    "data": "02/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Comissão de Constituição e Justiça do Senado aprovou, hoje, por votação simbólica, a proposta de emenda à Constituição (PEC) que propõe fim à jornada de seis dias de trabalho por um de descanso (6 x 1). A matéria...",
-   "link": "http://www.revistaanamaco.com.br/ccj-do-senado-aprova-fim-da-jornada-6x1",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Famastil investe em tecnologia e automação para elevar a produção industrial",
-   "data": "02/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Famastil vem ampliando sua capacidade produtiva e modernizando seus processos industriais. A marca acompanha a evolução do mercado por meio de novas tecnologias e ganhos de eficiência, fortalecendo sua atuação nos...",
-   "link": "http://www.revistaanamaco.com.br/famastil-investe-em-tecnologia-e-automacao-para-elevar-a-producao-industrial-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Incerteza com o trabalho e inadimplência derrubaram intenção de consumo",
-   "data": "02/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Intenção de Consumo das Famílias, apurada pela CNC, recuou 0,6% em agosto, na comparação dessazonalizada com julho, atingindo 104,9 pontos.\r\nA retração do indicador foi liderada pela forte deterioração da percepção...",
-   "link": "http://www.revistaanamaco.com.br/incerteza-com-o-trabalho-e-inadimplencia-derrubaram-intencao-de-consumo-",
+   "fonte": "CBIC",
+   "resumo": "Explorar novas possibilidades de negócios para o setor da construção, tanto além das fronteiras brasileiras quanto no litoral do país, foi o tema da 62ª Reunião Ordinária da Comissão de Obras Industriais da Câmara...",
+   "link": "https://cbic.org.br/coic-debate-oportunidades-para-construcao-industrial-na-guiana-e-na-margem-equatorial/",
    "aba": "demanda"
   },
   {
-   "titulo": "Dryko anuncia Romeu Martinelli como novo CEO da empresa",
+   "titulo": "Programa Trilhas Profissionais da Construção é lançado pelo SindusCon-SP",
    "data": "02/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Romeu Martinelli é o novo CEO da Dryko Impermeabilizantes. O executivo possui 18 anos de experiência em gestão de empresas do setor de químicos para a construção civil, ingressou na companhia em 2025,como...",
-   "link": "http://www.revistaanamaco.com.br/dryko-anuncia-romeu-martinelli-como-novo-ceo-da-empresa",
+   "fonte": "CBIC",
+   "resumo": "Em evento no Salão Nobre da Fiesp, foi lançado em 2 de setembro o programa Trilhas Profissionais da Construção, uma iniciativa de SindusCon-SP, Senai-SP, Sintracon-SP e Feticom-SP. O evento contou com as presenças de...",
+   "link": "https://cbic.org.br/programa-trilhas-profissionais-da-construcao-e-lancado-pelo-sinduscon-sp/",
    "aba": "geral"
   },
   {
-   "titulo": "Em homenagem a funcionário, Andra batiza CD como Roberto Mancoso",
-   "data": "02/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Em meio às celebrações de seus 50 anos de fundação em 2026, a Andra reuniu mais de 40 dos seus principais fornecedores e parceiros de negócios no CD, de Cajamar (SP), para realizar a nomeação oficial da estrutura,...",
-   "link": "http://www.revistaanamaco.com.br/em-homenagem-a-funcionario-andra-batiza-cd-como-roberto-mancoso",
+   "titulo": "Feira de construção e infraestrutura reúne 450 expositores e mais de 26 mil visitantes em São Paulo",
+   "data": "31/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "Em sua 17ª edição, a Concrete Show South America ocorreu entre os dias 25 e 27 de agosto, no São Paulo Expo. Um dos principais O post Feira de construção e infraestrutura reúne 450 expositores e mais de 26 mil...",
+   "link": "https://revistaoe.com.br/feira-de-construcao-e-infraestrutura-26-mil-visitantes/",
    "aba": "geral"
+  },
+  {
+   "titulo": "DNIT inicia obras de dragagem de manutenção em quatro trechos hidroviários do Amazonas",
+   "data": "31/08/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "Departamento Nacional de Infraestrutura de Transportes DNIT iniciará, na primeira quinzena de setembro, obras de dragagem de manutenção em quatro trechos hidroviários do Amazonas. As O post DNIT inicia obras de...",
+   "link": "https://revistaoe.com.br/dragagem-no-amazonas-quatro-trechos-hidroviarios/",
+   "aba": "demanda"
   }
  ],
  "diarios": {
