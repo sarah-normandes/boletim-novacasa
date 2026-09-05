@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "05/09/2026 09:14",
+ "atualizado_em": "05/09/2026 14:02",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Pesquisa analisa possíveis efeitos da mudança na jornada de trabalho",
+   "data": "05/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Brasil pode levar de 17 a 30 anos para acumular o ganho de produtividade necessário para compensar uma eventual redução da jornada semanal de trabalho para 40 horas, associada à alteração da escala 6x1. A...",
+   "link": "http://www.revistaanamaco.com.br/pesquisa-analisa-possiveis-efeitos-da-mudanca-na-jornada-de-trabalho",
+   "aba": "geral"
   },
   {
    "titulo": "ArcelorMittal conquista Prêmio Qualidade Sinaprocim/Sinprocin 2026",
@@ -49,14 +57,6 @@ window.DADOS = {
    "resumo": "Como a sustentabilidade, a inovação e os novos métodos construtivos podem contribuir para transformar as cidades? Esse será o ponto de partida do workshop “Construção do Amanhã: Sustentabilidade, Inovação e Novos...",
    "link": "https://cbic.org.br/o-futuro-da-minha-cidade-cbic-promove-evento-sobre-sustentabilidade-inovacao-e-novos-metodos-construtivos-em-fortaleza/",
    "aba": "geral"
-  },
-  {
-   "titulo": "Itaú BBA substitui varejo pelo agro nas small caps; confira as três modificações",
-   "data": "04/09/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "A carteira de small caps do Itaú BBA para setembro de 2026 abriu os braços para três novas ações. O BBA incluiu a SLC Agrícola (SLCE3) e a Irani (RANI3), substituindo a C&A (CEAB3) e o Grupo SBF (SBFG3). As mudanças...",
-   "link": "https://www.moneytimes.com.br/itau-bba-substitui-varejo-pelo-agro-nas-small-caps-confira-apsa/",
-   "aba": "insumos"
   },
   {
    "titulo": "Aspacer realiza campanha de conscientização sobre os riscos das apostas on-line",
