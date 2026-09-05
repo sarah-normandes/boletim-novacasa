@@ -1,14 +1,22 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "04/09/2026 19:40",
+ "atualizado_em": "05/09/2026 09:14",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "04/09/2026",
+   "data": "05/09/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "ArcelorMittal conquista Prêmio Qualidade Sinaprocim/Sinprocin 2026",
+   "data": "05/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A ArcelorMittal conquistou o Prêmio Qualidade Sinaprocim/Sinprocin 2026, um dos mais importantes da indústria da construção civil no Brasil, e foi reconhecida em duas categorias",
+   "link": "http://www.revistaanamaco.com.br/arcelormittal-conquista-premio-qualidade-sinaprocim-sinprocin-2026",
+   "aba": "geral"
   },
   {
    "titulo": "Aperto no salário pode custar empregos",
@@ -33,14 +41,6 @@ window.DADOS = {
    "resumo": "A Elgin e o Sebrae-SP estão promovendo a primeira edição do projeto Se Liga Nelas, voltado à capacitação de mulheres em situação de vulnerabilidade em Mogi das Cruzes (SP) para ampliar suas possibilidades de geração...",
    "link": "http://www.revistaanamaco.com.br/elgin-e-sebrae-sp-capacitam-mulheres-para-o-mercado-de-instalacoes-eletricas-",
    "aba": "geral"
-  },
-  {
-   "titulo": "BB, Caixa e cooperativas firmam acordo para tokenizar crédito imobiliário",
-   "data": "04/09/2026",
-   "fonte": "InfoMoney",
-   "resumo": "Testes estão previstos para começar em março do ano que vem e devem garantir a interoperabilidade entre os participantes The post BB, Caixa e cooperativas firmam acordo para tokenizar crédito imobiliário appeared...",
-   "link": "https://www.infomoney.com.br/business/bb-caixa-e-cooperativas-firmam-acordo-para-tokenizar-credito-imobiliario/",
-   "aba": "demanda"
   },
   {
    "titulo": "O Futuro da Minha Cidade: CBIC promove evento sobre sustentabilidade, inovação e novos métodos construtivos em Fortaleza",
@@ -134,7 +134,7 @@ window.DADOS = {
  "diarios": {
   "selic": {
    "valor": 14.0,
-   "data": "04/09/2026"
+   "data": "05/09/2026"
   }
  },
  "mensais": {
