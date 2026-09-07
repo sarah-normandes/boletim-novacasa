@@ -1,14 +1,54 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "05/09/2026 19:32",
+ "atualizado_em": "07/09/2026 11:38",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "05/09/2026",
+   "data": "07/09/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Eternit projeta que EliteMov responda por 50% de suas cargas até o fim de 2026",
+   "data": "07/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Eternit prepara uma nova etapa de expansão da EliteMov, sua unidade de negócios dedicada a serviços de transporte e soluções logísticas integradas. Em operação desde 2025, é responsável, atualmente, por cerca de...",
+   "link": "http://www.revistaanamaco.com.br/eternit-projeta-que-elitemov-responda-por-50-de-suas-cargas-ate-o-fim-de-2026-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Com investimento de R$ 50 milhões, Santri vai inaugurar nova sede em Goiânia",
+   "data": "07/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Santri inaugura, no próximo dia 26 de setembro, uma nova sede em Goiânia (GO), com investimento superior a R$ 50 milhões. O novo espaço possui mais de 8 mil m² de área construída e foi projetado para acompanhar a...",
+   "link": "http://www.revistaanamaco.com.br/com-investimento-de-r-50-milhoes-santri-vai-inaugurar-nova-sede-em-goiania-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Empresas de Tecnologia Olham para a Patagônia Argentina para Construir Data Centers",
+   "data": "07/09/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Investidores são atraídos pelas temperaturas baixas na região, pela energia renovável, pelo gás de xisto e pelas vastas áreas de terra desocupadas O...",
+   "link": "https://forbes.com.br/forbes-tech/2026/09/empresas-de-tecnologia-olham-para-a-patagonia-argentina-para-construir-data-centers/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Inspirada na esmeralda, Lukscolor elege o Redon como a Cor do Ano 2027",
+   "data": "06/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Lukscolor apresenta a LKS 0315 - Redon como sua Cor do Ano 2027. Inspirado na sofisticação da esmeralda, o verde profundo traduz um olhar para os ambientes como espaços em constante evolução, construídos por...",
+   "link": "http://www.revistaanamaco.com.br/inspirada-na-esmeralda-lukscolor-elege-o-redon-como-a-cor-do-ano-2027-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "InterCement Brasil conquista Selo Ouro do Programa Brasileiro GHG Protocol",
+   "data": "06/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A InterCement Brasil recebeu o Selo Ouro no Programa Brasileiro GHG Protocol. Ele é composto por três categorias e, para atingir a classificação mais alta do protocolo, é preciso apresentar inventário completo das...",
+   "link": "http://www.revistaanamaco.com.br/intercement-brasil-conquista-selo-ouro-do-programa-brasileiro-ghg-protocol-",
+   "aba": "geral"
   },
   {
    "titulo": "Pesquisa analisa possíveis efeitos da mudança na jornada de trabalho",
@@ -83,58 +123,18 @@ window.DADOS = {
    "aba": "custos"
   },
   {
-   "titulo": "Artecola fortalece agenda ESG e amplia avanços em foco sustentável",
-   "data": "03/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A sustentabilidade vem ganhando cada vez mais espaço na estratégia da Artecola, com avanços em diferentes frentes da agenda ESG. As iniciativas desenvolvidas pela companhia refletem um movimento de melhoria contínua...",
-   "link": "http://www.revistaanamaco.com.br/artecola-fortalece-agenda-esg-e-amplia-avancos-em-foco-sustentavel-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Kohler anuncia fim da marca Fiori e quer reforçar segmentos premium e luxo",
-   "data": "03/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Kohler anuncia uma reformulação estratégica de sua operação no Brasil. A mudança inclui o fechamento da fábrica da empresa em Andradas (MG) e a descontinuação da marca Fiori como parte de uma estratégia para...",
-   "link": "http://www.revistaanamaco.com.br/kohler-anuncia-fim-da-marca-fiori-e-quer-reforcar-segmentos-premium-e-luxo-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Com aporte de R$ 8 milhões, Comercial Maia amplia sua capacidade logística",
-   "data": "03/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Comercial Maia ampliou seu Centro de Distribuição, em Maracanaú (CE), em um investimento de, aproximadamente, R$ 8 milhões voltado ao aumento da capacidade operacional da empresa. Com a nova estrutura, a área...",
-   "link": "http://www.revistaanamaco.com.br/com-aporte-de-r-8-milhoes-comercial-maia-amplia-sua-capacidade-logistica-",
-   "aba": "geral"
-  },
-  {
    "titulo": "Encontro CBIC de Incorporadores e Construtores reúne lideranças no Recife para discutir mercado, crédito e cenário econômico",
    "data": "03/09/2026",
    "fonte": "CBIC",
    "resumo": "O mercado imobiliário, as perspectivas de financiamento e os desafios para o crescimento do setor no Nordeste estarão no centro dos debates do Encontro CBIC de Incorporadores e Construtores Nordeste, que será...",
    "link": "https://cbic.org.br/encontro-cbic-de-incorporadores-e-construtores-reune-liderancas-no-recife-para-discutir-mercado-credito-e-cenario-economico/",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Setembro Amarelo: Seconci-DF promove acolhimento e cuidado com a saúde mental dos trabalhadores da construção",
-   "data": "03/09/2026",
-   "fonte": "CBIC",
-   "resumo": "Em um canteiro de obras, todos os dias começam cedo. Há o barulho das máquinas, o ritmo acelerado do trabalho, as metas a cumprir e uma rotina que exige atenção constante. Mas, por trás do capacete e do uniforme,...",
-   "link": "https://cbic.org.br/setembro-amarelo-seconci-df-promove-acolhimento-e-cuidado-com-a-saude-mental-dos-trabalhadores-da-construcao/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "CCJ do Senado aprova fim da jornada 6x1",
-   "data": "02/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Comissão de Constituição e Justiça do Senado aprovou, hoje, por votação simbólica, a proposta de emenda à Constituição (PEC) que propõe fim à jornada de seis dias de trabalho por um de descanso (6 x 1). A matéria...",
-   "link": "http://www.revistaanamaco.com.br/ccj-do-senado-aprova-fim-da-jornada-6x1",
-   "aba": "geral"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 14.0,
-   "data": "05/09/2026"
+   "data": "07/09/2026"
   }
  },
  "mensais": {
