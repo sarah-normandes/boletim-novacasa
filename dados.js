@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "07/09/2026 11:38",
+ "atualizado_em": "07/09/2026 15:56",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Relato Integrado da Eucatex une sustentabilidade e crescimento financeiro",
+   "data": "07/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Eucatex anuncia a publicação de seu Relato Integrado 2025. O documento consolida um salto de maturidade na estratégia de sustentabilidade da companhia, marcado pela adoção inédita da dupla materialidade",
+   "link": "http://www.revistaanamaco.com.br/relato-integrado-da-eucatex-une-sustentabilidade-e-crescimento-financeiro-",
+   "aba": "insumos"
   },
   {
    "titulo": "Eternit projeta que EliteMov responda por 50% de suas cargas até o fim de 2026",
@@ -113,14 +121,6 @@ window.DADOS = {
    "resumo": "A CSN escolheu o executivo Fabio Schvartsman para assumir a presidência executiva da companhia. Benjamin Steinbruch passará a exercer a presidência do Conselho de Administração, posição a partir da qual continuará...",
    "link": "http://www.revistaanamaco.com.br/benjamin-steinbruch-deixa-a-presidencia-da-csn-fabio-schvartsman-assume-",
    "aba": "geral"
-  },
-  {
-   "titulo": "Custos desaceleraram em agosto",
-   "data": "03/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Após registrar alta de 0,45% em julho, o CUB global da indústria da construção paulista, nas obras não incluídas na desoneração da folha de pagamentos, desacelerou para 0,19% em agosto. Com isso, o indicador acumula...",
-   "link": "http://www.revistaanamaco.com.br/custos-desaceleraram-em-agosto",
-   "aba": "custos"
   },
   {
    "titulo": "Encontro CBIC de Incorporadores e Construtores reúne lideranças no Recife para discutir mercado, crédito e cenário econômico",
