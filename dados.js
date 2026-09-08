@@ -1,14 +1,22 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "07/09/2026 20:12",
+ "atualizado_em": "08/09/2026 10:12",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "07/09/2026",
+   "data": "08/09/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Tintas Iquine apoia capacitação para pintores em parceria com Sitivesp e Senai",
+   "data": "08/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Sitivesp, em parceria com o Senai de São Paulo, realizou a aula inaugural da terceira turma do curso profissionalizante de Pintura Imobiliária. A Tintas Iquine é uma das apoiadoras oficiais da iniciativa, que visa...",
+   "link": "http://www.revistaanamaco.com.br/tintas-iquine-apoia-capacitacao-para-pintores-em-parceria-com-sitivesp-e-senai--",
+   "aba": "insumos"
   },
   {
    "titulo": "Relato Integrado da Eucatex une sustentabilidade e crescimento financeiro",
@@ -25,22 +33,6 @@ window.DADOS = {
    "resumo": "A Eternit prepara uma nova etapa de expansão da EliteMov, sua unidade de negócios dedicada a serviços de transporte e soluções logísticas integradas. Em operação desde 2025, é responsável, atualmente, por cerca de...",
    "link": "http://www.revistaanamaco.com.br/eternit-projeta-que-elitemov-responda-por-50-de-suas-cargas-ate-o-fim-de-2026-",
    "aba": "geral"
-  },
-  {
-   "titulo": "Com investimento de R$ 50 milhões, Santri vai inaugurar nova sede em Goiânia",
-   "data": "07/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Santri inaugura, no próximo dia 26 de setembro, uma nova sede em Goiânia (GO), com investimento superior a R$ 50 milhões. O novo espaço possui mais de 8 mil m² de área construída e foi projetado para acompanhar a...",
-   "link": "http://www.revistaanamaco.com.br/com-investimento-de-r-50-milhoes-santri-vai-inaugurar-nova-sede-em-goiania-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Empresas de Tecnologia Olham para a Patagônia Argentina para Construir Data Centers",
-   "data": "07/09/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Investidores são atraídos pelas temperaturas baixas na região, pela energia renovável, pelo gás de xisto e pelas vastas áreas de terra desocupadas O...",
-   "link": "https://forbes.com.br/forbes-tech/2026/09/empresas-de-tecnologia-olham-para-a-patagonia-argentina-para-construir-data-centers/",
-   "aba": "custos"
   },
   {
    "titulo": "Inspirada na esmeralda, Lukscolor elege o Redon como a Cor do Ano 2027",
@@ -129,12 +121,20 @@ window.DADOS = {
    "resumo": "O mercado imobiliário, as perspectivas de financiamento e os desafios para o crescimento do setor no Nordeste estarão no centro dos debates do Encontro CBIC de Incorporadores e Construtores Nordeste, que será...",
    "link": "https://cbic.org.br/encontro-cbic-de-incorporadores-e-construtores-reune-liderancas-no-recife-para-discutir-mercado-credito-e-cenario-economico/",
    "aba": "insumos"
+  },
+  {
+   "titulo": "Setembro Amarelo: Seconci-DF promove acolhimento e cuidado com a saúde mental dos trabalhadores da construção",
+   "data": "03/09/2026",
+   "fonte": "CBIC",
+   "resumo": "Em um canteiro de obras, todos os dias começam cedo. Há o barulho das máquinas, o ritmo acelerado do trabalho, as metas a cumprir e uma rotina que exige atenção constante. Mas, por trás do capacete e do uniforme,...",
+   "link": "https://cbic.org.br/setembro-amarelo-seconci-df-promove-acolhimento-e-cuidado-com-a-saude-mental-dos-trabalhadores-da-construcao/",
+   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 14.0,
-   "data": "07/09/2026"
+   "data": "08/09/2026"
   }
  },
  "mensais": {
