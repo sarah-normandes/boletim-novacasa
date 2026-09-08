@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "08/09/2026 10:12",
+ "atualizado_em": "08/09/2026 15:13",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -11,12 +11,44 @@ window.DADOS = {
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
+   "titulo": "Boas projeções para o varejo restrito",
+   "data": "08/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Instituto de Economia Gastão Vidigal da Associação Comercial de São Paulo espera crescimento de 2,1% nas vendas do comércio varejista brasileiro em 2026. A projeção cobre o chamado \"varejo restrito\", categoria que...",
+   "link": "http://www.revistaanamaco.com.br/boas-projecoes-para-o-varejo-restrito",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Otimismo em queda",
+   "data": "08/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "O otimismo do varejista brasileiro está no menor patamar do ano e em tendência de queda (considerando o ajuste sazonal), de acordo com o Índice de Confiança do Empresário do Comércio, apurado, mensalmente, pela CNC",
+   "link": "http://www.revistaanamaco.com.br/otimismo-em-queda",
+   "aba": "demanda"
+  },
+  {
    "titulo": "Tintas Iquine apoia capacitação para pintores em parceria com Sitivesp e Senai",
    "data": "08/09/2026",
    "fonte": "Anamaco",
    "resumo": "O Sitivesp, em parceria com o Senai de São Paulo, realizou a aula inaugural da terceira turma do curso profissionalizante de Pintura Imobiliária. A Tintas Iquine é uma das apoiadoras oficiais da iniciativa, que visa...",
    "link": "http://www.revistaanamaco.com.br/tintas-iquine-apoia-capacitacao-para-pintores-em-parceria-com-sitivesp-e-senai--",
    "aba": "insumos"
+  },
+  {
+   "titulo": "Projeto Imobiliário Da Altius Group Conecta Patrimônio Histórico E Inovação Corporativa À Beira-Mar Em Montevidéu",
+   "data": "08/09/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Os empreendimentos Bilú Riviera e Smart Riviera consolidam um endereço exclusivo em Montevidéu unindo moradia com vista para o mar e escritórios...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/projeto-imobiliario-da-altius-group-conecta-patrimonio-historico-e-inovacao-corporativa-a-beira-mar-em-montevideu/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Seconci-DF: dia Mundial da Alfabetização destaca desafio de levar educação a trabalhadores da construção",
+   "data": "08/09/2026",
+   "fonte": "CBIC",
+   "resumo": "Seconci-DF mantém programa que oferece aulas dentro dos canteiros e aproxima o ensino da realidade dos profissionais. Para quem passa o dia no canteiro de obras, voltar à sala de aula pode parecer um desafio...",
+   "link": "https://cbic.org.br/seconci-df-dia-mundial-da-alfabetizacao-destaca-desafio-de-levar-educacao-a-trabalhadores-da-construcao/",
+   "aba": "demanda"
   },
   {
    "titulo": "Relato Integrado da Eucatex une sustentabilidade e crescimento financeiro",
@@ -97,44 +129,16 @@ window.DADOS = {
    "resumo": "Como a sustentabilidade, a inovação e os novos métodos construtivos podem contribuir para transformar as cidades? Esse será o ponto de partida do workshop “Construção do Amanhã: Sustentabilidade, Inovação e Novos...",
    "link": "https://cbic.org.br/o-futuro-da-minha-cidade-cbic-promove-evento-sobre-sustentabilidade-inovacao-e-novos-metodos-construtivos-em-fortaleza/",
    "aba": "geral"
-  },
-  {
-   "titulo": "Aspacer realiza campanha de conscientização sobre os riscos das apostas on-line",
-   "data": "03/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Aspacer e seus parceiros estão iniciando uma campanha integrada de conscientização e prevenção aos problemas relacionados às apostas on-line. A iniciativa é voltada a trabalhadores, familiares, cooperados,...",
-   "link": "http://www.revistaanamaco.com.br/aspacer-realiza-campanha-de-conscientizacao-sobre-os-riscos-das-apostas-on-line-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Benjamin Steinbruch deixa a presidência da CSN. Fabio Schvartsman assume",
-   "data": "03/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A CSN escolheu o executivo Fabio Schvartsman para assumir a presidência executiva da companhia. Benjamin Steinbruch passará a exercer a presidência do Conselho de Administração, posição a partir da qual continuará...",
-   "link": "http://www.revistaanamaco.com.br/benjamin-steinbruch-deixa-a-presidencia-da-csn-fabio-schvartsman-assume-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Encontro CBIC de Incorporadores e Construtores reúne lideranças no Recife para discutir mercado, crédito e cenário econômico",
-   "data": "03/09/2026",
-   "fonte": "CBIC",
-   "resumo": "O mercado imobiliário, as perspectivas de financiamento e os desafios para o crescimento do setor no Nordeste estarão no centro dos debates do Encontro CBIC de Incorporadores e Construtores Nordeste, que será...",
-   "link": "https://cbic.org.br/encontro-cbic-de-incorporadores-e-construtores-reune-liderancas-no-recife-para-discutir-mercado-credito-e-cenario-economico/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Setembro Amarelo: Seconci-DF promove acolhimento e cuidado com a saúde mental dos trabalhadores da construção",
-   "data": "03/09/2026",
-   "fonte": "CBIC",
-   "resumo": "Em um canteiro de obras, todos os dias começam cedo. Há o barulho das máquinas, o ritmo acelerado do trabalho, as metas a cumprir e uma rotina que exige atenção constante. Mas, por trás do capacete e do uniforme,...",
-   "link": "https://cbic.org.br/setembro-amarelo-seconci-df-promove-acolhimento-e-cuidado-com-a-saude-mental-dos-trabalhadores-da-construcao/",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 14.0,
    "data": "08/09/2026"
+  },
+  "igpm12": {
+   "valor": 0.06,
+   "data": "01/08/2026"
   }
  },
  "mensais": {
