@@ -1,14 +1,22 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "08/09/2026 20:05",
+ "atualizado_em": "09/09/2026 10:17",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "08/09/2026",
+   "data": "09/09/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Espaço Smart inaugura, em Palmas, sua primeira unidade no Tocantins",
+   "data": "09/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Espaço Smart acaba de abrir as portas de sua primeira unidade no Estado do Tocantins, localizada em Palmas. A expansão marca mais um passo na estratégia de crescimento da Rede no Norte do País, levando para o...",
+   "link": "http://www.revistaanamaco.com.br/espaco-smart-inaugura-em-palmas-sua-primeira-unidade-no-tocantins-",
+   "aba": "insumos"
   },
   {
    "titulo": "Boas projeções para o varejo restrito",
@@ -115,14 +123,6 @@ window.DADOS = {
    "aba": "custos"
   },
   {
-   "titulo": "Elgin e Sebrae-SP capacitam mulheres para o mercado de instalações elétricas",
-   "data": "04/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Elgin e o Sebrae-SP estão promovendo a primeira edição do projeto Se Liga Nelas, voltado à capacitação de mulheres em situação de vulnerabilidade em Mogi das Cruzes (SP) para ampliar suas possibilidades de geração...",
-   "link": "http://www.revistaanamaco.com.br/elgin-e-sebrae-sp-capacitam-mulheres-para-o-mercado-de-instalacoes-eletricas-",
-   "aba": "geral"
-  },
-  {
    "titulo": "O Futuro da Minha Cidade: CBIC promove evento sobre sustentabilidade, inovação e novos métodos construtivos em Fortaleza",
    "data": "04/09/2026",
    "fonte": "CBIC",
@@ -134,7 +134,11 @@ window.DADOS = {
  "diarios": {
   "selic": {
    "valor": 14.0,
-   "data": "08/09/2026"
+   "data": "09/09/2026"
+  },
+  "igpm12": {
+   "valor": 0.06,
+   "data": "01/08/2026"
   }
  },
  "mensais": {
