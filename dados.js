@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "09/09/2026 10:25",
+ "atualizado_em": "09/09/2026 15:12",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,22 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Com projeto feito por estagiária, ABB deve eliminar perdas de US$ 2,1 milhões",
+   "data": "09/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A ABB deve eliminar perdas de até US$ 2,1 milhões com a revisão dos processos de estoque da fábrica de Sorocaba (SP). A ação consistiu em medidas para acompanhar com mais cuidado a jornada dos itens estocados na...",
+   "link": "http://www.revistaanamaco.com.br/com-projeto-feito-por-estagiaria-abb-deve-eliminar-perdas-de-us-21-milhoes-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Setor de material de construção cresceu 1% em julho, aponta Índice do Varejo Stone",
+   "data": "09/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "O setor de material de construção registrou crescimento de 1% no volume de vendas em julho, segundo pesquisa do Índice do Varejo Stone. No comparativo anual, o segmento também apresentou resultado positivo, de 5,2%....",
+   "link": "http://www.revistaanamaco.com.br/setor-de-material-de-construcao-cresceu-1-em-julho-aponta-indice-do-varejo-stone-",
+   "aba": "insumos"
   },
   {
    "titulo": "Stihl Brasil lança Relatório de Sustentabilidade com escopo da América Latina",
@@ -24,6 +40,14 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "A Espaço Smart acaba de abrir as portas de sua primeira unidade no Estado do Tocantins, localizada em Palmas. A expansão marca mais um passo na estratégia de crescimento da Rede no Norte do País, levando para o...",
    "link": "http://www.revistaanamaco.com.br/espaco-smart-inaugura-em-palmas-sua-primeira-unidade-no-tocantins-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Como o alumínio de baixo carbono está transformando os projetos da construção civil",
+   "data": "09/09/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "À medida que a construção civil busca reduzir o impacto ambiental dos empreendimentos, a discussão vai além do consumo de energia durante a operação dos O post Como o alumínio de baixo carbono está transformando os...",
+   "link": "https://revistaoe.com.br/aluminio-de-baixo-carbono-na-construcao/",
    "aba": "insumos"
   },
   {
@@ -49,14 +73,6 @@ window.DADOS = {
    "resumo": "O Sitivesp, em parceria com o Senai de São Paulo, realizou a aula inaugural da terceira turma do curso profissionalizante de Pintura Imobiliária. A Tintas Iquine é uma das apoiadoras oficiais da iniciativa, que visa...",
    "link": "http://www.revistaanamaco.com.br/tintas-iquine-apoia-capacitacao-para-pintores-em-parceria-com-sitivesp-e-senai--",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Projeto Imobiliário Da Altius Group Conecta Patrimônio Histórico E Inovação Corporativa À Beira-Mar Em Montevidéu",
-   "data": "08/09/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Os empreendimentos Bilú Riviera e Smart Riviera consolidam um endereço exclusivo em Montevidéu unindo moradia com vista para o mar e escritórios...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/projeto-imobiliario-da-altius-group-conecta-patrimonio-historico-e-inovacao-corporativa-a-beira-mar-em-montevideu/",
-   "aba": "demanda"
   },
   {
    "titulo": "Seconci-DF: dia Mundial da Alfabetização destaca desafio de levar educação a trabalhadores da construção",
@@ -105,22 +121,6 @@ window.DADOS = {
    "resumo": "O Brasil pode levar de 17 a 30 anos para acumular o ganho de produtividade necessário para compensar uma eventual redução da jornada semanal de trabalho para 40 horas, associada à alteração da escala 6x1. A...",
    "link": "http://www.revistaanamaco.com.br/pesquisa-analisa-possiveis-efeitos-da-mudanca-na-jornada-de-trabalho",
    "aba": "geral"
-  },
-  {
-   "titulo": "ArcelorMittal conquista Prêmio Qualidade Sinaprocim/Sinprocin 2026",
-   "data": "05/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A ArcelorMittal conquistou o Prêmio Qualidade Sinaprocim/Sinprocin 2026, um dos mais importantes da indústria da construção civil no Brasil, e foi reconhecida em duas categorias",
-   "link": "http://www.revistaanamaco.com.br/arcelormittal-conquista-premio-qualidade-sinaprocim-sinprocin-2026",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Aperto no salário pode custar empregos",
-   "data": "04/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Um novo estudo do Instituto Brasileiro de Executivos de Varejo & Mercado de Consumo - FIA Business School mapeou, de forma inédita, o caminho que liga a perda do poder de compra das famílias brasileiras ao...",
-   "link": "http://www.revistaanamaco.com.br/aperto-no-salario-pode-custar-empregos-",
-   "aba": "demanda"
   },
   {
    "titulo": "O Futuro da Minha Cidade: CBIC promove evento sobre sustentabilidade, inovação e novos métodos construtivos em Fortaleza",
