@@ -548,18 +548,22 @@ def main():
         manchetes = manchetes[:16]
         print(f"  [ok] insight Selic: {insight['titulo']}")
 
-    # indicadores mensais preenchidos na mao (preserva o que ja existia)
-    mensais = anterior.get("mensais", {
-        "incc":     {"valor": "6,40", "unidade": "% em 12 meses", "ref": "jul/26", "fonte": "FGV Ibre"},
-        "cimento": {"valor": "38,2M", "unidade": "ton no ano", "ref": "jan-jul/26", "fonte": "SNIC"},
+    # indicadores mensais preenchidos na mao, com os valores mais recentes.
+    # Estes sao a fonte da verdade: sempre usa os valores atualizados aqui do
+    # codigo (nao preserva os antigos do dados.js anterior), pois sao revistos
+    # manualmente a cada divulgacao das fontes oficiais.
+    mensais = {
+        "incc":     {"valor": "6,56", "unidade": "% em 12 meses", "ref": "ago/26", "fonte": "FGV Ibre"},
+        "cimento": {"valor": "39M", "unidade": "ton no ano", "ref": "jan-jul/26", "fonte": "SNIC"},
         "termometro": {"alta": 40.3, "estavel": 41.3, "queda": 18.4, "ref": "1o sem/26", "fonte": "Anamaco"},
         "expectativa": {"valor": "68,7", "unidade": "% esperam crescer", "ref": "1o sem/26", "fonte": "Anamaco"},
         # ABRAMAT: preenchimento manual mensal (indice sai em PDF, sem API).
-        # Dados de junho/2026, ultima divulgacao publica.
+        # Ultima divulgacao publica: Indice de junho/2026 e Termometro de junho/2026
+        # (a ABRAMAT divulga com ~1 mes de defasagem; verificado em ago/2026).
         "abramat_indice": {"valor": "1,9", "unidade": "% no mes (jun vs mai)", "acumulado": "-3,4% no 1o sem", "ref": "jun/26", "fonte": "ABRAMAT"},
-        "abramat_termometro": {"valor": "62", "unidade": "% pretendem investir", "ref": "jan/26", "fonte": "ABRAMAT"},
+        "abramat_termometro": {"valor": "59", "unidade": "% pretendem investir", "ref": "jun/26", "fonte": "ABRAMAT"},
         "abramat_projecao": {"valor": "0,5", "unidade": "% projecao 2026", "ref": "revisado jul/26", "fonte": "ABRAMAT"},
-    })
+    }
 
     dados = {
         "atualizado_em": HOJE.strftime("%d/%m/%Y %H:%M"),
