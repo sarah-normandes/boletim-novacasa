@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "09/09/2026 15:12",
+ "atualizado_em": "09/09/2026 19:51",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -41,6 +41,30 @@ window.DADOS = {
    "resumo": "A Espaço Smart acaba de abrir as portas de sua primeira unidade no Estado do Tocantins, localizada em Palmas. A expansão marca mais um passo na estratégia de crescimento da Rede no Norte do País, levando para o...",
    "link": "http://www.revistaanamaco.com.br/espaco-smart-inaugura-em-palmas-sua-primeira-unidade-no-tocantins-",
    "aba": "insumos"
+  },
+  {
+   "titulo": "Airbnb Deve Enfrentar Mais Restrições na União Europeia por Proposta contra Crise Imobiliária",
+   "data": "09/09/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Medida da Comissão Europeia visa combater a escassez de moradias e harmonizar as regras para o aluguel de curto prazo no continente O post Airbnb...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/airbnb-restricoes-crise-imobiliaria-ue/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "CBIC reúne setor no Recife para debater crédito, habitação e mercado imobiliário",
+   "data": "09/09/2026",
+   "fonte": "CBIC",
+   "resumo": "O futuro do mercado imobiliário, as alternativas para ampliar o crédito e os desafios da habitação estarão no centro dos debates do Encontro CBIC de Incorporadores e Construtores Nordeste, que será realizado no dia...",
+   "link": "https://cbic.org.br/cbic-reune-setor-no-recife-para-debater-credito-habitacao-e-mercado-imobiliario/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "MCID divulga propostas com aptidão à contratação no MCMV FAR",
+   "data": "09/09/2026",
+   "fonte": "CBIC",
+   "resumo": "O Ministério das Cidades publicou, no Diário Oficial da União (DOU) desta terça-feira (8), a Portaria MCID nº 1.174, de 4 de setembro de 2026, que divulga as propostas de empreendimentos habitacionais com aptidão à...",
+   "link": "https://cbic.org.br/mcid-divulga-propostas-com-aptidao-a-contratacao-no-mcmv-far/",
+   "aba": "demanda"
   },
   {
    "titulo": "Como o alumínio de baixo carbono está transformando os projetos da construção civil",
@@ -105,30 +129,6 @@ window.DADOS = {
    "resumo": "A Lukscolor apresenta a LKS 0315 - Redon como sua Cor do Ano 2027. Inspirado na sofisticação da esmeralda, o verde profundo traduz um olhar para os ambientes como espaços em constante evolução, construídos por...",
    "link": "http://www.revistaanamaco.com.br/inspirada-na-esmeralda-lukscolor-elege-o-redon-como-a-cor-do-ano-2027-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "InterCement Brasil conquista Selo Ouro do Programa Brasileiro GHG Protocol",
-   "data": "06/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A InterCement Brasil recebeu o Selo Ouro no Programa Brasileiro GHG Protocol. Ele é composto por três categorias e, para atingir a classificação mais alta do protocolo, é preciso apresentar inventário completo das...",
-   "link": "http://www.revistaanamaco.com.br/intercement-brasil-conquista-selo-ouro-do-programa-brasileiro-ghg-protocol-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Pesquisa analisa possíveis efeitos da mudança na jornada de trabalho",
-   "data": "05/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Brasil pode levar de 17 a 30 anos para acumular o ganho de produtividade necessário para compensar uma eventual redução da jornada semanal de trabalho para 40 horas, associada à alteração da escala 6x1. A...",
-   "link": "http://www.revistaanamaco.com.br/pesquisa-analisa-possiveis-efeitos-da-mudanca-na-jornada-de-trabalho",
-   "aba": "geral"
-  },
-  {
-   "titulo": "O Futuro da Minha Cidade: CBIC promove evento sobre sustentabilidade, inovação e novos métodos construtivos em Fortaleza",
-   "data": "04/09/2026",
-   "fonte": "CBIC",
-   "resumo": "Como a sustentabilidade, a inovação e os novos métodos construtivos podem contribuir para transformar as cidades? Esse será o ponto de partida do workshop “Construção do Amanhã: Sustentabilidade, Inovação e Novos...",
-   "link": "https://cbic.org.br/o-futuro-da-minha-cidade-cbic-promove-evento-sobre-sustentabilidade-inovacao-e-novos-metodos-construtivos-em-fortaleza/",
-   "aba": "geral"
   }
  ],
  "diarios": {
