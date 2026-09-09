@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "09/09/2026 10:17",
+ "atualizado_em": "09/09/2026 10:25",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Stihl Brasil lança Relatório de Sustentabilidade com escopo da América Latina",
+   "data": "09/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Stihl Brasil lança seu Relatório de Sustentabilidade 2025, o primeiro elaborado sob o escopo do Hub Latam, consolidando a fábrica de São Leopoldo (RS) como a sede estratégica que centraliza a governança de cinco...",
+   "link": "http://www.revistaanamaco.com.br/stihl-brasil-lanca-relatorio-de-sustentabilidade-com-escopo-da-america-latina-",
+   "aba": "geral"
   },
   {
    "titulo": "Espaço Smart inaugura, em Palmas, sua primeira unidade no Tocantins",
@@ -115,14 +123,6 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Absolar apresenta agenda de propostas para o próximo Governo Federal",
-   "data": "04/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Absolar acaba de apresentar uma agenda de propostas para o próximo Governo Federal, voltada a reduzir o desperdício de energia renovável, aumentar a flexibilidade e confiabilidade do sistema elétrico, ampliar o...",
-   "link": "http://www.revistaanamaco.com.br/absolar-apresenta-agenda-de-propostas-para-o-proximo-governo-federal-",
-   "aba": "custos"
-  },
-  {
    "titulo": "O Futuro da Minha Cidade: CBIC promove evento sobre sustentabilidade, inovação e novos métodos construtivos em Fortaleza",
    "data": "04/09/2026",
    "fonte": "CBIC",
@@ -143,13 +143,13 @@ window.DADOS = {
  },
  "mensais": {
   "incc": {
-   "valor": "6,40",
+   "valor": "6,56",
    "unidade": "% em 12 meses",
-   "ref": "jul/26",
+   "ref": "ago/26",
    "fonte": "FGV Ibre"
   },
   "cimento": {
-   "valor": "38,2M",
+   "valor": "39M",
    "unidade": "ton no ano",
    "ref": "jan-jul/26",
    "fonte": "SNIC"
@@ -166,6 +166,25 @@ window.DADOS = {
    "unidade": "% esperam crescer",
    "ref": "1o sem/26",
    "fonte": "Anamaco"
+  },
+  "abramat_indice": {
+   "valor": "1,9",
+   "unidade": "% no mes (jun vs mai)",
+   "acumulado": "-3,4% no 1o sem",
+   "ref": "jun/26",
+   "fonte": "ABRAMAT"
+  },
+  "abramat_termometro": {
+   "valor": "59",
+   "unidade": "% pretendem investir",
+   "ref": "jun/26",
+   "fonte": "ABRAMAT"
+  },
+  "abramat_projecao": {
+   "valor": "0,5",
+   "unidade": "% projecao 2026",
+   "ref": "revisado jul/26",
+   "fonte": "ABRAMAT"
   }
  }
 };
