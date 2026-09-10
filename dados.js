@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "10/09/2026 14:58",
+ "atualizado_em": "10/09/2026 17:31",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Conheça os produtos que estão concorrendo",
+   "data": "10/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "Com curadoria da Grau 10 Editora, o Selo Lumina vai celebrar os produtos, soluções, inovações e estandes que mais impactaram o público durante a Expolux, que acontece entre os dias 15 e 18 de setembro, no Expo Center...",
+   "link": "http://www.revistaanamaco.com.br/conheca-os-produtos-que-estao-concorrendo",
+   "aba": "geral"
   },
   {
    "titulo": "Inscrições abertas para o 16º Simper, seminário de impermeabilização no RJ",
@@ -43,6 +51,14 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
+   "titulo": "CBIC une esforços ao governo federal e centrais sindicais em pacto pela valorização do trabalhador da indústria da construção",
+   "data": "10/09/2026",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) participa da assinatura do Pacto Pelo Trabalho Decente na Indústria da Construção, iniciativa do governo federal para estimular melhorias nas relações e condições...",
+   "link": "https://cbic.org.br/cbic-une-esforcos-ao-governo-federal-e-centrais-sindicais-em-pacto-pela-valorizacao-do-trabalhador-da-industria-da-construcao/",
+   "aba": "geral"
+  },
+  {
    "titulo": "Com projeto feito por estagiária, ABB deve eliminar perdas de US$ 2,1 milhões",
    "data": "09/09/2026",
    "fonte": "Anamaco",
@@ -73,14 +89,6 @@ window.DADOS = {
    "resumo": "A Espaço Smart acaba de abrir as portas de sua primeira unidade no Estado do Tocantins, localizada em Palmas. A expansão marca mais um passo na estratégia de crescimento da Rede no Norte do País, levando para o...",
    "link": "http://www.revistaanamaco.com.br/espaco-smart-inaugura-em-palmas-sua-primeira-unidade-no-tocantins-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Airbnb Deve Enfrentar Mais Restrições na União Europeia por Proposta contra Crise Imobiliária",
-   "data": "09/09/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Medida da Comissão Europeia visa combater a escassez de moradias e harmonizar as regras para o aluguel de curto prazo no continente O post Airbnb...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/airbnb-restricoes-crise-imobiliaria-ue/",
-   "aba": "demanda"
   },
   {
    "titulo": "CBIC reúne setor no Recife para debater crédito, habitação e mercado imobiliário",
@@ -121,14 +129,6 @@ window.DADOS = {
    "resumo": "O otimismo do varejista brasileiro está no menor patamar do ano e em tendência de queda (considerando o ajuste sazonal), de acordo com o Índice de Confiança do Empresário do Comércio, apurado, mensalmente, pela CNC",
    "link": "http://www.revistaanamaco.com.br/otimismo-em-queda",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Tintas Iquine apoia capacitação para pintores em parceria com Sitivesp e Senai",
-   "data": "08/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Sitivesp, em parceria com o Senai de São Paulo, realizou a aula inaugural da terceira turma do curso profissionalizante de Pintura Imobiliária. A Tintas Iquine é uma das apoiadoras oficiais da iniciativa, que visa...",
-   "link": "http://www.revistaanamaco.com.br/tintas-iquine-apoia-capacitacao-para-pintores-em-parceria-com-sitivesp-e-senai--",
-   "aba": "insumos"
   }
  ],
  "diarios": {
