@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "10/09/2026 10:14",
+ "atualizado_em": "10/09/2026 14:58",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,22 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Inscrições abertas para o 16º Simper, seminário de impermeabilização no RJ",
+   "data": "10/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "Estão abertas as inscrições para a 16ª edição do Seminário de Impermeabilização, promovido pela Associação de Engenharia de Impermeabilização. O evento será realizado nos dias 21 e 22 de outubro, das 8h às 18h30, no...",
+   "link": "http://www.revistaanamaco.com.br/inscricoes-abertas-para-o-16-simper-seminario-de-impermeabilizacao-no-rj-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Sil Cabos Elétricos foi uma das empresas reconhecidas no 11º Prêmio MESC",
+   "data": "10/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Sil Cabos Elétricos foi reconhecida, pela terceira vez, como campeã em Satisfação do Cliente no segmento de Fios e Cabos, durante a 11ª edição do Prêmio MESC. A premiação tem como base o maior estudo comportamental...",
+   "link": "http://www.revistaanamaco.com.br/sil-cabos-eletricos-foi-uma-das-empresas-reconhecidas-no-11-premio-mesc-",
+   "aba": "geral"
   },
   {
    "titulo": "Arauco publica Inventário Corporativo de Emissões Gases de Efeito Estufa",
@@ -112,22 +128,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "O Sitivesp, em parceria com o Senai de São Paulo, realizou a aula inaugural da terceira turma do curso profissionalizante de Pintura Imobiliária. A Tintas Iquine é uma das apoiadoras oficiais da iniciativa, que visa...",
    "link": "http://www.revistaanamaco.com.br/tintas-iquine-apoia-capacitacao-para-pintores-em-parceria-com-sitivesp-e-senai--",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Seconci-DF: dia Mundial da Alfabetização destaca desafio de levar educação a trabalhadores da construção",
-   "data": "08/09/2026",
-   "fonte": "CBIC",
-   "resumo": "Seconci-DF mantém programa que oferece aulas dentro dos canteiros e aproxima o ensino da realidade dos profissionais. Para quem passa o dia no canteiro de obras, voltar à sala de aula pode parecer um desafio...",
-   "link": "https://cbic.org.br/seconci-df-dia-mundial-da-alfabetizacao-destaca-desafio-de-levar-educacao-a-trabalhadores-da-construcao/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Relato Integrado da Eucatex une sustentabilidade e crescimento financeiro",
-   "data": "07/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Eucatex anuncia a publicação de seu Relato Integrado 2025. O documento consolida um salto de maturidade na estratégia de sustentabilidade da companhia, marcado pela adoção inédita da dupla materialidade",
-   "link": "http://www.revistaanamaco.com.br/relato-integrado-da-eucatex-une-sustentabilidade-e-crescimento-financeiro-",
    "aba": "insumos"
   }
  ],
