@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "10/09/2026 17:31",
+ "atualizado_em": "10/09/2026 19:52",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -14,7 +14,7 @@ window.DADOS = {
    "titulo": "Conheça os produtos que estão concorrendo",
    "data": "10/09/2026",
    "fonte": "Anamaco",
-   "resumo": "Com curadoria da Grau 10 Editora, o Selo Lumina vai celebrar os produtos, soluções, inovações e estandes que mais impactaram o público durante a Expolux, que acontece entre os dias 15 e 18 de setembro, no Expo Center...",
+   "resumo": "A Expolux realiza, pela segunda vez, o Selo Lumina, iniciativa que destaca produtos, soluções e empresas que contribuem para a evolução do setor de iluminação. Durante a feira, os visitantes poderão conhecer de perto...",
    "link": "http://www.revistaanamaco.com.br/conheca-os-produtos-que-estao-concorrendo",
    "aba": "geral"
   },
@@ -49,6 +49,30 @@ window.DADOS = {
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Contrato é o maior já concedido pela empresa O post Maior Construtora do Mundo Fará Nova Sede da Dubai Holding por R$ 7 Bilhões apareceu primeiro em...",
    "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/dubai-holding-construcao-nova-sede-china/",
    "aba": "demanda"
+  },
+  {
+   "titulo": "CBIC: adiamento da votação permite debate técnicos dos impactos da redução da jornada sobre o setor da construção",
+   "data": "10/09/2026",
+   "fonte": "CBIC",
+   "resumo": "O adiamento da votação da proposta que prevê o fim da escala 6x1 e a redução da jornada semanal de trabalho de 44 para 40 horas abre espaço para um debate técnico mais aprofundado sobre os impactos da medida nos...",
+   "link": "https://cbic.org.br/cbic-adiamento-da-votacao-permite-debate-tecnicos-dos-impactos-da-reducao-da-jornada-sobre-o-setor-da-construcao/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Conselho Curador do FGTS aprova demanda da CBIC e amplia em R$ 500 milhões recursos para o MCMV",
+   "data": "10/09/2026",
+   "fonte": "CBIC",
+   "resumo": "O Conselho Curador do Fundo de Garantia do Tempo de Serviço (FGTS) aprovou, nesta quinta-feira (10), o aumento de R$ 500 milhões no orçamento destinado aos descontos do Minha Casa, Minha Vida (MCMV) em 2026. A...",
+   "link": "https://cbic.org.br/conselho-curador-do-fgts-aprova-demanda-da-cbic-e-amplia-em-r-500-milhoes-recursos-para-o-mcmv/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Workshop em Fortaleza reúne especialistas para discutir inovação e sustentabilidade na construção das cidades",
+   "data": "10/09/2026",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC), por meio da Comissão de Meio Ambiente e Sustentabilidade (CMA), realiza, no dia 21 de setembro, em Fortaleza, o workshop “Construção do Amanhã: Sustentabilidade,...",
+   "link": "https://cbic.org.br/workshop-em-fortaleza-reune-especialistas-para-discutir-inovacao-e-sustentabilidade-na-construcao-das-cidades/",
+   "aba": "geral"
   },
   {
    "titulo": "CBIC une esforços ao governo federal e centrais sindicais em pacto pela valorização do trabalhador da indústria da construção",
@@ -91,22 +115,6 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "CBIC reúne setor no Recife para debater crédito, habitação e mercado imobiliário",
-   "data": "09/09/2026",
-   "fonte": "CBIC",
-   "resumo": "O futuro do mercado imobiliário, as alternativas para ampliar o crédito e os desafios da habitação estarão no centro dos debates do Encontro CBIC de Incorporadores e Construtores Nordeste, que será realizado no dia...",
-   "link": "https://cbic.org.br/cbic-reune-setor-no-recife-para-debater-credito-habitacao-e-mercado-imobiliario/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "MCID divulga propostas com aptidão à contratação no MCMV FAR",
-   "data": "09/09/2026",
-   "fonte": "CBIC",
-   "resumo": "O Ministério das Cidades publicou, no Diário Oficial da União (DOU) desta terça-feira (8), a Portaria MCID nº 1.174, de 4 de setembro de 2026, que divulga as propostas de empreendimentos habitacionais com aptidão à...",
-   "link": "https://cbic.org.br/mcid-divulga-propostas-com-aptidao-a-contratacao-no-mcmv-far/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "Como o alumínio de baixo carbono está transformando os projetos da construção civil",
    "data": "09/09/2026",
    "fonte": "O Empreiteiro",
@@ -121,14 +129,6 @@ window.DADOS = {
    "resumo": "O Instituto de Economia Gastão Vidigal da Associação Comercial de São Paulo espera crescimento de 2,1% nas vendas do comércio varejista brasileiro em 2026. A projeção cobre o chamado \"varejo restrito\", categoria que...",
    "link": "http://www.revistaanamaco.com.br/boas-projecoes-para-o-varejo-restrito",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Otimismo em queda",
-   "data": "08/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "O otimismo do varejista brasileiro está no menor patamar do ano e em tendência de queda (considerando o ajuste sazonal), de acordo com o Índice de Confiança do Empresário do Comércio, apurado, mensalmente, pela CNC",
-   "link": "http://www.revistaanamaco.com.br/otimismo-em-queda",
-   "aba": "demanda"
   }
  ],
  "diarios": {
