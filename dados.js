@@ -1,14 +1,30 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "09/09/2026 19:51",
+ "atualizado_em": "10/09/2026 10:14",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "09/09/2026",
+   "data": "10/09/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Arauco publica Inventário Corporativo de Emissões Gases de Efeito Estufa",
+   "data": "10/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Arauco Brasil oficializou o lançamento do seu Inventário Corporativo de Emissões de Gases de Efeito Estufa, referente ao ano de 2025, com publicação no Registro Público de Emissões do Programa Brasileiro GHG...",
+   "link": "http://www.revistaanamaco.com.br/arauco-publica-inventario-corporativo-de-emissoes-gases-de-efeito-estufa-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Maior Construtora do Mundo Fará Nova Sede da Dubai Holding por R$ 7 Bilhões",
+   "data": "10/09/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Contrato é o maior já concedido pela empresa O post Maior Construtora do Mundo Fará Nova Sede da Dubai Holding por R$ 7 Bilhões apareceu primeiro em...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/dubai-holding-construcao-nova-sede-china/",
+   "aba": "demanda"
   },
   {
    "titulo": "Com projeto feito por estagiária, ABB deve eliminar perdas de US$ 2,1 milhões",
@@ -113,28 +129,12 @@ window.DADOS = {
    "resumo": "A Eucatex anuncia a publicação de seu Relato Integrado 2025. O documento consolida um salto de maturidade na estratégia de sustentabilidade da companhia, marcado pela adoção inédita da dupla materialidade",
    "link": "http://www.revistaanamaco.com.br/relato-integrado-da-eucatex-une-sustentabilidade-e-crescimento-financeiro-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Eternit projeta que EliteMov responda por 50% de suas cargas até o fim de 2026",
-   "data": "07/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Eternit prepara uma nova etapa de expansão da EliteMov, sua unidade de negócios dedicada a serviços de transporte e soluções logísticas integradas. Em operação desde 2025, é responsável, atualmente, por cerca de...",
-   "link": "http://www.revistaanamaco.com.br/eternit-projeta-que-elitemov-responda-por-50-de-suas-cargas-ate-o-fim-de-2026-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Inspirada na esmeralda, Lukscolor elege o Redon como a Cor do Ano 2027",
-   "data": "06/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Lukscolor apresenta a LKS 0315 - Redon como sua Cor do Ano 2027. Inspirado na sofisticação da esmeralda, o verde profundo traduz um olhar para os ambientes como espaços em constante evolução, construídos por...",
-   "link": "http://www.revistaanamaco.com.br/inspirada-na-esmeralda-lukscolor-elege-o-redon-como-a-cor-do-ano-2027-",
-   "aba": "insumos"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 14.0,
-   "data": "09/09/2026"
+   "data": "10/09/2026"
   },
   "igpm12": {
    "valor": 0.06,
