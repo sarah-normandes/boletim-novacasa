@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "11/09/2026 10:08",
+ "atualizado_em": "11/09/2026 15:03",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,30 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Varejo de matcon fechou 1º semestre estável",
+   "data": "11/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "O primeiro semestre do ano foi marcado por estabilidade para cerca de metade do varejo de matcon. Segundo o Bustracking realizado pelo Instituto de Pesquisas Anamaco, 51% das lojas entrevistadas perceberam que o...",
+   "link": "http://www.revistaanamaco.com.br/varejo-de-matcon-fechou-1-semestre-estavel",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Sodimac fecha sete lojas em SP. Grupo Falabella fala em otimização operacional",
+   "data": "11/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Grupo Falabella, detentor da marca Sodimac, acaba de divulgar o resultado dos seus negócios no segundo trimestre do ano. De acordo com os dados apresentados, a Rede registrou alta de 3,8% em sua receita em relação...",
+   "link": "http://www.revistaanamaco.com.br/sodimac-fecha-sete-lojas-em-sp-grupo-falabella-fala-em-otimizacao-operacional",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Prêmio Anamaco 2026 comemora sua 35ª edição em 17 de novembro",
+   "data": "11/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A indústria e o varejo de material de construção têm um encontro marcado em São Paulo na noite de 17 de novembro. Na data, será realizada, no Espaço Unimed, a cerimônia de entrega aos ganhadores da 35ª edição do...",
+   "link": "http://www.revistaanamaco.com.br/premio-anamaco-2026-comemora-sua-35-edicao-em-17-de-novembro",
+   "aba": "insumos"
   },
   {
    "titulo": "Insegurança pública: custo estrutural ao comércio",
@@ -27,12 +51,28 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "O Que Ninguém Conta Sobre Quem Construiu Grandes Empresas no Brasil",
+   "titulo": "Semana CANPAT Construção 2026 debate segurança, conformidade e transformação dos canteiros",
    "data": "11/09/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. O medo de fracassar e a atenção aos detalhes estão entre os traços que aparecem nas histórias de empresários de sucesso O post O Que Ninguém Conta...",
-   "link": "https://forbes.com.br/carreira/2026/09/o-que-ninguem-conta-sobre-quem-construiu-grandes-empresas-no-brasil/",
-   "aba": "insumos"
+   "fonte": "CBIC",
+   "resumo": "A segurança no uso de equipamentos, a conformidade com as normas regulamentadoras e os desafios impostos pelas transformações nos canteiros de obras estarão no centro dos debates da Semana CANPAT Construção 2026, que...",
+   "link": "https://cbic.org.br/semana-canpat-construcao-2026-debate-seguranca-conformidade-e-transformacao-dos-canteiros/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Seconci-DF: entidade oferece atendimento urológico gratuito a trabalhadores da construção a partir dos 45 anos",
+   "data": "11/09/2026",
+   "fonte": "CBIC",
+   "resumo": "Esperar o corpo dar sinais de que alguma coisa não vai bem ainda é um comportamento comum entre os homens e pode atrasar a descoberta de doenças que poderiam ser identificadas e tratadas mais cedo. No Dia do...",
+   "link": "https://cbic.org.br/seconci-df-entidade-oferece-atendimento-urologico-gratuito-a-trabalhadores-da-construcao-a-partir-dos-45-anos/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "SindusCon-RR: Construção civil de Roraima define reajuste de 5,8% no piso salarial da categoria",
+   "data": "11/09/2026",
+   "fonte": "CBIC",
+   "resumo": "Novo percentual será aplicado a toda a tabela salarial da categoria, com efeitos retroativos a 1º de setembro O Sindicato das Indústrias da Construção Civil do Estado de Roraima (Sinduscon-RR) e o Sindicato dos...",
+   "link": "https://cbic.org.br/sinduscon-rr-construcao-civil-de-roraima-define-reajuste-de-58-no-piso-salarial-da-categoria/",
+   "aba": "geral"
   },
   {
    "titulo": "Conheça os produtos que estão concorrendo",
@@ -75,30 +115,6 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "Conselho Curador do FGTS aprova demanda da CBIC e amplia em R$ 500 milhões recursos para o MCMV",
-   "data": "10/09/2026",
-   "fonte": "CBIC",
-   "resumo": "O Conselho Curador do Fundo de Garantia do Tempo de Serviço (FGTS) aprovou, nesta quinta-feira (10), o aumento de R$ 500 milhões no orçamento destinado aos descontos do Minha Casa, Minha Vida (MCMV) em 2026. A...",
-   "link": "https://cbic.org.br/conselho-curador-do-fgts-aprova-demanda-da-cbic-e-amplia-em-r-500-milhoes-recursos-para-o-mcmv/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Workshop em Fortaleza reúne especialistas para discutir inovação e sustentabilidade na construção das cidades",
-   "data": "10/09/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC), por meio da Comissão de Meio Ambiente e Sustentabilidade (CMA), realiza, no dia 21 de setembro, em Fortaleza, o workshop “Construção do Amanhã: Sustentabilidade,...",
-   "link": "https://cbic.org.br/workshop-em-fortaleza-reune-especialistas-para-discutir-inovacao-e-sustentabilidade-na-construcao-das-cidades/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "CBIC une esforços ao governo federal e centrais sindicais em pacto pela valorização do trabalhador da indústria da construção",
-   "data": "10/09/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) participa da assinatura do Pacto Pelo Trabalho Decente na Indústria da Construção, iniciativa do governo federal para estimular melhorias nas relações e condições...",
-   "link": "https://cbic.org.br/cbic-une-esforcos-ao-governo-federal-e-centrais-sindicais-em-pacto-pela-valorizacao-do-trabalhador-da-industria-da-construcao/",
-   "aba": "geral"
-  },
-  {
    "titulo": "Com projeto feito por estagiária, ABB deve eliminar perdas de US$ 2,1 milhões",
    "data": "09/09/2026",
    "fonte": "Anamaco",
@@ -112,22 +128,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "O setor de material de construção registrou crescimento de 1% no volume de vendas em julho, segundo pesquisa do Índice do Varejo Stone. No comparativo anual, o segmento também apresentou resultado positivo, de 5,2%....",
    "link": "http://www.revistaanamaco.com.br/setor-de-material-de-construcao-cresceu-1-em-julho-aponta-indice-do-varejo-stone-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Stihl Brasil lança Relatório de Sustentabilidade com escopo da América Latina",
-   "data": "09/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Stihl Brasil lança seu Relatório de Sustentabilidade 2025, o primeiro elaborado sob o escopo do Hub Latam, consolidando a fábrica de São Leopoldo (RS) como a sede estratégica que centraliza a governança de cinco...",
-   "link": "http://www.revistaanamaco.com.br/stihl-brasil-lanca-relatorio-de-sustentabilidade-com-escopo-da-america-latina-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Espaço Smart inaugura, em Palmas, sua primeira unidade no Tocantins",
-   "data": "09/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Espaço Smart acaba de abrir as portas de sua primeira unidade no Estado do Tocantins, localizada em Palmas. A expansão marca mais um passo na estratégia de crescimento da Rede no Norte do País, levando para o...",
-   "link": "http://www.revistaanamaco.com.br/espaco-smart-inaugura-em-palmas-sua-primeira-unidade-no-tocantins-",
    "aba": "insumos"
   }
  ],
