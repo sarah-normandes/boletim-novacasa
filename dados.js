@@ -1,14 +1,38 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "10/09/2026 19:52",
+ "atualizado_em": "11/09/2026 10:08",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "10/09/2026",
+   "data": "11/09/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Insegurança pública: custo estrutural ao comércio",
+   "data": "11/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "Ao operarem em regiões inseguras ou se relacionarem com consumidores com medo e expostas a casos de violência, metade das empresas do comércio na cidade de São Paulo gasta parte das receitas para se proteger da...",
+   "link": "http://www.revistaanamaco.com.br/inseguranca-publica-custo-estrutural-ao-comercio-",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Pegada de carbono varia até quatro vezes entre produtos de cimento equivalentes",
+   "data": "11/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "Fabricantes de blocos e peças de concreto para pavimentação que atendem às mesmas normas técnicas e entregam produtos com desempenho equivalente podem apresentar diferenças de até quatro vezes na pegada de carbono. A...",
+   "link": "http://www.revistaanamaco.com.br/pegada-de-carbono-varia-ate-quatro-vezes-entre-produtos-de-cimento-equivalentes-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "O Que Ninguém Conta Sobre Quem Construiu Grandes Empresas no Brasil",
+   "data": "11/09/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. O medo de fracassar e a atenção aos detalhes estão entre os traços que aparecem nas histórias de empresários de sucesso O post O Que Ninguém Conta...",
+   "link": "https://forbes.com.br/carreira/2026/09/o-que-ninguem-conta-sobre-quem-construiu-grandes-empresas-no-brasil/",
+   "aba": "insumos"
   },
   {
    "titulo": "Conheça os produtos que estão concorrendo",
@@ -40,14 +64,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "A Arauco Brasil oficializou o lançamento do seu Inventário Corporativo de Emissões de Gases de Efeito Estufa, referente ao ano de 2025, com publicação no Registro Público de Emissões do Programa Brasileiro GHG...",
    "link": "http://www.revistaanamaco.com.br/arauco-publica-inventario-corporativo-de-emissoes-gases-de-efeito-estufa-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Maior Construtora do Mundo Fará Nova Sede da Dubai Holding por R$ 7 Bilhões",
-   "data": "10/09/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Contrato é o maior já concedido pela empresa O post Maior Construtora do Mundo Fará Nova Sede da Dubai Holding por R$ 7 Bilhões apareceu primeiro em...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/dubai-holding-construcao-nova-sede-china/",
    "aba": "demanda"
   },
   {
@@ -113,28 +129,16 @@ window.DADOS = {
    "resumo": "A Espaço Smart acaba de abrir as portas de sua primeira unidade no Estado do Tocantins, localizada em Palmas. A expansão marca mais um passo na estratégia de crescimento da Rede no Norte do País, levando para o...",
    "link": "http://www.revistaanamaco.com.br/espaco-smart-inaugura-em-palmas-sua-primeira-unidade-no-tocantins-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Como o alumínio de baixo carbono está transformando os projetos da construção civil",
-   "data": "09/09/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "À medida que a construção civil busca reduzir o impacto ambiental dos empreendimentos, a discussão vai além do consumo de energia durante a operação dos O post Como o alumínio de baixo carbono está transformando os...",
-   "link": "https://revistaoe.com.br/aluminio-de-baixo-carbono-na-construcao/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Boas projeções para o varejo restrito",
-   "data": "08/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Instituto de Economia Gastão Vidigal da Associação Comercial de São Paulo espera crescimento de 2,1% nas vendas do comércio varejista brasileiro em 2026. A projeção cobre o chamado \"varejo restrito\", categoria que...",
-   "link": "http://www.revistaanamaco.com.br/boas-projecoes-para-o-varejo-restrito",
-   "aba": "insumos"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 14.0,
-   "data": "10/09/2026"
+   "data": "11/09/2026"
+  },
+  "ipca12": {
+   "valor": 4.22,
+   "data": "01/08/2026"
   },
   "igpm12": {
    "valor": 0.06,
