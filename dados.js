@@ -1,14 +1,30 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "11/09/2026 19:55",
+ "atualizado_em": "12/09/2026 09:32",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "11/09/2026",
+   "data": "12/09/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Pedra natural, um verde-claro suave, é a Cor do Ano da Coral para 2027",
+   "data": "12/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "Há 23 anos, o ColourFutures, estudo global da AkzoNobel, fabricante da Tintas Coral, busca captar o espírito do nosso tempo e traduzi-lo em paletas que ajudem as pessoas a viverem com mais bem-estar, autenticidade e...",
+   "link": "http://www.revistaanamaco.com.br/pedra-natural-um-verde-claro-suave-e-a-cor-do-ano-da-coral-para-2027-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Estes são os 10 fundos imobiliários (FIIs) que mais renderam em 12 meses; líder ganhou 25%",
+   "data": "12/09/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "O BTG Pactual Shoppings (BPML11) liderou o ranking de fundos imobiliários que compõem o IFIX com maior rentabilidade nos últimos 12 meses, segundo levantamento da Grana Smart, plataforma de inteligência artificial...",
+   "link": "https://www.moneytimes.com.br/estes-sao-os-10-fundos-imobiliarios-que-mais-renderam-em-12-meses-lider-ganhou-25-igdl/",
+   "aba": "demanda"
   },
   {
    "titulo": "Faturamento da indústria de matcon melhora",
@@ -107,34 +123,18 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Datafolha: Em empate técnico no PE, Raquel tem 47% dos votos no 1º turno e João Campos, 42%",
-   "data": "11/09/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "Pesquisa Datafolha divulgada nesta sexta-feira, 11, mostra que a governadora de Pernambuco, Raquel Lyra (PSD), lidera a disputa pelo governo do Estado contra o ex-prefeito do Recife João Campos (PSB). Os dois, porém,...",
-   "link": "https://www.moneytimes.com.br/datafolha-em-empate-tecnico-no-pe-raquel-tem-47-dos-votos-no-1o-turno-e-joao-campos-42-rnda/",
-   "aba": "geral"
-  },
-  {
    "titulo": "Conheça os produtos que estão concorrendo",
    "data": "10/09/2026",
    "fonte": "Anamaco",
    "resumo": "A Expolux realiza, pela segunda vez, o Selo Lumina, iniciativa que destaca produtos, soluções e empresas que contribuem para a evolução do setor de iluminação. Durante a feira, os visitantes poderão conhecer de perto...",
    "link": "http://www.revistaanamaco.com.br/conheca-os-produtos-que-estao-concorrendo",
    "aba": "geral"
-  },
-  {
-   "titulo": "Inscrições abertas para o 16º Simper, seminário de impermeabilização no RJ",
-   "data": "10/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Estão abertas as inscrições para a 16ª edição do Seminário de Impermeabilização, promovido pela Associação de Engenharia de Impermeabilização. O evento será realizado nos dias 21 e 22 de outubro, das 8h às 18h30, no...",
-   "link": "http://www.revistaanamaco.com.br/inscricoes-abertas-para-o-16-simper-seminario-de-impermeabilizacao-no-rj-",
-   "aba": "geral"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 14.0,
-   "data": "11/09/2026"
+   "data": "12/09/2026"
   },
   "ipca12": {
    "valor": 4.22,
