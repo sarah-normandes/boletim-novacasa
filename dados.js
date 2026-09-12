@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "12/09/2026 16:56",
+ "atualizado_em": "12/09/2026 19:43",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -135,6 +135,10 @@ window.DADOS = {
   "selic": {
    "valor": 14.0,
    "data": "12/09/2026"
+  },
+  "ipca12": {
+   "valor": 4.22,
+   "data": "01/08/2026"
   },
   "igpm12": {
    "valor": 0.06,
