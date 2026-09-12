@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "12/09/2026 09:32",
+ "atualizado_em": "12/09/2026 14:34",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -11,20 +11,20 @@ window.DADOS = {
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
+   "titulo": "Obramax realiza cursos de qualificação com foco nas reformas de fim de ano",
+   "data": "12/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Obramax abre 3.700 vagas gratuitas de qualificação profissional neste mês de setembro. A iniciativa é da Academia de Profissionais, que já formou mais de 82 mil pessoas, gratuitamente, no País",
+   "link": "http://www.revistaanamaco.com.br/obramax-realiza-cursos-de-qualificacao-com-foco-nas-reformas-de-fim-de-ano--",
+   "aba": "demanda"
+  },
+  {
    "titulo": "Pedra natural, um verde-claro suave, é a Cor do Ano da Coral para 2027",
    "data": "12/09/2026",
    "fonte": "Anamaco",
    "resumo": "Há 23 anos, o ColourFutures, estudo global da AkzoNobel, fabricante da Tintas Coral, busca captar o espírito do nosso tempo e traduzi-lo em paletas que ajudem as pessoas a viverem com mais bem-estar, autenticidade e...",
    "link": "http://www.revistaanamaco.com.br/pedra-natural-um-verde-claro-suave-e-a-cor-do-ano-da-coral-para-2027-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Estes são os 10 fundos imobiliários (FIIs) que mais renderam em 12 meses; líder ganhou 25%",
-   "data": "12/09/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "O BTG Pactual Shoppings (BPML11) liderou o ranking de fundos imobiliários que compõem o IFIX com maior rentabilidade nos últimos 12 meses, segundo levantamento da Grana Smart, plataforma de inteligência artificial...",
-   "link": "https://www.moneytimes.com.br/estes-sao-os-10-fundos-imobiliarios-que-mais-renderam-em-12-meses-lider-ganhou-25-igdl/",
-   "aba": "demanda"
   },
   {
    "titulo": "Faturamento da indústria de matcon melhora",
@@ -83,14 +83,6 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Varejo Brasileiro Tem Pior Agosto desde 2020 e Vendas Caem 2%",
-   "data": "11/09/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Queda real atingiu os três macrossetores, com duráveis e semiduráveis recuando 4,6%; Centro-Oeste liderou as perdas entre regiões, com baixa de 3,7%...",
-   "link": "https://forbes.com.br/geral/2026/09/varejo-brasileiro-vendas-caem-2-agosto-cielo/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "Eduardo Aroeira destaca ao ministro do Trabalho impactos do fim da escala 6×1 na construção",
    "data": "11/09/2026",
    "fonte": "CBIC",
@@ -129,6 +121,14 @@ window.DADOS = {
    "resumo": "A Expolux realiza, pela segunda vez, o Selo Lumina, iniciativa que destaca produtos, soluções e empresas que contribuem para a evolução do setor de iluminação. Durante a feira, os visitantes poderão conhecer de perto...",
    "link": "http://www.revistaanamaco.com.br/conheca-os-produtos-que-estao-concorrendo",
    "aba": "geral"
+  },
+  {
+   "titulo": "Inscrições abertas para o 16º Simper, seminário de impermeabilização no RJ",
+   "data": "10/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "Estão abertas as inscrições para a 16ª edição do Seminário de Impermeabilização, promovido pela Associação de Engenharia de Impermeabilização. O evento será realizado nos dias 21 e 22 de outubro, das 8h às 18h30, no...",
+   "link": "http://www.revistaanamaco.com.br/inscricoes-abertas-para-o-16-simper-seminario-de-impermeabilizacao-no-rj-",
+   "aba": "geral"
   }
  ],
  "diarios": {
@@ -138,10 +138,6 @@ window.DADOS = {
   },
   "ipca12": {
    "valor": 4.22,
-   "data": "01/08/2026"
-  },
-  "igpm12": {
-   "valor": 0.06,
    "data": "01/08/2026"
   }
  },
