@@ -1,14 +1,46 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "12/09/2026 19:43",
+ "atualizado_em": "14/09/2026 12:31",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "12/09/2026",
+   "data": "14/09/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Pesquisa revela alta nos serviços e desempenho misto no varejo em agosto",
+   "data": "14/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Getnet acaba de divulgar os resultados do índice econômico desenvolvido em parceria com o Santander, com os destaques de agosto. Nos serviços, o indicador cresceu 3,4% em relação a julho. No varejo, o indicador...",
+   "link": "http://www.revistaanamaco.com.br/pesquisa-revela-alta-nos-servicos-e-desempenho-misto-no-varejo-em-agosto-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Redemac lança programa de capacitação para profissionais da construção",
+   "data": "14/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Redemac lançou o programa Conhecimento que Constrói, que tem como objetivo aproximar os lojistas dos profissionais da construção civil, ampliando o acesso a treinamentos técnicos, inovações de produtos e métodos...",
+   "link": "http://www.revistaanamaco.com.br/redemac-lanca-programa-de-capacitacao-para-profissionais-da-construcao-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Busca por crédito registrou alta de 47,75% em julho, aponta pesquisa",
+   "data": "13/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A busca do brasileiro por crédito registrou crescimento de 47,75% em julho em relação ao mesmo mês de 2025. O indicador, apurado pela CNDL e pelo SPC Brasil, aponta, ainda, que o volume de consultas realizadas pelo...",
+   "link": "http://www.revistaanamaco.com.br/busca-por-credito-registrou-alta-de-4775-em-julho-aponta-pesquisa-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "ArcelorMittal vai investir entre R$ 4 bilhões e R$ 5 bilhões no Brasil",
+   "data": "13/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A ArcelorMittal acaba de anunciar a aprovação final de novo investimento no Brasil: a instalação de um Laminador de Tiras a Frio e uma Linha de Revestimento Contínuo na Unidade Tubarão, situada em Serra (ES) com...",
+   "link": "http://www.revistaanamaco.com.br/arcelormittal-vai-investir-entre-r-4-bilhoes-e-r-5-bilhoes-no-brasil-",
+   "aba": "insumos"
   },
   {
    "titulo": "Obramax realiza cursos de qualificação com foco nas reformas de fim de ano",
@@ -75,14 +107,6 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "Beatriz Milhazes Comenta Nova Obra Pietrolina no MASP",
-   "data": "11/09/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Obra imersiva em passagem subterrânea é a maior já criada pela artista carioca O post Beatriz Milhazes Comenta Nova Obra Pietrolina no MASP apareceu...",
-   "link": "https://forbes.com.br/forbes-life/2026/09/beatriz-milhazes-comenta-nova-obra-pietrolina-no-masp/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "Eduardo Aroeira destaca ao ministro do Trabalho impactos do fim da escala 6×1 na construção",
    "data": "11/09/2026",
    "fonte": "CBIC",
@@ -105,36 +129,12 @@ window.DADOS = {
    "resumo": "Esperar o corpo dar sinais de que alguma coisa não vai bem ainda é um comportamento comum entre os homens e pode atrasar a descoberta de doenças que poderiam ser identificadas e tratadas mais cedo. No Dia do...",
    "link": "https://cbic.org.br/seconci-df-entidade-oferece-atendimento-urologico-gratuito-a-trabalhadores-da-construcao-a-partir-dos-45-anos/",
    "aba": "geral"
-  },
-  {
-   "titulo": "SindusCon-RR: Construção civil de Roraima define reajuste de 5,8% no piso salarial da categoria",
-   "data": "11/09/2026",
-   "fonte": "CBIC",
-   "resumo": "Novo percentual será aplicado a toda a tabela salarial da categoria, com efeitos retroativos a 1º de setembro O Sindicato das Indústrias da Construção Civil do Estado de Roraima (Sinduscon-RR) e o Sindicato dos...",
-   "link": "https://cbic.org.br/sinduscon-rr-construcao-civil-de-roraima-define-reajuste-de-58-no-piso-salarial-da-categoria/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Conheça os produtos que estão concorrendo",
-   "data": "10/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Expolux realiza, pela segunda vez, o Selo Lumina, iniciativa que destaca produtos, soluções e empresas que contribuem para a evolução do setor de iluminação. Durante a feira, os visitantes poderão conhecer de perto...",
-   "link": "http://www.revistaanamaco.com.br/conheca-os-produtos-que-estao-concorrendo",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Inscrições abertas para o 16º Simper, seminário de impermeabilização no RJ",
-   "data": "10/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Estão abertas as inscrições para a 16ª edição do Seminário de Impermeabilização, promovido pela Associação de Engenharia de Impermeabilização. O evento será realizado nos dias 21 e 22 de outubro, das 8h às 18h30, no...",
-   "link": "http://www.revistaanamaco.com.br/inscricoes-abertas-para-o-16-simper-seminario-de-impermeabilizacao-no-rj-",
-   "aba": "geral"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 14.0,
-   "data": "12/09/2026"
+   "data": "14/09/2026"
   },
   "ipca12": {
    "valor": 4.22,
