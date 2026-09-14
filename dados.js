@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "14/09/2026 12:31",
+ "atualizado_em": "14/09/2026 18:14",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Com investimento de R$ 50 milhões, Santri vai inaugurar nova sede em Goiânia",
+   "data": "14/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Santri vai inaugurar, no próximo dia 26 de setembro, uma nova sede em Goiânia (GO), com investimento superior a R$ 50 milhões. O novo espaço possui mais de 8 mil m² de área construída e foi projetado para...",
+   "link": "http://www.revistaanamaco.com.br/com-investimento-de-r-50-milhoes-santri-vai-inaugurar-nova-sede-em-goiania-1",
+   "aba": "insumos"
   },
   {
    "titulo": "Pesquisa revela alta nos serviços e desempenho misto no varejo em agosto",
@@ -25,6 +33,30 @@ window.DADOS = {
    "resumo": "A Redemac lançou o programa Conhecimento que Constrói, que tem como objetivo aproximar os lojistas dos profissionais da construção civil, ampliando o acesso a treinamentos técnicos, inovações de produtos e métodos...",
    "link": "http://www.revistaanamaco.com.br/redemac-lanca-programa-de-capacitacao-para-profissionais-da-construcao-",
    "aba": "insumos"
+  },
+  {
+   "titulo": "Varejo Sofre, Mas Allos (ALSO3) Se Mantém Resiliente (e Barata), Segundo o BTG Pactual",
+   "data": "14/09/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Com preço-alvo projetado em R$ 39, a empresa dribla a crise no varejo e se posiciona para capturar ganhos estruturais com a reforma tributária O...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/acoes-allos-also3-btg-compra/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "CBIC promove workshop sobre negociações coletivas na indústria da construção",
+   "data": "14/09/2026",
+   "fonte": "CBIC",
+   "resumo": "Em um cenário de mudanças na legislação trabalhista, evolução da jurisprudência e transformações nas relações sindicais, a preparação dos negociadores ganha importância para o fortalecimento das relações de trabalho...",
+   "link": "https://cbic.org.br/cbic-promove-workshop-sobre-negociacoes-coletivas-na-industria-da-construcao/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Custo nacional da construção varia 0,44% em agosto, aponta Sinapi",
+   "data": "14/09/2026",
+   "fonte": "CBIC",
+   "resumo": "O custo nacional da construção civil registrou alta de 0,44% em agosto, repetindo a mesma variação observada em julho, segundo dados do Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil (Sinapi),...",
+   "link": "https://cbic.org.br/custo-nacional-da-construcao-varia-044-em-agosto-aponta-sinapi/",
+   "aba": "custos"
   },
   {
    "titulo": "Busca por crédito registrou alta de 47,75% em julho, aponta pesquisa",
@@ -97,38 +129,6 @@ window.DADOS = {
    "resumo": "O primeiro semestre do ano foi marcado por estabilidade para cerca de metade do varejo de matcon. Segundo o Bustracking realizado pelo Instituto de Pesquisas Anamaco, 51% das lojas entrevistadas perceberam que o...",
    "link": "http://www.revistaanamaco.com.br/varejo-de-matcon-fechou-1-semestre-estavel",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Pegada de carbono varia até quatro vezes entre produtos de cimento equivalentes",
-   "data": "11/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Fabricantes de blocos e peças de concreto para pavimentação que atendem às mesmas normas técnicas e entregam produtos com desempenho equivalente podem apresentar diferenças de até quatro vezes na pegada de carbono. A...",
-   "link": "http://www.revistaanamaco.com.br/pegada-de-carbono-varia-ate-quatro-vezes-entre-produtos-de-cimento-equivalentes-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Eduardo Aroeira destaca ao ministro do Trabalho impactos do fim da escala 6×1 na construção",
-   "data": "11/09/2026",
-   "fonte": "CBIC",
-   "resumo": "O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo Aroeira Almeida, destacou nesta sexta-feira (11), em João Pessoa (PB), os impactos que o fim da escala 6x1 e a redução da jornada semanal...",
-   "link": "https://cbic.org.br/eduardo-aroeira-destaca-ao-ministro-do-trabalho-impactos-do-fim-da-escala-6x1-na-construcao/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Semana CANPAT Construção 2026 debate segurança, conformidade e transformação dos canteiros",
-   "data": "11/09/2026",
-   "fonte": "CBIC",
-   "resumo": "A segurança no uso de equipamentos, a conformidade com as normas regulamentadoras e os desafios impostos pelas transformações nos canteiros de obras estarão no centro dos debates da Semana CANPAT Construção 2026, que...",
-   "link": "https://cbic.org.br/semana-canpat-construcao-2026-debate-seguranca-conformidade-e-transformacao-dos-canteiros/",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Seconci-DF: entidade oferece atendimento urológico gratuito a trabalhadores da construção a partir dos 45 anos",
-   "data": "11/09/2026",
-   "fonte": "CBIC",
-   "resumo": "Esperar o corpo dar sinais de que alguma coisa não vai bem ainda é um comportamento comum entre os homens e pode atrasar a descoberta de doenças que poderiam ser identificadas e tratadas mais cedo. No Dia do...",
-   "link": "https://cbic.org.br/seconci-df-entidade-oferece-atendimento-urologico-gratuito-a-trabalhadores-da-construcao-a-partir-dos-45-anos/",
-   "aba": "geral"
   }
  ],
  "diarios": {
