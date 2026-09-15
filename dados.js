@@ -1,14 +1,38 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "14/09/2026 18:14",
+ "atualizado_em": "15/09/2026 11:03",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "14/09/2026",
+   "data": "15/09/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "InterCement mostra como resíduo pode ser incorporado à produção de cimento",
+   "data": "15/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "Um material utilizado no refino de petróleo e, posteriormente, destinado como resíduo, pode ganhar uma nova aplicação na indústria do cimento. Estudo realizado por profissionais da InterCement Brasil demonstrou a...",
+   "link": "http://www.revistaanamaco.com.br/intercement-mostra-como-residuo-pode-ser-incorporado-a-producao-de-cimento",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Varejo Cai 4 Vezes Mais do Que o Esperado e Mostra Que o Consumo Perdeu o Fôlego",
+   "data": "15/09/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Queda maior que a esperada pelo mercado atingiu principalmente os segmentos mais dependentes de renda e crédito O post Varejo Cai 4 Vezes Mais do...",
+   "link": "https://forbes.com.br/forbes-money/2026/09/varejo-cai-consumo-perde-folego-renda-credito-julho-2026/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Dólar vira para baixa com pesquisas eleitorais e leilão do BC em meio a varejo fraco",
+   "data": "15/09/2026",
+   "fonte": "InfoMoney",
+   "resumo": "Julgamento da petição sobre mensagens trocadas entre o banqueiro Daniel Vorcaro, do Banco Master, e o ministro do STF Alexandre de Moraes, também ficará sob os holofotes The post Dólar vira para baixa com pesquisas...",
+   "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-15092026/",
+   "aba": "insumos"
   },
   {
    "titulo": "Com investimento de R$ 50 milhões, Santri vai inaugurar nova sede em Goiânia",
@@ -17,6 +41,14 @@ window.DADOS = {
    "resumo": "A Santri vai inaugurar, no próximo dia 26 de setembro, uma nova sede em Goiânia (GO), com investimento superior a R$ 50 milhões. O novo espaço possui mais de 8 mil m² de área construída e foi projetado para...",
    "link": "http://www.revistaanamaco.com.br/com-investimento-de-r-50-milhoes-santri-vai-inaugurar-nova-sede-em-goiania-1",
    "aba": "insumos"
+  },
+  {
+   "titulo": "Summit Américas reúne lideranças do matcon no Panamá",
+   "data": "14/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "Evento internacional combina conteúdo estratégico, troca de experiências e geração de negócios. Programação reúne empresários e executivos para debater liderança, gestão de pessoas, transformação digital e...",
+   "link": "http://www.revistaanamaco.com.br/summit-americas-reune-liderancas-do-matcon-no-panama",
+   "aba": "geral"
   },
   {
    "titulo": "Pesquisa revela alta nos serviços e desempenho misto no varejo em agosto",
@@ -97,44 +129,12 @@ window.DADOS = {
    "resumo": "O faturamento deflacionado da indústria de matcon cresceu 1,1% em agosto na comparação com julho, considerando o ajuste sazonal, e avançou 3,6% frente a agosto de 2025. Com o resultado, a queda acumulada no ano é de...",
    "link": "http://www.revistaanamaco.com.br/faturamento-da-industria-de-matcon-melhora",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Insegurança pública: custo estrutural ao comércio",
-   "data": "11/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Ao operarem em regiões inseguras ou se relacionarem com consumidores com medo e expostas a casos de violência, metade das empresas do comércio na cidade de São Paulo gasta parte das receitas para se proteger da...",
-   "link": "http://www.revistaanamaco.com.br/inseguranca-publica-custo-estrutural-ao-comercio-",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Sodimac fecha sete lojas em SP. Grupo Falabella fala em otimização operacional",
-   "data": "11/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Grupo Falabella, detentor da marca Sodimac, acaba de divulgar o resultado dos seus negócios no segundo trimestre do ano. De acordo com os dados apresentados, a Rede registrou alta de 3,8% em sua receita em relação...",
-   "link": "http://www.revistaanamaco.com.br/sodimac-fecha-sete-lojas-em-sp-grupo-falabella-fala-em-otimizacao-operacional",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Prêmio Anamaco 2026 comemora sua 35ª edição em 17 de novembro",
-   "data": "11/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A indústria e o varejo de material de construção têm um encontro marcado em São Paulo na noite de 17 de novembro. Na data, será realizada, no Espaço Unimed, a cerimônia de entrega aos ganhadores da 35ª edição do...",
-   "link": "http://www.revistaanamaco.com.br/premio-anamaco-2026-comemora-sua-35-edicao-em-17-de-novembro",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Varejo de matcon fechou 1º semestre estável",
-   "data": "11/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "O primeiro semestre do ano foi marcado por estabilidade para cerca de metade do varejo de matcon. Segundo o Bustracking realizado pelo Instituto de Pesquisas Anamaco, 51% das lojas entrevistadas perceberam que o...",
-   "link": "http://www.revistaanamaco.com.br/varejo-de-matcon-fechou-1-semestre-estavel",
-   "aba": "insumos"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 14.0,
-   "data": "14/09/2026"
+   "data": "15/09/2026"
   },
   "ipca12": {
    "valor": 4.22,
