@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "15/09/2026 11:03",
+ "atualizado_em": "15/09/2026 15:38",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Com expectativa de receber mais de 20 mil profissionais, Expolux está aberta",
+   "data": "15/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Expo Center Norte será palco, até a próxima sexta-feira, 18 de setembro, de mais uma edição da Expolux, um dos principais eventos do mercado de iluminação na América Latina. A feira, que foi aberta hoje, deverá...",
+   "link": "http://www.revistaanamaco.com.br/com-expectativa-de-receber-mais-de-20-mil-profissionais-expolux-esta-aberta-",
+   "aba": "demanda"
   },
   {
    "titulo": "InterCement mostra como resíduo pode ser incorporado à produção de cimento",
@@ -27,12 +35,20 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Dólar vira para baixa com pesquisas eleitorais e leilão do BC em meio a varejo fraco",
+   "titulo": "Sinduscon-RR completa 36 anos de  atuação na construção em Roraima",
    "data": "15/09/2026",
-   "fonte": "InfoMoney",
-   "resumo": "Julgamento da petição sobre mensagens trocadas entre o banqueiro Daniel Vorcaro, do Banco Master, e o ministro do STF Alexandre de Moraes, também ficará sob os holofotes The post Dólar vira para baixa com pesquisas...",
-   "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-15092026/",
-   "aba": "insumos"
+   "fonte": "CBIC",
+   "resumo": "O Sindicato da Indústria da Construção Civil do Estado de Roraima (Sinduscon-RR) completou, nesta segunda-feira (14), 36 anos de atuação. Fundado em 14 de setembro de 1990, o sindicato representa empresas da...",
+   "link": "https://cbic.org.br/sinduscon-rr-completa-36-anos-de-atuacao-na-construcao-em-roraima/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Minha Casa Minha Vida tem aumento de R$ 500 milhões no orçamento para este ano",
+   "data": "15/09/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "O Conselho Curador do Fundo de Garantia do Tempo de Serviço (FGTS) aprovou a expansão de R$ 500 milhões na verba destinada aos subsídios do programa Minha Casa, Minha Vida para o exercício de 2026, após solicitação...",
+   "link": "https://www.moneytimes.com.br/minha-casa-minha-vida-tem-aumento-de-r-500-milhoes-no-orcamento-para-este-ano/",
+   "aba": "demanda"
   },
   {
    "titulo": "Com investimento de R$ 50 milhões, Santri vai inaugurar nova sede em Goiânia",
@@ -112,22 +128,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "A Obramax abre 3.700 vagas gratuitas de qualificação profissional neste mês de setembro. A iniciativa é da Academia de Profissionais, que já formou mais de 82 mil pessoas, gratuitamente, no País",
    "link": "http://www.revistaanamaco.com.br/obramax-realiza-cursos-de-qualificacao-com-foco-nas-reformas-de-fim-de-ano--",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Pedra natural, um verde-claro suave, é a Cor do Ano da Coral para 2027",
-   "data": "12/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Há 23 anos, o ColourFutures, estudo global da AkzoNobel, fabricante da Tintas Coral, busca captar o espírito do nosso tempo e traduzi-lo em paletas que ajudem as pessoas a viverem com mais bem-estar, autenticidade e...",
-   "link": "http://www.revistaanamaco.com.br/pedra-natural-um-verde-claro-suave-e-a-cor-do-ano-da-coral-para-2027-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Faturamento da indústria de matcon melhora",
-   "data": "11/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "O faturamento deflacionado da indústria de matcon cresceu 1,1% em agosto na comparação com julho, considerando o ajuste sazonal, e avançou 3,6% frente a agosto de 2025. Com o resultado, a queda acumulada no ano é de...",
-   "link": "http://www.revistaanamaco.com.br/faturamento-da-industria-de-matcon-melhora",
    "aba": "demanda"
   }
  ],
