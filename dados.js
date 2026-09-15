@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "15/09/2026 15:38",
+ "atualizado_em": "15/09/2026 20:20",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
@@ -9,6 +9,22 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Cimento mantém ritmo de alta nas vendas",
+   "data": "15/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A indústria brasileira de cimento comercializou 6,1 milhões de toneladas em agosto, o que representa uma alta de 1,9% em relação ao mesmo mês do ano anterior, segundo o Sindicato Nacional da Indústria do Cimento",
+   "link": "http://www.revistaanamaco.com.br/cimento-mantem-ritmo-de-alta-nas-vendas-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Pernambuco sedia, até sexta-feira, a Ficons 2026 com novidades e conteúdo técnico",
+   "data": "15/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A14ª edição da Feira Internacional de Materiais, Equipamentos, e Serviços da Construção está oficialmente aberta. A exposição, que começou hoje (15 de setembro), ocorre até o dia 18 de setembro, no Pernambuco Centro...",
+   "link": "http://www.revistaanamaco.com.br/pernambuco-sedia-ate-sexta-feira-a-ficons-2026-com-novidades-e-conteudo-tecnico-",
+   "aba": "geral"
   },
   {
    "titulo": "Com expectativa de receber mais de 20 mil profissionais, Expolux está aberta",
@@ -27,6 +43,14 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
+   "titulo": "Construção Civil Mantém Alta em Vendas e Empregos, Apesar de Juros Recordes no Financiamento",
+   "data": "15/09/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Vendas de imóveis superam lançamentos no médio e alto padrão em uma janela de 12 meses O post Construção Civil Mantém Alta em Vendas e Empregos,...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/construcao-civil-vendas-juros-imobiliarios/",
+   "aba": "custos"
+  },
+  {
    "titulo": "Varejo Cai 4 Vezes Mais do Que o Esperado e Mostra Que o Consumo Perdeu o Fôlego",
    "data": "15/09/2026",
    "fonte": "Forbes",
@@ -35,20 +59,28 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
+   "titulo": "CBIC reúne setor da construção no Recife nesta sexta-feira (18) para debater mercado imobiliário, crédito e habitação",
+   "data": "15/09/2026",
+   "fonte": "CBIC",
+   "resumo": "O mercado imobiliário, as perspectivas de financiamento e os desafios para o crescimento do setor da construção no Nordeste estarão no centro dos debates do Encontro CBIC de Incorporadores e Construtores Nordeste,...",
+   "link": "https://cbic.org.br/cbic-reune-setor-da-construcao-no-recife-nesta-sexta-feira-18-para-debater-mercado-imobiliario-credito-e-habitacao/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Deu na mídia: David Fratel destaca importância de carreira planejada na construção civil",
+   "data": "15/09/2026",
+   "fonte": "CBIC",
+   "resumo": "O presidente da Comissão de Políticas de Relações Trabalhistas (CPRT) da Câmara Brasileira da Indústria da Construção (CBIC), David Fratel, foi entrevistado pelo Liga News sobre o programa Trilhas Profissionais da...",
+   "link": "https://cbic.org.br/deu-na-midia-david-fratel-destaca-importancia-de-carreira-planejada-na-construcao-civil/",
+   "aba": "geral"
+  },
+  {
    "titulo": "Sinduscon-RR completa 36 anos de  atuação na construção em Roraima",
    "data": "15/09/2026",
    "fonte": "CBIC",
    "resumo": "O Sindicato da Indústria da Construção Civil do Estado de Roraima (Sinduscon-RR) completou, nesta segunda-feira (14), 36 anos de atuação. Fundado em 14 de setembro de 1990, o sindicato representa empresas da...",
    "link": "https://cbic.org.br/sinduscon-rr-completa-36-anos-de-atuacao-na-construcao-em-roraima/",
    "aba": "geral"
-  },
-  {
-   "titulo": "Minha Casa Minha Vida tem aumento de R$ 500 milhões no orçamento para este ano",
-   "data": "15/09/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "O Conselho Curador do Fundo de Garantia do Tempo de Serviço (FGTS) aprovou a expansão de R$ 500 milhões na verba destinada aos subsídios do programa Minha Casa, Minha Vida para o exercício de 2026, após solicitação...",
-   "link": "https://www.moneytimes.com.br/minha-casa-minha-vida-tem-aumento-de-r-500-milhoes-no-orcamento-para-este-ano/",
-   "aba": "demanda"
   },
   {
    "titulo": "Com investimento de R$ 50 milhões, Santri vai inaugurar nova sede em Goiânia",
@@ -83,14 +115,6 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "Varejo Sofre, Mas Allos (ALSO3) Se Mantém Resiliente (e Barata), Segundo o BTG Pactual",
-   "data": "14/09/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Com preço-alvo projetado em R$ 39, a empresa dribla a crise no varejo e se posiciona para capturar ganhos estruturais com a reforma tributária O...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/acoes-allos-also3-btg-compra/",
-   "aba": "custos"
-  },
-  {
    "titulo": "CBIC promove workshop sobre negociações coletivas na indústria da construção",
    "data": "14/09/2026",
    "fonte": "CBIC",
@@ -99,36 +123,12 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "Custo nacional da construção varia 0,44% em agosto, aponta Sinapi",
-   "data": "14/09/2026",
-   "fonte": "CBIC",
-   "resumo": "O custo nacional da construção civil registrou alta de 0,44% em agosto, repetindo a mesma variação observada em julho, segundo dados do Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil (Sinapi),...",
-   "link": "https://cbic.org.br/custo-nacional-da-construcao-varia-044-em-agosto-aponta-sinapi/",
-   "aba": "custos"
-  },
-  {
    "titulo": "Busca por crédito registrou alta de 47,75% em julho, aponta pesquisa",
    "data": "13/09/2026",
    "fonte": "Anamaco",
    "resumo": "A busca do brasileiro por crédito registrou crescimento de 47,75% em julho em relação ao mesmo mês de 2025. O indicador, apurado pela CNDL e pelo SPC Brasil, aponta, ainda, que o volume de consultas realizadas pelo...",
    "link": "http://www.revistaanamaco.com.br/busca-por-credito-registrou-alta-de-4775-em-julho-aponta-pesquisa-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "ArcelorMittal vai investir entre R$ 4 bilhões e R$ 5 bilhões no Brasil",
-   "data": "13/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A ArcelorMittal acaba de anunciar a aprovação final de novo investimento no Brasil: a instalação de um Laminador de Tiras a Frio e uma Linha de Revestimento Contínuo na Unidade Tubarão, situada em Serra (ES) com...",
-   "link": "http://www.revistaanamaco.com.br/arcelormittal-vai-investir-entre-r-4-bilhoes-e-r-5-bilhoes-no-brasil-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Obramax realiza cursos de qualificação com foco nas reformas de fim de ano",
-   "data": "12/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Obramax abre 3.700 vagas gratuitas de qualificação profissional neste mês de setembro. A iniciativa é da Academia de Profissionais, que já formou mais de 82 mil pessoas, gratuitamente, no País",
-   "link": "http://www.revistaanamaco.com.br/obramax-realiza-cursos-de-qualificacao-com-foco-nas-reformas-de-fim-de-ano--",
-   "aba": "demanda"
   }
  ],
  "diarios": {
