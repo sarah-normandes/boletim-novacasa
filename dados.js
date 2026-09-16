@@ -1,14 +1,38 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "15/09/2026 20:20",
+ "atualizado_em": "16/09/2026 10:56",
  "manchetes": [
   {
    "titulo": "Selic mantida em 14% ao ano",
-   "data": "15/09/2026",
+   "data": "16/09/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Brasileiro sente a inflação antes das pesquisas",
+   "data": "16/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "O consumidor brasileiro não precisa esperar a divulgação do IPCA, medido pelo IBGE, para saber que os preços subiram: ele sente - e digita isso no Google - no exato mês em que o choque acontece. É o que revela um...",
+   "link": "http://www.revistaanamaco.com.br/brasileiro-sente-a-inflacao-antes-das-pesquisas-",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Pado celebra 90 anos com reposicionamento e reconhecimento do mercado",
+   "data": "16/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Pado celebra, este ano, 90 anos de história. Com o objetivo de acompanhar a evolução do mercado e sustentar seus planos de expansão, realizou um processo de reposicionamento estratégico e atualização de sua...",
+   "link": "http://www.revistaanamaco.com.br/pado-celebra-90-anos-com-reposicionamento-e-reconhecimento-do-mercado-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Vendas no varejo dos EUA sobem mais que o esperado em agosto",
+   "data": "16/09/2026",
+   "fonte": "InfoMoney",
+   "resumo": "As vendas no varejo subiram 1,2% no mês passado, após uma queda revisada de 0,5% em julho, primeira recuo ⁠em ‌nove meses The post Vendas no varejo dos EUA sobem mais que o esperado em agosto appeared first on...",
+   "link": "https://www.infomoney.com.br/economia/vendas-no-varejo-dos-eua-sobem-mais-que-o-esperado-em-agosto/",
+   "aba": "demanda"
   },
   {
    "titulo": "Cimento mantém ritmo de alta nas vendas",
@@ -49,14 +73,6 @@ window.DADOS = {
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Vendas de imóveis superam lançamentos no médio e alto padrão em uma janela de 12 meses O post Construção Civil Mantém Alta em Vendas e Empregos,...",
    "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/construcao-civil-vendas-juros-imobiliarios/",
    "aba": "custos"
-  },
-  {
-   "titulo": "Varejo Cai 4 Vezes Mais do Que o Esperado e Mostra Que o Consumo Perdeu o Fôlego",
-   "data": "15/09/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Queda maior que a esperada pelo mercado atingiu principalmente os segmentos mais dependentes de renda e crédito O post Varejo Cai 4 Vezes Mais do...",
-   "link": "https://forbes.com.br/forbes-money/2026/09/varejo-cai-consumo-perde-folego-renda-credito-julho-2026/",
-   "aba": "demanda"
   },
   {
    "titulo": "CBIC reúne setor da construção no Recife nesta sexta-feira (18) para debater mercado imobiliário, crédito e habitação",
@@ -113,28 +129,12 @@ window.DADOS = {
    "resumo": "A Redemac lançou o programa Conhecimento que Constrói, que tem como objetivo aproximar os lojistas dos profissionais da construção civil, ampliando o acesso a treinamentos técnicos, inovações de produtos e métodos...",
    "link": "http://www.revistaanamaco.com.br/redemac-lanca-programa-de-capacitacao-para-profissionais-da-construcao-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "CBIC promove workshop sobre negociações coletivas na indústria da construção",
-   "data": "14/09/2026",
-   "fonte": "CBIC",
-   "resumo": "Em um cenário de mudanças na legislação trabalhista, evolução da jurisprudência e transformações nas relações sindicais, a preparação dos negociadores ganha importância para o fortalecimento das relações de trabalho...",
-   "link": "https://cbic.org.br/cbic-promove-workshop-sobre-negociacoes-coletivas-na-industria-da-construcao/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Busca por crédito registrou alta de 47,75% em julho, aponta pesquisa",
-   "data": "13/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A busca do brasileiro por crédito registrou crescimento de 47,75% em julho em relação ao mesmo mês de 2025. O indicador, apurado pela CNDL e pelo SPC Brasil, aponta, ainda, que o volume de consultas realizadas pelo...",
-   "link": "http://www.revistaanamaco.com.br/busca-por-credito-registrou-alta-de-4775-em-julho-aponta-pesquisa-",
-   "aba": "insumos"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 14.0,
-   "data": "15/09/2026"
+   "data": "16/09/2026"
   },
   "ipca12": {
    "valor": 4.22,
