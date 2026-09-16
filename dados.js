@@ -1,7 +1,15 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "16/09/2026 15:35",
+ "atualizado_em": "16/09/2026 20:27",
  "manchetes": [
+  {
+   "titulo": "Selic mantida em 14% ao ano",
+   "data": "16/09/2026",
+   "fonte": "Banco Central",
+   "aba": "custos",
+   "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
+   "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
   {
    "titulo": "ABB reduz em 79% suas emissões globais e acelera descarbonização no Brasil",
    "data": "16/09/2026",
@@ -33,6 +41,30 @@ window.DADOS = {
    "resumo": "A Pado celebra, este ano, 90 anos de história. Com o objetivo de acompanhar a evolução do mercado e sustentar seus planos de expansão, realizou um processo de reposicionamento estratégico e atualização de sua...",
    "link": "http://www.revistaanamaco.com.br/pado-celebra-90-anos-com-reposicionamento-e-reconhecimento-do-mercado-",
    "aba": "insumos"
+  },
+  {
+   "titulo": "Aldar e Mubadala Ampliam Portfólio Imobiliário em Abu Dhabi com Aquisição de R$ 1,28 Bilhão",
+   "data": "16/09/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Negócio amplia portfólio da joint venture para US$ 1,3 bilhão em um dos principais polos de tecnologia e energia limpa dos Emirados Árabes O post...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/aldar-mubadala-masdar-city-square/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Mesmo com nova queda da Selic, juros elevados ainda desafiam construção, avalia CBIC",
+   "data": "16/09/2026",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) considera positiva a decisão do Comitê de Política Monetária (Copom), anunciada nesta quarta-feira (16), de reduzir a taxa Selic em 0,25 ponto percentual, de 14%...",
+   "link": "https://cbic.org.br/mesmo-com-nova-queda-da-selic-juros-elevados-ainda-desafiam-construcao-avalia-cbic/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Reforma tributária: entidades promovem live sobre implantação da nova nota fiscal do setor imobiliário",
+   "data": "16/09/2026",
+   "fonte": "CBIC",
+   "resumo": "A implantação da Nota Fiscal Eletrônica de Alienação de Bens Imóveis (NF-e ABI) será tema de uma live que reunirá representantes da Receita Federal e do Comitê Gestor do IBS (CGIBS) para esclarecer dúvidas e orientar...",
+   "link": "https://cbic.org.br/reforma-tributaria-entidades-promovem-live-sobre-implantacao-da-nova-nota-fiscal-do-setor-imobiliario/",
+   "aba": "custos"
   },
   {
    "titulo": "Complexo do Alemão vai receber R$ 210 milhões em obras de infraestrutura",
@@ -91,47 +123,19 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Sinduscon-RR completa 36 anos de  atuação na construção em Roraima",
-   "data": "15/09/2026",
-   "fonte": "CBIC",
-   "resumo": "O Sindicato da Indústria da Construção Civil do Estado de Roraima (Sinduscon-RR) completou, nesta segunda-feira (14), 36 anos de atuação. Fundado em 14 de setembro de 1990, o sindicato representa empresas da...",
-   "link": "https://cbic.org.br/sinduscon-rr-completa-36-anos-de-atuacao-na-construcao-em-roraima/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Crédito, mão de obra e licenciamentos desafiam construção civil no Rio de Janeiro",
-   "data": "15/09/2026",
-   "fonte": "ABRAMAT",
-   "resumo": "Temas ganham espaço na Feicon diante da necessidade de preparar empresas e profissionais para novas oportunidades no mercado fluminense O post Crédito, mão de obra e licenciamentos desafiam construção civil no Rio de...",
-   "link": "https://abramat.org.br/credito-mao-de-obra-e-licenciamentos-desafiam-construcao-civil-no-rio-de-janeiro/",
-   "aba": "insumos"
-  },
-  {
    "titulo": "Com investimento de R$ 50 milhões, Santri vai inaugurar nova sede em Goiânia",
    "data": "14/09/2026",
    "fonte": "Anamaco",
    "resumo": "A Santri vai inaugurar, no próximo dia 26 de setembro, uma nova sede em Goiânia (GO), com investimento superior a R$ 50 milhões. O novo espaço possui mais de 8 mil m² de área construída e foi projetado para...",
    "link": "http://www.revistaanamaco.com.br/com-investimento-de-r-50-milhoes-santri-vai-inaugurar-nova-sede-em-goiania-1",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Summit Américas reúne lideranças do matcon no Panamá",
-   "data": "14/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Evento internacional combina conteúdo estratégico, troca de experiências e geração de negócios. Programação reúne empresários e executivos para debater liderança, gestão de pessoas, transformação digital e...",
-   "link": "http://www.revistaanamaco.com.br/summit-americas-reune-liderancas-do-matcon-no-panama",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Pesquisa revela alta nos serviços e desempenho misto no varejo em agosto",
-   "data": "14/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Getnet acaba de divulgar os resultados do índice econômico desenvolvido em parceria com o Santander, com os destaques de agosto. Nos serviços, o indicador cresceu 3,4% em relação a julho. No varejo, o indicador...",
-   "link": "http://www.revistaanamaco.com.br/pesquisa-revela-alta-nos-servicos-e-desempenho-misto-no-varejo-em-agosto-",
-   "aba": "demanda"
   }
  ],
  "diarios": {
+  "selic": {
+   "valor": 14.0,
+   "data": "16/09/2026"
+  },
   "ipca12": {
    "valor": 4.22,
    "data": "01/08/2026"
