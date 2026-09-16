@@ -1,14 +1,22 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "16/09/2026 10:56",
+ "atualizado_em": "16/09/2026 15:35",
  "manchetes": [
   {
-   "titulo": "Selic mantida em 14% ao ano",
+   "titulo": "ABB reduz em 79% suas emissões globais e acelera descarbonização no Brasil",
    "data": "16/09/2026",
-   "fonte": "Banco Central",
-   "aba": "custos",
-   "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
-   "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+   "fonte": "Anamaco",
+   "resumo": "A ABB reduziu 79% das emissões globais de escopo 1 e 2 (associadas à operação e à energia adquirida) em relação à 2019, segundo seu último relatório de sustentabilidade. O avanço foi alcançado, ente outras ações, com...",
+   "link": "http://www.revistaanamaco.com.br/abb-reduz-em-79-suas-emissoes-globais-e-acelera-descarbonizacao-no-brasil-",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Ação da Schneider Electric doa equipamentos solares para comunidade do PA",
+   "data": "16/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Schneider Electric integra uma nova ação de acesso à energia, na Reserva Extrativista Tapajós-Arapiuns, em Santarém (PA). Por meio do Business With Empathy, a mobilização reúne a ONG Projeto Saúde e Alegria, Bain &...",
+   "link": "http://www.revistaanamaco.com.br/acao-da-schneider-electric-doa-equipamentos-solares-para-comunidade-do-pa",
+   "aba": "custos"
   },
   {
    "titulo": "Brasileiro sente a inflação antes das pesquisas",
@@ -27,11 +35,11 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "Vendas no varejo dos EUA sobem mais que o esperado em agosto",
+   "titulo": "Complexo do Alemão vai receber R$ 210 milhões em obras de infraestrutura",
    "data": "16/09/2026",
-   "fonte": "InfoMoney",
-   "resumo": "As vendas no varejo subiram 1,2% no mês passado, após uma queda revisada de 0,5% em julho, primeira recuo ⁠em ‌nove meses The post Vendas no varejo dos EUA sobem mais que o esperado em agosto appeared first on...",
-   "link": "https://www.infomoney.com.br/economia/vendas-no-varejo-dos-eua-sobem-mais-que-o-esperado-em-agosto/",
+   "fonte": "O Empreiteiro",
+   "resumo": "O prefeito do Rio de Janeiro, Eduardo Cavaliere, e o secretário municipal de Habitação, Claudio Dutra, apresentaram aos moradores do Complexo do Alemão, o projeto O post Complexo do Alemão vai receber R$ 210 milhões...",
+   "link": "https://revistaoe.com.br/obras-complexo-do-alemao-rio/",
    "aba": "demanda"
   },
   {
@@ -67,14 +75,6 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "Construção Civil Mantém Alta em Vendas e Empregos, Apesar de Juros Recordes no Financiamento",
-   "data": "15/09/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Vendas de imóveis superam lançamentos no médio e alto padrão em uma janela de 12 meses O post Construção Civil Mantém Alta em Vendas e Empregos,...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/construcao-civil-vendas-juros-imobiliarios/",
-   "aba": "custos"
-  },
-  {
    "titulo": "CBIC reúne setor da construção no Recife nesta sexta-feira (18) para debater mercado imobiliário, crédito e habitação",
    "data": "15/09/2026",
    "fonte": "CBIC",
@@ -99,6 +99,14 @@ window.DADOS = {
    "aba": "geral"
   },
   {
+   "titulo": "Crédito, mão de obra e licenciamentos desafiam construção civil no Rio de Janeiro",
+   "data": "15/09/2026",
+   "fonte": "ABRAMAT",
+   "resumo": "Temas ganham espaço na Feicon diante da necessidade de preparar empresas e profissionais para novas oportunidades no mercado fluminense O post Crédito, mão de obra e licenciamentos desafiam construção civil no Rio de...",
+   "link": "https://abramat.org.br/credito-mao-de-obra-e-licenciamentos-desafiam-construcao-civil-no-rio-de-janeiro/",
+   "aba": "insumos"
+  },
+  {
    "titulo": "Com investimento de R$ 50 milhões, Santri vai inaugurar nova sede em Goiânia",
    "data": "14/09/2026",
    "fonte": "Anamaco",
@@ -121,21 +129,9 @@ window.DADOS = {
    "resumo": "A Getnet acaba de divulgar os resultados do índice econômico desenvolvido em parceria com o Santander, com os destaques de agosto. Nos serviços, o indicador cresceu 3,4% em relação a julho. No varejo, o indicador...",
    "link": "http://www.revistaanamaco.com.br/pesquisa-revela-alta-nos-servicos-e-desempenho-misto-no-varejo-em-agosto-",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Redemac lança programa de capacitação para profissionais da construção",
-   "data": "14/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Redemac lançou o programa Conhecimento que Constrói, que tem como objetivo aproximar os lojistas dos profissionais da construção civil, ampliando o acesso a treinamentos técnicos, inovações de produtos e métodos...",
-   "link": "http://www.revistaanamaco.com.br/redemac-lanca-programa-de-capacitacao-para-profissionais-da-construcao-",
-   "aba": "insumos"
   }
  ],
  "diarios": {
-  "selic": {
-   "valor": 14.0,
-   "data": "16/09/2026"
-  },
   "ipca12": {
    "valor": 4.22,
    "data": "01/08/2026"
