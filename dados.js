@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "17/09/2026 11:00",
+ "atualizado_em": "17/09/2026 15:42",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -11,6 +11,22 @@ window.DADOS = {
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
+   "titulo": "Impressão 3D metálica pode reduzir o tempo de obtenção de peças industriais",
+   "data": "17/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "Em parceria com o Centro de Inovação e Tecnologia Senai, por meio do Centro de Desenvolvimento da Tecnologia de Manufatura Aditiva por Deposição a Arco, a Belgo Arames produziu um componente por impressão 3D,...",
+   "link": "http://www.revistaanamaco.com.br/impressao-3d-metalica-pode-reduzir-o-tempo-de-obtencao-de-pecas-industriais-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Carmelo Fior estreia como expositora na Cersaie, que acontece, este mês, na Itália",
+   "data": "17/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "Um dos principais eventos internacionais de revestimentos cerâmicos e acabamentos, a Cersaie 2026, vai contar com a presença da indústria brasileira de revestimentos. Este ano, Carmelo Fior, que já havia participado...",
+   "link": "http://www.revistaanamaco.com.br/carmelo-fior-estreia-como-expositora-na-cersaie-que-acontece-este-mes-na-italia---",
+   "aba": "insumos"
+  },
+  {
    "titulo": "Faturamento da indústria caiu 2% em julho, aponta estudo da CNI",
    "data": "17/09/2026",
    "fonte": "Anamaco",
@@ -19,11 +35,35 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Fundo imobiliário conclui compra de imóveis por R$ 10,8 milhões; veja impacto na receita",
+   "titulo": "Encontro CBIC de Incorporadores e Construtores Nordeste discute perspectivas para a construção na região",
+   "data": "17/09/2026",
+   "fonte": "CBIC",
+   "resumo": "Empresários, lideranças e especialistas do setor da construção se reúnem nesta sexta-feira (18), no Recife (PE), para discutir os caminhos do mercado imobiliário e as perspectivas para o crescimento da construção no...",
+   "link": "https://cbic.org.br/encontro-cbic-de-incorporadores-e-construtores-nordeste-discute-perspectivas-para-a-construcao-na-regiao/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Reforma tributária: setor imobiliário debate implantação da NF-e ABI em live",
+   "data": "17/09/2026",
+   "fonte": "CBIC",
+   "resumo": "A implantação da Nota Fiscal Eletrônica de Alienação de Bens Imóveis (NF-e ABI) foi tema de live realizada nesta quinta-feira (17), com participação de representantes da Receita Federal e do Comitê Gestor do IBS....",
+   "link": "https://cbic.org.br/reforma-tributaria-setor-imobiliario-debate-implantacao-da-nf-e-abi-em-live/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Entidades veem oportunidade da construção industrializada no setor de habitação",
+   "data": "17/09/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "O mercado de construção industrializada teve crescimento nos últimos anos, mas possui potencial de avançar ainda bastante. É o que pensa executivos de entidades que O post Entidades veem oportunidade da construção...",
+   "link": "https://revistaoe.com.br/avanco-construcao-industrializada-habitacao/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Desconto e dividendos elevados: Este fundo imobiliário é compra para a XP e pode subir até 61% na bolsa",
    "data": "17/09/2026",
    "fonte": "MoneyTimes",
-   "resumo": "O fundo imobiliário Tellus Properties (TEPP11) concluiu a aquisição de dois conjuntos comerciais do Edifício Torre Sul, localizado em São Paulo (SP), por R$ 10,77 milhões, mostra fato relevante divulgado ao mercado....",
-   "link": "https://www.moneytimes.com.br/fundo-imobiliario-conclui-compra-de-imoveis-por-r-108-milhoes-veja-impacto-na-receita-igdl/",
+   "resumo": "A XP Investimentos recomenda compra para o fundo imobiliário JS Real Estate Multigestão (JSRE11), com preço-alvo de R$ 97,48 para as cotas, o que representa um potencial de valorização (upside) de 61% frente ao valor...",
+   "link": "https://www.moneytimes.com.br/desconto-e-dividendos-elevados-este-fundo-imobiliario-e-compra-para-a-xp-e-pode-subir-ate-61-na-bolsa-igdl/",
    "aba": "demanda"
   },
   {
@@ -67,11 +107,19 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "Aldar e Mubadala Ampliam Portfólio Imobiliário em Abu Dhabi com Aquisição de R$ 1,28 Bilhão",
+   "titulo": "Mesmo com nova queda da Selic, juros elevados ainda desafiam construção, avalia CBIC",
    "data": "16/09/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Negócio amplia portfólio da joint venture para US$ 1,3 bilhão em um dos principais polos de tecnologia e energia limpa dos Emirados Árabes O post...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/aldar-mubadala-masdar-city-square/",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) considera positiva a decisão do Comitê de Política Monetária (Copom), anunciada nesta quarta-feira (16), de reduzir a taxa Selic em 0,25 ponto percentual, de 14%...",
+   "link": "https://cbic.org.br/mesmo-com-nova-queda-da-selic-juros-elevados-ainda-desafiam-construcao-avalia-cbic/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Reforma tributária: entidades promovem live sobre implantação da nova nota fiscal do setor imobiliário",
+   "data": "16/09/2026",
+   "fonte": "CBIC",
+   "resumo": "A implantação da Nota Fiscal Eletrônica de Alienação de Bens Imóveis (NF-e ABI) será tema de uma live que reunirá representantes da Receita Federal e do Comitê Gestor do IBS (CGIBS) para esclarecer dúvidas e orientar...",
+   "link": "https://cbic.org.br/reforma-tributaria-entidades-promovem-live-sobre-implantacao-da-nova-nota-fiscal-do-setor-imobiliario/",
    "aba": "custos"
   },
   {
@@ -81,54 +129,6 @@ window.DADOS = {
    "resumo": "O prefeito do Rio de Janeiro, Eduardo Cavaliere, e o secretário municipal de Habitação, Claudio Dutra, apresentaram aos moradores do Complexo do Alemão, o projeto O post Complexo do Alemão vai receber R$ 210 milhões...",
    "link": "https://revistaoe.com.br/obras-complexo-do-alemao-rio/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Cimento mantém ritmo de alta nas vendas",
-   "data": "15/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A indústria brasileira de cimento comercializou 6,1 milhões de toneladas em agosto, o que representa uma alta de 1,9% em relação ao mesmo mês do ano anterior, segundo o Sindicato Nacional da Indústria do Cimento",
-   "link": "http://www.revistaanamaco.com.br/cimento-mantem-ritmo-de-alta-nas-vendas-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Pernambuco sedia, até sexta-feira, a Ficons 2026 com novidades e conteúdo técnico",
-   "data": "15/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A14ª edição da Feira Internacional de Materiais, Equipamentos, e Serviços da Construção está oficialmente aberta. A exposição, que começou hoje (15 de setembro), ocorre até o dia 18 de setembro, no Pernambuco Centro...",
-   "link": "http://www.revistaanamaco.com.br/pernambuco-sedia-ate-sexta-feira-a-ficons-2026-com-novidades-e-conteudo-tecnico-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Com expectativa de receber mais de 20 mil profissionais, Expolux está aberta",
-   "data": "15/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Expo Center Norte será palco, até a próxima sexta-feira, 18 de setembro, de mais uma edição da Expolux, um dos principais eventos do mercado de iluminação na América Latina. A feira, que foi aberta hoje, deverá...",
-   "link": "http://www.revistaanamaco.com.br/com-expectativa-de-receber-mais-de-20-mil-profissionais-expolux-esta-aberta-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "InterCement mostra como resíduo pode ser incorporado à produção de cimento",
-   "data": "15/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Um material utilizado no refino de petróleo e, posteriormente, destinado como resíduo, pode ganhar uma nova aplicação na indústria do cimento. Estudo realizado por profissionais da InterCement Brasil demonstrou a...",
-   "link": "http://www.revistaanamaco.com.br/intercement-mostra-como-residuo-pode-ser-incorporado-a-producao-de-cimento",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Crédito, mão de obra e licenciamentos desafiam construção civil no Rio de Janeiro",
-   "data": "15/09/2026",
-   "fonte": "ABRAMAT",
-   "resumo": "Temas ganham espaço na Feicon diante da necessidade de preparar empresas e profissionais para novas oportunidades no mercado fluminense O post Crédito, mão de obra e licenciamentos desafiam construção civil no Rio de...",
-   "link": "https://abramat.org.br/credito-mao-de-obra-e-licenciamentos-desafiam-construcao-civil-no-rio-de-janeiro/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Com investimento de R$ 50 milhões, Santri vai inaugurar nova sede em Goiânia",
-   "data": "14/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Santri vai inaugurar, no próximo dia 26 de setembro, uma nova sede em Goiânia (GO), com investimento superior a R$ 50 milhões. O novo espaço possui mais de 8 mil m² de área construída e foi projetado para...",
-   "link": "http://www.revistaanamaco.com.br/com-investimento-de-r-50-milhoes-santri-vai-inaugurar-nova-sede-em-goiania-1",
-   "aba": "insumos"
   }
  ],
  "diarios": {
