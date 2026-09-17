@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "17/09/2026 15:42",
+ "atualizado_em": "17/09/2026 20:17",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "28ª edição do Ecomac Sul reúne o setor da construção em Foz do Iguaçu",
+   "data": "17/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "Começa hoje, no Mabu Resort, em Foz do Iguaçu (PR), a 28ª edição do Ecomac Sul. O evento deverá reunir empresários, lojistas, lideranças e representantes do setor de diferentes regiões do País. Coordenado pela...",
+   "link": "http://www.revistaanamaco.com.br/28-edicao-do-ecomac-sul-reune-o-setor-da-construcao-em-foz-do-iguacu",
+   "aba": "geral"
   },
   {
    "titulo": "Impressão 3D metálica pode reduzir o tempo de obtenção de peças industriais",
@@ -35,6 +43,22 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
+   "titulo": "Construção de Moradias nos EUA Reage em Agosto Mas Alta das Hipotecas Acende Sinal de Alerta",
+   "data": "17/09/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. O avanço na construção de residências americanas enfrenta a pressão do aumento dos juros pelo Fed e da disparada do petróleo provocada pela crise no...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/construcao-moradias-eua-hipotecas/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "CBIC participa de painel sobre o futuro do setor da construção no Construtech Week",
+   "data": "17/09/2026",
+   "fonte": "CBIC",
+   "resumo": "Os caminhos do mercado imobiliário diante das transformações na indústria da construção, das políticas habitacionais e das mudanças no cenário econômico estiveram em debate nesta quinta-feira (17), durante a 8ª...",
+   "link": "https://cbic.org.br/cbic-participa-de-painel-sobre-o-futuro-do-setor-da-construcao-no-construtech-week/",
+   "aba": "demanda"
+  },
+  {
    "titulo": "Encontro CBIC de Incorporadores e Construtores Nordeste discute perspectivas para a construção na região",
    "data": "17/09/2026",
    "fonte": "CBIC",
@@ -57,14 +81,6 @@ window.DADOS = {
    "resumo": "O mercado de construção industrializada teve crescimento nos últimos anos, mas possui potencial de avançar ainda bastante. É o que pensa executivos de entidades que O post Entidades veem oportunidade da construção...",
    "link": "https://revistaoe.com.br/avanco-construcao-industrializada-habitacao/",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Desconto e dividendos elevados: Este fundo imobiliário é compra para a XP e pode subir até 61% na bolsa",
-   "data": "17/09/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "A XP Investimentos recomenda compra para o fundo imobiliário JS Real Estate Multigestão (JSRE11), com preço-alvo de R$ 97,48 para as cotas, o que representa um potencial de valorização (upside) de 61% frente ao valor...",
-   "link": "https://www.moneytimes.com.br/desconto-e-dividendos-elevados-este-fundo-imobiliario-e-compra-para-a-xp-e-pode-subir-ate-61-na-bolsa-igdl/",
-   "aba": "demanda"
   },
   {
    "titulo": "ABB reduz em 79% suas emissões globais e acelera descarbonização no Brasil",
@@ -113,22 +129,6 @@ window.DADOS = {
    "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) considera positiva a decisão do Comitê de Política Monetária (Copom), anunciada nesta quarta-feira (16), de reduzir a taxa Selic em 0,25 ponto percentual, de 14%...",
    "link": "https://cbic.org.br/mesmo-com-nova-queda-da-selic-juros-elevados-ainda-desafiam-construcao-avalia-cbic/",
    "aba": "custos"
-  },
-  {
-   "titulo": "Reforma tributária: entidades promovem live sobre implantação da nova nota fiscal do setor imobiliário",
-   "data": "16/09/2026",
-   "fonte": "CBIC",
-   "resumo": "A implantação da Nota Fiscal Eletrônica de Alienação de Bens Imóveis (NF-e ABI) será tema de uma live que reunirá representantes da Receita Federal e do Comitê Gestor do IBS (CGIBS) para esclarecer dúvidas e orientar...",
-   "link": "https://cbic.org.br/reforma-tributaria-entidades-promovem-live-sobre-implantacao-da-nova-nota-fiscal-do-setor-imobiliario/",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Complexo do Alemão vai receber R$ 210 milhões em obras de infraestrutura",
-   "data": "16/09/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "O prefeito do Rio de Janeiro, Eduardo Cavaliere, e o secretário municipal de Habitação, Claudio Dutra, apresentaram aos moradores do Complexo do Alemão, o projeto O post Complexo do Alemão vai receber R$ 210 milhões...",
-   "link": "https://revistaoe.com.br/obras-complexo-do-alemao-rio/",
-   "aba": "demanda"
   }
  ],
  "diarios": {
