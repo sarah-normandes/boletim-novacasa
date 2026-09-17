@@ -1,14 +1,30 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "16/09/2026 20:27",
+ "atualizado_em": "17/09/2026 11:00",
  "manchetes": [
   {
-   "titulo": "Selic mantida em 14% ao ano",
-   "data": "16/09/2026",
+   "titulo": "Selic mantida em 13,75% ao ano",
+   "data": "17/09/2026",
    "fonte": "Banco Central",
    "aba": "custos",
-   "resumo": "Taxa basica segue em 14%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
+   "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Faturamento da indústria caiu 2% em julho, aponta estudo da CNI",
+   "data": "17/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "O faturamento da indústria de transformação recuou 2% em julho,?na comparação com o mês anterior.?Com isso, no?acumulado dos sete primeiros meses do ano, a queda?é de?0,5% em relação ao mesmo período de 2025. Os...",
+   "link": "http://www.revistaanamaco.com.br/faturamento-da-industria-caiu-2-em-julho-aponta-estudo-da-cni",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Fundo imobiliário conclui compra de imóveis por R$ 10,8 milhões; veja impacto na receita",
+   "data": "17/09/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "O fundo imobiliário Tellus Properties (TEPP11) concluiu a aquisição de dois conjuntos comerciais do Edifício Torre Sul, localizado em São Paulo (SP), por R$ 10,77 milhões, mostra fato relevante divulgado ao mercado....",
+   "link": "https://www.moneytimes.com.br/fundo-imobiliario-conclui-compra-de-imoveis-por-r-108-milhoes-veja-impacto-na-receita-igdl/",
+   "aba": "demanda"
   },
   {
    "titulo": "ABB reduz em 79% suas emissões globais e acelera descarbonização no Brasil",
@@ -43,27 +59,19 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
+   "titulo": "Grupo InBetta anuncia novo ciclo de crescimento",
+   "data": "16/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "Com 78 anos de história marcados pela criatividade, inovação e simplificação do cotidiano das pessoas, o Grupo InBetta mostra que tem fôlego para muito mais e acaba de anunciar aportes de mais de R$ 1 bilhão para os...",
+   "link": "http://www.revistaanamaco.com.br/grupo-inbetta-anuncia-novo-ciclo-de-crescimento",
+   "aba": "insumos"
+  },
+  {
    "titulo": "Aldar e Mubadala Ampliam Portfólio Imobiliário em Abu Dhabi com Aquisição de R$ 1,28 Bilhão",
    "data": "16/09/2026",
    "fonte": "Forbes",
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Negócio amplia portfólio da joint venture para US$ 1,3 bilhão em um dos principais polos de tecnologia e energia limpa dos Emirados Árabes O post...",
    "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/aldar-mubadala-masdar-city-square/",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Mesmo com nova queda da Selic, juros elevados ainda desafiam construção, avalia CBIC",
-   "data": "16/09/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) considera positiva a decisão do Comitê de Política Monetária (Copom), anunciada nesta quarta-feira (16), de reduzir a taxa Selic em 0,25 ponto percentual, de 14%...",
-   "link": "https://cbic.org.br/mesmo-com-nova-queda-da-selic-juros-elevados-ainda-desafiam-construcao-avalia-cbic/",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Reforma tributária: entidades promovem live sobre implantação da nova nota fiscal do setor imobiliário",
-   "data": "16/09/2026",
-   "fonte": "CBIC",
-   "resumo": "A implantação da Nota Fiscal Eletrônica de Alienação de Bens Imóveis (NF-e ABI) será tema de uma live que reunirá representantes da Receita Federal e do Comitê Gestor do IBS (CGIBS) para esclarecer dúvidas e orientar...",
-   "link": "https://cbic.org.br/reforma-tributaria-entidades-promovem-live-sobre-implantacao-da-nova-nota-fiscal-do-setor-imobiliario/",
    "aba": "custos"
   },
   {
@@ -107,20 +115,12 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "CBIC reúne setor da construção no Recife nesta sexta-feira (18) para debater mercado imobiliário, crédito e habitação",
+   "titulo": "Crédito, mão de obra e licenciamentos desafiam construção civil no Rio de Janeiro",
    "data": "15/09/2026",
-   "fonte": "CBIC",
-   "resumo": "O mercado imobiliário, as perspectivas de financiamento e os desafios para o crescimento do setor da construção no Nordeste estarão no centro dos debates do Encontro CBIC de Incorporadores e Construtores Nordeste,...",
-   "link": "https://cbic.org.br/cbic-reune-setor-da-construcao-no-recife-nesta-sexta-feira-18-para-debater-mercado-imobiliario-credito-e-habitacao/",
+   "fonte": "ABRAMAT",
+   "resumo": "Temas ganham espaço na Feicon diante da necessidade de preparar empresas e profissionais para novas oportunidades no mercado fluminense O post Crédito, mão de obra e licenciamentos desafiam construção civil no Rio de...",
+   "link": "https://abramat.org.br/credito-mao-de-obra-e-licenciamentos-desafiam-construcao-civil-no-rio-de-janeiro/",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Deu na mídia: David Fratel destaca importância de carreira planejada na construção civil",
-   "data": "15/09/2026",
-   "fonte": "CBIC",
-   "resumo": "O presidente da Comissão de Políticas de Relações Trabalhistas (CPRT) da Câmara Brasileira da Indústria da Construção (CBIC), David Fratel, foi entrevistado pelo Liga News sobre o programa Trilhas Profissionais da...",
-   "link": "https://cbic.org.br/deu-na-midia-david-fratel-destaca-importancia-de-carreira-planejada-na-construcao-civil/",
-   "aba": "geral"
   },
   {
    "titulo": "Com investimento de R$ 50 milhões, Santri vai inaugurar nova sede em Goiânia",
@@ -133,8 +133,8 @@ window.DADOS = {
  ],
  "diarios": {
   "selic": {
-   "valor": 14.0,
-   "data": "16/09/2026"
+   "valor": 13.75,
+   "data": "17/09/2026"
   },
   "ipca12": {
    "valor": 4.22,
