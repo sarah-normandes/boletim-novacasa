@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "18/09/2026 14:59",
+ "atualizado_em": "18/09/2026 17:37",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Expolux anuncia os ganhadores",
+   "data": "18/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Expolux anunciou, nesta tarde, os vencedores da edição 2026 do Selo Lumina. Com curadoria da Grau 10 Editora, a iniciativa celebra os produtos, soluções, inovações e estandes que mais impactaram o público durante a...",
+   "link": "http://www.revistaanamaco.com.br/expolux-anuncia-os-ganhadores",
+   "aba": "geral"
   },
   {
    "titulo": "Crédito no limite",
@@ -35,6 +43,14 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
+   "titulo": "Mercado, funding, FGTS e locação acessível pautam debates no Encontro CBIC Construtores e Incorporadores Nordeste",
+   "data": "18/09/2026",
+   "fonte": "CBIC",
+   "resumo": "Mercado imobiliário, cenário econômico e político, financiamento, FGTS e locação acessível foram os temas dos painéis realizados nesta sexta-feira (18), no Recife (PE), durante o Encontro CBIC de Incorporadores e...",
+   "link": "https://cbic.org.br/mercado-funding-fgts-e-locacao-acessivel-pautam-debates-no-encontro-cbic-construtores-e-incorporadores-nordeste/",
+   "aba": "demanda"
+  },
+  {
    "titulo": "Workshop da CBIC em Fortaleza debate futuro das cidades, baixo carbono e novos métodos construtivos",
    "data": "18/09/2026",
    "fonte": "CBIC",
@@ -56,6 +72,22 @@ window.DADOS = {
    "fonte": "CBIC",
    "resumo": "Os desafios para ampliar o desenvolvimento habitacional e as oportunidades para o mercado imobiliário no Nordeste estiveram no centro das discussões do Encontro CBIC de Incorporadores e Construtores Nordeste,...",
    "link": "https://cbic.org.br/encontro-cbic-de-incorporadores-e-construtores-debate-setor-e-desenvolvimento-habitacional-no-nordeste/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Consórcio Agis, Carioca e Cetenco assinam contrato de obras de expansão da Linha 1 do Metrô do DF",
+   "data": "18/09/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "A Companhia do Metropolitano do Distrito Federal – Metrô-DF e o consórcio composto pela Agis Construção (líder), Carioca e Cetenco assinaram, em 4 de setembro, O post Consórcio Agis, Carioca e Cetenco assinam...",
+   "link": "https://revistaoe.com.br/expansao-linha-1-metro-df-contrato-obras/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Construtora Tenda estreia na Faixa 4 do Minha Casa Minha Vida com projeto de R$ 500 mi",
+   "data": "18/09/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "A Construtora Tenda lançou nesta sexta-feira (18), em Salvador (BA), o Aruna Patamares, empreendimento no bairro Patamares que marca a entrada da companhia para o O post Construtora Tenda estreia na Faixa 4 do Minha...",
+   "link": "https://revistaoe.com.br/tenda-faixa-4-minha-casa-minha-vida/",
    "aba": "demanda"
   },
   {
@@ -91,44 +123,12 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Construção de Moradias nos EUA Reage em Agosto Mas Alta das Hipotecas Acende Sinal de Alerta",
-   "data": "17/09/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. O avanço na construção de residências americanas enfrenta a pressão do aumento dos juros pelo Fed e da disparada do petróleo provocada pela crise no...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/construcao-moradias-eua-hipotecas/",
-   "aba": "custos"
-  },
-  {
-   "titulo": "CBIC participa de painel sobre o futuro do setor da construção no Construtech Week",
-   "data": "17/09/2026",
-   "fonte": "CBIC",
-   "resumo": "Os caminhos do mercado imobiliário diante das transformações na indústria da construção, das políticas habitacionais e das mudanças no cenário econômico estiveram em debate nesta quinta-feira (17), durante a 8ª...",
-   "link": "https://cbic.org.br/cbic-participa-de-painel-sobre-o-futuro-do-setor-da-construcao-no-construtech-week/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "Entidades veem oportunidade da construção industrializada no setor de habitação",
    "data": "17/09/2026",
    "fonte": "O Empreiteiro",
    "resumo": "O mercado de construção industrializada teve crescimento nos últimos anos, mas possui potencial de avançar ainda bastante. É o que pensa executivos de entidades que O post Entidades veem oportunidade da construção...",
    "link": "https://revistaoe.com.br/avanco-construcao-industrializada-habitacao/",
    "aba": "insumos"
-  },
-  {
-   "titulo": "ABB reduz em 79% suas emissões globais e acelera descarbonização no Brasil",
-   "data": "16/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A ABB reduziu 79% das emissões globais de escopo 1 e 2 (associadas à operação e à energia adquirida) em relação à 2019, segundo seu último relatório de sustentabilidade. O avanço foi alcançado, ente outras ações, com...",
-   "link": "http://www.revistaanamaco.com.br/abb-reduz-em-79-suas-emissoes-globais-e-acelera-descarbonizacao-no-brasil-",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Ação da Schneider Electric doa equipamentos solares para comunidade do PA",
-   "data": "16/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Schneider Electric integra uma nova ação de acesso à energia, na Reserva Extrativista Tapajós-Arapiuns, em Santarém (PA). Por meio do Business With Empathy, a mobilização reúne a ONG Projeto Saúde e Alegria, Bain &...",
-   "link": "http://www.revistaanamaco.com.br/acao-da-schneider-electric-doa-equipamentos-solares-para-comunidade-do-pa",
-   "aba": "custos"
   }
  ],
  "diarios": {
