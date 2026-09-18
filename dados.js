@@ -1,14 +1,30 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "17/09/2026 20:17",
+ "atualizado_em": "18/09/2026 10:17",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "17/09/2026",
+   "data": "18/09/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Espaço Smart chega ao CasaShopping e amplia presença no Rio de Janeiro",
+   "data": "18/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Espaço Smart anuncia a abertura de sua mais nova unidade, localizada no CasaShopping, na Barra da Tijuca, no Rio de Janeiro. O movimento consolida a expansão da marca na capital fluminense, somando-se à operação já...",
+   "link": "http://www.revistaanamaco.com.br/espaco-smart-chega-ao-casashopping-e-amplia-presenca-no-rio-de-janeiro--",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Fundos imobiliários anunciam liquidação e saída da B3; veja o que muda para os cotistas",
+   "data": "18/09/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "A Suno Asset vai liquidar dois fundos imobiliários negociados na bolsa de valores brasileira: o Kilima Suno 30 (KISU11) e o Suno Fundo de Fundos (SNFF11). Os dois veículos serão incorporados ao Suno Multiestratégia...",
+   "link": "https://www.moneytimes.com.br/fundos-imobiliarios-anunciam-liquidacao-e-saida-da-b3-veja-o-que-muda-para-os-cotistas-igdl/",
+   "aba": "demanda"
   },
   {
    "titulo": "28ª edição do Ecomac Sul reúne o setor da construção em Foz do Iguaçu",
@@ -113,32 +129,12 @@ window.DADOS = {
    "resumo": "A Pado celebra, este ano, 90 anos de história. Com o objetivo de acompanhar a evolução do mercado e sustentar seus planos de expansão, realizou um processo de reposicionamento estratégico e atualização de sua...",
    "link": "http://www.revistaanamaco.com.br/pado-celebra-90-anos-com-reposicionamento-e-reconhecimento-do-mercado-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Grupo InBetta anuncia novo ciclo de crescimento",
-   "data": "16/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Com 78 anos de história marcados pela criatividade, inovação e simplificação do cotidiano das pessoas, o Grupo InBetta mostra que tem fôlego para muito mais e acaba de anunciar aportes de mais de R$ 1 bilhão para os...",
-   "link": "http://www.revistaanamaco.com.br/grupo-inbetta-anuncia-novo-ciclo-de-crescimento",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Mesmo com nova queda da Selic, juros elevados ainda desafiam construção, avalia CBIC",
-   "data": "16/09/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) considera positiva a decisão do Comitê de Política Monetária (Copom), anunciada nesta quarta-feira (16), de reduzir a taxa Selic em 0,25 ponto percentual, de 14%...",
-   "link": "https://cbic.org.br/mesmo-com-nova-queda-da-selic-juros-elevados-ainda-desafiam-construcao-avalia-cbic/",
-   "aba": "custos"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "17/09/2026"
-  },
-  "ipca12": {
-   "valor": 4.22,
-   "data": "01/08/2026"
+   "data": "18/09/2026"
   },
   "igpm12": {
    "valor": 0.06,
