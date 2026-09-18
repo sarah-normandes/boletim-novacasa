@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "18/09/2026 10:17",
+ "atualizado_em": "18/09/2026 14:59",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -11,6 +11,22 @@ window.DADOS = {
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
+   "titulo": "Crédito no limite",
+   "data": "18/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "Levantamento baseado em 272 semanas de dados de busca do Google Trends derruba um mito recorrente sobre o comportamento do consumidor endividado: o crédito não é a primeira reação ao aperto no orçamento - é a última....",
+   "link": "http://www.revistaanamaco.com.br/credito-no-limite-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Paleta de cores Coral Vibra São Luís celebra a identidade maranhense",
+   "data": "18/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Coral, marca de tintas decorativas da AkzoNobel, apresenta o Coral Vibra São Luís, iniciativa que transforma referências da capital e do Maranhão em uma seleção exclusiva de tonalidades. Cultura popular,...",
+   "link": "http://www.revistaanamaco.com.br/paleta-de-cores-coral-vibra-sao-luis-celebra-a-identidade-maranhense-",
+   "aba": "insumos"
+  },
+  {
    "titulo": "Espaço Smart chega ao CasaShopping e amplia presença no Rio de Janeiro",
    "data": "18/09/2026",
    "fonte": "Anamaco",
@@ -19,20 +35,28 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "Fundos imobiliários anunciam liquidação e saída da B3; veja o que muda para os cotistas",
+   "titulo": "Workshop da CBIC em Fortaleza debate futuro das cidades, baixo carbono e novos métodos construtivos",
    "data": "18/09/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "A Suno Asset vai liquidar dois fundos imobiliários negociados na bolsa de valores brasileira: o Kilima Suno 30 (KISU11) e o Suno Fundo de Fundos (SNFF11). Os dois veículos serão incorporados ao Suno Multiestratégia...",
-   "link": "https://www.moneytimes.com.br/fundos-imobiliarios-anunciam-liquidacao-e-saida-da-b3-veja-o-que-muda-para-os-cotistas-igdl/",
-   "aba": "demanda"
+   "fonte": "CBIC",
+   "resumo": "Os caminhos para tornar as cidades mais inteligentes, sustentáveis e resilientes estarão em pauta no workshop “Construção do Amanhã: Sustentabilidade, Inovação e Novos Métodos Construtivos – O Futuro da Minha...",
+   "link": "https://cbic.org.br/workshop-da-cbic-em-fortaleza-debate-futuro-das-cidades-baixo-carbono-e-novos-metodos-construtivos/",
+   "aba": "geral"
   },
   {
-   "titulo": "28ª edição do Ecomac Sul reúne o setor da construção em Foz do Iguaçu",
-   "data": "17/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Começa hoje, no Mabu Resort, em Foz do Iguaçu (PR), a 28ª edição do Ecomac Sul. O evento deverá reunir empresários, lojistas, lideranças e representantes do setor de diferentes regiões do País. Coordenado pela...",
-   "link": "http://www.revistaanamaco.com.br/28-edicao-do-ecomac-sul-reune-o-setor-da-construcao-em-foz-do-iguacu",
-   "aba": "geral"
+   "titulo": "Sinduscon-RS: Industrialização ganha espaço como resposta aos desafios da construção civil",
+   "data": "18/09/2026",
+   "fonte": "CBIC",
+   "resumo": "Realizado no Teatro do Sinduscon-RS, o 4º Seminário Industrialização na Construção reuniu especialistas para discutir tecnologia, produtividade, qualificação profissional e integração entre indústria, projetistas,...",
+   "link": "https://cbic.org.br/sinduscon-rs-industrializacao-ganha-espaco-como-resposta-aos-desafios-da-construcao-civil/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Encontro CBIC de Incorporadores e Construtores debate setor e desenvolvimento habitacional no Nordeste",
+   "data": "18/09/2026",
+   "fonte": "CBIC",
+   "resumo": "Os desafios para ampliar o desenvolvimento habitacional e as oportunidades para o mercado imobiliário no Nordeste estiveram no centro das discussões do Encontro CBIC de Incorporadores e Construtores Nordeste,...",
+   "link": "https://cbic.org.br/encontro-cbic-de-incorporadores-e-construtores-debate-setor-e-desenvolvimento-habitacional-no-nordeste/",
+   "aba": "demanda"
   },
   {
    "titulo": "Impressão 3D metálica pode reduzir o tempo de obtenção de peças industriais",
@@ -59,6 +83,14 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
+   "titulo": "28ª edição do Ecomac Sul reúne o setor da construção em Foz do Iguaçu",
+   "data": "17/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "Começa hoje, no Mabu Resort, em Foz do Iguaçu (PR), a 28ª edição do Ecomac Sul. O evento deverá reunir empresários, lojistas, lideranças e representantes do setor de diferentes regiões do País. Coordenado pela...",
+   "link": "http://www.revistaanamaco.com.br/28-edicao-do-ecomac-sul-reune-o-setor-da-construcao-em-foz-do-iguacu",
+   "aba": "geral"
+  },
+  {
    "titulo": "Construção de Moradias nos EUA Reage em Agosto Mas Alta das Hipotecas Acende Sinal de Alerta",
    "data": "17/09/2026",
    "fonte": "Forbes",
@@ -73,22 +105,6 @@ window.DADOS = {
    "resumo": "Os caminhos do mercado imobiliário diante das transformações na indústria da construção, das políticas habitacionais e das mudanças no cenário econômico estiveram em debate nesta quinta-feira (17), durante a 8ª...",
    "link": "https://cbic.org.br/cbic-participa-de-painel-sobre-o-futuro-do-setor-da-construcao-no-construtech-week/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Encontro CBIC de Incorporadores e Construtores Nordeste discute perspectivas para a construção na região",
-   "data": "17/09/2026",
-   "fonte": "CBIC",
-   "resumo": "Empresários, lideranças e especialistas do setor da construção se reúnem nesta sexta-feira (18), no Recife (PE), para discutir os caminhos do mercado imobiliário e as perspectivas para o crescimento da construção no...",
-   "link": "https://cbic.org.br/encontro-cbic-de-incorporadores-e-construtores-nordeste-discute-perspectivas-para-a-construcao-na-regiao/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Reforma tributária: setor imobiliário debate implantação da NF-e ABI em live",
-   "data": "17/09/2026",
-   "fonte": "CBIC",
-   "resumo": "A implantação da Nota Fiscal Eletrônica de Alienação de Bens Imóveis (NF-e ABI) foi tema de live realizada nesta quinta-feira (17), com participação de representantes da Receita Federal e do Comitê Gestor do IBS....",
-   "link": "https://cbic.org.br/reforma-tributaria-setor-imobiliario-debate-implantacao-da-nf-e-abi-em-live/",
-   "aba": "custos"
   },
   {
    "titulo": "Entidades veem oportunidade da construção industrializada no setor de habitação",
@@ -113,28 +129,16 @@ window.DADOS = {
    "resumo": "A Schneider Electric integra uma nova ação de acesso à energia, na Reserva Extrativista Tapajós-Arapiuns, em Santarém (PA). Por meio do Business With Empathy, a mobilização reúne a ONG Projeto Saúde e Alegria, Bain &...",
    "link": "http://www.revistaanamaco.com.br/acao-da-schneider-electric-doa-equipamentos-solares-para-comunidade-do-pa",
    "aba": "custos"
-  },
-  {
-   "titulo": "Brasileiro sente a inflação antes das pesquisas",
-   "data": "16/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "O consumidor brasileiro não precisa esperar a divulgação do IPCA, medido pelo IBGE, para saber que os preços subiram: ele sente - e digita isso no Google - no exato mês em que o choque acontece. É o que revela um...",
-   "link": "http://www.revistaanamaco.com.br/brasileiro-sente-a-inflacao-antes-das-pesquisas-",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Pado celebra 90 anos com reposicionamento e reconhecimento do mercado",
-   "data": "16/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Pado celebra, este ano, 90 anos de história. Com o objetivo de acompanhar a evolução do mercado e sustentar seus planos de expansão, realizou um processo de reposicionamento estratégico e atualização de sua...",
-   "link": "http://www.revistaanamaco.com.br/pado-celebra-90-anos-com-reposicionamento-e-reconhecimento-do-mercado-",
-   "aba": "insumos"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
    "data": "18/09/2026"
+  },
+  "ipca12": {
+   "valor": 4.22,
+   "data": "01/08/2026"
   },
   "igpm12": {
    "valor": 0.06,
