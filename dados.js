@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "19/09/2026 09:47",
+ "atualizado_em": "19/09/2026 14:38",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -11,20 +11,20 @@ window.DADOS = {
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
+   "titulo": "Estudo do Ibevar-Fia Business School indica queda nas vendas de matcon",
+   "data": "19/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "O varejo brasileiro deve manter um ritmo de crescimento moderado nos próximos três meses, mas por trás da média favorável esconde-se uma economia de duas velocidades: enquanto alguns setor aceleram, outros caminham...",
+   "link": "http://www.revistaanamaco.com.br/estudo-do-ibevar-fia-business-school-indica-queda-nas-vendas-de-matcon",
+   "aba": "insumos"
+  },
+  {
    "titulo": "Parceria entre Onçafari e Tintas Eucatex visa a conservação do Pantanal",
    "data": "19/09/2026",
    "fonte": "Anamaco",
    "resumo": "Entre setembro e dezembro, a Tintas Eucatex desenvolve uma iniciativa em parceria com a ONG Onçafari para financiar projetos de conservação da biodiversidade brasileira no Pantanal. Durante o período, parte da...",
    "link": "http://www.revistaanamaco.com.br/parceria-entre-oncafari-e-tintas-eucatex-visa-a-conservacao-do-pantanal-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Estes são os 10 fundos imobiliários (FIIs) com maiores retornos em 2026, segundo a Quantum Finance",
-   "data": "19/09/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "O Riza Arctium Real Estate (RZAT11) lidera o ranking dos fundos imobiliários com os maiores retornos acumulados em 2026, segundo levantamento da Quantum Finance ao qual o Money Times teve acesso. Do início de janeiro...",
-   "link": "https://www.moneytimes.com.br/estes-sao-os-10-fiis-com-maiores-retornos-em-2026-segundo-a-quantum-finance-igdl/",
-   "aba": "demanda"
   },
   {
    "titulo": "Expolux anuncia os ganhadores",
