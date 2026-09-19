@@ -1,14 +1,30 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "18/09/2026 19:55",
+ "atualizado_em": "19/09/2026 09:47",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "18/09/2026",
+   "data": "19/09/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Parceria entre Onçafari e Tintas Eucatex visa a conservação do Pantanal",
+   "data": "19/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "Entre setembro e dezembro, a Tintas Eucatex desenvolve uma iniciativa em parceria com a ONG Onçafari para financiar projetos de conservação da biodiversidade brasileira no Pantanal. Durante o período, parte da...",
+   "link": "http://www.revistaanamaco.com.br/parceria-entre-oncafari-e-tintas-eucatex-visa-a-conservacao-do-pantanal-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Estes são os 10 fundos imobiliários (FIIs) com maiores retornos em 2026, segundo a Quantum Finance",
+   "data": "19/09/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "O Riza Arctium Real Estate (RZAT11) lidera o ranking dos fundos imobiliários com os maiores retornos acumulados em 2026, segundo levantamento da Quantum Finance ao qual o Money Times teve acesso. Do início de janeiro...",
+   "link": "https://www.moneytimes.com.br/estes-sao-os-10-fiis-com-maiores-retornos-em-2026-segundo-a-quantum-finance-igdl/",
+   "aba": "demanda"
   },
   {
    "titulo": "Expolux anuncia os ganhadores",
@@ -113,28 +129,12 @@ window.DADOS = {
    "resumo": "O faturamento da indústria de transformação recuou 2% em julho,?na comparação com o mês anterior.?Com isso, no?acumulado dos sete primeiros meses do ano, a queda?é de?0,5% em relação ao mesmo período de 2025. Os...",
    "link": "http://www.revistaanamaco.com.br/faturamento-da-industria-caiu-2-em-julho-aponta-estudo-da-cni",
    "aba": "demanda"
-  },
-  {
-   "titulo": "28ª edição do Ecomac Sul reúne o setor da construção em Foz do Iguaçu",
-   "data": "17/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Começa hoje, no Mabu Resort, em Foz do Iguaçu (PR), a 28ª edição do Ecomac Sul. O evento deverá reunir empresários, lojistas, lideranças e representantes do setor de diferentes regiões do País. Coordenado pela...",
-   "link": "http://www.revistaanamaco.com.br/28-edicao-do-ecomac-sul-reune-o-setor-da-construcao-em-foz-do-iguacu",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Entidades veem oportunidade da construção industrializada no setor de habitação",
-   "data": "17/09/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "O mercado de construção industrializada teve crescimento nos últimos anos, mas possui potencial de avançar ainda bastante. É o que pensa executivos de entidades que O post Entidades veem oportunidade da construção...",
-   "link": "https://revistaoe.com.br/avanco-construcao-industrializada-habitacao/",
-   "aba": "insumos"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "18/09/2026"
+   "data": "19/09/2026"
   },
   "ipca12": {
    "valor": 4.22,
