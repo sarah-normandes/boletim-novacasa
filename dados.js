@@ -1,14 +1,62 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "19/09/2026 19:35",
+ "atualizado_em": "21/09/2026 12:31",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "19/09/2026",
+   "data": "21/09/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Abeaço anuncia Tamara Figueiredo como sua nova gerente Executiva",
+   "data": "21/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Associação Brasileira de Embalagem de Aço  anuncia Tamara Figueiredo como nova gerente Executiva da entidade. A profissional conta com uma trajetória construída nas áreas de Relações Institucionais, Advocacy,...",
+   "link": "http://www.revistaanamaco.com.br/abeaco-anuncia-tamara-figueiredo-como-sua-nova-gerente-executiva-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Grupo Lamosa no Brasil vai investir R$ 150 milhões na planta de São Mateus do Sul",
+   "data": "21/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Grupo Lamosa no Brasil acaba de anunciar um investimento de R$ 150 milhões, que deverão ser destinados à implantação de novos equipamentos e de readequações em toda estrutura ao parque fabril de São Mateus do Sul",
+   "link": "http://www.revistaanamaco.com.br/grupo-lamosa-no-brasil-vai-investir-r-150-milhoes-na-planta-de-sao-mateus-do-sul",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Com o mote do Brasil para o Brasil, Tintas Iquine revela suas Cores do Ano 2027",
+   "data": "21/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Tintas Iquine anuncia Caroá, um tom verde suave e caloroso, e Jatobá, um verde escuro e profundo, como suas Cores do Ano para 2027. A escolha das tonalidades é fruto de um estudo conduzido em parceria com o...",
+   "link": "http://www.revistaanamaco.com.br/com-o-mote-do-brasil-para-o-brasil-tintas-iquine-revela-suas-cores-do-ano-2027-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Safra corta preços-alvo de incorporadoras e aponta estoques como desafio; uma ação pode saltar 53%",
+   "data": "21/09/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "O Banco Safra reduziu os preços-alvo das cinco incorporadoras de média e alta renda sob sua cobertura, em meio a uma perspectiva mais cautelosa para o segmento diante do aumento dos estoques e dos juros ainda...",
+   "link": "https://www.moneytimes.com.br/safra-corta-precos-alvo-de-incorporadoras-e-aponta-estoques-como-desafio-veja-recomendacoes-igdl/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Engerey fecha parceria com a Schneider Electric para tratar distorções na rede elétrica",
+   "data": "20/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Engerey anuncia parceria com a Schneider Electric para a produção de painéis elétricos com filtros ativos de harmônicas EasyLogic APF, destinados a contribuir para maior estabilidade das instalações elétricas",
+   "link": "http://www.revistaanamaco.com.br/engerey-fecha-parceria-com-a-schneider-electric-para-tratar-distorcoes-na-rede-eletrica-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Acidentes de trabalho na construção civil cresceram 16,9% em dois anos no Brasil",
+   "data": "20/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "De acordo com dados do Ministério da Previdência Social, referentes a 2024, os acidentes de trabalho na construção cresceram 16,9% no Brasil em dois anos, passando de 43.452, em 2022, para 50.789 ocorrências em 2024....",
+   "link": "http://www.revistaanamaco.com.br/acidentes-de-trabalho-na-construcao-civil-cresceram-169-em-dois-anos-no-brasil-",
+   "aba": "geral"
   },
   {
    "titulo": "Estudo do Ibevar-Fia Business School indica queda nas vendas de matcon",
@@ -81,68 +129,12 @@ window.DADOS = {
    "resumo": "Realizado no Teatro do Sinduscon-RS, o 4º Seminário Industrialização na Construção reuniu especialistas para discutir tecnologia, produtividade, qualificação profissional e integração entre indústria, projetistas,...",
    "link": "https://cbic.org.br/sinduscon-rs-industrializacao-ganha-espaco-como-resposta-aos-desafios-da-construcao-civil/",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Encontro CBIC de Incorporadores e Construtores debate setor e desenvolvimento habitacional no Nordeste",
-   "data": "18/09/2026",
-   "fonte": "CBIC",
-   "resumo": "Os desafios para ampliar o desenvolvimento habitacional e as oportunidades para o mercado imobiliário no Nordeste estiveram no centro das discussões do Encontro CBIC de Incorporadores e Construtores Nordeste,...",
-   "link": "https://cbic.org.br/encontro-cbic-de-incorporadores-e-construtores-debate-setor-e-desenvolvimento-habitacional-no-nordeste/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Consórcio Agis, Carioca e Cetenco assinam contrato de obras de expansão da Linha 1 do Metrô do DF",
-   "data": "18/09/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A Companhia do Metropolitano do Distrito Federal – Metrô-DF e o consórcio composto pela Agis Construção (líder), Carioca e Cetenco assinaram, em 4 de setembro, O post Consórcio Agis, Carioca e Cetenco assinam...",
-   "link": "https://revistaoe.com.br/expansao-linha-1-metro-df-contrato-obras/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Construtora Tenda estreia na Faixa 4 do Minha Casa Minha Vida com projeto de R$ 500 mi",
-   "data": "18/09/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A Construtora Tenda lançou nesta sexta-feira (18), em Salvador (BA), o Aruna Patamares, empreendimento no bairro Patamares que marca a entrada da companhia para o O post Construtora Tenda estreia na Faixa 4 do Minha...",
-   "link": "https://revistaoe.com.br/tenda-faixa-4-minha-casa-minha-vida/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Impressão 3D metálica pode reduzir o tempo de obtenção de peças industriais",
-   "data": "17/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Em parceria com o Centro de Inovação e Tecnologia Senai, por meio do Centro de Desenvolvimento da Tecnologia de Manufatura Aditiva por Deposição a Arco, a Belgo Arames produziu um componente por impressão 3D,...",
-   "link": "http://www.revistaanamaco.com.br/impressao-3d-metalica-pode-reduzir-o-tempo-de-obtencao-de-pecas-industriais-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Carmelo Fior estreia como expositora na Cersaie, que acontece, este mês, na Itália",
-   "data": "17/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Um dos principais eventos internacionais de revestimentos cerâmicos e acabamentos, a Cersaie 2026, vai contar com a presença da indústria brasileira de revestimentos. Este ano, Carmelo Fior, que já havia participado...",
-   "link": "http://www.revistaanamaco.com.br/carmelo-fior-estreia-como-expositora-na-cersaie-que-acontece-este-mes-na-italia---",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Faturamento da indústria caiu 2% em julho, aponta estudo da CNI",
-   "data": "17/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "O faturamento da indústria de transformação recuou 2% em julho,?na comparação com o mês anterior.?Com isso, no?acumulado dos sete primeiros meses do ano, a queda?é de?0,5% em relação ao mesmo período de 2025. Os...",
-   "link": "http://www.revistaanamaco.com.br/faturamento-da-industria-caiu-2-em-julho-aponta-estudo-da-cni",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "19/09/2026"
-  },
-  "ipca12": {
-   "valor": 4.22,
-   "data": "01/08/2026"
-  },
-  "igpm12": {
-   "valor": 0.06,
-   "data": "01/08/2026"
+   "data": "21/09/2026"
   }
  },
  "mensais": {
