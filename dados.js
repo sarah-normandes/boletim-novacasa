@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "21/09/2026 12:31",
+ "atualizado_em": "21/09/2026 18:30",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Gerdau conquista, mais uma vez, Selo Ouro do Programa Brasileiro GHG Protocol",
+   "data": "21/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Gerdau conquistou, pelo quarto ano consecutivo, o Selo Ouro do Programa Brasileiro GHG Protocol. O reconhecimento, concedido pela Fundação Getulio Vargas, é destinado a organizações que alcançam o nível mais...",
+   "link": "http://www.revistaanamaco.com.br/gerdau-conquista-mais-uma-vez-selo-ouro-do-programa-brasileiro-ghg-protocol",
+   "aba": "insumos"
   },
   {
    "titulo": "Abeaço anuncia Tamara Figueiredo como sua nova gerente Executiva",
@@ -35,12 +43,20 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "Safra corta preços-alvo de incorporadoras e aponta estoques como desafio; uma ação pode saltar 53%",
+   "titulo": "Semana CANPAT Construção reúne setor para discutir prevenção e segurança nos canteiros",
    "data": "21/09/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "O Banco Safra reduziu os preços-alvo das cinco incorporadoras de média e alta renda sob sua cobertura, em meio a uma perspectiva mais cautelosa para o segmento diante do aumento dos estoques e dos juros ainda...",
-   "link": "https://www.moneytimes.com.br/safra-corta-precos-alvo-de-incorporadoras-e-aponta-estoques-como-desafio-veja-recomendacoes-igdl/",
-   "aba": "custos"
+   "fonte": "CBIC",
+   "resumo": "De 5 a 9 de outubro, a construção civil terá uma programação dedicada à prevenção de acidentes e à promoção da segurança e saúde nos ambientes de trabalho. A Semana CANPAT Construção 2026 reunirá representantes do...",
+   "link": "https://cbic.org.br/semana-canpat-construcao-reune-setor-para-discutir-prevencao-e-seguranca-nos-canteiros/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Seconci-DF: alfabetização transforma aprendizado em autonomia para trabalhador da construção",
+   "data": "21/09/2026",
+   "fonte": "CBIC",
+   "resumo": "Projeto do Seconci-DF mostra, todos os meses, como os serviços da instituição contribuem para transformar histórias e ampliar oportunidades para trabalhadores do setor Ir ao mercado. Escolher um produto. Conferir o...",
+   "link": "https://cbic.org.br/seconci-df-alfabetizacao-transforma-aprendizado-em-autonomia-para-trabalhador-da-construcao/",
+   "aba": "geral"
   },
   {
    "titulo": "Engerey fecha parceria com a Schneider Electric para tratar distorções na rede elétrica",
@@ -113,22 +129,6 @@ window.DADOS = {
    "resumo": "Mercado imobiliário, cenário econômico e político, financiamento, FGTS e locação acessível foram os temas dos painéis realizados nesta sexta-feira (18), no Recife (PE), durante o Encontro CBIC de Incorporadores e...",
    "link": "https://cbic.org.br/mercado-funding-fgts-e-locacao-acessivel-pautam-debates-no-encontro-cbic-construtores-e-incorporadores-nordeste/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Workshop da CBIC em Fortaleza debate futuro das cidades, baixo carbono e novos métodos construtivos",
-   "data": "18/09/2026",
-   "fonte": "CBIC",
-   "resumo": "Os caminhos para tornar as cidades mais inteligentes, sustentáveis e resilientes estarão em pauta no workshop “Construção do Amanhã: Sustentabilidade, Inovação e Novos Métodos Construtivos – O Futuro da Minha...",
-   "link": "https://cbic.org.br/workshop-da-cbic-em-fortaleza-debate-futuro-das-cidades-baixo-carbono-e-novos-metodos-construtivos/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Sinduscon-RS: Industrialização ganha espaço como resposta aos desafios da construção civil",
-   "data": "18/09/2026",
-   "fonte": "CBIC",
-   "resumo": "Realizado no Teatro do Sinduscon-RS, o 4º Seminário Industrialização na Construção reuniu especialistas para discutir tecnologia, produtividade, qualificação profissional e integração entre indústria, projetistas,...",
-   "link": "https://cbic.org.br/sinduscon-rs-industrializacao-ganha-espaco-como-resposta-aos-desafios-da-construcao-civil/",
-   "aba": "insumos"
   }
  ],
  "diarios": {
