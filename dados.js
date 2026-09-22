@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "22/09/2026 10:48",
+ "atualizado_em": "22/09/2026 15:26",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Satisfação com o trabalho",
+   "data": "22/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A 15ª edição dos Indicadores de Qualidade do Trabalho da Sondagem de Mercado de Trabalho, do FGV Ibre, aborda o tema da satisfação com o trabalho. O quesito desse tema perguntou para cada trabalhador a percepção...",
+   "link": "http://www.revistaanamaco.com.br/satisfacao-com-o-trabalho",
+   "aba": "geral"
   },
   {
    "titulo": "Brasil tem 73,71 milhões de inadimplentes",
@@ -113,14 +121,6 @@ window.DADOS = {
    "resumo": "A Expolux anunciou, nesta tarde, os vencedores da edição 2026 do Selo Lumina. Com curadoria da Grau 10 Editora, a iniciativa celebra os produtos, soluções, inovações e estandes que mais impactaram o público durante a...",
    "link": "http://www.revistaanamaco.com.br/expolux-anuncia-os-ganhadores",
    "aba": "geral"
-  },
-  {
-   "titulo": "Crédito no limite",
-   "data": "18/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Levantamento baseado em 272 semanas de dados de busca do Google Trends derruba um mito recorrente sobre o comportamento do consumidor endividado: o crédito não é a primeira reação ao aperto no orçamento - é a última....",
-   "link": "http://www.revistaanamaco.com.br/credito-no-limite-",
-   "aba": "demanda"
   },
   {
    "titulo": "Mercado, funding, FGTS e locação acessível pautam debates no Encontro CBIC Construtores e Incorporadores Nordeste",
