@@ -1,14 +1,30 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "21/09/2026 18:30",
+ "atualizado_em": "22/09/2026 10:48",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "21/09/2026",
+   "data": "22/09/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Brasil tem 73,71 milhões de inadimplentes",
+   "data": "22/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Brasil registrou, em agosto, 73,71 milhões de brasileiros com contas em atraso. O dado faz parte do Indicador de Inadimplência da CNDL e do SPC Brasil. Esse volume representa 43,90% da população adulta brasileira",
+   "link": "http://www.revistaanamaco.com.br/brasil-tem-7371-milhoes-de-inadimplentes-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Roca faz parcerias com varejistas para fortalecer a operação no Ceará",
+   "data": "22/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A indústria de matcon passa por um movimento de maior integração entre a produção e os canais de distribuição. No Ceará, a Roca aposta nessa estratégia, por meio de parcerias com varejistas do segmento no Estado,...",
+   "link": "http://www.revistaanamaco.com.br/roca-faz-parcerias-com-varejistas-para-fortalecer-a-operacao-no-ceara",
+   "aba": "geral"
   },
   {
    "titulo": "Gerdau conquista, mais uma vez, Selo Ouro do Programa Brasileiro GHG Protocol",
@@ -107,22 +123,6 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Paleta de cores Coral Vibra São Luís celebra a identidade maranhense",
-   "data": "18/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Coral, marca de tintas decorativas da AkzoNobel, apresenta o Coral Vibra São Luís, iniciativa que transforma referências da capital e do Maranhão em uma seleção exclusiva de tonalidades. Cultura popular,...",
-   "link": "http://www.revistaanamaco.com.br/paleta-de-cores-coral-vibra-sao-luis-celebra-a-identidade-maranhense-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Espaço Smart chega ao CasaShopping e amplia presença no Rio de Janeiro",
-   "data": "18/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Espaço Smart anuncia a abertura de sua mais nova unidade, localizada no CasaShopping, na Barra da Tijuca, no Rio de Janeiro. O movimento consolida a expansão da marca na capital fluminense, somando-se à operação já...",
-   "link": "http://www.revistaanamaco.com.br/espaco-smart-chega-ao-casashopping-e-amplia-presenca-no-rio-de-janeiro--",
-   "aba": "insumos"
-  },
-  {
    "titulo": "Mercado, funding, FGTS e locação acessível pautam debates no Encontro CBIC Construtores e Incorporadores Nordeste",
    "data": "18/09/2026",
    "fonte": "CBIC",
@@ -134,7 +134,7 @@ window.DADOS = {
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "21/09/2026"
+   "data": "22/09/2026"
   }
  },
  "mensais": {
