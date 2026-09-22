@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "22/09/2026 15:26",
+ "atualizado_em": "22/09/2026 20:23",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -17,6 +17,14 @@ window.DADOS = {
    "resumo": "A 15ª edição dos Indicadores de Qualidade do Trabalho da Sondagem de Mercado de Trabalho, do FGV Ibre, aborda o tema da satisfação com o trabalho. O quesito desse tema perguntou para cada trabalhador a percepção...",
    "link": "http://www.revistaanamaco.com.br/satisfacao-com-o-trabalho",
    "aba": "geral"
+  },
+  {
+   "titulo": "Com R$ 140 milhões em investimentos, Obramax inaugura sua 2ª loja em MG",
+   "data": "22/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Obramax abriu hoje, 22 de setembro, as portas de sua mais nova unidade. Com aporte de R$ 140 milhões, a loja está localizada em Contagem, na Região Metropolitana de Belo Horizonte (MG), e é  segunda operação da...",
+   "link": "http://www.revistaanamaco.com.br/com-r-140-milhoes-em-investimentos-obramax-inaugura-sua-2-loja-em-mg",
+   "aba": "demanda"
   },
   {
    "titulo": "Brasil tem 73,71 milhões de inadimplentes",
@@ -113,14 +121,6 @@ window.DADOS = {
    "resumo": "Entre setembro e dezembro, a Tintas Eucatex desenvolve uma iniciativa em parceria com a ONG Onçafari para financiar projetos de conservação da biodiversidade brasileira no Pantanal. Durante o período, parte da...",
    "link": "http://www.revistaanamaco.com.br/parceria-entre-oncafari-e-tintas-eucatex-visa-a-conservacao-do-pantanal-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Expolux anuncia os ganhadores",
-   "data": "18/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Expolux anunciou, nesta tarde, os vencedores da edição 2026 do Selo Lumina. Com curadoria da Grau 10 Editora, a iniciativa celebra os produtos, soluções, inovações e estandes que mais impactaram o público durante a...",
-   "link": "http://www.revistaanamaco.com.br/expolux-anuncia-os-ganhadores",
-   "aba": "geral"
   },
   {
    "titulo": "Mercado, funding, FGTS e locação acessível pautam debates no Encontro CBIC Construtores e Incorporadores Nordeste",
