@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "23/09/2026 10:59",
+ "atualizado_em": "23/09/2026 15:45",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,38 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Rede iGUi é listada entre as melhores empresas para trabalhar em São Paulo",
+   "data": "23/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A iGUi conquistou o 4º lugar na categoria Pequenas Empresas do Interior e Litoral Paulista do ranking Great Place to Work - Melhores Empresas para Trabalhar em São Paulo 2026",
+   "link": "http://www.revistaanamaco.com.br/rede-igui-e-listada-entre-as-melhores-empresas-para-trabalhar-em-sao-paulo-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "José Roberto Tadros é reeleito presidente da CNC para o mandado 2026-2030",
+   "data": "23/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "Por unanimidade, a CNC reelegeu José Roberto Tadros para a presidência da entidade. A votação, realizada hoje, 23 de setembro,  em Brasília, confirmou a chapa para o mandato 2026-2030 com 28 votos favoráveis. A posse...",
+   "link": "http://www.revistaanamaco.com.br/jose-roberto-tadros-e-reeleito-presidente-da-cnc-para-o-mandado-2026-2030",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Indústria está há 21 meses sem confiança na economia, apura CNI",
+   "data": "23/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Índice de Confiança do Empresário Industrial recuou 1,4 ponto em setembro, de 46,3 pontos para 44,9 pontos. É o que mostra pesquisa divulgada pela CNI. Com esse resultado, o ICEI segue abaixo da linha divisória de...",
+   "link": "http://www.revistaanamaco.com.br/industria-esta-ha-21-meses-sem-confianca-na-economia-apura-cni-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Tigre abre inscrições para cursos de hidráulica em Joinville e Rio Claro",
+   "data": "23/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Tigre está com inscrições abertas para cursos gratuitos de instalação hidráulica nas cidades de Joinville (SC) e Rio Claro (SP). As formações serão realizadas em unidades do Senai, com aulas presenciais e foco na...",
+   "link": "http://www.revistaanamaco.com.br/tigre-abre-inscricoes-para-cursos-de-hidraulica-em-joinville-e-rio-claro-",
+   "aba": "insumos"
   },
   {
    "titulo": "Convenção Geral da Rede Bem Viver, em Guarapuava (PR), celebrou seus 25 anos",
@@ -33,6 +65,22 @@ window.DADOS = {
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Material reduz prazos de entrega e emissões de carbono, tornando-se a principal alternativa de construtoras diante da volatilidade do aço O post Com...",
    "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/alta-madeira-engenheirada-construcao/",
    "aba": "insumos"
+  },
+  {
+   "titulo": "Confiança e expectativas da construção pioram em setembro, aponta Sondagem da CNI",
+   "data": "23/09/2026",
+   "fonte": "CBIC",
+   "resumo": "A confiança dos empresários da indústria da construção voltou a recuar em setembro de 2026, acompanhada pela deterioração das expectativas para os próximos seis meses. É o que mostra a Sondagem Indústria da...",
+   "link": "https://cbic.org.br/confianca-e-expectativas-da-construcao-pioram-em-setembro-aponta-sondagem-da-cni/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Construtora mineira é a primeira a aplicar robôs operários em suas obras no país",
+   "data": "23/09/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "Com o avanço dos investimentos em infraestrutura e habitação no Brasil, o setor da construção civil enfrenta um desafio histórico: o apagão de mão de O post Construtora mineira é a primeira a aplicar robôs operários...",
+   "link": "https://revistaoe.com.br/robos-operarios-construtora-mineira-obras/",
+   "aba": "demanda"
   },
   {
    "titulo": "Satisfação com o trabalho",
@@ -81,54 +129,6 @@ window.DADOS = {
    "resumo": "A Associação Brasileira de Embalagem de Aço  anuncia Tamara Figueiredo como nova gerente Executiva da entidade. A profissional conta com uma trajetória construída nas áreas de Relações Institucionais, Advocacy,...",
    "link": "http://www.revistaanamaco.com.br/abeaco-anuncia-tamara-figueiredo-como-sua-nova-gerente-executiva-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Grupo Lamosa no Brasil vai investir R$ 150 milhões na planta de São Mateus do Sul",
-   "data": "21/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Grupo Lamosa no Brasil acaba de anunciar um investimento de R$ 150 milhões, que deverão ser destinados à implantação de novos equipamentos e de readequações em toda estrutura ao parque fabril de São Mateus do Sul",
-   "link": "http://www.revistaanamaco.com.br/grupo-lamosa-no-brasil-vai-investir-r-150-milhoes-na-planta-de-sao-mateus-do-sul",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Com o mote do Brasil para o Brasil, Tintas Iquine revela suas Cores do Ano 2027",
-   "data": "21/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Tintas Iquine anuncia Caroá, um tom verde suave e caloroso, e Jatobá, um verde escuro e profundo, como suas Cores do Ano para 2027. A escolha das tonalidades é fruto de um estudo conduzido em parceria com o...",
-   "link": "http://www.revistaanamaco.com.br/com-o-mote-do-brasil-para-o-brasil-tintas-iquine-revela-suas-cores-do-ano-2027-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Semana CANPAT Construção reúne setor para discutir prevenção e segurança nos canteiros",
-   "data": "21/09/2026",
-   "fonte": "CBIC",
-   "resumo": "De 5 a 9 de outubro, a construção civil terá uma programação dedicada à prevenção de acidentes e à promoção da segurança e saúde nos ambientes de trabalho. A Semana CANPAT Construção 2026 reunirá representantes do...",
-   "link": "https://cbic.org.br/semana-canpat-construcao-reune-setor-para-discutir-prevencao-e-seguranca-nos-canteiros/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Seconci-DF: alfabetização transforma aprendizado em autonomia para trabalhador da construção",
-   "data": "21/09/2026",
-   "fonte": "CBIC",
-   "resumo": "Projeto do Seconci-DF mostra, todos os meses, como os serviços da instituição contribuem para transformar histórias e ampliar oportunidades para trabalhadores do setor Ir ao mercado. Escolher um produto. Conferir o...",
-   "link": "https://cbic.org.br/seconci-df-alfabetizacao-transforma-aprendizado-em-autonomia-para-trabalhador-da-construcao/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Engerey fecha parceria com a Schneider Electric para tratar distorções na rede elétrica",
-   "data": "20/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Engerey anuncia parceria com a Schneider Electric para a produção de painéis elétricos com filtros ativos de harmônicas EasyLogic APF, destinados a contribuir para maior estabilidade das instalações elétricas",
-   "link": "http://www.revistaanamaco.com.br/engerey-fecha-parceria-com-a-schneider-electric-para-tratar-distorcoes-na-rede-eletrica-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Acidentes de trabalho na construção civil cresceram 16,9% em dois anos no Brasil",
-   "data": "20/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "De acordo com dados do Ministério da Previdência Social, referentes a 2024, os acidentes de trabalho na construção cresceram 16,9% no Brasil em dois anos, passando de 43.452, em 2022, para 50.789 ocorrências em 2024....",
-   "link": "http://www.revistaanamaco.com.br/acidentes-de-trabalho-na-construcao-civil-cresceram-169-em-dois-anos-no-brasil-",
-   "aba": "geral"
   }
  ],
  "diarios": {
