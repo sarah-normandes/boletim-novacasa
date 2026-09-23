@@ -1,14 +1,38 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "22/09/2026 20:23",
+ "atualizado_em": "23/09/2026 10:59",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "22/09/2026",
+   "data": "23/09/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Convenção Geral da Rede Bem Viver, em Guarapuava (PR), celebrou seus 25 anos",
+   "data": "23/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "Para comemorar 25 anos de história, a Rede Bem Viver realizou, no dia 06 de setembro, uma Convenção Geral. O evento reuniu, aproximadamente, 900 pessoas, entre lojistas associados, colaboradores e fornecedores para...",
+   "link": "http://www.revistaanamaco.com.br/convencao-geral-da-rede-bem-viver-em-guarapuava-pr-celebrou-seus-25-anos-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Ciss lança a Cissa e amplia uso de Inteligência Artificial para a gestão do varejo",
+   "data": "23/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Ciss apresenta a Cissa, sua Inteligência Artificial. Ela foi desenvolvida para analisar informações do negócio, gerar insights dentro do contexto do varejo e criar novas formas de interação com os dados",
+   "link": "http://www.revistaanamaco.com.br/ciss-lanca-a-cissa-e-amplia-uso-de-inteligencia-artificial-para-a-gestao-do-varejo-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Com Tarifas e Volatilidade, Madeira Passa a Ser Mais Usada na Construção Civil dos Estados Unidos",
+   "data": "23/09/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Material reduz prazos de entrega e emissões de carbono, tornando-se a principal alternativa de construtoras diante da volatilidade do aço O post Com...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/alta-madeira-engenheirada-construcao/",
+   "aba": "insumos"
   },
   {
    "titulo": "Satisfação com o trabalho",
@@ -105,36 +129,12 @@ window.DADOS = {
    "resumo": "De acordo com dados do Ministério da Previdência Social, referentes a 2024, os acidentes de trabalho na construção cresceram 16,9% no Brasil em dois anos, passando de 43.452, em 2022, para 50.789 ocorrências em 2024....",
    "link": "http://www.revistaanamaco.com.br/acidentes-de-trabalho-na-construcao-civil-cresceram-169-em-dois-anos-no-brasil-",
    "aba": "geral"
-  },
-  {
-   "titulo": "Estudo do Ibevar-Fia Business School indica queda nas vendas de matcon",
-   "data": "19/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "O varejo brasileiro deve manter um ritmo de crescimento moderado nos próximos três meses, mas por trás da média favorável esconde-se uma economia de duas velocidades: enquanto alguns setor aceleram, outros caminham...",
-   "link": "http://www.revistaanamaco.com.br/estudo-do-ibevar-fia-business-school-indica-queda-nas-vendas-de-matcon",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Parceria entre Onçafari e Tintas Eucatex visa a conservação do Pantanal",
-   "data": "19/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Entre setembro e dezembro, a Tintas Eucatex desenvolve uma iniciativa em parceria com a ONG Onçafari para financiar projetos de conservação da biodiversidade brasileira no Pantanal. Durante o período, parte da...",
-   "link": "http://www.revistaanamaco.com.br/parceria-entre-oncafari-e-tintas-eucatex-visa-a-conservacao-do-pantanal-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Mercado, funding, FGTS e locação acessível pautam debates no Encontro CBIC Construtores e Incorporadores Nordeste",
-   "data": "18/09/2026",
-   "fonte": "CBIC",
-   "resumo": "Mercado imobiliário, cenário econômico e político, financiamento, FGTS e locação acessível foram os temas dos painéis realizados nesta sexta-feira (18), no Recife (PE), durante o Encontro CBIC de Incorporadores e...",
-   "link": "https://cbic.org.br/mercado-funding-fgts-e-locacao-acessivel-pautam-debates-no-encontro-cbic-construtores-e-incorporadores-nordeste/",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "22/09/2026"
+   "data": "23/09/2026"
   }
  },
  "mensais": {
