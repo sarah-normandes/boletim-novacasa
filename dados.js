@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "23/09/2026 15:45",
+ "atualizado_em": "23/09/2026 20:22",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -59,12 +59,28 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
+   "titulo": "São Paulo Tem um dos Menores Riscos de Bolha Imobiliária do Mundo, Mostra UBS",
+   "data": "23/09/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Relatório avalia 23 grandes cidades e mostra que a metrópole brasileira apresenta o cenário mais seguro e a melhor relação entre preço e aluguel O...",
+   "link": "https://forbes.com.br/forbes-money/2026/09/sao-paulo-menor-risco-bolha-ubs/",
+   "aba": "demanda"
+  },
+  {
    "titulo": "Com Tarifas e Volatilidade, Madeira Passa a Ser Mais Usada na Construção Civil dos Estados Unidos",
    "data": "23/09/2026",
    "fonte": "Forbes",
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Material reduz prazos de entrega e emissões de carbono, tornando-se a principal alternativa de construtoras diante da volatilidade do aço O post Com...",
    "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/alta-madeira-engenheirada-construcao/",
    "aba": "insumos"
+  },
+  {
+   "titulo": "Redução da jornada de trabalho pode exigir quase 300 mil novos trabalhadores na construção",
+   "data": "23/09/2026",
+   "fonte": "CBIC",
+   "resumo": "A votação no Plenário do Senado da proposta que prevê o fim da escala 6x1 e a redução da jornada semanal de 44 para 40 horas foi adiada e deverá ocorrer após as eleições. A Câmara Brasileira da Indústria da...",
+   "link": "https://cbic.org.br/reducao-da-jornada-de-trabalho-pode-exigir-quase-300-mil-novos-trabalhadores-na-construcao/",
+   "aba": "geral"
   },
   {
    "titulo": "Confiança e expectativas da construção pioram em setembro, aponta Sondagem da CNI",
@@ -113,22 +129,6 @@ window.DADOS = {
    "resumo": "A indústria de matcon passa por um movimento de maior integração entre a produção e os canais de distribuição. No Ceará, a Roca aposta nessa estratégia, por meio de parcerias com varejistas do segmento no Estado,...",
    "link": "http://www.revistaanamaco.com.br/roca-faz-parcerias-com-varejistas-para-fortalecer-a-operacao-no-ceara",
    "aba": "geral"
-  },
-  {
-   "titulo": "Gerdau conquista, mais uma vez, Selo Ouro do Programa Brasileiro GHG Protocol",
-   "data": "21/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Gerdau conquistou, pelo quarto ano consecutivo, o Selo Ouro do Programa Brasileiro GHG Protocol. O reconhecimento, concedido pela Fundação Getulio Vargas, é destinado a organizações que alcançam o nível mais...",
-   "link": "http://www.revistaanamaco.com.br/gerdau-conquista-mais-uma-vez-selo-ouro-do-programa-brasileiro-ghg-protocol",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Abeaço anuncia Tamara Figueiredo como sua nova gerente Executiva",
-   "data": "21/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Associação Brasileira de Embalagem de Aço  anuncia Tamara Figueiredo como nova gerente Executiva da entidade. A profissional conta com uma trajetória construída nas áreas de Relações Institucionais, Advocacy,...",
-   "link": "http://www.revistaanamaco.com.br/abeaco-anuncia-tamara-figueiredo-como-sua-nova-gerente-executiva-",
-   "aba": "insumos"
   }
  ],
  "diarios": {
