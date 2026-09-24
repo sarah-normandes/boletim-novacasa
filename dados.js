@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "24/09/2026 15:45",
+ "atualizado_em": "24/09/2026 20:41",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -67,6 +67,14 @@ window.DADOS = {
    "aba": "geral"
   },
   {
+   "titulo": "Programa gratuito capacita profissionais para atuar com construção industrializada",
+   "data": "24/09/2026",
+   "fonte": "CBIC",
+   "resumo": "Profissionais da construção, gestores públicos e privados, estudantes e demais interessados já podem se inscrever gratuitamente no Programa de Capacitação em Construção Industrializada, oferecido pelo Ministério do...",
+   "link": "https://cbic.org.br/programa-gratuito-capacita-profissionais-para-atuar-com-construcao-industrializada/",
+   "aba": "geral"
+  },
+  {
    "titulo": "Rede iGUi é listada entre as melhores empresas para trabalhar em São Paulo",
    "data": "23/09/2026",
    "fonte": "Anamaco",
@@ -121,14 +129,6 @@ window.DADOS = {
    "resumo": "A votação no Plenário do Senado da proposta que prevê o fim da escala 6x1 e a redução da jornada semanal de 44 para 40 horas foi adiada e deverá ocorrer após as eleições. A Câmara Brasileira da Indústria da...",
    "link": "https://cbic.org.br/reducao-da-jornada-de-trabalho-pode-exigir-quase-300-mil-novos-trabalhadores-na-construcao/",
    "aba": "geral"
-  },
-  {
-   "titulo": "Confiança e expectativas da construção pioram em setembro, aponta Sondagem da CNI",
-   "data": "23/09/2026",
-   "fonte": "CBIC",
-   "resumo": "A confiança dos empresários da indústria da construção voltou a recuar em setembro de 2026, acompanhada pela deterioração das expectativas para os próximos seis meses. É o que mostra a Sondagem Indústria da...",
-   "link": "https://cbic.org.br/confianca-e-expectativas-da-construcao-pioram-em-setembro-aponta-sondagem-da-cni/",
-   "aba": "demanda"
   }
  ],
  "diarios": {
