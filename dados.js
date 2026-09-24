@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "24/09/2026 10:56",
+ "atualizado_em": "24/09/2026 15:45",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,30 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Varejo físico recuou 1,5% em agosto",
+   "data": "24/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "O varejo físico brasileiro encerrou agosto sob pressão. O Índice de Intenção de Compra do Varejo, da SEED Digital, registrou retração de 1,5% no fluxo de consumidores na comparação anual, em um mês marcado pelo...",
+   "link": "http://www.revistaanamaco.com.br/varejo-fisico-recuou-15-em-agosto-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Saci Tintas comemora 30 anos e apresenta projeto de economia circular",
+   "data": "24/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Saci Tintas apresenta o Banco de Tintas - Cores para o Futuro, projeto de economia circular que conecta pessoas que têm sobras de tintas não utilizadas com famílias, instituições e projetos que precisam dar vida a...",
+   "link": "http://www.revistaanamaco.com.br/saci-tintas-comemora-30-anos-e-apresenta-projeto-de-economia-circular",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Brasil caminha para o pior ano de fechamento de empresas desde 2018",
+   "data": "24/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "Um modelo estatístico inédito, que reconstitui 12 anos de fechamento de empresas no varejo brasileiro, aponta 2026 como candidato a repetir os dois piores anos da série histórica: 2018, ano da greve dos caminhoneiros...",
+   "link": "http://www.revistaanamaco.com.br/brasil-caminha-para-o-pior-ano-de-fechamento-de-empresas-desde-2018",
+   "aba": "demanda"
   },
   {
    "titulo": "Consumidores seguem desconfiados",
@@ -25,6 +49,14 @@ window.DADOS = {
    "resumo": "A Sherwin-Williams apresenta Aipo SW 642, um verde suave e luminoso, com delicadas nuances amareladas que transmite leveza e equilíbrio, como sua Cor do Ano de 2027. A tonalidade integra o Colormix 2027, previsão...",
    "link": "http://www.revistaanamaco.com.br/aipo-um-verde-suave-e-luminoso-e-a-cor-do-ano-2027-da-sherwin-williams-",
    "aba": "geral"
+  },
+  {
+   "titulo": "Forbes Mulher Agro: Inovação Não Acontece Sozinha. Saiba Como as Conexões Transformam Ciência em Mercado",
+   "data": "24/09/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Para além dos investimentos em pesquisa e desenvolvimento, a integração entre ecossistemas de inovação e conformidade regulatória como estratégia...",
+   "link": "https://forbes.com.br/forbes-agro/2026/09/forbes-mulher-agro-inovacao-nao-acontece-sozinha-saiba-como-as-conexoes-transformam-ciencia-em-mercado/",
+   "aba": "insumos"
   },
   {
    "titulo": "8 Bilionários Brasileiros Que Construíram Fortunas Sem Diploma Universitário",
@@ -83,22 +115,6 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "São Paulo Tem um dos Menores Riscos de Bolha Imobiliária do Mundo, Mostra UBS",
-   "data": "23/09/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Relatório avalia 23 grandes cidades e mostra que a metrópole brasileira apresenta o cenário mais seguro e a melhor relação entre preço e aluguel O...",
-   "link": "https://forbes.com.br/forbes-money/2026/09/sao-paulo-menor-risco-bolha-ubs/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Com Tarifas e Volatilidade, Madeira Passa a Ser Mais Usada na Construção Civil dos Estados Unidos",
-   "data": "23/09/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Material reduz prazos de entrega e emissões de carbono, tornando-se a principal alternativa de construtoras diante da volatilidade do aço O post Com...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/alta-madeira-engenheirada-construcao/",
-   "aba": "insumos"
-  },
-  {
    "titulo": "Redução da jornada de trabalho pode exigir quase 300 mil novos trabalhadores na construção",
    "data": "23/09/2026",
    "fonte": "CBIC",
@@ -113,22 +129,6 @@ window.DADOS = {
    "resumo": "A confiança dos empresários da indústria da construção voltou a recuar em setembro de 2026, acompanhada pela deterioração das expectativas para os próximos seis meses. É o que mostra a Sondagem Indústria da...",
    "link": "https://cbic.org.br/confianca-e-expectativas-da-construcao-pioram-em-setembro-aponta-sondagem-da-cni/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Construtora mineira é a primeira a aplicar robôs operários em suas obras no país",
-   "data": "23/09/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "Com o avanço dos investimentos em infraestrutura e habitação no Brasil, o setor da construção civil enfrenta um desafio histórico: o apagão de mão de O post Construtora mineira é a primeira a aplicar robôs operários...",
-   "link": "https://revistaoe.com.br/robos-operarios-construtora-mineira-obras/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Satisfação com o trabalho",
-   "data": "22/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A 15ª edição dos Indicadores de Qualidade do Trabalho da Sondagem de Mercado de Trabalho, do FGV Ibre, aborda o tema da satisfação com o trabalho. O quesito desse tema perguntou para cada trabalhador a percepção...",
-   "link": "http://www.revistaanamaco.com.br/satisfacao-com-o-trabalho",
-   "aba": "geral"
   }
  ],
  "diarios": {
