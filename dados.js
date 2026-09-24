@@ -1,14 +1,38 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "23/09/2026 20:22",
+ "atualizado_em": "24/09/2026 10:56",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "23/09/2026",
+   "data": "24/09/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Consumidores seguem desconfiados",
+   "data": "24/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Índice de Confiança do Consumidor, calculado pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas,  recuou 0,5 ponto em setembro, para 84,2 pontos, o que representa o menor nível desde novembro de 2022...",
+   "link": "http://www.revistaanamaco.com.br/consumidores-seguem-desconfiados",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Aipo, um verde suave e luminoso, é a Cor do Ano 2027 da Sherwin-Williams",
+   "data": "24/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Sherwin-Williams apresenta Aipo SW 642, um verde suave e luminoso, com delicadas nuances amareladas que transmite leveza e equilíbrio, como sua Cor do Ano de 2027. A tonalidade integra o Colormix 2027, previsão...",
+   "link": "http://www.revistaanamaco.com.br/aipo-um-verde-suave-e-luminoso-e-a-cor-do-ano-2027-da-sherwin-williams-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "8 Bilionários Brasileiros Que Construíram Fortunas Sem Diploma Universitário",
+   "data": "24/09/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Do agronegócio à tecnologia, conheça os empreendedores da lista Forbes que fizeram bilhões sem concluir o ensino superior O post 8 Bilionários...",
+   "link": "https://forbes.com.br/carreira/2026/09/bilionarios-sem-diploma/",
+   "aba": "geral"
   },
   {
    "titulo": "Rede iGUi é listada entre as melhores empresas para trabalhar em São Paulo",
@@ -105,36 +129,12 @@ window.DADOS = {
    "resumo": "A 15ª edição dos Indicadores de Qualidade do Trabalho da Sondagem de Mercado de Trabalho, do FGV Ibre, aborda o tema da satisfação com o trabalho. O quesito desse tema perguntou para cada trabalhador a percepção...",
    "link": "http://www.revistaanamaco.com.br/satisfacao-com-o-trabalho",
    "aba": "geral"
-  },
-  {
-   "titulo": "Com R$ 140 milhões em investimentos, Obramax inaugura sua 2ª loja em MG",
-   "data": "22/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Obramax abriu hoje, 22 de setembro, as portas de sua mais nova unidade. Com aporte de R$ 140 milhões, a loja está localizada em Contagem, na Região Metropolitana de Belo Horizonte (MG), e é  segunda operação da...",
-   "link": "http://www.revistaanamaco.com.br/com-r-140-milhoes-em-investimentos-obramax-inaugura-sua-2-loja-em-mg",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Brasil tem 73,71 milhões de inadimplentes",
-   "data": "22/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Brasil registrou, em agosto, 73,71 milhões de brasileiros com contas em atraso. O dado faz parte do Indicador de Inadimplência da CNDL e do SPC Brasil. Esse volume representa 43,90% da população adulta brasileira",
-   "link": "http://www.revistaanamaco.com.br/brasil-tem-7371-milhoes-de-inadimplentes-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Roca faz parcerias com varejistas para fortalecer a operação no Ceará",
-   "data": "22/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A indústria de matcon passa por um movimento de maior integração entre a produção e os canais de distribuição. No Ceará, a Roca aposta nessa estratégia, por meio de parcerias com varejistas do segmento no Estado,...",
-   "link": "http://www.revistaanamaco.com.br/roca-faz-parcerias-com-varejistas-para-fortalecer-a-operacao-no-ceara",
-   "aba": "geral"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "23/09/2026"
+   "data": "24/09/2026"
   }
  },
  "mensais": {
