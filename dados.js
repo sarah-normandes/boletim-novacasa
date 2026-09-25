@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "25/09/2026 16:03",
+ "atualizado_em": "25/09/2026 20:43",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -19,11 +19,11 @@ window.DADOS = {
    "aba": "custos"
   },
   {
-   "titulo": "Confiança da construção recuou em setembro",
+   "titulo": "Confiança da construção caiu em setembro",
    "data": "25/09/2026",
    "fonte": "Anamaco",
    "resumo": "O Índice de Confiança da Construção, do FGV Ibre, caiu 1,4 ponto em setembro, para 90,5 pontos. Esse recuo foi influenciado tanto pelo Índice de Situação Atual, que diminuiu 1,0 ponto, quanto pelo Índice de...",
-   "link": "http://www.revistaanamaco.com.br/confianca-da-construcao-recuou-em-setembro",
+   "link": "http://www.revistaanamaco.com.br/confianca-da-construcao-caiu-em-setembro",
    "aba": "demanda"
   },
   {
@@ -115,11 +115,11 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "José Roberto Tadros é reeleito presidente da CNC para o mandado 2026-2030",
+   "titulo": "José Roberto Tadros é reeleito presidente da CNC para o mandato 2026-2030",
    "data": "23/09/2026",
    "fonte": "Anamaco",
    "resumo": "Por unanimidade, a CNC reelegeu José Roberto Tadros para a presidência da entidade. A votação, realizada hoje, 23 de setembro,  em Brasília, confirmou a chapa para o mandato 2026-2030 com 28 votos favoráveis. A posse...",
-   "link": "http://www.revistaanamaco.com.br/jose-roberto-tadros-e-reeleito-presidente-da-cnc-para-o-mandado-2026-2030",
+   "link": "http://www.revistaanamaco.com.br/jose-roberto-tadros-e-reeleito-presidente-da-cnc-para-o-mandato-2026-2030",
    "aba": "geral"
   },
   {
