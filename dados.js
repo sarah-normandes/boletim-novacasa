@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "25/09/2026 11:20",
+ "atualizado_em": "25/09/2026 16:03",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,22 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Custos sobem menos",
+   "data": "25/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "O INCC-M, calculado pelo FGV Ibre, registrou alta de 0,25% em setembro, abaixo da taxa de variação de 0,85% observada no mês anterior. Com isso, no acumulado em 12 meses, o indicador atingiu 6,61%. Esse resultado...",
+   "link": "http://www.revistaanamaco.com.br/custos-sobem-menos2",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Confiança da construção recuou em setembro",
+   "data": "25/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Índice de Confiança da Construção, do FGV Ibre, caiu 1,4 ponto em setembro, para 90,5 pontos. Esse recuo foi influenciado tanto pelo Índice de Situação Atual, que diminuiu 1,0 ponto, quanto pelo Índice de...",
+   "link": "http://www.revistaanamaco.com.br/confianca-da-construcao-recuou-em-setembro",
+   "aba": "demanda"
   },
   {
    "titulo": "Norton Abrasivos amplia capacidade produtiva com nova máquina de conversão",
@@ -25,6 +41,22 @@ window.DADOS = {
    "resumo": "O Grupo Andra vai inaugurar, no próximo dia 05 de outubro, uma unidade na zona sul da capital paulista. Localizada no bairro da Saúde, a megaunidade contará com 3.100 m² de área total e um showroom de 1.000 m²...",
    "link": "http://www.revistaanamaco.com.br/andra-vai-abrir-megaunidade-no-bairro-da-saude-na-zona-sul-de-sao-paulo",
    "aba": "geral"
+  },
+  {
+   "titulo": "Encontro Nacional reúne Serviços Sociais da Construção para fortalecer saúde, segurança e inovação na construção",
+   "data": "25/09/2026",
+   "fonte": "CBIC",
+   "resumo": "Realizado pelos Seconcis de Florianópolis, Joinville e Blumenau, evento promove integração, troca de experiências e discussão sobre os desafios do setor Florianópolis recebe, dos dias 23 a 25 de setembro, oEncontro...",
+   "link": "https://cbic.org.br/encontro-nacional-reune-servicos-sociais-da-construcao-para-fortalecer-saude-seguranca-e-inovacao-na-construcao/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Workshop da CBIC aborda estratégias e práticas para negociações coletivas na construção",
+   "data": "25/09/2026",
+   "fonte": "CBIC",
+   "resumo": "Restam poucas vagas para o Workshop de Negociações Coletivas na Construção Civil, iniciativa da Câmara Brasileira da Indústria da Construção (CBIC), por meio da Comissão de Política de Relações Trabalhistas (CPRT),...",
+   "link": "https://cbic.org.br/workshop-da-cbic-aborda-estrategias-e-praticas-para-negociacoes-coletivas-na-construcao/",
+   "aba": "demanda"
   },
   {
    "titulo": "Varejo físico recuou 1,5% em agosto",
@@ -96,38 +128,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "O Índice de Confiança do Empresário Industrial recuou 1,4 ponto em setembro, de 46,3 pontos para 44,9 pontos. É o que mostra pesquisa divulgada pela CNI. Com esse resultado, o ICEI segue abaixo da linha divisória de...",
    "link": "http://www.revistaanamaco.com.br/industria-esta-ha-21-meses-sem-confianca-na-economia-apura-cni-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Tigre abre inscrições para cursos de hidráulica em Joinville e Rio Claro",
-   "data": "23/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Tigre está com inscrições abertas para cursos gratuitos de instalação hidráulica nas cidades de Joinville (SC) e Rio Claro (SP). As formações serão realizadas em unidades do Senai, com aulas presenciais e foco na...",
-   "link": "http://www.revistaanamaco.com.br/tigre-abre-inscricoes-para-cursos-de-hidraulica-em-joinville-e-rio-claro-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Convenção Geral da Rede Bem Viver, em Guarapuava (PR), celebrou seus 25 anos",
-   "data": "23/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Para comemorar 25 anos de história, a Rede Bem Viver realizou, no dia 06 de setembro, uma Convenção Geral. O evento reuniu, aproximadamente, 900 pessoas, entre lojistas associados, colaboradores e fornecedores para...",
-   "link": "http://www.revistaanamaco.com.br/convencao-geral-da-rede-bem-viver-em-guarapuava-pr-celebrou-seus-25-anos-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Redução da jornada de trabalho pode exigir quase 300 mil novos trabalhadores na construção",
-   "data": "23/09/2026",
-   "fonte": "CBIC",
-   "resumo": "A votação no Plenário do Senado da proposta que prevê o fim da escala 6x1 e a redução da jornada semanal de 44 para 40 horas foi adiada e deverá ocorrer após as eleições. A Câmara Brasileira da Indústria da...",
-   "link": "https://cbic.org.br/reducao-da-jornada-de-trabalho-pode-exigir-quase-300-mil-novos-trabalhadores-na-construcao/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Confiança e expectativas da construção pioram em setembro, aponta Sondagem da CNI",
-   "data": "23/09/2026",
-   "fonte": "CBIC",
-   "resumo": "A confiança dos empresários da indústria da construção voltou a recuar em setembro de 2026, acompanhada pela deterioração das expectativas para os próximos seis meses. É o que mostra a Sondagem Indústria da...",
-   "link": "https://cbic.org.br/confianca-e-expectativas-da-construcao-pioram-em-setembro-aponta-sondagem-da-cni/",
    "aba": "demanda"
   }
  ],
