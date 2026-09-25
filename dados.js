@@ -1,14 +1,30 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "24/09/2026 20:41",
+ "atualizado_em": "25/09/2026 11:20",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "24/09/2026",
+   "data": "25/09/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Norton Abrasivos amplia capacidade produtiva com nova máquina de conversão",
+   "data": "25/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Norton amplia a capacidade produtiva de sua fábrica de Cumbica, em Guarulhos (SP), com a entrada em operação de uma nova máquina de disco plumado. O equipamento representa um avanço para a operação da companhia no...",
+   "link": "http://www.revistaanamaco.com.br/norton-abrasivos-amplia-capacidade-produtiva-com-nova-maquina-de-conversao-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Andra vai abrir megaunidade, no bairro da Saúde, na zona sul de São Paulo",
+   "data": "25/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Grupo Andra vai inaugurar, no próximo dia 05 de outubro, uma unidade na zona sul da capital paulista. Localizada no bairro da Saúde, a megaunidade contará com 3.100 m² de área total e um showroom de 1.000 m²...",
+   "link": "http://www.revistaanamaco.com.br/andra-vai-abrir-megaunidade-no-bairro-da-saude-na-zona-sul-de-sao-paulo",
+   "aba": "geral"
   },
   {
    "titulo": "Varejo físico recuou 1,5% em agosto",
@@ -48,22 +64,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "A Sherwin-Williams apresenta Aipo SW 642, um verde suave e luminoso, com delicadas nuances amareladas que transmite leveza e equilíbrio, como sua Cor do Ano de 2027. A tonalidade integra o Colormix 2027, previsão...",
    "link": "http://www.revistaanamaco.com.br/aipo-um-verde-suave-e-luminoso-e-a-cor-do-ano-2027-da-sherwin-williams-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Forbes Mulher Agro: Inovação Não Acontece Sozinha. Saiba Como as Conexões Transformam Ciência em Mercado",
-   "data": "24/09/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Para além dos investimentos em pesquisa e desenvolvimento, a integração entre ecossistemas de inovação e conformidade regulatória como estratégia...",
-   "link": "https://forbes.com.br/forbes-agro/2026/09/forbes-mulher-agro-inovacao-nao-acontece-sozinha-saiba-como-as-conexoes-transformam-ciencia-em-mercado/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "8 Bilionários Brasileiros Que Construíram Fortunas Sem Diploma Universitário",
-   "data": "24/09/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Do agronegócio à tecnologia, conheça os empreendedores da lista Forbes que fizeram bilhões sem concluir o ensino superior O post 8 Bilionários...",
-   "link": "https://forbes.com.br/carreira/2026/09/bilionarios-sem-diploma/",
    "aba": "geral"
   },
   {
@@ -115,26 +115,26 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Ciss lança a Cissa e amplia uso de Inteligência Artificial para a gestão do varejo",
-   "data": "23/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Ciss apresenta a Cissa, sua Inteligência Artificial. Ela foi desenvolvida para analisar informações do negócio, gerar insights dentro do contexto do varejo e criar novas formas de interação com os dados",
-   "link": "http://www.revistaanamaco.com.br/ciss-lanca-a-cissa-e-amplia-uso-de-inteligencia-artificial-para-a-gestao-do-varejo-",
-   "aba": "demanda"
-  },
-  {
    "titulo": "Redução da jornada de trabalho pode exigir quase 300 mil novos trabalhadores na construção",
    "data": "23/09/2026",
    "fonte": "CBIC",
    "resumo": "A votação no Plenário do Senado da proposta que prevê o fim da escala 6x1 e a redução da jornada semanal de 44 para 40 horas foi adiada e deverá ocorrer após as eleições. A Câmara Brasileira da Indústria da...",
    "link": "https://cbic.org.br/reducao-da-jornada-de-trabalho-pode-exigir-quase-300-mil-novos-trabalhadores-na-construcao/",
    "aba": "geral"
+  },
+  {
+   "titulo": "Confiança e expectativas da construção pioram em setembro, aponta Sondagem da CNI",
+   "data": "23/09/2026",
+   "fonte": "CBIC",
+   "resumo": "A confiança dos empresários da indústria da construção voltou a recuar em setembro de 2026, acompanhada pela deterioração das expectativas para os próximos seis meses. É o que mostra a Sondagem Indústria da...",
+   "link": "https://cbic.org.br/confianca-e-expectativas-da-construcao-pioram-em-setembro-aponta-sondagem-da-cni/",
+   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "24/09/2026"
+   "data": "25/09/2026"
   }
  },
  "mensais": {
