@@ -1,14 +1,46 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "25/09/2026 20:43",
+ "atualizado_em": "26/09/2026 10:32",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "25/09/2026",
+   "data": "26/09/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Evento apoiado pelo Instituto Aço Cearense uniu talentos, empresas e inovação",
+   "data": "26/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Instituto Aço Cearense apoiou a realização do Tech Day, que aconteceu, em 18 de setembro, em Fortaleza (CE). O evento reuniu executivos, gestores de TI, empresas, especialistas e jovens atendidos pelos projetos da...",
+   "link": "http://www.revistaanamaco.com.br/evento-apoiado-pelo-instituto-aco-cearense-uniu-talentos-empresas-e-inovacao-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Messi Compra Outra Mansão na Flórida por US$ 8 Milhões e Amplia Seu Império Imobiliário",
+   "data": "26/09/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. A operação se soma a um portfólio construído dos dois lados do Atlântico, com apartamentos em Miami, hotéis na Espanha e em Andorra e uma empresa...",
+   "link": "https://forbes.com.br/forbes-money/2026/09/messi-compra-mansao-florida-imperio-imobiliario/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "“O Sonho Americano”: os Empresários de Maior Sucesso Que Estão Construindo os Estados Unidos",
+   "data": "26/09/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. De Jeff Bezos a Bill Gates, a Forbes destaca os empresários que transformaram os negócios e a infraestrutura dos Estados Unidos, que completam 250...",
+   "link": "https://forbes.com.br/forbes-money/2026/09/maiores-construtores-estados-unidos-forbes-bezos-musk/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Greve na Caixa: sem o “motor do setor imobiliário”, a conta vai para as construtoras",
+   "data": "26/09/2026",
+   "fonte": "InfoMoney",
+   "resumo": "A Caixa Econômica Federal é o motor por trás do setor imobiliário, respondendo por dois terços dos financiamentos habitacionais do País The post Greve na Caixa: sem o “motor do setor imobiliário”, a conta vai para as...",
+   "link": "https://www.infomoney.com.br/business/greve-na-caixa-sem-o-motor-do-setor-imobiliario-a-conta-vai-para-as-construtoras/",
+   "aba": "demanda"
   },
   {
    "titulo": "Custos sobem menos",
@@ -97,44 +129,12 @@ window.DADOS = {
    "resumo": "A Sherwin-Williams apresenta Aipo SW 642, um verde suave e luminoso, com delicadas nuances amareladas que transmite leveza e equilíbrio, como sua Cor do Ano de 2027. A tonalidade integra o Colormix 2027, previsão...",
    "link": "http://www.revistaanamaco.com.br/aipo-um-verde-suave-e-luminoso-e-a-cor-do-ano-2027-da-sherwin-williams-",
    "aba": "geral"
-  },
-  {
-   "titulo": "Programa gratuito capacita profissionais para atuar com construção industrializada",
-   "data": "24/09/2026",
-   "fonte": "CBIC",
-   "resumo": "Profissionais da construção, gestores públicos e privados, estudantes e demais interessados já podem se inscrever gratuitamente no Programa de Capacitação em Construção Industrializada, oferecido pelo Ministério do...",
-   "link": "https://cbic.org.br/programa-gratuito-capacita-profissionais-para-atuar-com-construcao-industrializada/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Rede iGUi é listada entre as melhores empresas para trabalhar em São Paulo",
-   "data": "23/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A iGUi conquistou o 4º lugar na categoria Pequenas Empresas do Interior e Litoral Paulista do ranking Great Place to Work - Melhores Empresas para Trabalhar em São Paulo 2026",
-   "link": "http://www.revistaanamaco.com.br/rede-igui-e-listada-entre-as-melhores-empresas-para-trabalhar-em-sao-paulo-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "José Roberto Tadros é reeleito presidente da CNC para o mandato 2026-2030",
-   "data": "23/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Por unanimidade, a CNC reelegeu José Roberto Tadros para a presidência da entidade. A votação, realizada hoje, 23 de setembro,  em Brasília, confirmou a chapa para o mandato 2026-2030 com 28 votos favoráveis. A posse...",
-   "link": "http://www.revistaanamaco.com.br/jose-roberto-tadros-e-reeleito-presidente-da-cnc-para-o-mandato-2026-2030",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Indústria está há 21 meses sem confiança na economia, apura CNI",
-   "data": "23/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Índice de Confiança do Empresário Industrial recuou 1,4 ponto em setembro, de 46,3 pontos para 44,9 pontos. É o que mostra pesquisa divulgada pela CNI. Com esse resultado, o ICEI segue abaixo da linha divisória de...",
-   "link": "http://www.revistaanamaco.com.br/industria-esta-ha-21-meses-sem-confianca-na-economia-apura-cni-",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "25/09/2026"
+   "data": "26/09/2026"
   }
  },
  "mensais": {
