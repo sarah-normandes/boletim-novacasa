@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "26/09/2026 10:32",
+ "atualizado_em": "26/09/2026 15:11",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Varejo cresceu às vésperas das duas últimas eleições presidenciais",
+   "data": "26/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A proximidade das eleições presidenciais não significou retração do movimento no varejo físico nos dois últimos ciclos de eleições presidenciais. Levantamento da Seed Digital mostra que o fluxo de consumidores...",
+   "link": "http://www.revistaanamaco.com.br/varejo-cresceu-as-vesperas-das-duas-ultimas-eleicoes-presidenciais-",
+   "aba": "demanda"
   },
   {
    "titulo": "Evento apoiado pelo Instituto Aço Cearense uniu talentos, empresas e inovação",
@@ -33,14 +41,6 @@ window.DADOS = {
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. De Jeff Bezos a Bill Gates, a Forbes destaca os empresários que transformaram os negócios e a infraestrutura dos Estados Unidos, que completam 250...",
    "link": "https://forbes.com.br/forbes-money/2026/09/maiores-construtores-estados-unidos-forbes-bezos-musk/",
    "aba": "geral"
-  },
-  {
-   "titulo": "Greve na Caixa: sem o “motor do setor imobiliário”, a conta vai para as construtoras",
-   "data": "26/09/2026",
-   "fonte": "InfoMoney",
-   "resumo": "A Caixa Econômica Federal é o motor por trás do setor imobiliário, respondendo por dois terços dos financiamentos habitacionais do País The post Greve na Caixa: sem o “motor do setor imobiliário”, a conta vai para as...",
-   "link": "https://www.infomoney.com.br/business/greve-na-caixa-sem-o-motor-do-setor-imobiliario-a-conta-vai-para-as-construtoras/",
-   "aba": "demanda"
   },
   {
    "titulo": "Custos sobem menos",
