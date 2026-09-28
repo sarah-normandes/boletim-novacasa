@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "28/09/2026 16:09",
+ "atualizado_em": "28/09/2026 19:49",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -49,14 +49,6 @@ window.DADOS = {
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Estar cercado só por pessoas que tiveram experiências profissionais parecidas pode limitar a percepção do que acontece ao redor O post O Valor das...",
    "link": "https://forbes.com.br/coluna/2026/09/o-valor-das-conexoes-em-um-mercado-em-transformacao/",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Os Dólares do Exterior Voltam Ao Mercado Imobiliário: por Que a Argentina Recupera Atratividade",
-   "data": "28/09/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Enquanto as transações imobiliárias permanecem em níveis semelhantes aos do ano passado e os preços acumulam alta próxima de 1%, cresce a...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/mercado-imobiliario-buenos-aires-estrangeiros/",
-   "aba": "custos"
   },
   {
    "titulo": "Soprano inaugura espaço no Instituto Caldeira e amplia conexão com a inovação",
@@ -128,6 +120,14 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "O Grupo Andra vai inaugurar, no próximo dia 05 de outubro, uma unidade na zona sul da capital paulista. Localizada no bairro da Saúde, a megaunidade contará com 3.100 m² de área total e um showroom de 1.000 m²...",
    "link": "http://www.revistaanamaco.com.br/andra-vai-abrir-megaunidade-no-bairro-da-saude-na-zona-sul-de-sao-paulo",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Encontro Nacional reúne Serviços Sociais da Construção para fortalecer saúde, segurança e inovação na construção",
+   "data": "25/09/2026",
+   "fonte": "CBIC",
+   "resumo": "Realizado pelos Seconcis de Florianópolis, Joinville e Blumenau, evento promove integração, troca de experiências e discussão sobre os desafios do setor Florianópolis recebe, dos dias 23 a 25 de setembro, oEncontro...",
+   "link": "https://cbic.org.br/encontro-nacional-reune-servicos-sociais-da-construcao-para-fortalecer-saude-seguranca-e-inovacao-na-construcao/",
    "aba": "geral"
   }
  ],
