@@ -1,14 +1,86 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "26/09/2026 20:17",
+ "atualizado_em": "28/09/2026 14:13",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "26/09/2026",
+   "data": "28/09/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Sasazaki encerra operações e coloca fim a 83 anos de história na construção",
+   "data": "28/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "Após anos de problemas financeiros, um pedido de recuperação judicial em 2024 e com uma dívida de R$ 35 milhões, na última sexta-feira (25 de setembro), a Sasazaki, tradicional fabricante de portas e esquadrias, com...",
+   "link": "http://www.revistaanamaco.com.br/sasazaki-encerra-operacoes-e-coloca-fim-a-83-anos-de-historia-na-construcao",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Cobrecom anuncia patrocínio ao piloto Marcelo Kairis na Porsche Cup Brasil",
+   "data": "28/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Cobrecom anuncia parceria com o piloto Marcelo Kairis, que disputa a Porsche Cup Brasil. O patrocínio amplia a presença da marca no automobilismo nacional e estabelece uma conexão com atributos que fazem parte do...",
+   "link": "http://www.revistaanamaco.com.br/cobrecom-anuncia-patrocinio-ao-piloto-marcelo-kairis-na-porsche-cup-brasil-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Weg ultrapassa R$ 1 bilhão em ganhos com melhoria de processos industriais",
+   "data": "28/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Weg ultrapassou R$ 1 bilhão em ganhos com aperfeiçoamento dos processos industriais, fruto da execução de mais de 400 mil kaizens, que são ações rápidas de melhorias, um dos principais conceitos e práticas do...",
+   "link": "http://www.revistaanamaco.com.br/weg-ultrapassa-r-1-bilhao-em-ganhos-com-melhoria-de-processos-industriais-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "O Valor das Conexões em um Mercado em Transformação",
+   "data": "28/09/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Estar cercado só por pessoas que tiveram experiências profissionais parecidas pode limitar a percepção do que acontece ao redor O post O Valor das...",
+   "link": "https://forbes.com.br/coluna/2026/09/o-valor-das-conexoes-em-um-mercado-em-transformacao/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Os Dólares do Exterior Voltam Ao Mercado Imobiliário: por Que a Argentina Recupera Atratividade",
+   "data": "28/09/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Enquanto as transações imobiliárias permanecem em níveis semelhantes aos do ano passado e os preços acumulam alta próxima de 1%, cresce a...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/mercado-imobiliario-buenos-aires-estrangeiros/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "STF: Toffoli determina retirada do PSDB-Cidadania da coligação de Raquel Lyra em PE",
+   "data": "28/09/2026",
+   "fonte": "InfoMoney",
+   "resumo": "Em nota, a equipe jurídica da campanha de Raquel Lyra informou que vai recorrer da decisão The post STF: Toffoli determina retirada do PSDB-Cidadania da coligação de Raquel Lyra em PE appeared first on InfoMoney .",
+   "link": "https://www.infomoney.com.br/politica/stf-toffoli-determina-retirada-do-psdb-cidadania-da-coligacao-de-raquel-lyra-em-pe/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Soprano inaugura espaço no Instituto Caldeira e amplia conexão com a inovação",
+   "data": "27/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Soprano dá um novo passo em sua estratégia de transformação cultural e digital. No dia 21 de setembro, a companhia inaugurou seu espaço no Instituto Caldeira, em Porto Alegre (RS), ampliando sua conexão com um...",
+   "link": "http://www.revistaanamaco.com.br/soprano-inaugura-espaco-no-instituto-caldeira-e-amplia-conexao-com-a-inovacao",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Adere fornece soluções profissionais para a formação de pintores no Senai",
+   "data": "27/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Adere passa a fornecer, gratuitamente, produtos para as atividades práticas da Escola Senai Orlando Laviero Ferraiuolo na capital paulista. A iniciativa beneficia cerca de 300 alunos dos cursos de Pintura...",
+   "link": "http://www.revistaanamaco.com.br/adere-fornece-solucoes-profissionais-para-a-formacao-de-pintores-no-senai",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Política tarifária assimétrica redesenha custos de resinas e insumos para BOPET e PE e PP sofrem",
+   "data": "27/09/2026",
+   "fonte": "PlásticoNews",
+   "resumo": "Renovação da proteção para PE, PP e PET convive com abertura específica para chips de poliéster destinados a filmes biorientados; para importadores e convertedores, a regra passa a exigir análise produto a produto —...",
+   "link": "https://plasticonews.org/politica-tarifaria-assimetrica-redesenha-custos-de-resinas-e-insumos-para-bopet-e-pe-e-pp-sofrem/",
+   "aba": "insumos"
   },
   {
    "titulo": "Varejo cresceu às vésperas das duas últimas eleições presidenciais",
@@ -25,22 +97,6 @@ window.DADOS = {
    "resumo": "O Instituto Aço Cearense apoiou a realização do Tech Day, que aconteceu, em 18 de setembro, em Fortaleza (CE). O evento reuniu executivos, gestores de TI, empresas, especialistas e jovens atendidos pelos projetos da...",
    "link": "http://www.revistaanamaco.com.br/evento-apoiado-pelo-instituto-aco-cearense-uniu-talentos-empresas-e-inovacao-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Messi Compra Outra Mansão na Flórida por US$ 8 Milhões e Amplia Seu Império Imobiliário",
-   "data": "26/09/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. A operação se soma a um portfólio construído dos dois lados do Atlântico, com apartamentos em Miami, hotéis na Espanha e em Andorra e uma empresa...",
-   "link": "https://forbes.com.br/forbes-money/2026/09/messi-compra-mansao-florida-imperio-imobiliario/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "“O Sonho Americano”: os Empresários de Maior Sucesso Que Estão Construindo os Estados Unidos",
-   "data": "26/09/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. De Jeff Bezos a Bill Gates, a Forbes destaca os empresários que transformaram os negócios e a infraestrutura dos Estados Unidos, que completam 250...",
-   "link": "https://forbes.com.br/forbes-money/2026/09/maiores-construtores-estados-unidos-forbes-bezos-musk/",
-   "aba": "geral"
   },
   {
    "titulo": "Custos sobem menos",
@@ -73,68 +129,12 @@ window.DADOS = {
    "resumo": "O Grupo Andra vai inaugurar, no próximo dia 05 de outubro, uma unidade na zona sul da capital paulista. Localizada no bairro da Saúde, a megaunidade contará com 3.100 m² de área total e um showroom de 1.000 m²...",
    "link": "http://www.revistaanamaco.com.br/andra-vai-abrir-megaunidade-no-bairro-da-saude-na-zona-sul-de-sao-paulo",
    "aba": "geral"
-  },
-  {
-   "titulo": "Encontro Nacional reúne Serviços Sociais da Construção para fortalecer saúde, segurança e inovação na construção",
-   "data": "25/09/2026",
-   "fonte": "CBIC",
-   "resumo": "Realizado pelos Seconcis de Florianópolis, Joinville e Blumenau, evento promove integração, troca de experiências e discussão sobre os desafios do setor Florianópolis recebe, dos dias 23 a 25 de setembro, oEncontro...",
-   "link": "https://cbic.org.br/encontro-nacional-reune-servicos-sociais-da-construcao-para-fortalecer-saude-seguranca-e-inovacao-na-construcao/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Workshop da CBIC aborda estratégias e práticas para negociações coletivas na construção",
-   "data": "25/09/2026",
-   "fonte": "CBIC",
-   "resumo": "Restam poucas vagas para o Workshop de Negociações Coletivas na Construção Civil, iniciativa da Câmara Brasileira da Indústria da Construção (CBIC), por meio da Comissão de Política de Relações Trabalhistas (CPRT),...",
-   "link": "https://cbic.org.br/workshop-da-cbic-aborda-estrategias-e-praticas-para-negociacoes-coletivas-na-construcao/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Varejo físico recuou 1,5% em agosto",
-   "data": "24/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "O varejo físico brasileiro encerrou agosto sob pressão. O Índice de Intenção de Compra do Varejo, da SEED Digital, registrou retração de 1,5% no fluxo de consumidores na comparação anual, em um mês marcado pelo...",
-   "link": "http://www.revistaanamaco.com.br/varejo-fisico-recuou-15-em-agosto-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Saci Tintas comemora 30 anos e apresenta projeto de economia circular",
-   "data": "24/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Saci Tintas apresenta o Banco de Tintas - Cores para o Futuro, projeto de economia circular que conecta pessoas que têm sobras de tintas não utilizadas com famílias, instituições e projetos que precisam dar vida a...",
-   "link": "http://www.revistaanamaco.com.br/saci-tintas-comemora-30-anos-e-apresenta-projeto-de-economia-circular",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Brasil caminha para o pior ano de fechamento de empresas desde 2018",
-   "data": "24/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Um modelo estatístico inédito, que reconstitui 12 anos de fechamento de empresas no varejo brasileiro, aponta 2026 como candidato a repetir os dois piores anos da série histórica: 2018, ano da greve dos caminhoneiros...",
-   "link": "http://www.revistaanamaco.com.br/brasil-caminha-para-o-pior-ano-de-fechamento-de-empresas-desde-2018",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Consumidores seguem desconfiados",
-   "data": "24/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Índice de Confiança do Consumidor, calculado pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas,  recuou 0,5 ponto em setembro, para 84,2 pontos, o que representa o menor nível desde novembro de 2022...",
-   "link": "http://www.revistaanamaco.com.br/consumidores-seguem-desconfiados",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Aipo, um verde suave e luminoso, é a Cor do Ano 2027 da Sherwin-Williams",
-   "data": "24/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Sherwin-Williams apresenta Aipo SW 642, um verde suave e luminoso, com delicadas nuances amareladas que transmite leveza e equilíbrio, como sua Cor do Ano de 2027. A tonalidade integra o Colormix 2027, previsão...",
-   "link": "http://www.revistaanamaco.com.br/aipo-um-verde-suave-e-luminoso-e-a-cor-do-ano-2027-da-sherwin-williams-",
-   "aba": "geral"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "26/09/2026"
+   "data": "28/09/2026"
   }
  },
  "mensais": {
