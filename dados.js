@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "28/09/2026 14:13",
+ "atualizado_em": "28/09/2026 16:05",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "ABB planta 700 árvores em Sorocaba e reduz temperatura na fábrica",
+   "data": "28/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A ABB plantou 700 mudas de árvores na fábrica de Sorocaba, no interior de São Paulo, às margens da Castelinho (oficialmente SP-075 ou Rodovia Senador José Ermírio de Moraes). A iniciativa integra as ações de...",
+   "link": "http://www.revistaanamaco.com.br/abb-planta-700-arvores-em-sorocaba-e-reduz-temperatura-na-fabrica-",
+   "aba": "geral"
   },
   {
    "titulo": "Sasazaki encerra operações e coloca fim a 83 anos de história na construção",
@@ -49,14 +57,6 @@ window.DADOS = {
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Enquanto as transações imobiliárias permanecem em níveis semelhantes aos do ano passado e os preços acumulam alta próxima de 1%, cresce a...",
    "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/mercado-imobiliario-buenos-aires-estrangeiros/",
    "aba": "custos"
-  },
-  {
-   "titulo": "STF: Toffoli determina retirada do PSDB-Cidadania da coligação de Raquel Lyra em PE",
-   "data": "28/09/2026",
-   "fonte": "InfoMoney",
-   "resumo": "Em nota, a equipe jurídica da campanha de Raquel Lyra informou que vai recorrer da decisão The post STF: Toffoli determina retirada do PSDB-Cidadania da coligação de Raquel Lyra em PE appeared first on InfoMoney .",
-   "link": "https://www.infomoney.com.br/politica/stf-toffoli-determina-retirada-do-psdb-cidadania-da-coligacao-de-raquel-lyra-em-pe/",
-   "aba": "geral"
   },
   {
    "titulo": "Soprano inaugura espaço no Instituto Caldeira e amplia conexão com a inovação",
