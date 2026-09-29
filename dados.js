@@ -1,14 +1,30 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "28/09/2026 19:49",
+ "atualizado_em": "29/09/2026 12:16",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "28/09/2026",
+   "data": "29/09/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Incerteza eleitoral pode adiar até R$ 62 bilhões em consumo no varejo em 2026",
+   "data": "29/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "Levantamento do Ibevar - FIA Business School, com duas décadas de dados de vendas do varejo - Pesquisa Mensal do Comércio do IBGE - cruzados com a atividade geral da economia, identificou que, quando a eleição...",
+   "link": "http://www.revistaanamaco.com.br/incerteza-eleitoral-pode-adiar-ate-r-62-bilhoes-em-consumo-no-varejo-em-2026-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Espaço Smart inaugura sua segunda loja física em Campinas (SP)",
+   "data": "29/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Espaço Smart acaba de inaugurar sua segunda unidade em Campinas. O objetivo é garantir o acesso da população ao material necessário para uma construção em Steel Frame, além de soluções em Drywall, telhado Shingle e...",
+   "link": "http://www.revistaanamaco.com.br/espaco-smart-inaugura-sua-segunda-loja-fisica-em-campinas-sp",
+   "aba": "insumos"
   },
   {
    "titulo": "ABB planta 700 árvores em Sorocaba e reduz temperatura na fábrica",
@@ -41,14 +57,6 @@ window.DADOS = {
    "resumo": "A Weg ultrapassou R$ 1 bilhão em ganhos com aperfeiçoamento dos processos industriais, fruto da execução de mais de 400 mil kaizens, que são ações rápidas de melhorias, um dos principais conceitos e práticas do...",
    "link": "http://www.revistaanamaco.com.br/weg-ultrapassa-r-1-bilhao-em-ganhos-com-melhoria-de-processos-industriais-",
    "aba": "geral"
-  },
-  {
-   "titulo": "O Valor das Conexões em um Mercado em Transformação",
-   "data": "28/09/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Estar cercado só por pessoas que tiveram experiências profissionais parecidas pode limitar a percepção do que acontece ao redor O post O Valor das...",
-   "link": "https://forbes.com.br/coluna/2026/09/o-valor-das-conexoes-em-um-mercado-em-transformacao/",
-   "aba": "insumos"
   },
   {
    "titulo": "Soprano inaugura espaço no Instituto Caldeira e amplia conexão com a inovação",
@@ -107,34 +115,26 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Norton Abrasivos amplia capacidade produtiva com nova máquina de conversão",
-   "data": "25/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Norton amplia a capacidade produtiva de sua fábrica de Cumbica, em Guarulhos (SP), com a entrada em operação de uma nova máquina de disco plumado. O equipamento representa um avanço para a operação da companhia no...",
-   "link": "http://www.revistaanamaco.com.br/norton-abrasivos-amplia-capacidade-produtiva-com-nova-maquina-de-conversao-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Andra vai abrir megaunidade, no bairro da Saúde, na zona sul de São Paulo",
-   "data": "25/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Grupo Andra vai inaugurar, no próximo dia 05 de outubro, uma unidade na zona sul da capital paulista. Localizada no bairro da Saúde, a megaunidade contará com 3.100 m² de área total e um showroom de 1.000 m²...",
-   "link": "http://www.revistaanamaco.com.br/andra-vai-abrir-megaunidade-no-bairro-da-saude-na-zona-sul-de-sao-paulo",
-   "aba": "geral"
-  },
-  {
    "titulo": "Encontro Nacional reúne Serviços Sociais da Construção para fortalecer saúde, segurança e inovação na construção",
    "data": "25/09/2026",
    "fonte": "CBIC",
    "resumo": "Realizado pelos Seconcis de Florianópolis, Joinville e Blumenau, evento promove integração, troca de experiências e discussão sobre os desafios do setor Florianópolis recebe, dos dias 23 a 25 de setembro, oEncontro...",
    "link": "https://cbic.org.br/encontro-nacional-reune-servicos-sociais-da-construcao-para-fortalecer-saude-seguranca-e-inovacao-na-construcao/",
    "aba": "geral"
+  },
+  {
+   "titulo": "Workshop da CBIC aborda estratégias e práticas para negociações coletivas na construção",
+   "data": "25/09/2026",
+   "fonte": "CBIC",
+   "resumo": "Restam poucas vagas para o Workshop de Negociações Coletivas na Construção Civil, iniciativa da Câmara Brasileira da Indústria da Construção (CBIC), por meio da Comissão de Política de Relações Trabalhistas (CPRT),...",
+   "link": "https://cbic.org.br/workshop-da-cbic-aborda-estrategias-e-praticas-para-negociacoes-coletivas-na-construcao/",
+   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "28/09/2026"
+   "data": "29/09/2026"
   }
  },
  "mensais": {
