@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "29/09/2026 12:16",
+ "atualizado_em": "29/09/2026 18:42",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Otimismo industrial em baixa",
+   "data": "29/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "De acordo com dados apurados pelo FGV Ibre, o Índice de Confiança da Indústria caiu 2,4 pontos em setembro, para 91,3 pontos. Em médias móveis trimestrais, o índice recuou 2,9 pontos, para 94,1 pontos. No mês, houve...",
+   "link": "http://www.revistaanamaco.com.br/otimismo-industrial-em-baixa",
+   "aba": "demanda"
   },
   {
    "titulo": "Incerteza eleitoral pode adiar até R$ 62 bilhões em consumo no varejo em 2026",
@@ -25,6 +33,38 @@ window.DADOS = {
    "resumo": "A Espaço Smart acaba de inaugurar sua segunda unidade em Campinas. O objetivo é garantir o acesso da população ao material necessário para uma construção em Steel Frame, além de soluções em Drywall, telhado Shingle e...",
    "link": "http://www.revistaanamaco.com.br/espaco-smart-inaugura-sua-segunda-loja-fisica-em-campinas-sp",
    "aba": "insumos"
+  },
+  {
+   "titulo": "Construção Civil Gera 20,8 Mil Vagas de Emprego Formal em Agosto, Mostra Caged",
+   "data": "29/09/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Dados do Ministério do Trabalho mostram que o segmento segue superando a indústria e o comércio na criação de vínculos formais O post Construção...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/caged-emprego-construcao-civil-agosto/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Como Marcas de Luxo Estão Chegando Ao Mercado Imobiliário de Buenos Aires",
+   "data": "29/09/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. De Dolce & Gabbana em Puerto Madero às negociações da Pride Developer com a LVMH, marcas globais começam a desembarcar no mercado residencial...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/branded-residences-buenos-aires/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Quaest PE: Raquel Lyra e João Campos empatam com 42%",
+   "data": "29/09/2026",
+   "fonte": "InfoMoney",
+   "resumo": "A Quaest realizou 1.302 entrevistas a domicílio com eleitores de Pernambuco entre os dias 25 e 28 de setembro The post Quaest PE: Raquel Lyra e João Campos empatam com 42% appeared first on InfoMoney .",
+   "link": "https://www.infomoney.com.br/politica/quaest-pe-raquel-lyra-e-joao-campos-empatam-com-42/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "CHIS promove Rodada de Negócios da Habitação em 15 de outubro",
+   "data": "29/09/2026",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC), por meio da Comissão de Habitação de Interesse Social (CHIS), realiza, no dia 15 de outubro, em Brasília, a Rodada de Negócios da Habitação. O encontro será...",
+   "link": "https://cbic.org.br/chis-promove-rodada-de-negocios-da-habitacao-em-15-de-outubro/",
+   "aba": "demanda"
   },
   {
    "titulo": "ABB planta 700 árvores em Sorocaba e reduz temperatura na fábrica",
@@ -88,46 +128,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "A proximidade das eleições presidenciais não significou retração do movimento no varejo físico nos dois últimos ciclos de eleições presidenciais. Levantamento da Seed Digital mostra que o fluxo de consumidores...",
    "link": "http://www.revistaanamaco.com.br/varejo-cresceu-as-vesperas-das-duas-ultimas-eleicoes-presidenciais-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Evento apoiado pelo Instituto Aço Cearense uniu talentos, empresas e inovação",
-   "data": "26/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Instituto Aço Cearense apoiou a realização do Tech Day, que aconteceu, em 18 de setembro, em Fortaleza (CE). O evento reuniu executivos, gestores de TI, empresas, especialistas e jovens atendidos pelos projetos da...",
-   "link": "http://www.revistaanamaco.com.br/evento-apoiado-pelo-instituto-aco-cearense-uniu-talentos-empresas-e-inovacao-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Custos sobem menos",
-   "data": "25/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "O INCC-M, calculado pelo FGV Ibre, registrou alta de 0,25% em setembro, abaixo da taxa de variação de 0,85% observada no mês anterior. Com isso, no acumulado em 12 meses, o indicador atingiu 6,61%. Esse resultado...",
-   "link": "http://www.revistaanamaco.com.br/custos-sobem-menos2",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Confiança da construção caiu em setembro",
-   "data": "25/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Índice de Confiança da Construção, do FGV Ibre, caiu 1,4 ponto em setembro, para 90,5 pontos. Esse recuo foi influenciado tanto pelo Índice de Situação Atual, que diminuiu 1,0 ponto, quanto pelo Índice de...",
-   "link": "http://www.revistaanamaco.com.br/confianca-da-construcao-caiu-em-setembro",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Encontro Nacional reúne Serviços Sociais da Construção para fortalecer saúde, segurança e inovação na construção",
-   "data": "25/09/2026",
-   "fonte": "CBIC",
-   "resumo": "Realizado pelos Seconcis de Florianópolis, Joinville e Blumenau, evento promove integração, troca de experiências e discussão sobre os desafios do setor Florianópolis recebe, dos dias 23 a 25 de setembro, oEncontro...",
-   "link": "https://cbic.org.br/encontro-nacional-reune-servicos-sociais-da-construcao-para-fortalecer-saude-seguranca-e-inovacao-na-construcao/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Workshop da CBIC aborda estratégias e práticas para negociações coletivas na construção",
-   "data": "25/09/2026",
-   "fonte": "CBIC",
-   "resumo": "Restam poucas vagas para o Workshop de Negociações Coletivas na Construção Civil, iniciativa da Câmara Brasileira da Indústria da Construção (CBIC), por meio da Comissão de Política de Relações Trabalhistas (CPRT),...",
-   "link": "https://cbic.org.br/workshop-da-cbic-aborda-estrategias-e-praticas-para-negociacoes-coletivas-na-construcao/",
    "aba": "demanda"
   }
  ],
