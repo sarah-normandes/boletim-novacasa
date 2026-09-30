@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "30/09/2026 12:29",
+ "atualizado_em": "30/09/2026 18:43",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,22 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Piora nas avaliações do comércio",
+   "data": "30/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Índice de Confiança do Comércio, do FGV Ibre, caiu 2,9 pontos em setembro, para 81,3 pontos, alcançando o menor patamar desde março de 2021 (74,3 pontos). O resultado refletiu a retração tanto nas avaliações sobre...",
+   "link": "http://www.revistaanamaco.com.br/piora-nas-avaliacoes-do-comercio",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Tarkett expande produção nacional com fabricação de pisos vinílicos clicados",
+   "data": "30/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Tarkett expande sua capacidade produtiva nacional inaugurando, na fábrica em Jacareí (SP), uma linha dedicada à produção de pisos vinílicos clicados. O investimento aproxima a companhia do mercado brasileiro e...",
+   "link": "http://www.revistaanamaco.com.br/tarkett-expande-producao-nacional-com-fabricacao-de-pisos-vinilicos-clicados",
+   "aba": "geral"
   },
   {
    "titulo": "Tracking das Favelas revela as marcas de matcon mais lembradas nas comunidades",
@@ -27,19 +43,43 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Como a Flórida Vive um Boom Imobiliário e Se Tornou Ímã de Bilionários",
+   "titulo": "Rio de Janeiro será o palco da 1ª edição da Feicon Rio, que acontece na semana que vem",
    "data": "30/09/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Imóveis premium de Miami tiveram valorização de 67% em cinco anos O post Como a Flórida Vive um Boom Imobiliário e Se Tornou Ímã de Bilionários...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/boom-imobiliario-florida-bilionarios/",
+   "fonte": "Anamaco",
+   "resumo": "A cidade do Rio de Janeiro recebe, de 06 a 08 de outubro, os visitantes para a primeira edição da Feicon Rio. A exposição reunirá mais de 200 marcas no Riocentro e acontece em um momento estratégico para a construção...",
+   "link": "http://www.revistaanamaco.com.br/rio-de-janeiro-sera-o-palco-da-1-edicao-da-feicon-rio-que-acontece-na-semana-que-vem",
+   "aba": "geral"
+  },
+  {
+   "titulo": "JPMorgan vê melhores apostas ante Magalu no varejo pós-eleição, mas ação salta 12%",
+   "data": "30/09/2026",
+   "fonte": "InfoMoney",
+   "resumo": "Magalu e Assaí são os maiores betas para queda dos juros, mas altas recentes levam banco a preferir varejistas de moda antes das eleições The post JPMorgan vê melhores apostas ante Magalu no varejo pós-eleição, mas...",
+   "link": "https://www.infomoney.com.br/mercados/eleicao-pode-destravar-varejistas-mas-jpmorgan-ve-melhores-apostas-alem-de-magalu/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Construção gera mais de 200 mil novos empregos formais em 2026",
+   "data": "30/09/2026",
+   "fonte": "CBIC",
+   "resumo": "A construção segue apresentando resultados positivos no mercado de trabalho. De janeiro a agosto de 2026, o setor gerou 200.431 novos empregos com carteira assinada em todo o país. O saldo de novas vagas foi 2,66%...",
+   "link": "https://cbic.org.br/construcao-gera-mais-de-200-mil-novos-empregos-formais-em-2026/",
    "aba": "demanda"
   },
   {
-   "titulo": "Fundo imobiliário recebe proposta de R$ 760 milhões por imóvel no Rio de Janeiro; saiba os detalhes",
+   "titulo": "Reforma Tributária é tema de encontro de empresários da cadeia produtiva da construção civil potiguar",
+   "data": "30/09/2026",
+   "fonte": "CBIC",
+   "resumo": "Empresários, especialistas e representantes da cadeia produtiva da construção civil se reuniram nesta terça-feira (29), no Auditório Albano Franco, na Casa da Indústria, em Natal, para discutir os impactos da Reforma...",
+   "link": "https://cbic.org.br/reforma-tributaria-e-tema-de-encontro-de-empresarios-da-cadeia-produtiva-da-construcao-civil-potiguar/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Eleições 2026: As ações do varejo para ficar de olho, segundo JP Morgan",
    "data": "30/09/2026",
    "fonte": "MoneyTimes",
-   "resumo": "O fundo imobiliário BRPR Corporate Offices (BROF11) recebeu uma proposta não vinculante de R$ 760 milhões para vender o Edifício Passeio Corporate, localizado no Rio de Janeiro, segundo comunicado divulgado ao...",
-   "link": "https://www.moneytimes.com.br/fundo-imobiliario-recebe-proposta-de-r-760-milhoes-por-imovel-no-rio-de-janeiro-saiba-os-detalhes-igdl/",
+   "resumo": "O primeiro turno das eleições ocorre no próximo domingo (4) e o varejo brasileiro entra no período eleitoral com valuations deprimidos e revisões de resultados majoritariamente negativas, na leitura do JP Morgan. O...",
+   "link": "https://www.moneytimes.com.br/eleicoes-2026-as-acoes-do-varejo-para-ficar-de-olho-segundo-jp-morgan-lmrs/",
    "aba": "demanda"
   },
   {
@@ -67,22 +107,6 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "Construção Civil Gera 20,8 Mil Vagas de Emprego Formal em Agosto, Mostra Caged",
-   "data": "29/09/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Dados do Ministério do Trabalho mostram que o segmento segue superando a indústria e o comércio na criação de vínculos formais O post Construção...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/caged-emprego-construcao-civil-agosto/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Como Marcas de Luxo Estão Chegando Ao Mercado Imobiliário de Buenos Aires",
-   "data": "29/09/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. De Dolce & Gabbana em Puerto Madero às negociações da Pride Developer com a LVMH, marcas globais começam a desembarcar no mercado residencial...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/branded-residences-buenos-aires/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "CHIS promove Rodada de Negócios da Habitação em 15 de outubro",
    "data": "29/09/2026",
    "fonte": "CBIC",
@@ -91,44 +115,20 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "ABB planta 700 árvores em Sorocaba e reduz temperatura na fábrica",
-   "data": "28/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A ABB plantou 700 mudas de árvores na fábrica de Sorocaba, no interior de São Paulo, às margens da Castelinho (oficialmente SP-075 ou Rodovia Senador José Ermírio de Moraes). A iniciativa integra as ações de...",
-   "link": "http://www.revistaanamaco.com.br/abb-planta-700-arvores-em-sorocaba-e-reduz-temperatura-na-fabrica-",
-   "aba": "geral"
+   "titulo": "Feicon Talks reúne vozes e debates sobre a construção civil no Riocentro",
+   "data": "29/09/2026",
+   "fonte": "ABRAMAT",
+   "resumo": "Iniciativa estreia na Feicon Rio, entre 6 e 8 de outubro, com entrevistas rápidas sobre inovação, mão de obra, produtividade, gestão e outros temas do setor O post Feicon Talks reúne vozes e debates sobre a...",
+   "link": "https://abramat.org.br/feicon-talks-reune-vozes-e-debates-sobre-a-construcao-civil-no-riocentro/",
+   "aba": "demanda"
   },
   {
-   "titulo": "Sasazaki encerra operações e coloca fim a 83 anos de história na construção",
-   "data": "28/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Após anos de problemas financeiros, um pedido de recuperação judicial em 2024 e com uma dívida de R$ 35 milhões, na última sexta-feira (25 de setembro), a Sasazaki, tradicional fabricante de portas e esquadrias, com...",
-   "link": "http://www.revistaanamaco.com.br/sasazaki-encerra-operacoes-e-coloca-fim-a-83-anos-de-historia-na-construcao",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Cobrecom anuncia patrocínio ao piloto Marcelo Kairis na Porsche Cup Brasil",
-   "data": "28/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Cobrecom anuncia parceria com o piloto Marcelo Kairis, que disputa a Porsche Cup Brasil. O patrocínio amplia a presença da marca no automobilismo nacional e estabelece uma conexão com atributos que fazem parte do...",
-   "link": "http://www.revistaanamaco.com.br/cobrecom-anuncia-patrocinio-ao-piloto-marcelo-kairis-na-porsche-cup-brasil-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Weg ultrapassa R$ 1 bilhão em ganhos com melhoria de processos industriais",
-   "data": "28/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Weg ultrapassou R$ 1 bilhão em ganhos com aperfeiçoamento dos processos industriais, fruto da execução de mais de 400 mil kaizens, que são ações rápidas de melhorias, um dos principais conceitos e práticas do...",
-   "link": "http://www.revistaanamaco.com.br/weg-ultrapassa-r-1-bilhao-em-ganhos-com-melhoria-de-processos-industriais-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Soprano inaugura espaço no Instituto Caldeira e amplia conexão com a inovação",
-   "data": "27/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Soprano dá um novo passo em sua estratégia de transformação cultural e digital. No dia 21 de setembro, a companhia inaugurou seu espaço no Instituto Caldeira, em Porto Alegre (RS), ampliando sua conexão com um...",
-   "link": "http://www.revistaanamaco.com.br/soprano-inaugura-espaco-no-instituto-caldeira-e-amplia-conexao-com-a-inovacao",
-   "aba": "insumos"
+   "titulo": "Feicon Rio debate escassez de mão de obra e profissionalização da cadeia da construção civil",
+   "data": "29/09/2026",
+   "fonte": "ABRAMAT",
+   "resumo": "Evento reúne indústria, varejo, representantes comerciais e entidades, entre os dias 6 e 8 de outubro, para discussões sobre qualificação, produtividade e relações de mercado O post Feicon Rio debate escassez de mão...",
+   "link": "https://abramat.org.br/feicon-rio-debate-escassez-de-mao-de-obra-e-profissionalizacao-da-cadeia-da-construcao-civil/",
+   "aba": "demanda"
   }
  ],
  "diarios": {
