@@ -1,14 +1,46 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "29/09/2026 18:42",
+ "atualizado_em": "30/09/2026 12:29",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "29/09/2026",
+   "data": "30/09/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Tracking das Favelas revela as marcas de matcon mais lembradas nas comunidades",
+   "data": "30/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "Tigre, Coral, Suvinil, Votorantim e Deca despontam como as líderes do setor de matcon nas favelas brasileiras. No entanto, a presença consolidada na mente ou na obra dos moradores de comunidades e periferias não...",
+   "link": "http://www.revistaanamaco.com.br/tracking-das-favelas-revela-as-marcas-de-matcon-mais-lembradas-nas-comunidades-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Essenza, da Montana, leva conceito de acabamento para obras de arte em SP",
+   "data": "30/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Essenza, da Montana, leva para o universo da arte a proposta que está na base de seu novo posicionamento: entender o acabamento não apenas como etapa final de um projeto, mas como parte da forma como uma superfície...",
+   "link": "http://www.revistaanamaco.com.br/essenza-da-montana-leva-conceito-de-acabamento-para-obras-de-arte-em-sp",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Como a Flórida Vive um Boom Imobiliário e Se Tornou Ímã de Bilionários",
+   "data": "30/09/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Imóveis premium de Miami tiveram valorização de 67% em cinco anos O post Como a Flórida Vive um Boom Imobiliário e Se Tornou Ímã de Bilionários...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/boom-imobiliario-florida-bilionarios/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Fundo imobiliário recebe proposta de R$ 760 milhões por imóvel no Rio de Janeiro; saiba os detalhes",
+   "data": "30/09/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "O fundo imobiliário BRPR Corporate Offices (BROF11) recebeu uma proposta não vinculante de R$ 760 milhões para vender o Edifício Passeio Corporate, localizado no Rio de Janeiro, segundo comunicado divulgado ao...",
+   "link": "https://www.moneytimes.com.br/fundo-imobiliario-recebe-proposta-de-r-760-milhoes-por-imovel-no-rio-de-janeiro-saiba-os-detalhes-igdl/",
+   "aba": "demanda"
   },
   {
    "titulo": "Otimismo industrial em baixa",
@@ -49,14 +81,6 @@ window.DADOS = {
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. De Dolce & Gabbana em Puerto Madero às negociações da Pride Developer com a LVMH, marcas globais começam a desembarcar no mercado residencial...",
    "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/branded-residences-buenos-aires/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Quaest PE: Raquel Lyra e João Campos empatam com 42%",
-   "data": "29/09/2026",
-   "fonte": "InfoMoney",
-   "resumo": "A Quaest realizou 1.302 entrevistas a domicílio com eleitores de Pernambuco entre os dias 25 e 28 de setembro The post Quaest PE: Raquel Lyra e João Campos empatam com 42% appeared first on InfoMoney .",
-   "link": "https://www.infomoney.com.br/politica/quaest-pe-raquel-lyra-e-joao-campos-empatam-com-42/",
-   "aba": "geral"
   },
   {
    "titulo": "CHIS promove Rodada de Negócios da Habitação em 15 de outubro",
@@ -105,36 +129,12 @@ window.DADOS = {
    "resumo": "A Soprano dá um novo passo em sua estratégia de transformação cultural e digital. No dia 21 de setembro, a companhia inaugurou seu espaço no Instituto Caldeira, em Porto Alegre (RS), ampliando sua conexão com um...",
    "link": "http://www.revistaanamaco.com.br/soprano-inaugura-espaco-no-instituto-caldeira-e-amplia-conexao-com-a-inovacao",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Adere fornece soluções profissionais para a formação de pintores no Senai",
-   "data": "27/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Adere passa a fornecer, gratuitamente, produtos para as atividades práticas da Escola Senai Orlando Laviero Ferraiuolo na capital paulista. A iniciativa beneficia cerca de 300 alunos dos cursos de Pintura...",
-   "link": "http://www.revistaanamaco.com.br/adere-fornece-solucoes-profissionais-para-a-formacao-de-pintores-no-senai",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Política tarifária assimétrica redesenha custos de resinas e insumos para BOPET e PE e PP sofrem",
-   "data": "27/09/2026",
-   "fonte": "PlásticoNews",
-   "resumo": "Renovação da proteção para PE, PP e PET convive com abertura específica para chips de poliéster destinados a filmes biorientados; para importadores e convertedores, a regra passa a exigir análise produto a produto —...",
-   "link": "https://plasticonews.org/politica-tarifaria-assimetrica-redesenha-custos-de-resinas-e-insumos-para-bopet-e-pe-e-pp-sofrem/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Varejo cresceu às vésperas das duas últimas eleições presidenciais",
-   "data": "26/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A proximidade das eleições presidenciais não significou retração do movimento no varejo físico nos dois últimos ciclos de eleições presidenciais. Levantamento da Seed Digital mostra que o fluxo de consumidores...",
-   "link": "http://www.revistaanamaco.com.br/varejo-cresceu-as-vesperas-das-duas-ultimas-eleicoes-presidenciais-",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "29/09/2026"
+   "data": "30/09/2026"
   }
  },
  "mensais": {
