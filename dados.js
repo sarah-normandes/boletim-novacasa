@@ -1,14 +1,70 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "30/09/2026 18:43",
+ "atualizado_em": "01/10/2026 12:52",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "30/09/2026",
+   "data": "01/10/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Sitivesp e indústrias de tintas e acessórios celebram o Dia da Cor com ação social",
+   "data": "01/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "Em comemoração ao Dia da Cor, celebrado em 21 de setembro,  o Sitivesp realizou mais uma ação de responsabilidade social. Este ano, a iniciativa beneficiou o Serviço de Acolhimento Institucional para Crianças e...",
+   "link": "http://www.revistaanamaco.com.br/sitivesp-e-industrias-de-tintas-e-acessorios-celebram-o-dia-da-cor-com-acao-social",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "ABCP e SNIC lamentam a morte de seu presidente, Paulo Camillo Vargas Penna",
+   "data": "01/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A ABCP e o SNIC comunicam o falecimento de seu presidente executivo, Paulo Camillo Vargas Penna. Com mais de 30 anos de atuação nos setores público, empresarial e associativo, o executivo foi um importante...",
+   "link": "http://www.revistaanamaco.com.br/abcp-e-snic-lamentam-a-morte-de-seu-presidente-paulo-camillo-vargas-penna",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Intenção de investir da indústria é a menor em seis anos, aponta CNI",
+   "data": "01/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "O índice que mede a intenção de investimento da indústria caiu 1,3 ponto em setembro, de 52,6 pontos para 51,3 pontos, o menor valor para o indicador desde agosto de 2020, durante a pandemia de Covid-19. É o que...",
+   "link": "http://www.revistaanamaco.com.br/intencao-de-investir-da-industria-e-a-menor-em-seis-anos-aponta-cni-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Construção gerou 20,8 mil empregos em agosto",
+   "data": "01/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "De acordo com dados do Novo Caged, divulgados pelo Ministério do Trabalho e Emprego, a indústria da construção abriu, em agosto, 20.848 novas vagas no País, o que representa uma alta de 0,67% em relação ao número de...",
+   "link": "http://www.revistaanamaco.com.br/construcao-gerou-208-mil-empregos-em-agosto",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Grupo Lamosa transforma tecnologia em eficiência para menor impacto ambiental",
+   "data": "01/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Grupo Lamosa no Brasil vem trabalhando para transformar tecnologia em eficiência e eficiência em menor impacto ambiental. Em 2025, uma das iniciativas de reaproveitamento energético da companhia economizou,...",
+   "link": "http://www.revistaanamaco.com.br/grupo-lamosa-transforma-tecnologia-em-eficiencia-para-menor-impacto-ambiental-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Sinduscon-CE: Mercado imobiliário de Fortaleza e RMF movimenta R$ 5,811 bilhões até agosto",
+   "data": "01/10/2026",
+   "fonte": "CBIC",
+   "resumo": "Dados do Sinduscon Ceará indicam que 11.610 imóveis foram comercializados entre janeiro e agosto de 2026 na Capital e Região Metropolitana, com 1.522 unidades apenas no oitavo mês do ano. Levantamento ainda aponta...",
+   "link": "https://cbic.org.br/sinduscon-ce-mercado-imobiliario-de-fortaleza-e-rmf-movimenta-r-5811-bilhoes-ate-agosto/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Votorantim lança cimento especial para rodovias, portos e aeroportos",
+   "data": "01/10/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "A Votorantim Cimentos lançou no mercado nacional o CEMFAST – Cimento Especial para Rodovias, Portos e Aeroportos voltado para a alta performance na infraestrutura de O post Votorantim lança cimento especial para...",
+   "link": "https://revistaoe.com.br/votorantim-lanca-novo-cimento-cemfast/",
+   "aba": "insumos"
   },
   {
    "titulo": "Piora nas avaliações do comércio",
@@ -17,6 +73,14 @@ window.DADOS = {
    "resumo": "O Índice de Confiança do Comércio, do FGV Ibre, caiu 2,9 pontos em setembro, para 81,3 pontos, alcançando o menor patamar desde março de 2021 (74,3 pontos). O resultado refletiu a retração tanto nas avaliações sobre...",
    "link": "http://www.revistaanamaco.com.br/piora-nas-avaliacoes-do-comercio",
    "aba": "demanda"
+  },
+  {
+   "titulo": "Rio de Janeiro será o palco da 1ª edição da Feicon Rio, que acontece na semana que vem",
+   "data": "30/09/2026",
+   "fonte": "Anamaco",
+   "resumo": "A cidade do Rio de Janeiro recebe, de 06 a 08 de outubro, os visitantes para a primeira edição da Feicon Rio. A exposição reunirá mais de 200 marcas no Riocentro e acontece em um momento estratégico para a construção...",
+   "link": "http://www.revistaanamaco.com.br/rio-de-janeiro-sera-o-palco-da-1-edicao-da-feicon-rio-que-acontece-na-semana-que-vem",
+   "aba": "geral"
   },
   {
    "titulo": "Tarkett expande produção nacional com fabricação de pisos vinílicos clicados",
@@ -43,22 +107,6 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Rio de Janeiro será o palco da 1ª edição da Feicon Rio, que acontece na semana que vem",
-   "data": "30/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A cidade do Rio de Janeiro recebe, de 06 a 08 de outubro, os visitantes para a primeira edição da Feicon Rio. A exposição reunirá mais de 200 marcas no Riocentro e acontece em um momento estratégico para a construção...",
-   "link": "http://www.revistaanamaco.com.br/rio-de-janeiro-sera-o-palco-da-1-edicao-da-feicon-rio-que-acontece-na-semana-que-vem",
-   "aba": "geral"
-  },
-  {
-   "titulo": "JPMorgan vê melhores apostas ante Magalu no varejo pós-eleição, mas ação salta 12%",
-   "data": "30/09/2026",
-   "fonte": "InfoMoney",
-   "resumo": "Magalu e Assaí são os maiores betas para queda dos juros, mas altas recentes levam banco a preferir varejistas de moda antes das eleições The post JPMorgan vê melhores apostas ante Magalu no varejo pós-eleição, mas...",
-   "link": "https://www.infomoney.com.br/mercados/eleicao-pode-destravar-varejistas-mas-jpmorgan-ve-melhores-apostas-alem-de-magalu/",
-   "aba": "custos"
-  },
-  {
    "titulo": "Construção gera mais de 200 mil novos empregos formais em 2026",
    "data": "30/09/2026",
    "fonte": "CBIC",
@@ -75,66 +123,18 @@ window.DADOS = {
    "aba": "custos"
   },
   {
-   "titulo": "Eleições 2026: As ações do varejo para ficar de olho, segundo JP Morgan",
-   "data": "30/09/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "O primeiro turno das eleições ocorre no próximo domingo (4) e o varejo brasileiro entra no período eleitoral com valuations deprimidos e revisões de resultados majoritariamente negativas, na leitura do JP Morgan. O...",
-   "link": "https://www.moneytimes.com.br/eleicoes-2026-as-acoes-do-varejo-para-ficar-de-olho-segundo-jp-morgan-lmrs/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "Otimismo industrial em baixa",
    "data": "29/09/2026",
    "fonte": "Anamaco",
    "resumo": "De acordo com dados apurados pelo FGV Ibre, o Índice de Confiança da Indústria caiu 2,4 pontos em setembro, para 91,3 pontos. Em médias móveis trimestrais, o índice recuou 2,9 pontos, para 94,1 pontos. No mês, houve...",
    "link": "http://www.revistaanamaco.com.br/otimismo-industrial-em-baixa",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Incerteza eleitoral pode adiar até R$ 62 bilhões em consumo no varejo em 2026",
-   "data": "29/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Levantamento do Ibevar - FIA Business School, com duas décadas de dados de vendas do varejo - Pesquisa Mensal do Comércio do IBGE - cruzados com a atividade geral da economia, identificou que, quando a eleição...",
-   "link": "http://www.revistaanamaco.com.br/incerteza-eleitoral-pode-adiar-ate-r-62-bilhoes-em-consumo-no-varejo-em-2026-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Espaço Smart inaugura sua segunda loja física em Campinas (SP)",
-   "data": "29/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Espaço Smart acaba de inaugurar sua segunda unidade em Campinas. O objetivo é garantir o acesso da população ao material necessário para uma construção em Steel Frame, além de soluções em Drywall, telhado Shingle e...",
-   "link": "http://www.revistaanamaco.com.br/espaco-smart-inaugura-sua-segunda-loja-fisica-em-campinas-sp",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "CHIS promove Rodada de Negócios da Habitação em 15 de outubro",
-   "data": "29/09/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC), por meio da Comissão de Habitação de Interesse Social (CHIS), realiza, no dia 15 de outubro, em Brasília, a Rodada de Negócios da Habitação. O encontro será...",
-   "link": "https://cbic.org.br/chis-promove-rodada-de-negocios-da-habitacao-em-15-de-outubro/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Feicon Talks reúne vozes e debates sobre a construção civil no Riocentro",
-   "data": "29/09/2026",
-   "fonte": "ABRAMAT",
-   "resumo": "Iniciativa estreia na Feicon Rio, entre 6 e 8 de outubro, com entrevistas rápidas sobre inovação, mão de obra, produtividade, gestão e outros temas do setor O post Feicon Talks reúne vozes e debates sobre a...",
-   "link": "https://abramat.org.br/feicon-talks-reune-vozes-e-debates-sobre-a-construcao-civil-no-riocentro/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Feicon Rio debate escassez de mão de obra e profissionalização da cadeia da construção civil",
-   "data": "29/09/2026",
-   "fonte": "ABRAMAT",
-   "resumo": "Evento reúne indústria, varejo, representantes comerciais e entidades, entre os dias 6 e 8 de outubro, para discussões sobre qualificação, produtividade e relações de mercado O post Feicon Rio debate escassez de mão...",
-   "link": "https://abramat.org.br/feicon-rio-debate-escassez-de-mao-de-obra-e-profissionalizacao-da-cadeia-da-construcao-civil/",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "30/09/2026"
+   "data": "01/10/2026"
   }
  },
  "mensais": {
