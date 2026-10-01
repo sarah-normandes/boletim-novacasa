@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "01/10/2026 12:52",
+ "atualizado_em": "01/10/2026 19:11",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -11,6 +11,14 @@ window.DADOS = {
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
+   "titulo": "Amanco Wavin quer fortalecer o movimento de digitalização da construção",
+   "data": "01/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Amanco Wavin acaba de atualizar 32 objetos de suas bibliotecas BIM com padrões globais de identificação, criando uma conexão direta entre os produtos especificados nos projetos e os itens físicos utilizados nas...",
+   "link": "http://www.revistaanamaco.com.br/amanco-wavin-quer-fortalecer-o-movimento-de-digitalizacao-da-construcao",
+   "aba": "geral"
+  },
+  {
    "titulo": "Sitivesp e indústrias de tintas e acessórios celebram o Dia da Cor com ação social",
    "data": "01/10/2026",
    "fonte": "Anamaco",
@@ -19,11 +27,11 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "ABCP e SNIC lamentam a morte de seu presidente, Paulo Camillo Vargas Penna",
+   "titulo": "ABCP e SNIC comunicam a morte de seu presidente, Paulo Camillo Vargas Penna",
    "data": "01/10/2026",
    "fonte": "Anamaco",
-   "resumo": "A ABCP e o SNIC comunicam o falecimento de seu presidente executivo, Paulo Camillo Vargas Penna. Com mais de 30 anos de atuação nos setores público, empresarial e associativo, o executivo foi um importante...",
-   "link": "http://www.revistaanamaco.com.br/abcp-e-snic-lamentam-a-morte-de-seu-presidente-paulo-camillo-vargas-penna",
+   "resumo": "A Associação Brasileira de Cimento Portland e o Sindicato Nacional da Indústria do Cimento comunicam o falecimento de seu presidente executivo, Paulo Camillo Vargas Penna. Com mais de 30 anos de atuação nos setores...",
+   "link": "http://www.revistaanamaco.com.br/abcp-e-snic-comunicam-a-morte-de-seu-presidente-paulo-camillo-vargas-penna1",
    "aba": "insumos"
   },
   {
@@ -49,6 +57,30 @@ window.DADOS = {
    "resumo": "O Grupo Lamosa no Brasil vem trabalhando para transformar tecnologia em eficiência e eficiência em menor impacto ambiental. Em 2025, uma das iniciativas de reaproveitamento energético da companhia economizou,...",
    "link": "http://www.revistaanamaco.com.br/grupo-lamosa-transforma-tecnologia-em-eficiencia-para-menor-impacto-ambiental-",
    "aba": "geral"
+  },
+  {
+   "titulo": "CBIC participa de reunião da FIIC sobre desafios da construção na América Latina",
+   "data": "01/10/2026",
+   "fonte": "CBIC",
+   "resumo": "Representantes da construção civil de diferentes países da América Latina estão reunidos para discutir temas como habitação, infraestrutura, sustentabilidade, desenvolvimento urbano e inclusão no setor. A Câmara...",
+   "link": "https://cbic.org.br/cbic-participa-de-reuniao-da-fiic-sobre-desafios-da-construcao-na-america-latina/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Encontro CBIC de Construtores e Incorporadores reúne setor da construção em Goiânia",
+   "data": "01/10/2026",
+   "fonte": "CBIC",
+   "resumo": "Representantes da construção civil e do mercado imobiliário estarão reunidos, nos dias 27 e 28 de outubro, em Goiânia (GO), para o Encontro CBIC de Construtores e Incorporadores Centro-Oeste. Realizado pela Câmara...",
+   "link": "https://cbic.org.br/encontro-cbic-de-construtores-e-incorporadores-reune-setor-da-construcao-em-goiania/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Nota de pesar: Paulo Camillo Penna, presidente executivo da Associação Brasileira de Cimento Portland (ABCP) e do Sindicato Nacional da Indústria do Cimento (SNIC)",
+   "data": "01/10/2026",
+   "fonte": "CBIC",
+   "resumo": "É com profundo pesar que comunicamos a partida de Paulo Camillo Penna, presidente executivo da Associação Brasileira de Cimento Portland (ABCP) e do Sindicato Nacional da Indústria do Cimento (SNIC), nesta...",
+   "link": "https://cbic.org.br/nota-de-pesar-paulo-camillo-penna-presidente-executivo-da-associacao-brasileira-de-cimento-portland-abcp-e-do-sindicato-nacional-da-industria-do-cimento-snic/",
+   "aba": "insumos"
   },
   {
    "titulo": "Sinduscon-CE: Mercado imobiliário de Fortaleza e RMF movimenta R$ 5,811 bilhões até agosto",
@@ -96,38 +128,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "Tigre, Coral, Suvinil, Votorantim e Deca despontam como as líderes do setor de matcon nas favelas brasileiras. No entanto, a presença consolidada na mente ou na obra dos moradores de comunidades e periferias não...",
    "link": "http://www.revistaanamaco.com.br/tracking-das-favelas-revela-as-marcas-de-matcon-mais-lembradas-nas-comunidades-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Essenza, da Montana, leva conceito de acabamento para obras de arte em SP",
-   "data": "30/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Essenza, da Montana, leva para o universo da arte a proposta que está na base de seu novo posicionamento: entender o acabamento não apenas como etapa final de um projeto, mas como parte da forma como uma superfície...",
-   "link": "http://www.revistaanamaco.com.br/essenza-da-montana-leva-conceito-de-acabamento-para-obras-de-arte-em-sp",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Construção gera mais de 200 mil novos empregos formais em 2026",
-   "data": "30/09/2026",
-   "fonte": "CBIC",
-   "resumo": "A construção segue apresentando resultados positivos no mercado de trabalho. De janeiro a agosto de 2026, o setor gerou 200.431 novos empregos com carteira assinada em todo o país. O saldo de novas vagas foi 2,66%...",
-   "link": "https://cbic.org.br/construcao-gera-mais-de-200-mil-novos-empregos-formais-em-2026/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Reforma Tributária é tema de encontro de empresários da cadeia produtiva da construção civil potiguar",
-   "data": "30/09/2026",
-   "fonte": "CBIC",
-   "resumo": "Empresários, especialistas e representantes da cadeia produtiva da construção civil se reuniram nesta terça-feira (29), no Auditório Albano Franco, na Casa da Indústria, em Natal, para discutir os impactos da Reforma...",
-   "link": "https://cbic.org.br/reforma-tributaria-e-tema-de-encontro-de-empresarios-da-cadeia-produtiva-da-construcao-civil-potiguar/",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Otimismo industrial em baixa",
-   "data": "29/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "De acordo com dados apurados pelo FGV Ibre, o Índice de Confiança da Indústria caiu 2,4 pontos em setembro, para 91,3 pontos. Em médias móveis trimestrais, o índice recuou 2,9 pontos, para 94,1 pontos. No mês, houve...",
-   "link": "http://www.revistaanamaco.com.br/otimismo-industrial-em-baixa",
    "aba": "demanda"
   }
  ],
