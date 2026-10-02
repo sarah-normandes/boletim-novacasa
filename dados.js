@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "02/10/2026 12:14",
+ "atualizado_em": "02/10/2026 18:39",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Famílias menos propensas ao consumo",
+   "data": "02/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "De acordo com a CNC, a Intenção de Consumo das Famílias registrou retração de 0,3% em setembro, atingindo 104,5 pontos, o menor patamar desde março (104,4 pontos). Na comparação com setembro do ano passado, no...",
+   "link": "http://www.revistaanamaco.com.br/familias-menos-propensas-ao-consumo-",
+   "aba": "demanda"
   },
   {
    "titulo": "Arte urbana deixa ruas mais coloridas em Florianópolis com apoio do Instituto Coral",
@@ -25,6 +33,22 @@ window.DADOS = {
    "resumo": "Uma nova tecnologia pode reduzir em até 90% as emissões de CO2 e gerar economia de 50% na produção de argamassa para o setor da construção. Desenvolvida pela Unidade Embrapii Senai Cimatec, em parceria com a Mazodan,...",
    "link": "http://www.revistaanamaco.com.br/tecnologia-converte-residuos-minerais-do-rio-amazonas-em-argamassa-sustentavel-",
    "aba": "insumos"
+  },
+  {
+   "titulo": "Portaria altera regras do MCMV Rural para famílias afetadas por desastres no RS",
+   "data": "02/10/2026",
+   "fonte": "CBIC",
+   "resumo": "Foi publicada no Diário Oficial da União (DOU) desta quinta-feira (1º) a Portaria MCID nº 1.337, de 30 de setembro de 2026, que altera as regras de contratação de moradias pelo Minha Casa, Minha Vida Rural destinadas...",
+   "link": "https://cbic.org.br/portaria-altera-regras-do-mcmv-rural-para-familias-afetadas-por-desastres-no-rs/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Semana CANPAT Construção 2026 começa nesta segunda-feira com debates sobre segurança nos canteiros",
+   "data": "02/10/2026",
+   "fonte": "CBIC",
+   "resumo": "Começa nesta segunda-feira (5) a Semana CANPAT Construção 2026, iniciativa da Câmara Brasileira da Indústria da Construção (CBIC), por meio da Comissão de Política de Relações Trabalhistas (CPRT), em parceria com o...",
+   "link": "https://cbic.org.br/semana-canpat-construcao-2026-comeca-nesta-segunda-feira-com-debates-sobre-seguranca-nos-canteiros/",
+   "aba": "geral"
   },
   {
    "titulo": "Construção industrializada avança com combinação de vários sistemas construtivos",
@@ -99,36 +123,12 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Nota de pesar: Paulo Camillo Penna, presidente executivo da Associação Brasileira de Cimento Portland (ABCP) e do Sindicato Nacional da Indústria do Cimento (SNIC)",
-   "data": "01/10/2026",
-   "fonte": "CBIC",
-   "resumo": "É com profundo pesar que comunicamos a partida de Paulo Camillo Penna, presidente executivo da Associação Brasileira de Cimento Portland (ABCP) e do Sindicato Nacional da Indústria do Cimento (SNIC), nesta...",
-   "link": "https://cbic.org.br/nota-de-pesar-paulo-camillo-penna-presidente-executivo-da-associacao-brasileira-de-cimento-portland-abcp-e-do-sindicato-nacional-da-industria-do-cimento-snic/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Sinduscon-CE: Mercado imobiliário de Fortaleza e RMF movimenta R$ 5,811 bilhões até agosto",
-   "data": "01/10/2026",
-   "fonte": "CBIC",
-   "resumo": "Dados do Sinduscon Ceará indicam que 11.610 imóveis foram comercializados entre janeiro e agosto de 2026 na Capital e Região Metropolitana, com 1.522 unidades apenas no oitavo mês do ano. Levantamento ainda aponta...",
-   "link": "https://cbic.org.br/sinduscon-ce-mercado-imobiliario-de-fortaleza-e-rmf-movimenta-r-5811-bilhoes-ate-agosto/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "Votorantim lança cimento especial para rodovias, portos e aeroportos",
    "data": "01/10/2026",
    "fonte": "O Empreiteiro",
    "resumo": "A Votorantim Cimentos lançou no mercado nacional o CEMFAST – Cimento Especial para Rodovias, Portos e Aeroportos voltado para a alta performance na infraestrutura de O post Votorantim lança cimento especial para...",
    "link": "https://revistaoe.com.br/votorantim-lanca-novo-cimento-cemfast/",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Piora nas avaliações do comércio",
-   "data": "30/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Índice de Confiança do Comércio, do FGV Ibre, caiu 2,9 pontos em setembro, para 81,3 pontos, alcançando o menor patamar desde março de 2021 (74,3 pontos). O resultado refletiu a retração tanto nas avaliações sobre...",
-   "link": "http://www.revistaanamaco.com.br/piora-nas-avaliacoes-do-comercio",
-   "aba": "demanda"
   }
  ],
  "diarios": {
