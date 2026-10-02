@@ -1,14 +1,38 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "01/10/2026 19:11",
+ "atualizado_em": "02/10/2026 12:14",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "01/10/2026",
+   "data": "02/10/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Arte urbana deixa ruas mais coloridas em Florianópolis com apoio do Instituto Coral",
+   "data": "02/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "Quem circula por Florianópolis encontra, agora, novos cenários, cores e obras de arte integrados à paisagem urbana. A 3ª edição do Festival Street Art Tour deixou como legado mais de 20 murais e empenas revitalizados...",
+   "link": "http://www.revistaanamaco.com.br/arte-urbana-deixa-ruas-mais-coloridas-em-florianopolis-com-apoio-do-instituto-coral-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Tecnologia converte resíduos minerais do Rio Amazonas em argamassa sustentável",
+   "data": "02/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "Uma nova tecnologia pode reduzir em até 90% as emissões de CO2 e gerar economia de 50% na produção de argamassa para o setor da construção. Desenvolvida pela Unidade Embrapii Senai Cimatec, em parceria com a Mazodan,...",
+   "link": "http://www.revistaanamaco.com.br/tecnologia-converte-residuos-minerais-do-rio-amazonas-em-argamassa-sustentavel-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Construção industrializada avança com combinação de vários sistemas construtivos",
+   "data": "02/10/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "Conhecer, desenvolver e aplicar os diversos sistemas construtivos industrializados numa mesma obra passou a ser o grande objetivo do segmento. Pelo menos é o que O post Construção industrializada avança com...",
+   "link": "https://revistaoe.com.br/combinacao-de-sistemas-construtivos-em-obras/",
+   "aba": "demanda"
   },
   {
    "titulo": "Amanco Wavin quer fortalecer o movimento de digitalização da construção",
@@ -105,36 +129,12 @@ window.DADOS = {
    "resumo": "O Índice de Confiança do Comércio, do FGV Ibre, caiu 2,9 pontos em setembro, para 81,3 pontos, alcançando o menor patamar desde março de 2021 (74,3 pontos). O resultado refletiu a retração tanto nas avaliações sobre...",
    "link": "http://www.revistaanamaco.com.br/piora-nas-avaliacoes-do-comercio",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Rio de Janeiro será o palco da 1ª edição da Feicon Rio, que acontece na semana que vem",
-   "data": "30/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A cidade do Rio de Janeiro recebe, de 06 a 08 de outubro, os visitantes para a primeira edição da Feicon Rio. A exposição reunirá mais de 200 marcas no Riocentro e acontece em um momento estratégico para a construção...",
-   "link": "http://www.revistaanamaco.com.br/rio-de-janeiro-sera-o-palco-da-1-edicao-da-feicon-rio-que-acontece-na-semana-que-vem",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Tarkett expande produção nacional com fabricação de pisos vinílicos clicados",
-   "data": "30/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Tarkett expande sua capacidade produtiva nacional inaugurando, na fábrica em Jacareí (SP), uma linha dedicada à produção de pisos vinílicos clicados. O investimento aproxima a companhia do mercado brasileiro e...",
-   "link": "http://www.revistaanamaco.com.br/tarkett-expande-producao-nacional-com-fabricacao-de-pisos-vinilicos-clicados",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Tracking das Favelas revela as marcas de matcon mais lembradas nas comunidades",
-   "data": "30/09/2026",
-   "fonte": "Anamaco",
-   "resumo": "Tigre, Coral, Suvinil, Votorantim e Deca despontam como as líderes do setor de matcon nas favelas brasileiras. No entanto, a presença consolidada na mente ou na obra dos moradores de comunidades e periferias não...",
-   "link": "http://www.revistaanamaco.com.br/tracking-das-favelas-revela-as-marcas-de-matcon-mais-lembradas-nas-comunidades-",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "01/10/2026"
+   "data": "02/10/2026"
   }
  },
  "mensais": {
