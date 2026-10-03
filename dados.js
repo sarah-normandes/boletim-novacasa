@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "03/10/2026 15:27",
+ "atualizado_em": "03/10/2026 20:26",
  "manchetes": [
   {
    "titulo": "Juros elevados ainda freiam a confiança do comerciante da capital paulista",
