@@ -1,14 +1,46 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "02/10/2026 18:39",
+ "atualizado_em": "03/10/2026 11:05",
  "manchetes": [
   {
-   "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "02/10/2026",
-   "fonte": "Banco Central",
-   "aba": "custos",
-   "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
-   "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+   "titulo": "Juros elevados ainda freiam a confiança do comerciante da capital paulista",
+   "data": "03/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "Há cinco meses, a confiança dos comerciantes paulistanos não a deixa zona de pessimismo, de acordo com estudo mensal da FecomercioSP. Em agosto, o Índice de Confiança do Empresário do Comércio registrou 94,4 pontos....",
+   "link": "http://www.revistaanamaco.com.br/juros-elevados-ainda-freiam-a-confianca-do-comerciante-da-capital-paulista--",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Marizeth Carvalho assume o negócio Arquitetônico na América do Sul da PPG",
+   "data": "03/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A PPG anuncia Marizeth Carvalho na liderança do negócio Arquitetônico para a América do Sul, onde a empresa opera com a marca Tintas Renner, ampliando sua atuação na companhia. A executiva seguirá exercendo suas...",
+   "link": "http://www.revistaanamaco.com.br/marizeth-carvalho-assume-o-negocio-arquitetonico-na-america-do-sul-da-ppg",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "A Arquiteta Que Lidera as Obras de Construtora de R$ 2 Bilhões",
+   "data": "03/10/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Stella Theodorakis começou a carreira há 27 anos na Athié Wohnrath como estagiária e hoje é sócia, diretora-executiva e conselheira do grupo O post...",
+   "link": "https://forbes.com.br/forbes-mulher/2026/10/a-arquiteta-que-lidera-as-obras-de-construtora-de-r-2-bilhoes/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Por Que o Varejo de Luxo Está Migrando para Lojas Menores e Flagships Maiores",
+   "data": "03/10/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Relatório aponta que o setor recuou no volume de inaugurações, mas aposta em boutiques compactas e espaços grandiosos para fidelizar o cliente VIP O...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/varejo-luxo-lojas-flagships/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Fundos imobiliários (FIIs): Veja 12 para ter na carteira em outubro, segundo o Itaú BBA",
+   "data": "03/10/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "O Itaú BBA optou por manter inalterada sua carteira recomendada de fundos imobiliários (FIIs) para o mês de outubro, que segue composta por 12 veículos. Em relatório, os analistas Fausto Menezes e Larissa Gatti Nappo...",
+   "link": "https://www.moneytimes.com.br/fundos-imobiliarios-fiis-veja-12-para-ter-na-carteira-em-outubro-segundo-o-itau-bba-igdl/",
+   "aba": "demanda"
   },
   {
    "titulo": "Famílias menos propensas ao consumo",
@@ -97,38 +129,6 @@ window.DADOS = {
    "resumo": "De acordo com dados do Novo Caged, divulgados pelo Ministério do Trabalho e Emprego, a indústria da construção abriu, em agosto, 20.848 novas vagas no País, o que representa uma alta de 0,67% em relação ao número de...",
    "link": "http://www.revistaanamaco.com.br/construcao-gerou-208-mil-empregos-em-agosto",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Grupo Lamosa transforma tecnologia em eficiência para menor impacto ambiental",
-   "data": "01/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Grupo Lamosa no Brasil vem trabalhando para transformar tecnologia em eficiência e eficiência em menor impacto ambiental. Em 2025, uma das iniciativas de reaproveitamento energético da companhia economizou,...",
-   "link": "http://www.revistaanamaco.com.br/grupo-lamosa-transforma-tecnologia-em-eficiencia-para-menor-impacto-ambiental-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "CBIC participa de reunião da FIIC sobre desafios da construção na América Latina",
-   "data": "01/10/2026",
-   "fonte": "CBIC",
-   "resumo": "Representantes da construção civil de diferentes países da América Latina estão reunidos para discutir temas como habitação, infraestrutura, sustentabilidade, desenvolvimento urbano e inclusão no setor. A Câmara...",
-   "link": "https://cbic.org.br/cbic-participa-de-reuniao-da-fiic-sobre-desafios-da-construcao-na-america-latina/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Encontro CBIC de Construtores e Incorporadores reúne setor da construção em Goiânia",
-   "data": "01/10/2026",
-   "fonte": "CBIC",
-   "resumo": "Representantes da construção civil e do mercado imobiliário estarão reunidos, nos dias 27 e 28 de outubro, em Goiânia (GO), para o Encontro CBIC de Construtores e Incorporadores Centro-Oeste. Realizado pela Câmara...",
-   "link": "https://cbic.org.br/encontro-cbic-de-construtores-e-incorporadores-reune-setor-da-construcao-em-goiania/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Votorantim lança cimento especial para rodovias, portos e aeroportos",
-   "data": "01/10/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A Votorantim Cimentos lançou no mercado nacional o CEMFAST – Cimento Especial para Rodovias, Portos e Aeroportos voltado para a alta performance na infraestrutura de O post Votorantim lança cimento especial para...",
-   "link": "https://revistaoe.com.br/votorantim-lanca-novo-cimento-cemfast/",
-   "aba": "insumos"
   }
  ],
  "diarios": {
