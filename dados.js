@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "03/10/2026 11:05",
+ "atualizado_em": "03/10/2026 15:27",
  "manchetes": [
   {
    "titulo": "Juros elevados ainda freiam a confiança do comerciante da capital paulista",
@@ -33,14 +33,6 @@ window.DADOS = {
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Relatório aponta que o setor recuou no volume de inaugurações, mas aposta em boutiques compactas e espaços grandiosos para fidelizar o cliente VIP O...",
    "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/varejo-luxo-lojas-flagships/",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Fundos imobiliários (FIIs): Veja 12 para ter na carteira em outubro, segundo o Itaú BBA",
-   "data": "03/10/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "O Itaú BBA optou por manter inalterada sua carteira recomendada de fundos imobiliários (FIIs) para o mês de outubro, que segue composta por 12 veículos. Em relatório, os analistas Fausto Menezes e Larissa Gatti Nappo...",
-   "link": "https://www.moneytimes.com.br/fundos-imobiliarios-fiis-veja-12-para-ter-na-carteira-em-outubro-segundo-o-itau-bba-igdl/",
-   "aba": "demanda"
   },
   {
    "titulo": "Famílias menos propensas ao consumo",
@@ -129,6 +121,14 @@ window.DADOS = {
    "resumo": "De acordo com dados do Novo Caged, divulgados pelo Ministério do Trabalho e Emprego, a indústria da construção abriu, em agosto, 20.848 novas vagas no País, o que representa uma alta de 0,67% em relação ao número de...",
    "link": "http://www.revistaanamaco.com.br/construcao-gerou-208-mil-empregos-em-agosto",
    "aba": "demanda"
+  },
+  {
+   "titulo": "Grupo Lamosa transforma tecnologia em eficiência para menor impacto ambiental",
+   "data": "01/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Grupo Lamosa no Brasil vem trabalhando para transformar tecnologia em eficiência e eficiência em menor impacto ambiental. Em 2025, uma das iniciativas de reaproveitamento energético da companhia economizou,...",
+   "link": "http://www.revistaanamaco.com.br/grupo-lamosa-transforma-tecnologia-em-eficiencia-para-menor-impacto-ambiental-",
+   "aba": "geral"
   }
  ],
  "diarios": {
