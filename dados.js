@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "05/10/2026 14:38",
+ "atualizado_em": "05/10/2026 20:31",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -35,19 +35,27 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Mitsubishi e Empresa de Bilionário Tailandês Construirão Torre Residencial de Alto Padrão Às Margens do Rio Singapura",
+   "titulo": "Semana CANPAT Construção 2026 destaca prevenção e qualificação para transformar a segurança nos canteiros",
    "data": "05/10/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Parceria entre gigantes asiáticas prevê a construção de quase 600 unidades residenciais O post Mitsubishi e Empresa de Bilionário Tailandês...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/frasers-mitsubishi-condominio-singapura/",
+   "fonte": "CBIC",
+   "resumo": "A Semana CANPAT Construção 2026 começou nesta segunda-feira (5) com a defesa de uma agenda permanente de prevenção, qualificação profissional e transformação da cultura de segurança na indústria da construção....",
+   "link": "https://cbic.org.br/semana-canpat-construcao-2026-destaca-prevencao-e-qualificacao-para-transformar-a-seguranca-nos-canteiros/",
    "aba": "geral"
   },
   {
-   "titulo": "Fundos imobiliários (FIIs): Veja 5 para ter na carteira em outubro, segundo o Daycoval",
+   "titulo": "Semana CANPAT da Construção 2026 debate mudanças na capacitação previstas na nova NR 10",
    "data": "05/10/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "O Daycoval manteve inalterada sua carteira recomendada de fundos imobiliários (FIIs) para o mês de outubro, que segue composta por cinco veículos. Em relatório, o analista Gabriel Augusto Mollo afirmou que o banco...",
-   "link": "https://www.moneytimes.com.br/fundos-imobiliarios-fiis-veja-5-para-ter-na-carteira-em-outubro-segundo-o-daycoval-igdl/",
+   "fonte": "CBIC",
+   "resumo": "As mudanças previstas na Norma Regulamentadora nº 10 (NR 10) e seus impactos na capacitação dos trabalhadores da construção foram tema do primeiro painel da Semana CANPAT Construção 2026, realizado nesta...",
+   "link": "https://cbic.org.br/semana-canpat-da-construcao-2026-debate-mudancas-na-capacitacao-previstas-na-nova-nr-10/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "SINDUSCON Joinville:  vendas superam lançamentos no mercado imobiliário da cidade",
+   "data": "05/10/2026",
+   "fonte": "CBIC",
+   "resumo": "O mercado imobiliário de Joinville registrou mais vendas do que lançamentos no primeiro semestre de 2026. Um levantamento da Brain Inteligência Estratégica feito com exclusividade para o SINDUSCON Joinville aponta...",
+   "link": "https://cbic.org.br/sinduscon-joinville-vendas-superam-lancamentos-no-mercado-imobiliario-da-cidade/",
    "aba": "demanda"
   },
   {
@@ -113,14 +121,6 @@ window.DADOS = {
    "resumo": "Foi publicada no Diário Oficial da União (DOU) desta quinta-feira (1º) a Portaria MCID nº 1.337, de 30 de setembro de 2026, que altera as regras de contratação de moradias pelo Minha Casa, Minha Vida Rural destinadas...",
    "link": "https://cbic.org.br/portaria-altera-regras-do-mcmv-rural-para-familias-afetadas-por-desastres-no-rs/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Semana CANPAT Construção 2026 começa nesta segunda-feira com debates sobre segurança nos canteiros",
-   "data": "02/10/2026",
-   "fonte": "CBIC",
-   "resumo": "Começa nesta segunda-feira (5) a Semana CANPAT Construção 2026, iniciativa da Câmara Brasileira da Indústria da Construção (CBIC), por meio da Comissão de Política de Relações Trabalhistas (CPRT), em parceria com o...",
-   "link": "https://cbic.org.br/semana-canpat-construcao-2026-comeca-nesta-segunda-feira-com-debates-sobre-seguranca-nos-canteiros/",
-   "aba": "geral"
   },
   {
    "titulo": "Construção industrializada avança com combinação de vários sistemas construtivos",
