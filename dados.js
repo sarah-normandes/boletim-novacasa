@@ -1,7 +1,71 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "03/10/2026 20:26",
+ "atualizado_em": "05/10/2026 14:38",
  "manchetes": [
+  {
+   "titulo": "Selic mantida em 13,75% ao ano",
+   "data": "05/10/2026",
+   "fonte": "Banco Central",
+   "aba": "custos",
+   "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
+   "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Jimo chega aos 70 anos e anuncia planos de expansão para 2027",
+   "data": "05/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Jimo completa, este ano, 70 anos de atividades. A indústria, 100% brasileira, celebra a marca com a terceira geração da família Morandi à frente dos negócios e uma estratégia de expansão que combina tradição,...",
+   "link": "http://www.revistaanamaco.com.br/jimo-chega-aos-70-anos-e-anuncia-planos-de-expansao-para-2027",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Pessimismo se intensificou entre os segmentos industriais em setembro",
+   "data": "05/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "De acordo com levantamento realizado pela CNI, o pessimismo se tornou mais intenso entre os segmentos industriais em setembro. No mês, o Índice de Confiança do Empresário Industrial, recuou em 24 dos 29 setores, em...",
+   "link": "http://www.revistaanamaco.com.br/pessimismo-se-intensificou-entre-os-segmentos-industriais-em-setembro",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Arauco destina R$ 1 milhão à futura Unidade de Triagem de Resíduos de Inocência",
+   "data": "05/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "Em uma ação voltada a fortalecer a infraestrutura urbana e o cuidado com o meio ambiente, a Arauco doou um conjunto completo de equipamentos de coleta seletiva à futura Unidade de Triagem de Resíduos de Inocência (MS)",
+   "link": "http://www.revistaanamaco.com.br/arauco-destina-r-1-milhao-a-futura-unidade-de-triagem-de-residuos-de-inocencia-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Mitsubishi e Empresa de Bilionário Tailandês Construirão Torre Residencial de Alto Padrão Às Margens do Rio Singapura",
+   "data": "05/10/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Parceria entre gigantes asiáticas prevê a construção de quase 600 unidades residenciais O post Mitsubishi e Empresa de Bilionário Tailandês...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/frasers-mitsubishi-condominio-singapura/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Fundos imobiliários (FIIs): Veja 5 para ter na carteira em outubro, segundo o Daycoval",
+   "data": "05/10/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "O Daycoval manteve inalterada sua carteira recomendada de fundos imobiliários (FIIs) para o mês de outubro, que segue composta por cinco veículos. Em relatório, o analista Gabriel Augusto Mollo afirmou que o banco...",
+   "link": "https://www.moneytimes.com.br/fundos-imobiliarios-fiis-veja-5-para-ter-na-carteira-em-outubro-segundo-o-daycoval-igdl/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Em agosto, do total de negativações, 86,72% foram de devedores reincidentes",
+   "data": "04/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "Em agosto, o Indicador de Reincidência de Pessoas Físicas, apurado pela CNDL e pelo SPC Brasil revelou que, do total de negativações, 86,72% foram de devedores reincidentes. O dado refere-se a consumidores que já...",
+   "link": "http://www.revistaanamaco.com.br/em-agosto-do-total-de-negativacoes-8672-foram-de-devedores-reincidentes",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Segurança física vai além da prevenção de perdas e vira ativo estratégico no varejo",
+   "data": "04/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Genetec acaba de divulgar seu Relatório Estado da Segurança Física 2026. Com base nas respostas de profissionais do setor em todo o mundo, a pesquisa mostra que os varejistas veem cada vez mais a segurança física...",
+   "link": "http://www.revistaanamaco.com.br/seguranca-fisica-vai-alem-da-prevencao-de-perdas-e-vira-ativo-estrategico-no-varejo--",
+   "aba": "demanda"
+  },
   {
    "titulo": "Juros elevados ainda freiam a confiança do comerciante da capital paulista",
    "data": "03/10/2026",
@@ -16,22 +80,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "A PPG anuncia Marizeth Carvalho na liderança do negócio Arquitetônico para a América do Sul, onde a empresa opera com a marca Tintas Renner, ampliando sua atuação na companhia. A executiva seguirá exercendo suas...",
    "link": "http://www.revistaanamaco.com.br/marizeth-carvalho-assume-o-negocio-arquitetonico-na-america-do-sul-da-ppg",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "A Arquiteta Que Lidera as Obras de Construtora de R$ 2 Bilhões",
-   "data": "03/10/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Stella Theodorakis começou a carreira há 27 anos na Athié Wohnrath como estagiária e hoje é sócia, diretora-executiva e conselheira do grupo O post...",
-   "link": "https://forbes.com.br/forbes-mulher/2026/10/a-arquiteta-que-lidera-as-obras-de-construtora-de-r-2-bilhoes/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Por Que o Varejo de Luxo Está Migrando para Lojas Menores e Flagships Maiores",
-   "data": "03/10/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Relatório aponta que o setor recuou no volume de inaugurações, mas aposta em boutiques compactas e espaços grandiosos para fidelizar o cliente VIP O...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/varejo-luxo-lojas-flagships/",
    "aba": "insumos"
   },
   {
@@ -81,60 +129,12 @@ window.DADOS = {
    "resumo": "Conhecer, desenvolver e aplicar os diversos sistemas construtivos industrializados numa mesma obra passou a ser o grande objetivo do segmento. Pelo menos é o que O post Construção industrializada avança com...",
    "link": "https://revistaoe.com.br/combinacao-de-sistemas-construtivos-em-obras/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Amanco Wavin quer fortalecer o movimento de digitalização da construção",
-   "data": "01/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Amanco Wavin acaba de atualizar 32 objetos de suas bibliotecas BIM com padrões globais de identificação, criando uma conexão direta entre os produtos especificados nos projetos e os itens físicos utilizados nas...",
-   "link": "http://www.revistaanamaco.com.br/amanco-wavin-quer-fortalecer-o-movimento-de-digitalizacao-da-construcao",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Sitivesp e indústrias de tintas e acessórios celebram o Dia da Cor com ação social",
-   "data": "01/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "Em comemoração ao Dia da Cor, celebrado em 21 de setembro,  o Sitivesp realizou mais uma ação de responsabilidade social. Este ano, a iniciativa beneficiou o Serviço de Acolhimento Institucional para Crianças e...",
-   "link": "http://www.revistaanamaco.com.br/sitivesp-e-industrias-de-tintas-e-acessorios-celebram-o-dia-da-cor-com-acao-social",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "ABCP e SNIC comunicam a morte de seu presidente, Paulo Camillo Vargas Penna",
-   "data": "01/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Associação Brasileira de Cimento Portland e o Sindicato Nacional da Indústria do Cimento comunicam o falecimento de seu presidente executivo, Paulo Camillo Vargas Penna. Com mais de 30 anos de atuação nos setores...",
-   "link": "http://www.revistaanamaco.com.br/abcp-e-snic-comunicam-a-morte-de-seu-presidente-paulo-camillo-vargas-penna1",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Intenção de investir da indústria é a menor em seis anos, aponta CNI",
-   "data": "01/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O índice que mede a intenção de investimento da indústria caiu 1,3 ponto em setembro, de 52,6 pontos para 51,3 pontos, o menor valor para o indicador desde agosto de 2020, durante a pandemia de Covid-19. É o que...",
-   "link": "http://www.revistaanamaco.com.br/intencao-de-investir-da-industria-e-a-menor-em-seis-anos-aponta-cni-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Construção gerou 20,8 mil empregos em agosto",
-   "data": "01/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "De acordo com dados do Novo Caged, divulgados pelo Ministério do Trabalho e Emprego, a indústria da construção abriu, em agosto, 20.848 novas vagas no País, o que representa uma alta de 0,67% em relação ao número de...",
-   "link": "http://www.revistaanamaco.com.br/construcao-gerou-208-mil-empregos-em-agosto",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Grupo Lamosa transforma tecnologia em eficiência para menor impacto ambiental",
-   "data": "01/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Grupo Lamosa no Brasil vem trabalhando para transformar tecnologia em eficiência e eficiência em menor impacto ambiental. Em 2025, uma das iniciativas de reaproveitamento energético da companhia economizou,...",
-   "link": "http://www.revistaanamaco.com.br/grupo-lamosa-transforma-tecnologia-em-eficiencia-para-menor-impacto-ambiental-",
-   "aba": "geral"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "02/10/2026"
+   "data": "05/10/2026"
   }
  },
  "mensais": {
