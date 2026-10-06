@@ -1,14 +1,22 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "05/10/2026 20:31",
+ "atualizado_em": "06/10/2026 12:36",
  "manchetes": [
   {
-   "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "05/10/2026",
-   "fonte": "Banco Central",
-   "aba": "custos",
-   "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
-   "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+   "titulo": "Atividade e emprego na construção em queda",
+   "data": "06/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "Em agosto, o índice que mede o nível de atividade da indústria da construção registrou queda de 2,6 pontos em relação a julho, de 47,3 para 44,7 pontos. Com o resultado, o indicador ficou 2,9 pontos abaixo da média...",
+   "link": "http://www.revistaanamaco.com.br/atividade-e-emprego-na-construcao-em-queda-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Mercado da construção passa a contar com nova marca, a Ever Ralos e Acessórios",
+   "data": "06/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "O segmento de ralos acaba de ganhar uma nova empresa: a Ever Ralos e Acessórios. A companhia chega ao mercado pelas mãos da executiva Regina Sardanha e um grupo investidores na área de construção civil",
+   "link": "http://www.revistaanamaco.com.br/mercado-da-construcao-passa-a-contar-com-nova-marca-a-ever-ralos-e-acessorios-",
+   "aba": "geral"
   },
   {
    "titulo": "Jimo chega aos 70 anos e anuncia planos de expansão para 2027",
@@ -120,14 +128,6 @@ window.DADOS = {
    "fonte": "CBIC",
    "resumo": "Foi publicada no Diário Oficial da União (DOU) desta quinta-feira (1º) a Portaria MCID nº 1.337, de 30 de setembro de 2026, que altera as regras de contratação de moradias pelo Minha Casa, Minha Vida Rural destinadas...",
    "link": "https://cbic.org.br/portaria-altera-regras-do-mcmv-rural-para-familias-afetadas-por-desastres-no-rs/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Construção industrializada avança com combinação de vários sistemas construtivos",
-   "data": "02/10/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "Conhecer, desenvolver e aplicar os diversos sistemas construtivos industrializados numa mesma obra passou a ser o grande objetivo do segmento. Pelo menos é o que O post Construção industrializada avança com...",
-   "link": "https://revistaoe.com.br/combinacao-de-sistemas-construtivos-em-obras/",
    "aba": "demanda"
   }
  ],
