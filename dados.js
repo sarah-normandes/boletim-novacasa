@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "07/10/2026 12:56",
+ "atualizado_em": "07/10/2026 19:29",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,22 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Varejo em queda",
+   "data": "07/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Índice de Expansão do Comércio, pesquisa realizada pela FecomercioSP, registrou, em agosto, retração de 0,4% e marcou o sexto mês consecutivo de queda, chegando a 100,7 pontos, o menor patamar desde maio do ano...",
+   "link": "http://www.revistaanamaco.com.br/varejo-em-queda-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Grupo Condumax Incesa recebe prêmio de sustentabilidade da Copel",
+   "data": "07/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Grupo Condumax Incesa conquistou o Prêmio Parceiro Pura Energia 2026, da Copel, na categoria Sustentabilidade, com o projeto ‘Economia Circular na Cadeia de Metais: Transformando Sucatas em Novas Matérias-Primas’",
+   "link": "http://www.revistaanamaco.com.br/grupo-condumax-incesa-recebe-premio-de-sustentabilidade-da-copel-",
+   "aba": "custos"
   },
   {
    "titulo": "Com patrocínio da Lorenzetti, Music Run reúne corrida, música e diversão em SP",
@@ -27,12 +43,28 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
+   "titulo": "Fundo Soberano de Abu Dhabi Participa de Meganegócio de R$ 11,52 Bilhões com Fundo Imobiliário",
+   "data": "07/10/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Operação liderada por Brixmor, Everview e fundo soberano de Abu Dhabi abrange 115 centros de compras ancorados por redes de supermercados nos EUA O...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/abu-dhabi-brixmor-compra-slate-grocery/",
+   "aba": "demanda"
+  },
+  {
    "titulo": "Entera Med Conecta Ciência E Credibilidade Na Construção Da Liderança",
    "data": "07/10/2026",
    "fonte": "Forbes",
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Como a aparência influencia a percepção de credibilidade e abre oportunidades em ambientes de negociação, liderança e alta exposição O post Entera...",
    "link": "https://forbes.com.br/forbes-life/2026/10/entera-med-conecta-ciencia-e-credibilidade-na-construcao-da-lideranca/",
    "aba": "geral"
+  },
+  {
+   "titulo": "Semana CANPAT Construção: painel debate riscos e modernização dos equipamentos na construção",
+   "data": "07/10/2026",
+   "fonte": "CBIC",
+   "resumo": "Os riscos relacionados ao uso de máquinas e equipamentos nos canteiros de obras foram discutidos nesta quarta-feira (7), durante o painel “Panorama dos Equipamentos na Construção Civil: Riscos, Inovações e Desafios...",
+   "link": "https://cbic.org.br/semana-canpat-construcao-painel-debate-riscos-e-modernizacao-dos-equipamentos-na-construcao/",
+   "aba": "demanda"
   },
   {
    "titulo": "Gerdau apresenta vergalhão de baixa emissão e emenda mecânica",
@@ -97,44 +129,16 @@ window.DADOS = {
    "resumo": "A importância do planejamento e da adoção de medidas de segurança nas instalações elétricas dos canteiros de obras foi destaque do segundo dia da Semana CANPAT Construção 2026, realizada pela Câmara Brasileira da...",
    "link": "https://cbic.org.br/semana-canpat-construcao-2026-painel-alerta-para-riscos-e-reforca-importancia-do-planejamento-das-instalacoes-eletricas-nos-canteiros/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Artigo: Crédito do Trabalhador: a rescisão exige outro cuidado na construção",
-   "data": "06/10/2026",
-   "fonte": "CBIC",
-   "resumo": "Clovis Veloso de Queiroz Neto, advogado e consultor técnico da CBIC O encerramento de uma etapa da obra costuma trazer uma sequência de decisões: remanejar equipes, organizar documentos e, quando necessário, concluir...",
-   "link": "https://cbic.org.br/artigo-credito-do-trabalhador-a-rescisao-exige-outro-cuidado-na-construcao/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Jimo chega aos 70 anos e anuncia planos de expansão para 2027",
-   "data": "05/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Jimo completa, este ano, 70 anos de atividades. A indústria, 100% brasileira, celebra a marca com a terceira geração da família Morandi à frente dos negócios e uma estratégia de expansão que combina tradição,...",
-   "link": "http://www.revistaanamaco.com.br/jimo-chega-aos-70-anos-e-anuncia-planos-de-expansao-para-2027",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Pessimismo se intensificou entre os segmentos industriais em setembro",
-   "data": "05/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "De acordo com levantamento realizado pela CNI, o pessimismo se tornou mais intenso entre os segmentos industriais em setembro. No mês, o Índice de Confiança do Empresário Industrial, recuou em 24 dos 29 setores, em...",
-   "link": "http://www.revistaanamaco.com.br/pessimismo-se-intensificou-entre-os-segmentos-industriais-em-setembro",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Arauco destina R$ 1 milhão à futura Unidade de Triagem de Resíduos de Inocência",
-   "data": "05/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "Em uma ação voltada a fortalecer a infraestrutura urbana e o cuidado com o meio ambiente, a Arauco doou um conjunto completo de equipamentos de coleta seletiva à futura Unidade de Triagem de Resíduos de Inocência (MS)",
-   "link": "http://www.revistaanamaco.com.br/arauco-destina-r-1-milhao-a-futura-unidade-de-triagem-de-residuos-de-inocencia-",
-   "aba": "geral"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
    "data": "07/10/2026"
+  },
+  "igpm12": {
+   "valor": 1.5,
+   "data": "01/09/2026"
   }
  },
  "mensais": {
