@@ -1,14 +1,46 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "06/10/2026 19:04",
+ "atualizado_em": "07/10/2026 12:56",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "06/10/2026",
+   "data": "07/10/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Com patrocínio da Lorenzetti, Music Run reúne corrida, música e diversão em SP",
+   "data": "07/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "Correr e terminar o dia em clima de festa ao som de muita música. Essa é a proposta da Music Run 2026, que acontecerá em São Paulo no próximo dia 10 de outubro, reunindo esporte e entretenimento, no Parque de...",
+   "link": "http://www.revistaanamaco.com.br/com-patrocinio-da-lorenzetti-music-run-reune-corrida-musica-e-diversao-em-sp-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Campinas vai sediar a 1ª etapa do Circuito Nacional da Qualidade Anamaco",
+   "data": "07/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A cidade de Campinas será a primeira a receber o Circuito Nacional da Qualidade Anamaco, iniciativa que deverá levar a diferentes regiões do País uma agenda de encontros voltada à conscientização sobre a qualidade do...",
+   "link": "http://www.revistaanamaco.com.br/campinas-vai-sediar-a-1a-etapa-do-circuito-nacional-da-qualidade-anamaco-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Entera Med Conecta Ciência E Credibilidade Na Construção Da Liderança",
+   "data": "07/10/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Como a aparência influencia a percepção de credibilidade e abre oportunidades em ambientes de negociação, liderança e alta exposição O post Entera...",
+   "link": "https://forbes.com.br/forbes-life/2026/10/entera-med-conecta-ciencia-e-credibilidade-na-construcao-da-lideranca/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Gerdau apresenta vergalhão de baixa emissão e emenda mecânica",
+   "data": "07/10/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "Líder do mercado e maior empresa brasileira produtora de aço com 125 anos de história, a Gerdau apresentou suas soluções voltadas à construção civil: um O post Gerdau apresenta vergalhão de baixa emissão e emenda...",
+   "link": "https://revistaoe.com.br/gerdau-lanca-novo-vergalhao-e-emenda/",
+   "aba": "insumos"
   },
   {
    "titulo": "1ª edição da Feicon Rio está aberta ao público",
@@ -75,14 +107,6 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Mais uma empresa de saída da Bolsa? Incorporadora pede cancelamento de registro na CVM",
-   "data": "06/10/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "A Tegra Incorporadora (TEGA3) protocolou nesta terça-feira (6) um pedido de cancelamento voluntário de seu registro de emissora de valores mobiliários na categoria A junto à Comissão de Valores Mobiliários (CVM),...",
-   "link": "https://www.moneytimes.com.br/mais-uma-empresa-de-saida-da-bolsa-incorporadora-pede-cancelamento-de-registro-na-cvm-pads/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "Jimo chega aos 70 anos e anuncia planos de expansão para 2027",
    "data": "05/10/2026",
    "fonte": "Anamaco",
@@ -105,36 +129,12 @@ window.DADOS = {
    "resumo": "Em uma ação voltada a fortalecer a infraestrutura urbana e o cuidado com o meio ambiente, a Arauco doou um conjunto completo de equipamentos de coleta seletiva à futura Unidade de Triagem de Resíduos de Inocência (MS)",
    "link": "http://www.revistaanamaco.com.br/arauco-destina-r-1-milhao-a-futura-unidade-de-triagem-de-residuos-de-inocencia-",
    "aba": "geral"
-  },
-  {
-   "titulo": "Em agosto, do total de negativações, 86,72% foram de devedores reincidentes",
-   "data": "04/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "Em agosto, o Indicador de Reincidência de Pessoas Físicas, apurado pela CNDL e pelo SPC Brasil revelou que, do total de negativações, 86,72% foram de devedores reincidentes. O dado refere-se a consumidores que já...",
-   "link": "http://www.revistaanamaco.com.br/em-agosto-do-total-de-negativacoes-8672-foram-de-devedores-reincidentes",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Segurança física vai além da prevenção de perdas e vira ativo estratégico no varejo",
-   "data": "04/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Genetec acaba de divulgar seu Relatório Estado da Segurança Física 2026. Com base nas respostas de profissionais do setor em todo o mundo, a pesquisa mostra que os varejistas veem cada vez mais a segurança física...",
-   "link": "http://www.revistaanamaco.com.br/seguranca-fisica-vai-alem-da-prevencao-de-perdas-e-vira-ativo-estrategico-no-varejo--",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Juros elevados ainda freiam a confiança do comerciante da capital paulista",
-   "data": "03/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "Há cinco meses, a confiança dos comerciantes paulistanos não a deixa zona de pessimismo, de acordo com estudo mensal da FecomercioSP. Em agosto, o Índice de Confiança do Empresário do Comércio registrou 94,4 pontos....",
-   "link": "http://www.revistaanamaco.com.br/juros-elevados-ainda-freiam-a-confianca-do-comerciante-da-capital-paulista--",
-   "aba": "custos"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "06/10/2026"
+   "data": "07/10/2026"
   }
  },
  "mensais": {
