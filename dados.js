@@ -1,14 +1,54 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "07/10/2026 19:29",
+ "atualizado_em": "08/10/2026 12:59",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "07/10/2026",
+   "data": "08/10/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Schneider Electric amplia consultoria em transformação digital para indústrias",
+   "data": "08/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "Para auxiliar as companhias no processo de modernização tecnológica, a Schneider Electric vem expandindo sua oferta de consultoria em Transformação Digital. A abordagem reúne orientação estratégica, experiência no...",
+   "link": "http://www.revistaanamaco.com.br/schneider-electric-amplia-consultoria-em-transformacao-digital-para-industrias-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Prolata anuncia Cristine Costa Fulchini como sua nova gerente Executiva",
+   "data": "08/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Prolata, programa de logística reversa de embalagens de aço pós-consumo, anuncia Cristine Costa Fulchini como sua nova gerente Executiva. Ela possui mais de 10 anos de experiência nas áreas de logística reversa,...",
+   "link": "http://www.revistaanamaco.com.br/prolata-anuncia-cristine-costa-fulchini-como-sua-nova-gerente-executiva-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Mohawk Brasil reduz uso de insumo e gera economia de R$ 424 mil por ano",
+   "data": "08/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "Uma alteração no processo produtivo de revestimentos em pequenos formatos permitiu à Mohawk Brasil reduzir em 42% o consumo de adesivo em uma de suas linhas industriais e gerar uma economia estimada de R$ 424 mil por...",
+   "link": "http://www.revistaanamaco.com.br/mohawk-brasil-reduz-uso-de-insumo-e-gera-economia-de-r-424-mil-por-ano-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Após rali eleitoral, o que ainda vale comprar? Itaú BBA vê potencial de mais de 40% em ações do varejo",
+   "data": "08/10/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "O resultado do 1º turno das eleições de 2026 deu espaço para um sentimento positivo em torno de ativos cíclicos e sensíveis aos juros, como observado no avanço de mais de 20% de nomes como Magazine Luiza (MGLU3) no...",
+   "link": "https://www.moneytimes.com.br/apos-rali-eleitoral-o-que-ainda-vale-comprar-itau-bba-ve-potencial-de-mais-de-40-em-acoes-do-varejo-lmrs/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Fundo imobiliário tem administradora liquidada extrajudicialmente pelo Banco Central; entenda",
+   "data": "08/10/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "O fundo imobiliário Sofia (SOFF11) anunciou, por meio de fato relevante, que sua administradora, a Sefer Investimentos DTVM, entrou em liquidação extrajudicial por determinação do Banco Central (BC). Segundo o...",
+   "link": "https://www.moneytimes.com.br/fundo-imobiliario-tem-administradora-liquidada-extrajudicialmente-pelo-banco-central-entenda-igdl/",
+   "aba": "demanda"
   },
   {
    "titulo": "Varejo em queda",
@@ -51,14 +91,6 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Entera Med Conecta Ciência E Credibilidade Na Construção Da Liderança",
-   "data": "07/10/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Como a aparência influencia a percepção de credibilidade e abre oportunidades em ambientes de negociação, liderança e alta exposição O post Entera...",
-   "link": "https://forbes.com.br/forbes-life/2026/10/entera-med-conecta-ciencia-e-credibilidade-na-construcao-da-lideranca/",
-   "aba": "geral"
-  },
-  {
    "titulo": "Semana CANPAT Construção: painel debate riscos e modernização dos equipamentos na construção",
    "data": "07/10/2026",
    "fonte": "CBIC",
@@ -72,14 +104,6 @@ window.DADOS = {
    "fonte": "O Empreiteiro",
    "resumo": "Líder do mercado e maior empresa brasileira produtora de aço com 125 anos de história, a Gerdau apresentou suas soluções voltadas à construção civil: um O post Gerdau apresenta vergalhão de baixa emissão e emenda...",
    "link": "https://revistaoe.com.br/gerdau-lanca-novo-vergalhao-e-emenda/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "1ª edição da Feicon Rio está aberta ao público",
-   "data": "06/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "Com apoio da Firjan e com a expectativa de receber 10 mil visitantes, a 1ª edição da Feicon Rio está, oficialmente, aberta. A feira conta com mais de 200 marcas expositoras, um espaço de inovação para startups, novas...",
-   "link": "http://www.revistaanamaco.com.br/1-edicao-da-feicon-rio-esta-aberta-ao-publico-",
    "aba": "insumos"
   },
   {
@@ -105,36 +129,12 @@ window.DADOS = {
    "resumo": "O segmento de ralos acaba de ganhar uma nova empresa: a Ever Ralos e Acessórios. A companhia chega ao mercado pelas mãos da executiva Regina Sardanha e um grupo investidores na área de construção civil",
    "link": "http://www.revistaanamaco.com.br/mercado-da-construcao-passa-a-contar-com-nova-marca-a-ever-ralos-e-acessorios-",
    "aba": "geral"
-  },
-  {
-   "titulo": "CBIC inicia nova fase em projeto para estimular a industrialização da construção",
-   "data": "06/10/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) abriu a discussão técnica que levará à implantação do Observatório da Industrialização da Construção, plataforma destinada a reunir e disseminar informação...",
-   "link": "https://cbic.org.br/cbic-inicia-nova-fase-em-projeto-para-estimular-a-industrializacao-da-construcao/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "CBIC e IBRAM discutem cooperação entre construção e mineração",
-   "data": "06/10/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) e o Instituto Brasileiro de Mineração (IBRAM) discutiram a criação de possíveis canais de cooperação entre os dois setores nesta terça-feira (6), em Brasília. O...",
-   "link": "https://cbic.org.br/cbic-e-ibram-discutem-cooperacao-entre-construcao-e-mineracao/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Semana CANPAT Construção: painel reforça importância do planejamento das instalações elétricas nos canteiros",
-   "data": "06/10/2026",
-   "fonte": "CBIC",
-   "resumo": "A importância do planejamento e da adoção de medidas de segurança nas instalações elétricas dos canteiros de obras foi destaque do segundo dia da Semana CANPAT Construção 2026, realizada pela Câmara Brasileira da...",
-   "link": "https://cbic.org.br/semana-canpat-construcao-2026-painel-alerta-para-riscos-e-reforca-importancia-do-planejamento-das-instalacoes-eletricas-nos-canteiros/",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "07/10/2026"
+   "data": "08/10/2026"
   },
   "igpm12": {
    "valor": 1.5,
