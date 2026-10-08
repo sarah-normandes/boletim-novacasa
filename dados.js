@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "08/10/2026 12:59",
+ "atualizado_em": "08/10/2026 19:42",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,22 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Julio Pereira, presidente Executivo da Anamaco, é homenageado na Feicon Rio",
+   "data": "08/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "Julio Pereira, presidente Executivo da Anamaco, recebeu na tarde de hoje, durante a 1ª edição da Feicon Rio, uma homenagem da RX, organizadora da feira. A placa é um agradecimento pelo compartilhamento de...",
+   "link": "http://www.revistaanamaco.com.br/julio-pereira-presidente-executivo-da-anamaco-e-homenageado-na-feicon-rio",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Carmelo Fior e Villagres são eleitas como “País de Honra” no Tecna 2026",
+   "data": "08/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A indústria cerâmica brasileira alcançou projeção internacional durante a realização do Tecna 2026 - Exposição Global da Cerâmica, sediada em Rimini, na Itália. A premiação Tecna Awards celebrou o Brasil na categoria...",
+   "link": "http://www.revistaanamaco.com.br/carmelo-fior-e-villagres-sao-eleitas-como-pais-de-honra-no-tecna-2026",
+   "aba": "insumos"
   },
   {
    "titulo": "Schneider Electric amplia consultoria em transformação digital para indústrias",
@@ -35,19 +51,27 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "Após rali eleitoral, o que ainda vale comprar? Itaú BBA vê potencial de mais de 40% em ações do varejo",
+   "titulo": "CII realiza Rodada de Negócios do Mercado Imobiliário em São Paulo",
    "data": "08/10/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "O resultado do 1º turno das eleições de 2026 deu espaço para um sentimento positivo em torno de ativos cíclicos e sensíveis aos juros, como observado no avanço de mais de 20% de nomes como Magazine Luiza (MGLU3) no...",
-   "link": "https://www.moneytimes.com.br/apos-rali-eleitoral-o-que-ainda-vale-comprar-itau-bba-ve-potencial-de-mais-de-40-em-acoes-do-varejo-lmrs/",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC), por meio da Comissão da Indústria Imobiliária (CII), realiza, no dia 22 de outubro, em São Paulo, a Rodada de Negócios do Mercado Imobiliário. O encontro será...",
+   "link": "https://cbic.org.br/cii-realiza-rodada-de-negocios-do-mercado-imobiliario-em-sao-paulo/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Semana CANPAT Construção: painel debate prevenção de soterramentos e gestão de riscos em escavações",
+   "data": "08/10/2026",
+   "fonte": "CBIC",
+   "resumo": "A prevenção de soterramentos em obras exige planejamento, conhecimento técnico e acompanhamento permanente das condições do solo. O tema foi discutido nesta quinta-feira (8), durante o painel “Prevenção de...",
+   "link": "https://cbic.org.br/semana-canpat-construcao-painel-debate-prevencao-de-soterramentos-e-gestao-de-riscos-em-escavacoes/",
    "aba": "insumos"
   },
   {
-   "titulo": "Fundo imobiliário tem administradora liquidada extrajudicialmente pelo Banco Central; entenda",
+   "titulo": "9º Incorpora debate o futuro da habitação e as rotas de crédito para o setor",
    "data": "08/10/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "O fundo imobiliário Sofia (SOFF11) anunciou, por meio de fato relevante, que sua administradora, a Sefer Investimentos DTVM, entrou em liquidação extrajudicial por determinação do Banco Central (BC). Segundo o...",
-   "link": "https://www.moneytimes.com.br/fundo-imobiliario-tem-administradora-liquidada-extrajudicialmente-pelo-banco-central-entenda-igdl/",
+   "fonte": "ABRAMAT",
+   "resumo": "Cerimônia no Riocentro recebeu representantes de entidades da construção civil, indústria AVAC-R e poder público fluminense O post 9º Incorpora debate o futuro da habitação e as rotas de crédito para o setor apareceu...",
+   "link": "https://abramat.org.br/9o-incorpora-debate-o-futuro-da-habitacao-e-as-rotas-de-credito-para-o-setor/",
    "aba": "demanda"
   },
   {
@@ -83,14 +107,6 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "Fundo Soberano de Abu Dhabi Participa de Meganegócio de R$ 11,52 Bilhões com Fundo Imobiliário",
-   "data": "07/10/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Operação liderada por Brixmor, Everview e fundo soberano de Abu Dhabi abrange 115 centros de compras ancorados por redes de supermercados nos EUA O...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/abu-dhabi-brixmor-compra-slate-grocery/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "Semana CANPAT Construção: painel debate riscos e modernização dos equipamentos na construção",
    "data": "07/10/2026",
    "fonte": "CBIC",
@@ -113,22 +129,6 @@ window.DADOS = {
    "resumo": "O comércio e o setor de serviços brasileiros preveem abrir cerca de 130 mil vagas temporárias e efetivas para o fim de ano de 2026, representando um acréscimo de 12 mil postos em relação ao ano passado. É o que...",
    "link": "http://www.revistaanamaco.com.br/vagas-no-comercio-e-servicos-para-o-fim-do-ano",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Atividade e emprego na construção em queda",
-   "data": "06/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "Em agosto, o índice que mede o nível de atividade da indústria da construção registrou queda de 2,6 pontos em relação a julho, de 47,3 para 44,7 pontos. Com o resultado, o indicador ficou 2,9 pontos abaixo da média...",
-   "link": "http://www.revistaanamaco.com.br/atividade-e-emprego-na-construcao-em-queda-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Mercado da construção passa a contar com nova marca, a Ever Ralos e Acessórios",
-   "data": "06/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O segmento de ralos acaba de ganhar uma nova empresa: a Ever Ralos e Acessórios. A companhia chega ao mercado pelas mãos da executiva Regina Sardanha e um grupo investidores na área de construção civil",
-   "link": "http://www.revistaanamaco.com.br/mercado-da-construcao-passa-a-contar-com-nova-marca-a-ever-ralos-e-acessorios-",
-   "aba": "geral"
   }
  ],
  "diarios": {
