@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "09/10/2026 12:41",
+ "atualizado_em": "09/10/2026 19:04",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -17,6 +17,14 @@ window.DADOS = {
    "resumo": "Seis em cada dez empresas da indústria brasileira (57%) implementam, ao menos, uma prática de economia circular em seus processos produtivos. O dado é da Sondagem Especial nº 102 - Economia Circular 2026, realizada...",
    "link": "http://www.revistaanamaco.com.br/economia-circular-nas-industrias-",
    "aba": "geral"
+  },
+  {
+   "titulo": "Feicon Rio supera expectativa e confirma edição ampliada para 2027",
+   "data": "09/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "Primeira edição da Feicon Rio na capital fluminense reuniu mais de 200 marcas e superou a expectativa de 10 mil visitantes já no segundo dia. Realizado simultaneamente à Febrava Rio, o evento destacou inovação,...",
+   "link": "http://www.revistaanamaco.com.br/feicon-rio-supera-expectativa-e-confirma-edicao-ampliada-para-2027",
+   "aba": "demanda"
   },
   {
    "titulo": "Comércio de matcon retraiu em agosto",
@@ -41,6 +49,30 @@ window.DADOS = {
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Empresária completa 78 anos e mostra como colocar as pessoas no centro, apostar na inovação e gerar impacto fortalece os negócios O post 5 Lições de...",
    "link": "https://forbes.com.br/forbes-mulher/2026/10/5-licoes-de-lideranca-de-luiza-trajano-que-transformou-o-magalu-em-gigante-do-varejo/",
    "aba": "demanda"
+  },
+  {
+   "titulo": "Na nova gestão da CBIC, Clausens Duarte defende recursos permanentes para habitação de interesse social",
+   "data": "09/10/2026",
+   "fonte": "CBIC",
+   "resumo": "A ampliação da habitação de interesse social no Brasil exige recursos permanentes, previsibilidade nos investimentos e medidas que garantam condições de acesso à moradia para as famílias de baixa renda. Entre as...",
+   "link": "https://cbic.org.br/na-nova-gestao-da-cbic-clausens-duarte-defende-recursos-permanentes-para-habitacao-de-interesse-social/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "DNSSE encerra Semana CANPAT Construção 2026 com ações em diferentes regiões do país",
+   "data": "09/10/2026",
+   "fonte": "CBIC",
+   "resumo": "O Dia Nacional de Segurança e Saúde nas Escolas | Indústria da Construção (DNSSE) encerrou, nesta sexta-feira (9), a programação da Semana CANPAT Construção 2026, com atividades realizadas em todo o Brasil, incluindo...",
+   "link": "https://cbic.org.br/dnsse-encerra-semana-canpat-construcao-2026-com-acoes-em-diferentes-regioes-do-pais/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Deu na Mídia: Eduardo Aroeira fala à CNN Money sobre impactos da redução da jornada de trabalho na construção",
+   "data": "09/10/2026",
+   "fonte": "CBIC",
+   "resumo": "O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo Aroeira Almeida, concedeu entrevista à CNN Money, nesta quinta-feira (8), sobre a redução da jornada de trabalho, que voltou à pauta do...",
+   "link": "https://cbic.org.br/deu-na-midia-eduardo-aroeira-fala-a-cnn-money-sobre-impactos-da-reducao-da-jornada-de-trabalho-na-construcao/",
+   "aba": "geral"
   },
   {
    "titulo": "Parceria com universidade cria startup brasileira que desenvolve equipamento capaz de reduzir de 28 dias para até 3 dias testes de resistência do cimento",
@@ -97,38 +129,6 @@ window.DADOS = {
    "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC), por meio da Comissão da Indústria Imobiliária (CII), realiza, no dia 22 de outubro, em São Paulo, a Rodada de Negócios do Mercado Imobiliário. O encontro será...",
    "link": "https://cbic.org.br/cii-realiza-rodada-de-negocios-do-mercado-imobiliario-em-sao-paulo/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Semana CANPAT Construção: painel debate prevenção de soterramentos e gestão de riscos em escavações",
-   "data": "08/10/2026",
-   "fonte": "CBIC",
-   "resumo": "A prevenção de soterramentos em obras exige planejamento, conhecimento técnico e acompanhamento permanente das condições do solo. O tema foi discutido nesta quinta-feira (8), durante o painel “Prevenção de...",
-   "link": "https://cbic.org.br/semana-canpat-construcao-painel-debate-prevencao-de-soterramentos-e-gestao-de-riscos-em-escavacoes/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "9º Incorpora debate o futuro da habitação e as rotas de crédito para o setor",
-   "data": "08/10/2026",
-   "fonte": "ABRAMAT",
-   "resumo": "Cerimônia no Riocentro recebeu representantes de entidades da construção civil, indústria AVAC-R e poder público fluminense O post 9º Incorpora debate o futuro da habitação e as rotas de crédito para o setor apareceu...",
-   "link": "https://abramat.org.br/9o-incorpora-debate-o-futuro-da-habitacao-e-as-rotas-de-credito-para-o-setor/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Varejo em queda",
-   "data": "07/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Índice de Expansão do Comércio, pesquisa realizada pela FecomercioSP, registrou, em agosto, retração de 0,4% e marcou o sexto mês consecutivo de queda, chegando a 100,7 pontos, o menor patamar desde maio do ano...",
-   "link": "http://www.revistaanamaco.com.br/varejo-em-queda-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Grupo Condumax Incesa recebe prêmio de sustentabilidade da Copel",
-   "data": "07/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Grupo Condumax Incesa conquistou o Prêmio Parceiro Pura Energia 2026, da Copel, na categoria Sustentabilidade, com o projeto ‘Economia Circular na Cadeia de Metais: Transformando Sucatas em Novas Matérias-Primas’",
-   "link": "http://www.revistaanamaco.com.br/grupo-condumax-incesa-recebe-premio-de-sustentabilidade-da-copel-",
-   "aba": "custos"
   }
  ],
  "diarios": {
