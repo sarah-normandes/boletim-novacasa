@@ -1,14 +1,54 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "08/10/2026 19:42",
+ "atualizado_em": "09/10/2026 12:41",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "08/10/2026",
+   "data": "09/10/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Economia circular nas indústrias",
+   "data": "09/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "Seis em cada dez empresas da indústria brasileira (57%) implementam, ao menos, uma prática de economia circular em seus processos produtivos. O dado é da Sondagem Especial nº 102 - Economia Circular 2026, realizada...",
+   "link": "http://www.revistaanamaco.com.br/economia-circular-nas-industrias-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Comércio de matcon retraiu em agosto",
+   "data": "09/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "Dados do Índice do Varejo Stone mostram que o setor de matcon registrou retração de 0,8% no volume de vendas em agosto. No comparativo anual, o segmento apresentou resultado positivo de 7,8%. O estudo, que acompanha...",
+   "link": "http://www.revistaanamaco.com.br/comercio-de-matcon-retraiu-em-agosto-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Tintas Renner by PPG anuncia Castanha Torrada como a Cor do Ano de 2027",
+   "data": "09/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Tintas Renner, marca arquitetônica da PPG, elegeu a Castanha Torrada como sua Cor do Ano de 2027. Um tom quente e intenso que combina bege, fendi e cinza, a cor busca inspiração na natureza, em terras ricas em...",
+   "link": "http://www.revistaanamaco.com.br/tintas-renner-by-ppg-anuncia-castanha-torrada-como-a-cor-do-ano-de-2027-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "5 Lições de Liderança de Luiza Trajano, Que Transformou o Magalu em Gigante do Varejo",
+   "data": "09/10/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Empresária completa 78 anos e mostra como colocar as pessoas no centro, apostar na inovação e gerar impacto fortalece os negócios O post 5 Lições de...",
+   "link": "https://forbes.com.br/forbes-mulher/2026/10/5-licoes-de-lideranca-de-luiza-trajano-que-transformou-o-magalu-em-gigante-do-varejo/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Parceria com universidade cria startup brasileira que desenvolve equipamento capaz de reduzir de 28 dias para até 3 dias testes de resistência do cimento",
+   "data": "09/10/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "A DCEMtech, startup dedicada ao desenvolvimento de soluções para análise de cimento e aditivos, numa parceria entre Fine Instrument Technology (FIT), empresa brasileira especializada em O post Parceria com...",
+   "link": "https://revistaoe.com.br/dcemtech-acelera-analise-de-cimento/",
+   "aba": "insumos"
   },
   {
    "titulo": "Julio Pereira, presidente Executivo da Anamaco, é homenageado na Feicon Rio",
@@ -89,52 +129,16 @@ window.DADOS = {
    "resumo": "O Grupo Condumax Incesa conquistou o Prêmio Parceiro Pura Energia 2026, da Copel, na categoria Sustentabilidade, com o projeto ‘Economia Circular na Cadeia de Metais: Transformando Sucatas em Novas Matérias-Primas’",
    "link": "http://www.revistaanamaco.com.br/grupo-condumax-incesa-recebe-premio-de-sustentabilidade-da-copel-",
    "aba": "custos"
-  },
-  {
-   "titulo": "Com patrocínio da Lorenzetti, Music Run reúne corrida, música e diversão em SP",
-   "data": "07/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "Correr e terminar o dia em clima de festa ao som de muita música. Essa é a proposta da Music Run 2026, que acontecerá em São Paulo no próximo dia 10 de outubro, reunindo esporte e entretenimento, no Parque de...",
-   "link": "http://www.revistaanamaco.com.br/com-patrocinio-da-lorenzetti-music-run-reune-corrida-musica-e-diversao-em-sp-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Campinas vai sediar a 1ª etapa do Circuito Nacional da Qualidade Anamaco",
-   "data": "07/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A cidade de Campinas será a primeira a receber o Circuito Nacional da Qualidade Anamaco, iniciativa que deverá levar a diferentes regiões do País uma agenda de encontros voltada à conscientização sobre a qualidade do...",
-   "link": "http://www.revistaanamaco.com.br/campinas-vai-sediar-a-1a-etapa-do-circuito-nacional-da-qualidade-anamaco-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Semana CANPAT Construção: painel debate riscos e modernização dos equipamentos na construção",
-   "data": "07/10/2026",
-   "fonte": "CBIC",
-   "resumo": "Os riscos relacionados ao uso de máquinas e equipamentos nos canteiros de obras foram discutidos nesta quarta-feira (7), durante o painel “Panorama dos Equipamentos na Construção Civil: Riscos, Inovações e Desafios...",
-   "link": "https://cbic.org.br/semana-canpat-construcao-painel-debate-riscos-e-modernizacao-dos-equipamentos-na-construcao/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Gerdau apresenta vergalhão de baixa emissão e emenda mecânica",
-   "data": "07/10/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "Líder do mercado e maior empresa brasileira produtora de aço com 125 anos de história, a Gerdau apresentou suas soluções voltadas à construção civil: um O post Gerdau apresenta vergalhão de baixa emissão e emenda...",
-   "link": "https://revistaoe.com.br/gerdau-lanca-novo-vergalhao-e-emenda/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Vagas no comércio e serviços para o fim do ano",
-   "data": "06/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O comércio e o setor de serviços brasileiros preveem abrir cerca de 130 mil vagas temporárias e efetivas para o fim de ano de 2026, representando um acréscimo de 12 mil postos em relação ao ano passado. É o que...",
-   "link": "http://www.revistaanamaco.com.br/vagas-no-comercio-e-servicos-para-o-fim-do-ano",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "08/10/2026"
+   "data": "09/10/2026"
+  },
+  "ipca12": {
+   "valor": 4.58,
+   "data": "01/09/2026"
   },
   "igpm12": {
    "valor": 1.5,
