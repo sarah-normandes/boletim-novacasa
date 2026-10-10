@@ -1,14 +1,38 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "09/10/2026 19:04",
+ "atualizado_em": "10/10/2026 11:56",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "09/10/2026",
+   "data": "10/10/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Mercado mundial de madeira tratada deve crescer 6,7% ao ano até 2030",
+   "data": "10/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "De acordo com projeção da Grand View Research, divulgada pela Associação Brasileira de Preservadores de Madeira, o  mercado mundial de madeira tratada deve crescer, em média, 6,7% ao ano até 203. Nesse cenário, a...",
+   "link": "http://www.revistaanamaco.com.br/mercado-mundial-de-madeira-tratada-deve-crescer-67-ao-ano-ate-2030-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Torneio Encontro das Cores Sitivesp reúne profissionais do setor em SP",
+   "data": "10/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Sitivesp realizou, em 27 de setembro, a 3ª edição do Torneio Encontro das Cores Sivivesp. Realizado no Sesi Mauá (SP), o evento teve como objetivo estimular a prática de esportes, promover a integração e...",
+   "link": "http://www.revistaanamaco.com.br/torneio-encontro-das-cores-sitivesp-reune-profissionais-do-setor-em-sp",
+   "aba": "geral"
+  },
+  {
+   "titulo": "O Fenômeno das Datas Duplas: Como o Varejo Criou Black Fridays Mensais",
+   "data": "10/10/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. As promoções recorrentes já movimentam R$ 14,4 bilhões no país e redefinem a rotina de compras dos brasileiros com mais frequência e carrinhos...",
+   "link": "https://forbes.com.br/forbes-money/2026/10/datas-duplas-e-commerce-brasil-consumo/",
+   "aba": "demanda"
   },
   {
    "titulo": "Economia circular nas indústrias",
@@ -41,14 +65,6 @@ window.DADOS = {
    "resumo": "A Tintas Renner, marca arquitetônica da PPG, elegeu a Castanha Torrada como sua Cor do Ano de 2027. Um tom quente e intenso que combina bege, fendi e cinza, a cor busca inspiração na natureza, em terras ricas em...",
    "link": "http://www.revistaanamaco.com.br/tintas-renner-by-ppg-anuncia-castanha-torrada-como-a-cor-do-ano-de-2027-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "5 Lições de Liderança de Luiza Trajano, Que Transformou o Magalu em Gigante do Varejo",
-   "data": "09/10/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Empresária completa 78 anos e mostra como colocar as pessoas no centro, apostar na inovação e gerar impacto fortalece os negócios O post 5 Lições de...",
-   "link": "https://forbes.com.br/forbes-mulher/2026/10/5-licoes-de-lideranca-de-luiza-trajano-que-transformou-o-magalu-em-gigante-do-varejo/",
-   "aba": "demanda"
   },
   {
    "titulo": "Na nova gestão da CBIC, Clausens Duarte defende recursos permanentes para habitação de interesse social",
@@ -113,28 +129,12 @@ window.DADOS = {
    "resumo": "A Prolata, programa de logística reversa de embalagens de aço pós-consumo, anuncia Cristine Costa Fulchini como sua nova gerente Executiva. Ela possui mais de 10 anos de experiência nas áreas de logística reversa,...",
    "link": "http://www.revistaanamaco.com.br/prolata-anuncia-cristine-costa-fulchini-como-sua-nova-gerente-executiva-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Mohawk Brasil reduz uso de insumo e gera economia de R$ 424 mil por ano",
-   "data": "08/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "Uma alteração no processo produtivo de revestimentos em pequenos formatos permitiu à Mohawk Brasil reduzir em 42% o consumo de adesivo em uma de suas linhas industriais e gerar uma economia estimada de R$ 424 mil por...",
-   "link": "http://www.revistaanamaco.com.br/mohawk-brasil-reduz-uso-de-insumo-e-gera-economia-de-r-424-mil-por-ano-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "CII realiza Rodada de Negócios do Mercado Imobiliário em São Paulo",
-   "data": "08/10/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC), por meio da Comissão da Indústria Imobiliária (CII), realiza, no dia 22 de outubro, em São Paulo, a Rodada de Negócios do Mercado Imobiliário. O encontro será...",
-   "link": "https://cbic.org.br/cii-realiza-rodada-de-negocios-do-mercado-imobiliario-em-sao-paulo/",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "09/10/2026"
+   "data": "10/10/2026"
   },
   "ipca12": {
    "valor": 4.58,
