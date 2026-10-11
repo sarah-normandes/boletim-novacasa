@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "10/10/2026 16:06",
+ "atualizado_em": "10/10/2026 21:02",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -25,14 +25,6 @@ window.DADOS = {
    "resumo": "O Sitivesp realizou, em 27 de setembro, a 3ª edição do Torneio Encontro das Cores Sivivesp. Realizado no Sesi Mauá (SP), o evento teve como objetivo estimular a prática de esportes, promover a integração e...",
    "link": "http://www.revistaanamaco.com.br/torneio-encontro-das-cores-sitivesp-reune-profissionais-do-setor-em-sp",
    "aba": "geral"
-  },
-  {
-   "titulo": "O Fenômeno das Datas Duplas: Como o Varejo Criou Black Fridays Mensais",
-   "data": "10/10/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. As promoções recorrentes já movimentam R$ 14,4 bilhões no país e redefinem a rotina de compras dos brasileiros com mais frequência e carrinhos...",
-   "link": "https://forbes.com.br/forbes-money/2026/10/datas-duplas-e-commerce-brasil-consumo/",
-   "aba": "demanda"
   },
   {
    "titulo": "Economia circular nas indústrias",
@@ -128,6 +120,14 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "A Prolata, programa de logística reversa de embalagens de aço pós-consumo, anuncia Cristine Costa Fulchini como sua nova gerente Executiva. Ela possui mais de 10 anos de experiência nas áreas de logística reversa,...",
    "link": "http://www.revistaanamaco.com.br/prolata-anuncia-cristine-costa-fulchini-como-sua-nova-gerente-executiva-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Mohawk Brasil reduz uso de insumo e gera economia de R$ 424 mil por ano",
+   "data": "08/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "Uma alteração no processo produtivo de revestimentos em pequenos formatos permitiu à Mohawk Brasil reduzir em 42% o consumo de adesivo em uma de suas linhas industriais e gerar uma economia estimada de R$ 424 mil por...",
+   "link": "http://www.revistaanamaco.com.br/mohawk-brasil-reduz-uso-de-insumo-e-gera-economia-de-r-424-mil-por-ano-",
    "aba": "insumos"
   }
  ],
