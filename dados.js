@@ -1,14 +1,38 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "12/10/2026 23:19",
+ "atualizado_em": "13/10/2026 13:38",
  "manchetes": [
   {
-   "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "12/10/2026",
-   "fonte": "Banco Central",
-   "aba": "custos",
-   "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
-   "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+   "titulo": "Busca por crédito cresceu 57,17% em agosto",
+   "data": "13/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A busca do brasileiro por crédito registrou crescimento de 57,17% em agosto em relação ao mesmo mês de 2025. O indicador, apurado pela CNDL e pelo SPC Brasil, aponta, ainda, que o volume de consultas realizadas pelo...",
+   "link": "http://www.revistaanamaco.com.br/busca-por-credito-cresceu-5717-em-agosto-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Abramat reduz projeção para 2026",
+   "data": "13/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "O faturamento deflacionado da indústria de matcon recuou 1,1% em setembro, na comparação com o mesmo mês de 2025. Com o resultado, a queda acumulada no ano chegou a 2,5%, levando a Abramat a reduzir sua projeção para...",
+   "link": "http://www.revistaanamaco.com.br/abramat-reduz-projecao-para-2026-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Confiança empresarial tem mais uma queda",
+   "data": "13/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Índice de Confiança Empresarial, do Instituto Brasileiro de Economia da Fundação Getulio Vargas, recuou 1,2 ponto em setembro, para 89,3 pontos. Na métrica de médias móveis trimestrais, o índice também segue em...",
+   "link": "http://www.revistaanamaco.com.br/confianca-empresarial-tem-mais-uma-queda-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Ranking lista Gerdau como a marca mais valiosa do setor do aço na América Latina",
+   "data": "13/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Gerdau é a marca mais valiosa do setor do aço na América Latina, de acordo com o ranking Latin America 100 2026, produzido pela consultoria Brand Finance. A companhia ocupa a 88ª posição geral entre as marcas...",
+   "link": "http://www.revistaanamaco.com.br/ranking-lista-gerdau-como-a-marca-mais-valiosa-do-setor-do-aco-na-america-latina",
+   "aba": "insumos"
   },
   {
    "titulo": "Viapol lança site com IA e ferramentas digitais para profissionais da construção",
@@ -25,14 +49,6 @@ window.DADOS = {
    "resumo": "A Cobrecom esteve presente, em setembro, em dois jogos amistosos da Seleção Brasileira de futebol na Austrália e na Índia. A marca estava estampada nas placas de LED e essa presença faz parte da estratégia da empresa...",
    "link": "http://www.revistaanamaco.com.br/cobrecom-marcou-presenca-nos-jogos-amistosos-da-selecao-brasileira-de-futebol-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Quaest/DF: Celina Leão (PP) tem 53% das intenções de voto e Leandro Grass (PT), 33% no 2º turno",
-   "data": "12/10/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "A governadora do Distrito Federal, Celina Leão (PP), tem 53% das intenções de voto no segundo turno da eleição para o governo do DF, ante 33% do candidato do PT, Leandro Grass, segundo pesquisa Quaest divulgada nesta...",
-   "link": "https://www.moneytimes.com.br/quaest-df-celina-leao-pp-tem-53-das-intencoes-de-voto-e-leandro-grass-pt-33-no-2o-turno/",
-   "aba": "geral"
   },
   {
    "titulo": "Nichele é reconhecida por participação na Campanha do Agasalho no Paraná",
@@ -67,14 +83,6 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "O Fenômeno das Datas Duplas: Como o Varejo Criou Black Fridays Mensais",
-   "data": "10/10/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. As promoções recorrentes já movimentam R$ 14,4 bilhões no país e redefinem a rotina de compras dos brasileiros com mais frequência e carrinhos...",
-   "link": "https://forbes.com.br/forbes-money/2026/10/datas-duplas-e-commerce-brasil-consumo/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "Economia circular nas indústrias",
    "data": "09/10/2026",
    "fonte": "Anamaco",
@@ -89,22 +97,6 @@ window.DADOS = {
    "resumo": "Primeira edição da Feicon Rio na capital fluminense reuniu mais de 200 marcas e superou a expectativa de 10 mil visitantes já no segundo dia. Realizado simultaneamente à Febrava Rio, o evento destacou inovação,...",
    "link": "http://www.revistaanamaco.com.br/feicon-rio-supera-expectativa-e-confirma-edicao-ampliada-para-2027",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Comércio de matcon retraiu em agosto",
-   "data": "09/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "Dados do Índice do Varejo Stone mostram que o setor de matcon registrou retração de 0,8% no volume de vendas em agosto. No comparativo anual, o segmento apresentou resultado positivo de 7,8%. O estudo, que acompanha...",
-   "link": "http://www.revistaanamaco.com.br/comercio-de-matcon-retraiu-em-agosto-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Tintas Renner by PPG anuncia Castanha Torrada como a Cor do Ano de 2027",
-   "data": "09/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Tintas Renner, marca arquitetônica da PPG, elegeu a Castanha Torrada como sua Cor do Ano de 2027. Um tom quente e intenso que combina bege, fendi e cinza, a cor busca inspiração na natureza, em terras ricas em...",
-   "link": "http://www.revistaanamaco.com.br/tintas-renner-by-ppg-anuncia-castanha-torrada-como-a-cor-do-ano-de-2027-",
-   "aba": "insumos"
   },
   {
    "titulo": "Na nova gestão da CBIC, Clausens Duarte defende recursos permanentes para habitação de interesse social",
@@ -129,13 +121,17 @@ window.DADOS = {
    "resumo": "O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo Aroeira Almeida, concedeu entrevista à CNN Money, nesta quinta-feira (8), sobre a redução da jornada de trabalho, que voltou à pauta do...",
    "link": "https://cbic.org.br/deu-na-midia-eduardo-aroeira-fala-a-cnn-money-sobre-impactos-da-reducao-da-jornada-de-trabalho-na-construcao/",
    "aba": "geral"
+  },
+  {
+   "titulo": "Parceria com universidade cria startup brasileira que desenvolve equipamento capaz de reduzir de 28 dias para até 3 dias testes de resistência do cimento",
+   "data": "09/10/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "A DCEMtech, startup dedicada ao desenvolvimento de soluções para análise de cimento e aditivos, numa parceria entre Fine Instrument Technology (FIT), empresa brasileira especializada em O post Parceria com...",
+   "link": "https://revistaoe.com.br/dcemtech-acelera-analise-de-cimento/",
+   "aba": "insumos"
   }
  ],
  "diarios": {
-  "selic": {
-   "valor": 13.75,
-   "data": "12/10/2026"
-  },
   "ipca12": {
    "valor": 4.58,
    "data": "01/09/2026"
