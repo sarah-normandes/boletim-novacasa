@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "12/10/2026 15:25",
+ "atualizado_em": "12/10/2026 23:19",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -27,12 +27,12 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "Fundo imobiliário recebe proposta milionária por imóvel no Rio Grande do Sul; veja detalhes",
+   "titulo": "Quaest/DF: Celina Leão (PP) tem 53% das intenções de voto e Leandro Grass (PT), 33% no 2º turno",
    "data": "12/10/2026",
    "fonte": "MoneyTimes",
-   "resumo": "O fundo imobiliário Banrisul Novas Fronteiras (BNFS11) anunciou, por meio de fato relevante, que recebeu uma proposta para vender um de seus imóveis, que fica localizado no município de São Gabriel, no Rio Grande do...",
-   "link": "https://www.moneytimes.com.br/fundo-imobiliario-recebe-proposta-milionaria-por-imovel-no-rio-grande-do-sul-veja-detalhes-igdl/",
-   "aba": "demanda"
+   "resumo": "A governadora do Distrito Federal, Celina Leão (PP), tem 53% das intenções de voto no segundo turno da eleição para o governo do DF, ante 33% do candidato do PT, Leandro Grass, segundo pesquisa Quaest divulgada nesta...",
+   "link": "https://www.moneytimes.com.br/quaest-df-celina-leao-pp-tem-53-das-intencoes-de-voto-e-leandro-grass-pt-33-no-2o-turno/",
+   "aba": "geral"
   },
   {
    "titulo": "Nichele é reconhecida por participação na Campanha do Agasalho no Paraná",
