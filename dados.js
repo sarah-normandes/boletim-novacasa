@@ -1,7 +1,15 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "13/10/2026 13:38",
+ "atualizado_em": "13/10/2026 19:07",
  "manchetes": [
+  {
+   "titulo": "Selic mantida em 13,75% ao ano",
+   "data": "13/10/2026",
+   "fonte": "Banco Central",
+   "aba": "custos",
+   "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
+   "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
   {
    "titulo": "Busca por crédito cresceu 57,17% em agosto",
    "data": "13/10/2026",
@@ -33,6 +41,30 @@ window.DADOS = {
    "resumo": "A Gerdau é a marca mais valiosa do setor do aço na América Latina, de acordo com o ranking Latin America 100 2026, produzido pela consultoria Brand Finance. A companhia ocupa a 88ª posição geral entre as marcas...",
    "link": "http://www.revistaanamaco.com.br/ranking-lista-gerdau-como-a-marca-mais-valiosa-do-setor-do-aco-na-america-latina",
    "aba": "insumos"
+  },
+  {
+   "titulo": "Reforma Tributária: entenda o Cadastro Imobiliário Brasileiro (CIB) e os impactos para a construção",
+   "data": "13/10/2026",
+   "fonte": "CBIC",
+   "resumo": "Conhecido como o “CPF dos imóveis”, o Cadastro Imobiliário Brasileiro (CIB) vai padronizar a identificação de imóveis urbanos e rurais em todo o país e terá papel importante na implementação da Reforma Tributária....",
+   "link": "https://cbic.org.br/reforma-tributaria-entenda-o-cadastro-imobiliario-brasileiro-cib-e-os-impactos-para-a-construcao/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Deu na Mídia: Eduardo Aroeira fala à Jovem Pan News sobre redução da jornada na construção",
+   "data": "13/10/2026",
+   "fonte": "CBIC",
+   "resumo": "O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo Aroeira, concedeu entrevista à Jovem Pan News, no domingo (11), para analisar os possíveis impactos da redução da jornada de trabalho no...",
+   "link": "https://cbic.org.br/deu-na-midia-eduardo-aroeira-fala-a-jovem-pan-news-sobre-reducao-da-jornada-na-construcao/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "CBIC reúne setor da construção em Goiânia para debater cenário econômico, habitação e investimentos no Centro-Oeste",
+   "data": "13/10/2026",
+   "fonte": "CBIC",
+   "resumo": "Encontro nos dias 27 e 28 de outubro discutirá perspectivas para o mercado imobiliário, futuro do FGTS e oportunidades de infraestrutura na região O futuro do FGTS, as perspectivas para o mercado imobiliário e as...",
+   "link": "https://cbic.org.br/cbic-reune-setor-da-construcao-em-goiania-para-debater-cenario-economico-habitacao-e-investimentos-no-centro-oeste/",
+   "aba": "demanda"
   },
   {
    "titulo": "Viapol lança site com IA e ferramentas digitais para profissionais da construção",
@@ -97,41 +129,13 @@ window.DADOS = {
    "resumo": "Primeira edição da Feicon Rio na capital fluminense reuniu mais de 200 marcas e superou a expectativa de 10 mil visitantes já no segundo dia. Realizado simultaneamente à Febrava Rio, o evento destacou inovação,...",
    "link": "http://www.revistaanamaco.com.br/feicon-rio-supera-expectativa-e-confirma-edicao-ampliada-para-2027",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Na nova gestão da CBIC, Clausens Duarte defende recursos permanentes para habitação de interesse social",
-   "data": "09/10/2026",
-   "fonte": "CBIC",
-   "resumo": "A ampliação da habitação de interesse social no Brasil exige recursos permanentes, previsibilidade nos investimentos e medidas que garantam condições de acesso à moradia para as famílias de baixa renda. Entre as...",
-   "link": "https://cbic.org.br/na-nova-gestao-da-cbic-clausens-duarte-defende-recursos-permanentes-para-habitacao-de-interesse-social/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "DNSSE encerra Semana CANPAT Construção 2026 com ações em diferentes regiões do país",
-   "data": "09/10/2026",
-   "fonte": "CBIC",
-   "resumo": "O Dia Nacional de Segurança e Saúde nas Escolas | Indústria da Construção (DNSSE) encerrou, nesta sexta-feira (9), a programação da Semana CANPAT Construção 2026, com atividades realizadas em todo o Brasil, incluindo...",
-   "link": "https://cbic.org.br/dnsse-encerra-semana-canpat-construcao-2026-com-acoes-em-diferentes-regioes-do-pais/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Deu na Mídia: Eduardo Aroeira fala à CNN Money sobre impactos da redução da jornada de trabalho na construção",
-   "data": "09/10/2026",
-   "fonte": "CBIC",
-   "resumo": "O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo Aroeira Almeida, concedeu entrevista à CNN Money, nesta quinta-feira (8), sobre a redução da jornada de trabalho, que voltou à pauta do...",
-   "link": "https://cbic.org.br/deu-na-midia-eduardo-aroeira-fala-a-cnn-money-sobre-impactos-da-reducao-da-jornada-de-trabalho-na-construcao/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Parceria com universidade cria startup brasileira que desenvolve equipamento capaz de reduzir de 28 dias para até 3 dias testes de resistência do cimento",
-   "data": "09/10/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A DCEMtech, startup dedicada ao desenvolvimento de soluções para análise de cimento e aditivos, numa parceria entre Fine Instrument Technology (FIT), empresa brasileira especializada em O post Parceria com...",
-   "link": "https://revistaoe.com.br/dcemtech-acelera-analise-de-cimento/",
-   "aba": "insumos"
   }
  ],
  "diarios": {
+  "selic": {
+   "valor": 13.75,
+   "data": "13/10/2026"
+  },
   "ipca12": {
    "valor": 4.58,
    "data": "01/09/2026"
