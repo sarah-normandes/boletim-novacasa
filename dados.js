@@ -1,14 +1,22 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "13/10/2026 19:07",
+ "atualizado_em": "14/10/2026 11:14",
  "manchetes": [
   {
-   "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "13/10/2026",
-   "fonte": "Banco Central",
-   "aba": "custos",
-   "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
-   "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+   "titulo": "Henkel anuncia expansão do Inspiration Center Jundiaí com projeto Raízes",
+   "data": "14/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Henkel anuncia a expansão do Inspiration Center Jundiaí. Localizado no mesmo complexo inaugurado este ano, o espaço foi concebido para promover a saúde, a convivência e o bem-estar dos colaboradores e de suas famílias",
+   "link": "http://www.revistaanamaco.com.br/henkel-anuncia-expansao-do-inspiration-center-jundiai-com-projeto-raizes",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Votorantim Cimentos inicia operação de novo Centro de Distribuição em Brasília",
+   "data": "14/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Votorantim Cimentos acaba de inaugurar um Centro de Distribuição em Brasília (DF), reforçando sua atuação em um mercado estratégico para a construção. A nova unidade deverá atender clientes do Distrito Federal, da...",
+   "link": "http://www.revistaanamaco.com.br/votorantim-cimentos-inicia-operacao-de-novo-centro-de-distribuicao-em-brasilia-",
+   "aba": "insumos"
   },
   {
    "titulo": "Busca por crédito cresceu 57,17% em agosto",
@@ -115,31 +123,15 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Economia circular nas indústrias",
+   "titulo": "Na nova gestão da CBIC, Clausens Duarte defende recursos permanentes para habitação de interesse social",
    "data": "09/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "Seis em cada dez empresas da indústria brasileira (57%) implementam, ao menos, uma prática de economia circular em seus processos produtivos. O dado é da Sondagem Especial nº 102 - Economia Circular 2026, realizada...",
-   "link": "http://www.revistaanamaco.com.br/economia-circular-nas-industrias-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Feicon Rio supera expectativa e confirma edição ampliada para 2027",
-   "data": "09/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "Primeira edição da Feicon Rio na capital fluminense reuniu mais de 200 marcas e superou a expectativa de 10 mil visitantes já no segundo dia. Realizado simultaneamente à Febrava Rio, o evento destacou inovação,...",
-   "link": "http://www.revistaanamaco.com.br/feicon-rio-supera-expectativa-e-confirma-edicao-ampliada-para-2027",
+   "fonte": "CBIC",
+   "resumo": "A ampliação da habitação de interesse social no Brasil exige recursos permanentes, previsibilidade nos investimentos e medidas que garantam condições de acesso à moradia para as famílias de baixa renda. Entre as...",
+   "link": "https://cbic.org.br/na-nova-gestao-da-cbic-clausens-duarte-defende-recursos-permanentes-para-habitacao-de-interesse-social/",
    "aba": "demanda"
   }
  ],
  "diarios": {
-  "selic": {
-   "valor": 13.75,
-   "data": "13/10/2026"
-  },
-  "ipca12": {
-   "valor": 4.58,
-   "data": "01/09/2026"
-  },
   "igpm12": {
    "valor": 1.5,
    "data": "01/09/2026"
