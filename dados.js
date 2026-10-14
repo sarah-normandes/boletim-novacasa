@@ -1,7 +1,31 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "14/10/2026 11:14",
+ "atualizado_em": "14/10/2026 16:06",
  "manchetes": [
+  {
+   "titulo": "Selic mantida em 13,75% ao ano",
+   "data": "14/10/2026",
+   "fonte": "Banco Central",
+   "aba": "custos",
+   "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
+   "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Cimento Apodi levou metodologia de segurança de processos a evento no Peru",
+   "data": "14/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Cimento Apodi levou sua experiência em gestão de riscos e inovação operacional para o cenário internacional ao participar do 11th Latin American Congress on Process Safety, realizado entre 30 de setembro e 02 de...",
+   "link": "http://www.revistaanamaco.com.br/cimento-apodi-levou-metodologia-de-seguranca-de-processos-a-evento-no-peru-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Faturamento da indústria diminuiu 3,5% em agosto, aponta pesquisa da CNI",
+   "data": "14/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "O faturamento da indústria de transformação recuou pelo segundo mês consecutivo. Após queda de 2,2% em julho, o índice encolheu 3,5% em agosto. É o que apontam os Indicadores Industriais, divulgados pela Confederação...",
+   "link": "http://www.revistaanamaco.com.br/faturamento-da-industria-diminuiu-35-em-agosto-aponta-pesquisa-da-cni-",
+   "aba": "demanda"
+  },
   {
    "titulo": "Henkel anuncia expansão do Inspiration Center Jundiaí com projeto Raízes",
    "data": "14/10/2026",
@@ -17,6 +41,14 @@ window.DADOS = {
    "resumo": "A Votorantim Cimentos acaba de inaugurar um Centro de Distribuição em Brasília (DF), reforçando sua atuação em um mercado estratégico para a construção. A nova unidade deverá atender clientes do Distrito Federal, da...",
    "link": "http://www.revistaanamaco.com.br/votorantim-cimentos-inicia-operacao-de-novo-centro-de-distribuicao-em-brasilia-",
    "aba": "insumos"
+  },
+  {
+   "titulo": "Ademi-AL: Immobi Connection acontece nesta quinta e reúne especialistas do mercado imobiliário em Maceió",
+   "data": "14/10/2026",
+   "fonte": "CBIC",
+   "resumo": "Evento promovido pela Ademi-AL e pelo Creci-AL, com correalização do Sinduscon-AL, terá palestras sobre tendências, inovação, vendas, comunicação e novas oportunidades de negócios Maceió recebe, nesta quinta-feira...",
+   "link": "https://cbic.org.br/ademi-al-immobi-connection-acontece-nesta-quinta-e-reune-especialistas-do-mercado-imobiliario-em-maceio/",
+   "aba": "demanda"
   },
   {
    "titulo": "Busca por crédito cresceu 57,17% em agosto",
@@ -97,41 +129,17 @@ window.DADOS = {
    "resumo": "A Nichele recebeu um reconhecimento pela participação na 18ª Campanha do Agasalho durante Café de Agradecimento realizado no Plenário da Administração Regional do Sesc Paraná, em Curitiba. A empresa integrou a rede...",
    "link": "http://www.revistaanamaco.com.br/nichele-e-reconhecida-por-participacao-na-campanha-do-agasalho-no-parana-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Eaton é premiada pela Copel por atuação em sistemas de controle e automação",
-   "data": "11/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Eaton foi homenageada pela Copel em premiação dedicada aos fornecedores da companhia. Realizada pelo segundo ano, a iniciativa reconhece fornecedores que se destacam em diferentes categorias de atuação",
-   "link": "http://www.revistaanamaco.com.br/eaton-e-premiada-pela-copel-por-atuacao-em-sistemas-de-controle-e-automacao-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Mercado mundial de madeira tratada deve crescer 6,7% ao ano até 2030",
-   "data": "10/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "De acordo com projeção da Grand View Research, divulgada pela Associação Brasileira de Preservadores de Madeira, o  mercado mundial de madeira tratada deve crescer, em média, 6,7% ao ano até 203. Nesse cenário, a...",
-   "link": "http://www.revistaanamaco.com.br/mercado-mundial-de-madeira-tratada-deve-crescer-67-ao-ano-ate-2030-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Torneio Encontro das Cores Sitivesp reúne profissionais do setor em SP",
-   "data": "10/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Sitivesp realizou, em 27 de setembro, a 3ª edição do Torneio Encontro das Cores Sivivesp. Realizado no Sesi Mauá (SP), o evento teve como objetivo estimular a prática de esportes, promover a integração e...",
-   "link": "http://www.revistaanamaco.com.br/torneio-encontro-das-cores-sitivesp-reune-profissionais-do-setor-em-sp",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Na nova gestão da CBIC, Clausens Duarte defende recursos permanentes para habitação de interesse social",
-   "data": "09/10/2026",
-   "fonte": "CBIC",
-   "resumo": "A ampliação da habitação de interesse social no Brasil exige recursos permanentes, previsibilidade nos investimentos e medidas que garantam condições de acesso à moradia para as famílias de baixa renda. Entre as...",
-   "link": "https://cbic.org.br/na-nova-gestao-da-cbic-clausens-duarte-defende-recursos-permanentes-para-habitacao-de-interesse-social/",
-   "aba": "demanda"
   }
  ],
  "diarios": {
+  "selic": {
+   "valor": 13.75,
+   "data": "14/10/2026"
+  },
+  "ipca12": {
+   "valor": 4.58,
+   "data": "01/09/2026"
+  },
   "igpm12": {
    "valor": 1.5,
    "data": "01/09/2026"
