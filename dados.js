@@ -1,14 +1,62 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "14/10/2026 20:34",
+ "atualizado_em": "15/10/2026 10:49",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "14/10/2026",
+   "data": "15/10/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Varejo deve fechar 2026 no azul, mas em alerta",
+   "data": "15/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "O varejo brasileiro deve encerrar 2026 com ganho moderado, mas perde força na reta final. A projeção do Ibevar & Fia Business School indica que as vendas do varejo restrito crescerão 1,12% no acumulado do ano até...",
+   "link": "http://www.revistaanamaco.com.br/varejo-deve-fechar-2026-no-azul-mas-em-alerta-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Senado aprova fim da escala 6x1",
+   "data": "15/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Senado aprovou, ontem - 14 de outubro - o fim da escala 6x1, de seis dias de trabalho para um dia de repouso. A PEC 221/2019 foi aprovada em dois turnos, com a mesma votação em ambos: 75 votos favoráveis e apenas...",
+   "link": "http://www.revistaanamaco.com.br/senado-aprova-fim-da-escala-6x1",
+   "aba": "geral"
+  },
+  {
+   "titulo": "AkzoNobel premia seus fornecedores com melhor desempenho no Brasil",
+   "data": "15/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A AkzoNobel realizou a 7ª edição do Supplier Collaboration Awards, iniciativa que reconhece os fornecedores com melhor desempenho no Brasil. Nessa edição, foram premiadas cinco empresas que se destacaram ao longo de...",
+   "link": "http://www.revistaanamaco.com.br/akzonobel-premia-seus-fornecedores-com-melhor-desempenho-no-brasil",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Vendas no Varejo Sobem 0,1% no Brasil em Agosto, Abaixo do Esperado",
+   "data": "15/10/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Em julho, o varejo havia tido queda de 0,8% sobre o mês anterior O post Vendas no Varejo Sobem 0,1% no Brasil em Agosto, Abaixo do Esperado apareceu...",
+   "link": "https://forbes.com.br/forbes-money/2026/10/vendas-no-varejo-sobem-01-no-brasil-em-agosto-abaixo-do-esperado/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Rali eleitoral acabou? JPMorgan vê espaço para novas altas no varejo e na saúde",
+   "data": "15/10/2026",
+   "fonte": "InfoMoney",
+   "resumo": "Banco avalia que ações ainda negociam com desconto após rali eleitoral, mas recomenda seletividade The post Rali eleitoral acabou? JPMorgan vê espaço para novas altas no varejo e na saúde appeared first on InfoMoney .",
+   "link": "https://www.infomoney.com.br/mercados/rali-eleitoral-acabou-jpmorgan-ve-espaco-para-novas-altas-no-varejo-e-na-saude/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Vendas do varejo crescem 0,1% em agosto ante julho, aponta IBGE",
+   "data": "15/10/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "As vendas do comércio varejista subiram 0,1% em agosto ante julho, na série com ajuste sazonal, após queda de 0,8% em julho de 2026, informou nesta quinta-feira, 15, o Instituto Brasileiro de Geografia e Estatística...",
+   "link": "https://www.moneytimes.com.br/vendas-do-varejo-crescem-01-em-agosto-ante-julho-aponta-ibge/",
+   "aba": "demanda"
   },
   {
    "titulo": "Cimento Apodi levou metodologia de segurança de processos a evento no Peru",
@@ -81,67 +129,15 @@ window.DADOS = {
    "resumo": "A Gerdau é a marca mais valiosa do setor do aço na América Latina, de acordo com o ranking Latin America 100 2026, produzido pela consultoria Brand Finance. A companhia ocupa a 88ª posição geral entre as marcas...",
    "link": "http://www.revistaanamaco.com.br/ranking-lista-gerdau-como-a-marca-mais-valiosa-do-setor-do-aco-na-america-latina",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Reforma Tributária: entenda o Cadastro Imobiliário Brasileiro (CIB) e os impactos para a construção",
-   "data": "13/10/2026",
-   "fonte": "CBIC",
-   "resumo": "Conhecido como o “CPF dos imóveis”, o Cadastro Imobiliário Brasileiro (CIB) vai padronizar a identificação de imóveis urbanos e rurais em todo o país e terá papel importante na implementação da Reforma Tributária....",
-   "link": "https://cbic.org.br/reforma-tributaria-entenda-o-cadastro-imobiliario-brasileiro-cib-e-os-impactos-para-a-construcao/",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Deu na Mídia: Eduardo Aroeira fala à Jovem Pan News sobre redução da jornada na construção",
-   "data": "13/10/2026",
-   "fonte": "CBIC",
-   "resumo": "O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo Aroeira, concedeu entrevista à Jovem Pan News, no domingo (11), para analisar os possíveis impactos da redução da jornada de trabalho no...",
-   "link": "https://cbic.org.br/deu-na-midia-eduardo-aroeira-fala-a-jovem-pan-news-sobre-reducao-da-jornada-na-construcao/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "CBIC reúne setor da construção em Goiânia para debater cenário econômico, habitação e investimentos no Centro-Oeste",
-   "data": "13/10/2026",
-   "fonte": "CBIC",
-   "resumo": "Encontro nos dias 27 e 28 de outubro discutirá perspectivas para o mercado imobiliário, futuro do FGTS e oportunidades de infraestrutura na região O futuro do FGTS, as perspectivas para o mercado imobiliário e as...",
-   "link": "https://cbic.org.br/cbic-reune-setor-da-construcao-em-goiania-para-debater-cenario-economico-habitacao-e-investimentos-no-centro-oeste/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Viapol lança site com IA e ferramentas digitais para profissionais da construção",
-   "data": "12/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Viapol apresenta seu novo site, concebido para ampliar o acesso a informações técnicas e reunir, em um único ambiente, ferramentas digitais voltadas a lojistas, engenheiros, arquitetos, projetistas,...",
-   "link": "http://www.revistaanamaco.com.br/viapol-lanca-site-com-ia-e-ferramentas-digitais-para-profissionais-da-construcao-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Cobrecom marcou presença nos jogos amistosos da Seleção Brasileira de futebol",
-   "data": "12/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Cobrecom esteve presente, em setembro, em dois jogos amistosos da Seleção Brasileira de futebol na Austrália e na Índia. A marca estava estampada nas placas de LED e essa presença faz parte da estratégia da empresa...",
-   "link": "http://www.revistaanamaco.com.br/cobrecom-marcou-presenca-nos-jogos-amistosos-da-selecao-brasileira-de-futebol-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Nichele é reconhecida por participação na Campanha do Agasalho no Paraná",
-   "data": "11/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Nichele recebeu um reconhecimento pela participação na 18ª Campanha do Agasalho durante Café de Agradecimento realizado no Plenário da Administração Regional do Sesc Paraná, em Curitiba. A empresa integrou a rede...",
-   "link": "http://www.revistaanamaco.com.br/nichele-e-reconhecida-por-participacao-na-campanha-do-agasalho-no-parana-",
-   "aba": "insumos"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "14/10/2026"
+   "data": "15/10/2026"
   },
   "ipca12": {
    "valor": 4.58,
-   "data": "01/09/2026"
-  },
-  "igpm12": {
-   "valor": 1.5,
    "data": "01/09/2026"
   }
  },
