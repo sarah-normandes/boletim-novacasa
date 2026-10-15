@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "15/10/2026 10:49",
+ "atualizado_em": "15/10/2026 15:47",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,38 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Leve queda nas vendas de cimento",
+   "data": "15/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A indústria brasileira de cimento comercializou 5,7 milhões de toneladas em setembro, o que representa queda de 5,7% em relação ao mesmo mês de 2025, segundo o SNIC. Com isso, no terceiro trimestre, as vendas somaram...",
+   "link": "http://www.revistaanamaco.com.br/leve-queda-nas-vendas-de-cimento-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Anamaco vai apresentar sugestões de melhorias ao Reforma Casa Brasil",
+   "data": "15/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Anamaco vai se reunir, na próxima semana, com Augusto Rabelo, secretário Nacional de Habitação do Ministério das Cidades. O objetivo do encontro, que contará, também, com a presença de representantes da Abramat, é...",
+   "link": "http://www.revistaanamaco.com.br/anamaco-vai-apresentar-sugestoes-de-melhorias-ao-reforma-casa-brasil",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Inscrições abertas para o Encontro Nacional de Automação 2026",
+   "data": "15/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "Estão abertas as inscrições para o Encontro Nacional de Automação 2026, considerado um dos principais eventos do País voltados à automação industrial, inovação e transformação digital da indústria",
+   "link": "http://www.revistaanamaco.com.br/inscricoes-abertas-para-o-encontro-nacional-de-automacao-2026-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Construlev Expo apresenta novidades para quem busca eficiência e inovação",
+   "data": "15/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A cidade de São Paulo sedia até amanhã, 16 de outubro, a 2ª edição da Construlev Expo, evento dedicado à construção leve, sistemas industrializados e soluções sustentáveis no Brasil. Realizada no São Paulo Expo, a...",
+   "link": "http://www.revistaanamaco.com.br/construlev-expo-apresenta-novidades-para-quem-busca-eficiencia-e-inovacao",
+   "aba": "geral"
   },
   {
    "titulo": "Varejo deve fechar 2026 no azul, mas em alerta",
@@ -35,6 +67,14 @@ window.DADOS = {
    "aba": "geral"
   },
   {
+   "titulo": "Juros Freiam o Varejo, Mas o Que Ainda Impede a Economia Brasileira de Desacelerar?",
+   "data": "15/10/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Vendas de bens sensíveis ao crédito recuam, enquanto endividamento limita o consumo; renda do trabalho e gastos públicos ainda sustentam a demanda O...",
+   "link": "https://forbes.com.br/forbes-money/2026/10/varejo-desaceleracao-economia-consumo-juros-altos/",
+   "aba": "custos"
+  },
+  {
    "titulo": "Vendas no Varejo Sobem 0,1% no Brasil em Agosto, Abaixo do Esperado",
    "data": "15/10/2026",
    "fonte": "Forbes",
@@ -43,20 +83,44 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Rali eleitoral acabou? JPMorgan vê espaço para novas altas no varejo e na saúde",
+   "titulo": "Máquinas e equipamentos na construção: veja os cuidados de segurança previstos nas NRs 12 e 18",
    "data": "15/10/2026",
-   "fonte": "InfoMoney",
-   "resumo": "Banco avalia que ações ainda negociam com desconto após rali eleitoral, mas recomenda seletividade The post Rali eleitoral acabou? JPMorgan vê espaço para novas altas no varejo e na saúde appeared first on InfoMoney .",
-   "link": "https://www.infomoney.com.br/mercados/rali-eleitoral-acabou-jpmorgan-ve-espaco-para-novas-altas-no-varejo-e-na-saude/",
-   "aba": "insumos"
+   "fonte": "CBIC",
+   "resumo": "O uso seguro de máquinas e equipamentos nos canteiros de obras exige manutenção preventiva, profissionais capacitados e documentação atualizada. Para orientar as empresas sobre essas medidas, a Semana CANPAT da...",
+   "link": "https://cbic.org.br/maquinas-e-equipamentos-na-construcao-veja-os-cuidados-de-seguranca-previstos-nas-nrs-12-e-18/",
+   "aba": "demanda"
   },
   {
-   "titulo": "Vendas do varejo crescem 0,1% em agosto ante julho, aponta IBGE",
+   "titulo": "CBIC e MMA discutem ações para fortalecer sustentabilidade e resiliência climática na construção",
+   "data": "15/10/2026",
+   "fonte": "CBIC",
+   "resumo": "A ampliação da reciclagem de resíduos da construção civil, a adaptação das cidades às mudanças climáticas e o acesso a financiamento para projetos sustentáveis estiveram na pauta de reunião entre a Câmara Brasileira...",
+   "link": "https://cbic.org.br/cbic-e-mma-discutem-acoes-para-fortalecer-sustentabilidade-e-resiliencia-climatica-na-construcao/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Obra da Ascenty tem prazo como desafio",
+   "data": "15/10/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "Em Vinhedo (SP), a EBM Engenharia realiza projeto na modalidade turnkey de um data center de inteligência artificial (IA) para a Ascenty, com capacidade de O post Obra da Ascenty tem prazo como desafio apareceu...",
+   "link": "https://revistaoe.com.br/prazo-desafio-obra-data-center-ascenty/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Construtoras caem na bolsa após prévias ‘fracas’ do 3T26; veja o que dizem analistas",
    "data": "15/10/2026",
    "fonte": "MoneyTimes",
-   "resumo": "As vendas do comércio varejista subiram 0,1% em agosto ante julho, na série com ajuste sazonal, após queda de 0,8% em julho de 2026, informou nesta quinta-feira, 15, o Instituto Brasileiro de Geografia e Estatística...",
-   "link": "https://www.moneytimes.com.br/vendas-do-varejo-crescem-01-em-agosto-ante-julho-aponta-ibge/",
+   "resumo": "Negociadas fora do índice Ibovespa, as ações de Melnick e Even operam em queda nesta quinta-feira (15), um dia após as duas incorporadoras divulgarem suas prévias operacionais do terceiro trimestre de 2026 (3T26)....",
+   "link": "https://www.moneytimes.com.br/construtoras-caem-na-bolsa-apos-previas-fracas-do-3t26-veja-o-que-dizem-analistas-igdl/",
    "aba": "demanda"
+  },
+  {
+   "titulo": "Construtoras estimam necessidade de mais 288 mil operários para compensar fim da 6×1",
+   "data": "15/10/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "Com a aprovação do fim da escala 6×1 no Senado, as associações que representam as construtoras reiteraram os seus alertas de que a medida trará aumento de custos significativos na produção de imóveis. A Câmara...",
+   "link": "https://www.moneytimes.com.br/construtoras-estimam-necessidade-de-mais-288-mil-operarios-para-compensar-fim-da-6x1/",
+   "aba": "custos"
   },
   {
    "titulo": "Cimento Apodi levou metodologia de segurança de processos a evento no Peru",
@@ -64,70 +128,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "A Cimento Apodi levou sua experiência em gestão de riscos e inovação operacional para o cenário internacional ao participar do 11th Latin American Congress on Process Safety, realizado entre 30 de setembro e 02 de...",
    "link": "http://www.revistaanamaco.com.br/cimento-apodi-levou-metodologia-de-seguranca-de-processos-a-evento-no-peru-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Faturamento da indústria diminuiu 3,5% em agosto, aponta pesquisa da CNI",
-   "data": "14/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O faturamento da indústria de transformação recuou pelo segundo mês consecutivo. Após queda de 2,2% em julho, o índice encolheu 3,5% em agosto. É o que apontam os Indicadores Industriais, divulgados pela Confederação...",
-   "link": "http://www.revistaanamaco.com.br/faturamento-da-industria-diminuiu-35-em-agosto-aponta-pesquisa-da-cni-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Henkel anuncia expansão do Inspiration Center Jundiaí com projeto Raízes",
-   "data": "14/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Henkel anuncia a expansão do Inspiration Center Jundiaí. Localizado no mesmo complexo inaugurado este ano, o espaço foi concebido para promover a saúde, a convivência e o bem-estar dos colaboradores e de suas famílias",
-   "link": "http://www.revistaanamaco.com.br/henkel-anuncia-expansao-do-inspiration-center-jundiai-com-projeto-raizes",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Votorantim Cimentos inicia operação de novo Centro de Distribuição em Brasília",
-   "data": "14/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Votorantim Cimentos acaba de inaugurar um Centro de Distribuição em Brasília (DF), reforçando sua atuação em um mercado estratégico para a construção. A nova unidade deverá atender clientes do Distrito Federal, da...",
-   "link": "http://www.revistaanamaco.com.br/votorantim-cimentos-inicia-operacao-de-novo-centro-de-distribuicao-em-brasilia-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Ademi-AL: Immobi Connection acontece nesta quinta e reúne especialistas do mercado imobiliário em Maceió",
-   "data": "14/10/2026",
-   "fonte": "CBIC",
-   "resumo": "Evento promovido pela Ademi-AL e pelo Creci-AL, com correalização do Sinduscon-AL, terá palestras sobre tendências, inovação, vendas, comunicação e novas oportunidades de negócios Maceió recebe, nesta quinta-feira...",
-   "link": "https://cbic.org.br/ademi-al-immobi-connection-acontece-nesta-quinta-e-reune-especialistas-do-mercado-imobiliario-em-maceio/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Busca por crédito cresceu 57,17% em agosto",
-   "data": "13/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A busca do brasileiro por crédito registrou crescimento de 57,17% em agosto em relação ao mesmo mês de 2025. O indicador, apurado pela CNDL e pelo SPC Brasil, aponta, ainda, que o volume de consultas realizadas pelo...",
-   "link": "http://www.revistaanamaco.com.br/busca-por-credito-cresceu-5717-em-agosto-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Abramat reduz projeção para 2026",
-   "data": "13/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O faturamento deflacionado da indústria de matcon recuou 1,1% em setembro, na comparação com o mesmo mês de 2025. Com o resultado, a queda acumulada no ano chegou a 2,5%, levando a Abramat a reduzir sua projeção para...",
-   "link": "http://www.revistaanamaco.com.br/abramat-reduz-projecao-para-2026-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Confiança empresarial tem mais uma queda",
-   "data": "13/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Índice de Confiança Empresarial, do Instituto Brasileiro de Economia da Fundação Getulio Vargas, recuou 1,2 ponto em setembro, para 89,3 pontos. Na métrica de médias móveis trimestrais, o índice também segue em...",
-   "link": "http://www.revistaanamaco.com.br/confianca-empresarial-tem-mais-uma-queda-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Ranking lista Gerdau como a marca mais valiosa do setor do aço na América Latina",
-   "data": "13/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Gerdau é a marca mais valiosa do setor do aço na América Latina, de acordo com o ranking Latin America 100 2026, produzido pela consultoria Brand Finance. A companhia ocupa a 88ª posição geral entre as marcas...",
-   "link": "http://www.revistaanamaco.com.br/ranking-lista-gerdau-como-a-marca-mais-valiosa-do-setor-do-aco-na-america-latina",
    "aba": "insumos"
   }
  ],
@@ -138,6 +138,10 @@ window.DADOS = {
   },
   "ipca12": {
    "valor": 4.58,
+   "data": "01/09/2026"
+  },
+  "igpm12": {
+   "valor": 1.5,
    "data": "01/09/2026"
   }
  },
