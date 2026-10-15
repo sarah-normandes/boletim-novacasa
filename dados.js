@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "15/10/2026 15:47",
+ "atualizado_em": "15/10/2026 20:28",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -83,6 +83,14 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
+   "titulo": "CHIS debate contratações do Minha Casa, Minha Vida e recursos para habitação em reunião com governo e Caixa",
+   "data": "15/10/2026",
+   "fonte": "CBIC",
+   "resumo": "A Comissão de Habitação de Interesse Social (CHIS) da Câmara Brasileira da Indústria da Construção (CBIC) discutiu, nesta quinta-feira (15), em Brasília, medidas relacionadas às contratações do Minha Casa, Minha...",
+   "link": "https://cbic.org.br/chis-debate-contratacoes-do-minha-casa-minha-vida-e-recursos-para-habitacao-em-reuniao-com-governo-e-caixa/",
+   "aba": "demanda"
+  },
+  {
    "titulo": "Máquinas e equipamentos na construção: veja os cuidados de segurança previstos nas NRs 12 e 18",
    "data": "15/10/2026",
    "fonte": "CBIC",
@@ -107,28 +115,20 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Construtoras caem na bolsa após prévias ‘fracas’ do 3T26; veja o que dizem analistas",
-   "data": "15/10/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "Negociadas fora do índice Ibovespa, as ações de Melnick e Even operam em queda nesta quinta-feira (15), um dia após as duas incorporadoras divulgarem suas prévias operacionais do terceiro trimestre de 2026 (3T26)....",
-   "link": "https://www.moneytimes.com.br/construtoras-caem-na-bolsa-apos-previas-fracas-do-3t26-veja-o-que-dizem-analistas-igdl/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Construtoras estimam necessidade de mais 288 mil operários para compensar fim da 6×1",
-   "data": "15/10/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "Com a aprovação do fim da escala 6×1 no Senado, as associações que representam as construtoras reiteraram os seus alertas de que a medida trará aumento de custos significativos na produção de imóveis. A Câmara...",
-   "link": "https://www.moneytimes.com.br/construtoras-estimam-necessidade-de-mais-288-mil-operarios-para-compensar-fim-da-6x1/",
-   "aba": "custos"
-  },
-  {
    "titulo": "Cimento Apodi levou metodologia de segurança de processos a evento no Peru",
    "data": "14/10/2026",
    "fonte": "Anamaco",
    "resumo": "A Cimento Apodi levou sua experiência em gestão de riscos e inovação operacional para o cenário internacional ao participar do 11th Latin American Congress on Process Safety, realizado entre 30 de setembro e 02 de...",
    "link": "http://www.revistaanamaco.com.br/cimento-apodi-levou-metodologia-de-seguranca-de-processos-a-evento-no-peru-",
    "aba": "insumos"
+  },
+  {
+   "titulo": "Faturamento da indústria diminuiu 3,5% em agosto, aponta pesquisa da CNI",
+   "data": "14/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "O faturamento da indústria de transformação recuou pelo segundo mês consecutivo. Após queda de 2,2% em julho, o índice encolheu 3,5% em agosto. É o que apontam os Indicadores Industriais, divulgados pela Confederação...",
+   "link": "http://www.revistaanamaco.com.br/faturamento-da-industria-diminuiu-35-em-agosto-aponta-pesquisa-da-cni-",
+   "aba": "demanda"
   }
  ],
  "diarios": {
