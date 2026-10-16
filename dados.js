@@ -1,14 +1,22 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "15/10/2026 20:28",
+ "atualizado_em": "16/10/2026 10:39",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "15/10/2026",
+   "data": "16/10/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Em parceria com o Senai e Abrava, Elgin estreia reality show 'Mestres do Frio'",
+   "data": "16/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Elgin estreou, em seu canal no Youtube o reality show 'Mestres do Frio'. Realizado em parceria com Senai e com a Abrava, o formato em oito episódios é protagonizado por 10 técnicos de refrigeração e climatização",
+   "link": "http://www.revistaanamaco.com.br/em-parceria-com-o-senai-e-abrava-elgin-estreia-reality-show-mestres-do-frio-",
+   "aba": "geral"
   },
   {
    "titulo": "Leve queda nas vendas de cimento",
@@ -121,20 +129,12 @@ window.DADOS = {
    "resumo": "A Cimento Apodi levou sua experiência em gestão de riscos e inovação operacional para o cenário internacional ao participar do 11th Latin American Congress on Process Safety, realizado entre 30 de setembro e 02 de...",
    "link": "http://www.revistaanamaco.com.br/cimento-apodi-levou-metodologia-de-seguranca-de-processos-a-evento-no-peru-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Faturamento da indústria diminuiu 3,5% em agosto, aponta pesquisa da CNI",
-   "data": "14/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O faturamento da indústria de transformação recuou pelo segundo mês consecutivo. Após queda de 2,2% em julho, o índice encolheu 3,5% em agosto. É o que apontam os Indicadores Industriais, divulgados pela Confederação...",
-   "link": "http://www.revistaanamaco.com.br/faturamento-da-industria-diminuiu-35-em-agosto-aponta-pesquisa-da-cni-",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "15/10/2026"
+   "data": "16/10/2026"
   },
   "ipca12": {
    "valor": 4.58,
