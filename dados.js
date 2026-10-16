@@ -1,15 +1,7 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "16/10/2026 15:32",
+ "atualizado_em": "16/10/2026 20:11",
  "manchetes": [
-  {
-   "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "16/10/2026",
-   "fonte": "Banco Central",
-   "aba": "custos",
-   "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
-   "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
-  },
   {
    "titulo": "Fluxo nas lojas diminuiu com eleições",
    "data": "16/10/2026",
@@ -33,6 +25,14 @@ window.DADOS = {
    "resumo": "A Elgin estreou, em seu canal no Youtube o reality show 'Mestres do Frio'. Realizado em parceria com Senai e com a Abrava, o formato em oito episódios é protagonizado por 10 técnicos de refrigeração e climatização",
    "link": "http://www.revistaanamaco.com.br/em-parceria-com-o-senai-e-abrava-elgin-estreia-reality-show-mestres-do-frio-",
    "aba": "geral"
+  },
+  {
+   "titulo": "CONJUR debate impactos jurídicos para a construção civil e o mercado imobiliário em reunião em Goiânia",
+   "data": "16/10/2026",
+   "fonte": "CBIC",
+   "resumo": "O Conselho Jurídico (CONJUR) da Câmara Brasileira da Indústria da Construção (CBIC) realizará, no dia 26 de outubro, sua 46ª reunião ordinária, em Goiânia. O encontro ocorrerá presencialmente, das 14h às 18h, na sede...",
+   "link": "https://cbic.org.br/conjur-debate-impactos-juridicos-para-a-construcao-civil-e-o-mercado-imobiliario-em-reuniao-em-goiania/",
+   "aba": "demanda"
   },
   {
    "titulo": "Artigo: A “Farra” do Crédito Consignado na Construção Civil: Impactos, Desafios Operacionais e o Cuidado nas Rescisões Trabalhistas",
@@ -115,27 +115,23 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Juros Freiam o Varejo, Mas o Que Ainda Impede a Economia Brasileira de Desacelerar?",
-   "data": "15/10/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Vendas de bens sensíveis ao crédito recuam, enquanto endividamento limita o consumo; renda do trabalho e gastos públicos ainda sustentam a demanda O...",
-   "link": "https://forbes.com.br/forbes-money/2026/10/varejo-desaceleracao-economia-consumo-juros-altos/",
-   "aba": "custos"
-  },
-  {
    "titulo": "CHIS debate contratações do Minha Casa, Minha Vida e recursos para habitação em reunião com governo e Caixa",
    "data": "15/10/2026",
    "fonte": "CBIC",
    "resumo": "A Comissão de Habitação de Interesse Social (CHIS) da Câmara Brasileira da Indústria da Construção (CBIC) discutiu, nesta quinta-feira (15), em Brasília, medidas relacionadas às contratações do Minha Casa, Minha...",
    "link": "https://cbic.org.br/chis-debate-contratacoes-do-minha-casa-minha-vida-e-recursos-para-habitacao-em-reuniao-com-governo-e-caixa/",
    "aba": "demanda"
+  },
+  {
+   "titulo": "Obra da Ascenty tem prazo como desafio",
+   "data": "15/10/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "Em Vinhedo (SP), a EBM Engenharia realiza projeto na modalidade turnkey de um data center de inteligência artificial (IA) para a Ascenty, com capacidade de O post Obra da Ascenty tem prazo como desafio apareceu...",
+   "link": "https://revistaoe.com.br/prazo-desafio-obra-data-center-ascenty/",
+   "aba": "demanda"
   }
  ],
  "diarios": {
-  "selic": {
-   "valor": 13.75,
-   "data": "16/10/2026"
-  },
   "ipca12": {
    "valor": 4.58,
    "data": "01/09/2026"
