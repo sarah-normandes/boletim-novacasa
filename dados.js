@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "16/10/2026 10:39",
+ "atualizado_em": "16/10/2026 15:32",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -11,12 +11,52 @@ window.DADOS = {
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
+   "titulo": "Fluxo nas lojas diminuiu com eleições",
+   "data": "16/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "O primeiro turno das Eleições Gerais de 2026, realizado em 04 de outubro, teve impacto, significativo, sobre a circulação de consumidores no varejo brasileiro. Levantamento de fluxo, realizado pela Seed Digital,...",
+   "link": "http://www.revistaanamaco.com.br/fluxo-nas-lojas-diminuiu-com-eleicoes-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Comércio paulista prevê menor geração de empregos de fim de ano desde 2020",
+   "data": "16/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "O varejo paulista deve entrar na temporada de Black Friday e Natal com um ritmo mais cauteloso de contratação. O Sindilojas SP estima a criação de 18,5 mil empregos formais no comércio do Estado em outubro e...",
+   "link": "http://www.revistaanamaco.com.br/comercio-paulista-preve-menor-geracao-de-empregos-de-fim-de-ano-desde-2020",
+   "aba": "demanda"
+  },
+  {
    "titulo": "Em parceria com o Senai e Abrava, Elgin estreia reality show 'Mestres do Frio'",
    "data": "16/10/2026",
    "fonte": "Anamaco",
    "resumo": "A Elgin estreou, em seu canal no Youtube o reality show 'Mestres do Frio'. Realizado em parceria com Senai e com a Abrava, o formato em oito episódios é protagonizado por 10 técnicos de refrigeração e climatização",
    "link": "http://www.revistaanamaco.com.br/em-parceria-com-o-senai-e-abrava-elgin-estreia-reality-show-mestres-do-frio-",
    "aba": "geral"
+  },
+  {
+   "titulo": "Artigo: A “Farra” do Crédito Consignado na Construção Civil: Impactos, Desafios Operacionais e o Cuidado nas Rescisões Trabalhistas",
+   "data": "16/10/2026",
+   "fonte": "CBIC",
+   "resumo": "David Fratel, vice-presidente da Área de Política de Relações Trabalhistas e presidente da Comissão de Política de Relações Trabalhistas (CPRT) da Câmara Brasileira da Indústria da Construção (CBIC) A “farra” do...",
+   "link": "https://cbic.org.br/artigo-a-farra-do-credito-consignado-na-construcao-civil-impactos-desafios-operacionais-e-o-cuidado-nas-rescisoes-trabalhistas/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Sinduscon Ceará: entidade lança plataforma gratuita de currículos para conectar profissionais e construtoras",
+   "data": "16/10/2026",
+   "fonte": "CBIC",
+   "resumo": "Integrante do movimento Construir é Massa, ferramenta amplia a visibilidade dos trabalhadores junto às empresas associadas Profissionais interessados em trabalhar na construção civil já podem cadastrar gratuitamente...",
+   "link": "https://cbic.org.br/sinduscon-ceara-entidade-lanca-plataforma-gratuita-de-curriculos-para-conectar-profissionais-e-construtoras/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "História do concreto armado no Brasil: obras e engenheiros que transformaram a construção civil",
+   "data": "16/10/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "Das primeiras edificações do século XX às grandes pontes e obras de arquitetura, o concreto armado impulsionou avanços estruturais que marcaram a engenharia brasileira. O O post História do concreto armado no Brasil:...",
+   "link": "https://revistaoe.com.br/historia-concreto-armado-brasil-obras-engenheiros/",
+   "aba": "demanda"
   },
   {
    "titulo": "Leve queda nas vendas de cimento",
@@ -83,52 +123,12 @@ window.DADOS = {
    "aba": "custos"
   },
   {
-   "titulo": "Vendas no Varejo Sobem 0,1% no Brasil em Agosto, Abaixo do Esperado",
-   "data": "15/10/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Em julho, o varejo havia tido queda de 0,8% sobre o mês anterior O post Vendas no Varejo Sobem 0,1% no Brasil em Agosto, Abaixo do Esperado apareceu...",
-   "link": "https://forbes.com.br/forbes-money/2026/10/vendas-no-varejo-sobem-01-no-brasil-em-agosto-abaixo-do-esperado/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "CHIS debate contratações do Minha Casa, Minha Vida e recursos para habitação em reunião com governo e Caixa",
    "data": "15/10/2026",
    "fonte": "CBIC",
    "resumo": "A Comissão de Habitação de Interesse Social (CHIS) da Câmara Brasileira da Indústria da Construção (CBIC) discutiu, nesta quinta-feira (15), em Brasília, medidas relacionadas às contratações do Minha Casa, Minha...",
    "link": "https://cbic.org.br/chis-debate-contratacoes-do-minha-casa-minha-vida-e-recursos-para-habitacao-em-reuniao-com-governo-e-caixa/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Máquinas e equipamentos na construção: veja os cuidados de segurança previstos nas NRs 12 e 18",
-   "data": "15/10/2026",
-   "fonte": "CBIC",
-   "resumo": "O uso seguro de máquinas e equipamentos nos canteiros de obras exige manutenção preventiva, profissionais capacitados e documentação atualizada. Para orientar as empresas sobre essas medidas, a Semana CANPAT da...",
-   "link": "https://cbic.org.br/maquinas-e-equipamentos-na-construcao-veja-os-cuidados-de-seguranca-previstos-nas-nrs-12-e-18/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "CBIC e MMA discutem ações para fortalecer sustentabilidade e resiliência climática na construção",
-   "data": "15/10/2026",
-   "fonte": "CBIC",
-   "resumo": "A ampliação da reciclagem de resíduos da construção civil, a adaptação das cidades às mudanças climáticas e o acesso a financiamento para projetos sustentáveis estiveram na pauta de reunião entre a Câmara Brasileira...",
-   "link": "https://cbic.org.br/cbic-e-mma-discutem-acoes-para-fortalecer-sustentabilidade-e-resiliencia-climatica-na-construcao/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Obra da Ascenty tem prazo como desafio",
-   "data": "15/10/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "Em Vinhedo (SP), a EBM Engenharia realiza projeto na modalidade turnkey de um data center de inteligência artificial (IA) para a Ascenty, com capacidade de O post Obra da Ascenty tem prazo como desafio apareceu...",
-   "link": "https://revistaoe.com.br/prazo-desafio-obra-data-center-ascenty/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Cimento Apodi levou metodologia de segurança de processos a evento no Peru",
-   "data": "14/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Cimento Apodi levou sua experiência em gestão de riscos e inovação operacional para o cenário internacional ao participar do 11th Latin American Congress on Process Safety, realizado entre 30 de setembro e 02 de...",
-   "link": "http://www.revistaanamaco.com.br/cimento-apodi-levou-metodologia-de-seguranca-de-processos-a-evento-no-peru-",
-   "aba": "insumos"
   }
  ],
  "diarios": {
