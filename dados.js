@@ -1,7 +1,39 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "16/10/2026 20:11",
+ "atualizado_em": "17/10/2026 09:36",
  "manchetes": [
+  {
+   "titulo": "Selic mantida em 13,75% ao ano",
+   "data": "17/10/2026",
+   "fonte": "Banco Central",
+   "aba": "custos",
+   "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
+   "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Banho Solidário Sampa vai promover ação especial de Dia das Crianças",
+   "data": "17/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "Amanhã, 18 de outubro, a partir das 10h, o Banho Solidário Sampa realizará ação especial de Dia das Crianças, na Praça Marechal Deodoro, em São Paulo. Com patrocínio da Lorenzetti, além dos banhos quentes e itens de...",
+   "link": "http://www.revistaanamaco.com.br/banho-solidario-sampa-vai-promover-acao-especial-de-dia-das-criancas-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Chegou Aos EUA Aos 11 Anos, Construiu um Império de Alimentos e Hoje Fatura US$ 3 Milhões com Vinho em Mendoza",
+   "data": "17/10/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Empresário Guillermo García Lamadrid transformou sua trajetória internacional em um negócio de vinhos com exportações para cerca de 20 países O post...",
+   "link": "https://forbes.com.br/forbes-agro/2026/10/chegou-aos-eua-aos-11-anos-construiu-um-imperio-de-alimentos-e-hoje-fatura-us-3-milhoes-com-vinho-em-mendoza/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Fundos imobiliários: Confira os que mais sobem em 2026, segundo a Quantum Finance",
+   "data": "17/10/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "O Polo Crédito Imobiliário (PORD11) lidera o ranking dos fundos imobiliários com os maiores retornos acumulados em 2026, segundo levantamento da Quantum Finance ao qual o Money Times teve acesso. Do início de janeiro...",
+   "link": "https://www.moneytimes.com.br/fundos-imobiliarios-confira-os-que-mais-sobem-em-2026-segundo-a-quantum-finance-igdl/",
+   "aba": "demanda"
+  },
   {
    "titulo": "Fluxo nas lojas diminuiu com eleições",
    "data": "16/10/2026",
@@ -97,41 +129,13 @@ window.DADOS = {
    "resumo": "O varejo brasileiro deve encerrar 2026 com ganho moderado, mas perde força na reta final. A projeção do Ibevar & Fia Business School indica que as vendas do varejo restrito crescerão 1,12% no acumulado do ano até...",
    "link": "http://www.revistaanamaco.com.br/varejo-deve-fechar-2026-no-azul-mas-em-alerta-",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Senado aprova fim da escala 6x1",
-   "data": "15/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Senado aprovou, ontem - 14 de outubro - o fim da escala 6x1, de seis dias de trabalho para um dia de repouso. A PEC 221/2019 foi aprovada em dois turnos, com a mesma votação em ambos: 75 votos favoráveis e apenas...",
-   "link": "http://www.revistaanamaco.com.br/senado-aprova-fim-da-escala-6x1",
-   "aba": "geral"
-  },
-  {
-   "titulo": "AkzoNobel premia seus fornecedores com melhor desempenho no Brasil",
-   "data": "15/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A AkzoNobel realizou a 7ª edição do Supplier Collaboration Awards, iniciativa que reconhece os fornecedores com melhor desempenho no Brasil. Nessa edição, foram premiadas cinco empresas que se destacaram ao longo de...",
-   "link": "http://www.revistaanamaco.com.br/akzonobel-premia-seus-fornecedores-com-melhor-desempenho-no-brasil",
-   "aba": "geral"
-  },
-  {
-   "titulo": "CHIS debate contratações do Minha Casa, Minha Vida e recursos para habitação em reunião com governo e Caixa",
-   "data": "15/10/2026",
-   "fonte": "CBIC",
-   "resumo": "A Comissão de Habitação de Interesse Social (CHIS) da Câmara Brasileira da Indústria da Construção (CBIC) discutiu, nesta quinta-feira (15), em Brasília, medidas relacionadas às contratações do Minha Casa, Minha...",
-   "link": "https://cbic.org.br/chis-debate-contratacoes-do-minha-casa-minha-vida-e-recursos-para-habitacao-em-reuniao-com-governo-e-caixa/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Obra da Ascenty tem prazo como desafio",
-   "data": "15/10/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "Em Vinhedo (SP), a EBM Engenharia realiza projeto na modalidade turnkey de um data center de inteligência artificial (IA) para a Ascenty, com capacidade de O post Obra da Ascenty tem prazo como desafio apareceu...",
-   "link": "https://revistaoe.com.br/prazo-desafio-obra-data-center-ascenty/",
-   "aba": "demanda"
   }
  ],
  "diarios": {
+  "selic": {
+   "valor": 13.75,
+   "data": "17/10/2026"
+  },
   "ipca12": {
    "valor": 4.58,
    "data": "01/09/2026"
