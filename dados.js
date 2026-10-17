@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "17/10/2026 09:36",
+ "atualizado_em": "17/10/2026 14:40",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Coral amplia participação na 10ª edição da Semana Criativa de Tiradentes",
+   "data": "17/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Coral marca presença, pelo segundo ano consecutivo, na Semana Criativa de Tiradentes, que chega à sua 10ª edição em 2026. O evento, que começou dia 15 de outubro e se encerra amanhã (dia 18), em Tiradentes (MG),...",
+   "link": "http://www.revistaanamaco.com.br/coral-amplia-participacao-na-10-edicao-da-semana-criativa-de-tiradentes-",
+   "aba": "geral"
   },
   {
    "titulo": "Banho Solidário Sampa vai promover ação especial de Dia das Crianças",
@@ -121,14 +129,6 @@ window.DADOS = {
    "resumo": "A cidade de São Paulo sedia até amanhã, 16 de outubro, a 2ª edição da Construlev Expo, evento dedicado à construção leve, sistemas industrializados e soluções sustentáveis no Brasil. Realizada no São Paulo Expo, a...",
    "link": "http://www.revistaanamaco.com.br/construlev-expo-apresenta-novidades-para-quem-busca-eficiencia-e-inovacao",
    "aba": "geral"
-  },
-  {
-   "titulo": "Varejo deve fechar 2026 no azul, mas em alerta",
-   "data": "15/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O varejo brasileiro deve encerrar 2026 com ganho moderado, mas perde força na reta final. A projeção do Ibevar & Fia Business School indica que as vendas do varejo restrito crescerão 1,12% no acumulado do ano até...",
-   "link": "http://www.revistaanamaco.com.br/varejo-deve-fechar-2026-no-azul-mas-em-alerta-",
-   "aba": "demanda"
   }
  ],
  "diarios": {
