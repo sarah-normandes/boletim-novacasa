@@ -1,14 +1,86 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "17/10/2026 19:47",
+ "atualizado_em": "19/10/2026 13:03",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "17/10/2026",
+   "data": "19/10/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "RetornaTinta, programa de logística reversa da Abrafati, chega a 11 pontos de coleta",
+   "data": "19/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "O RetornaTinta, programa de logística reversa da Abrafati, expandiu sua atuação na capital paulista com a inauguração de duas unidades na zona Norte. A novidade fez a rede atingir 11 Pontos de Entrega Voluntária no...",
+   "link": "http://www.revistaanamaco.com.br/retornatinta-programa-de-logistica-reversa-da-abrafati-chega-a-11-pontos-de-coleta-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "CSN reduz R$ 75 milhões em estoques com reestruturação de governança e tecnologia",
+   "data": "19/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A revisão de políticas de gestão de suprimentos e a implementação de tecnologia de análise permitiram à CSN reduzir R$75 milhões em capital imobilizado em estoque. Desenvolvida pela Gtplan, a reestruturação eliminou...",
+   "link": "http://www.revistaanamaco.com.br/csn-reduz-r-75-milhoes-em-estoques-com-reestruturacao-de-governanca-e-tecnologia-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Inadimplência das famílias no crédito livre passa de 8% e deve subir até dezembro",
+   "data": "19/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A inadimplência das pessoas físicas no crédito com recursos livres chegou a 8,01% em agosto, o maior nível da série histórica iniciada em janeiro de 2017, e deve continuar em alta no último trimestre. É o que mostra...",
+   "link": "http://www.revistaanamaco.com.br/inadimplencia-das-familias-no-credito-livre-passa-de-8-e-deve-subir-ate-dezembro--",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Mineração e siderurgia no 3º tri de 2026: o que esperar dos balanços?",
+   "data": "19/10/2026",
+   "fonte": "InfoMoney",
+   "resumo": "A primeira a divulgar os resultados será a Vale, no dia 29 de outubro The post Mineração e siderurgia no 3º tri de 2026: o que esperar dos balanços? appeared first on InfoMoney .",
+   "link": "https://www.infomoney.com.br/mercados/temporada-balanco-3t26-mineracao-siderurgia-vale3-ggbr4/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Varejo deve ter 3º trimestre fraco, mas bancos veem oportunidades em ações para 2027",
+   "data": "19/10/2026",
+   "fonte": "InfoMoney",
+   "resumo": "Os juros elevados e o alto nível de endividamento das famílias continuam pressionando o consumo The post Varejo deve ter 3º trimestre fraco, mas bancos veem oportunidades em ações para 2027 appeared first on InfoMoney .",
+   "link": "https://www.infomoney.com.br/mercados/varejo-deve-ter-3o-trimestre-fraco-mas-bancos-veem-oportunidades-em-acoes-para-2027/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Safra passa a tesoura em preços-alvo e rebaixa recomendações de fundos imobiliários (FIIs)",
+   "data": "19/10/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "O Safra rebaixou as recomendações para dois fundos imobiliários (FIIs) de shopping centers, diante de perspectivas distintas para resultados e dividendos. Um deles é o XP Malls (XPML11), que passou de compra para...",
+   "link": "https://www.moneytimes.com.br/safra-passa-a-tesoura-em-precos-alvo-e-rebaixa-recomendacoes-de-fundos-imobiliarios-fiis-igdl/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Instituto Aço Cearense realizou ação especial em alusão ao Outubro Rosa",
+   "data": "18/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Instituto Aço Cearense realizou, no dia 07 de outubro, uma programação especial em alusão ao “Outubro Rosa” no Instituto do Câncer do Ceará (ICC). A iniciativa contou com uma série de ações voltadas ao acolhimento,...",
+   "link": "http://www.revistaanamaco.com.br/instituto-aco-cearense-realizou-acao-especial-em-alusao-ao-outubro-rosa",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "76% das indústrias com dificuldade de crédito apontam os juros como o vilão",
+   "data": "18/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "As taxas de juros seguem como o principal obstáculo para o acesso ao crédito pela indústria. É o que mostra a Sondagem Especial nº 107 - Condições de Acesso ao Crédito em 2026, divulgada pela Confederação Nacional da...",
+   "link": "http://www.revistaanamaco.com.br/76-das-industrias-com-dificuldade-de-credito-apontam-os-juros-como-o-vilao",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Por Que o Mercado de Casas “Saudáveis” Virou a Nova Febre da Construção Civil nos EUA",
+   "data": "18/10/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. A união entre arquitetura, tecnologia e medicina transforma o ambiente doméstico para combater doenças respiratórias e garantir redução na conta de...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/mercado-casas-saudaveis-bem-estar/",
+   "aba": "geral"
   },
   {
    "titulo": "Coral amplia participação na 10ª edição da Semana Criativa de Tiradentes",
@@ -35,14 +107,6 @@ window.DADOS = {
    "aba": "custos"
   },
   {
-   "titulo": "Fundos imobiliários: Confira os que mais sobem em 2026, segundo a Quantum Finance",
-   "data": "17/10/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "O Polo Crédito Imobiliário (PORD11) lidera o ranking dos fundos imobiliários com os maiores retornos acumulados em 2026, segundo levantamento da Quantum Finance ao qual o Money Times teve acesso. Do início de janeiro...",
-   "link": "https://www.moneytimes.com.br/fundos-imobiliarios-confira-os-que-mais-sobem-em-2026-segundo-a-quantum-finance-igdl/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "Fluxo nas lojas diminuiu com eleições",
    "data": "16/10/2026",
    "fonte": "Anamaco",
@@ -65,76 +129,12 @@ window.DADOS = {
    "resumo": "A Elgin estreou, em seu canal no Youtube o reality show 'Mestres do Frio'. Realizado em parceria com Senai e com a Abrava, o formato em oito episódios é protagonizado por 10 técnicos de refrigeração e climatização",
    "link": "http://www.revistaanamaco.com.br/em-parceria-com-o-senai-e-abrava-elgin-estreia-reality-show-mestres-do-frio-",
    "aba": "geral"
-  },
-  {
-   "titulo": "CONJUR debate impactos jurídicos para a construção civil e o mercado imobiliário em reunião em Goiânia",
-   "data": "16/10/2026",
-   "fonte": "CBIC",
-   "resumo": "O Conselho Jurídico (CONJUR) da Câmara Brasileira da Indústria da Construção (CBIC) realizará, no dia 26 de outubro, sua 46ª reunião ordinária, em Goiânia. O encontro ocorrerá presencialmente, das 14h às 18h, na sede...",
-   "link": "https://cbic.org.br/conjur-debate-impactos-juridicos-para-a-construcao-civil-e-o-mercado-imobiliario-em-reuniao-em-goiania/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Artigo: A “Farra” do Crédito Consignado na Construção Civil: Impactos, Desafios Operacionais e o Cuidado nas Rescisões Trabalhistas",
-   "data": "16/10/2026",
-   "fonte": "CBIC",
-   "resumo": "David Fratel, vice-presidente da Área de Política de Relações Trabalhistas e presidente da Comissão de Política de Relações Trabalhistas (CPRT) da Câmara Brasileira da Indústria da Construção (CBIC) A “farra” do...",
-   "link": "https://cbic.org.br/artigo-a-farra-do-credito-consignado-na-construcao-civil-impactos-desafios-operacionais-e-o-cuidado-nas-rescisoes-trabalhistas/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Sinduscon Ceará: entidade lança plataforma gratuita de currículos para conectar profissionais e construtoras",
-   "data": "16/10/2026",
-   "fonte": "CBIC",
-   "resumo": "Integrante do movimento Construir é Massa, ferramenta amplia a visibilidade dos trabalhadores junto às empresas associadas Profissionais interessados em trabalhar na construção civil já podem cadastrar gratuitamente...",
-   "link": "https://cbic.org.br/sinduscon-ceara-entidade-lanca-plataforma-gratuita-de-curriculos-para-conectar-profissionais-e-construtoras/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "História do concreto armado no Brasil: obras e engenheiros que transformaram a construção civil",
-   "data": "16/10/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "Das primeiras edificações do século XX às grandes pontes e obras de arquitetura, o concreto armado impulsionou avanços estruturais que marcaram a engenharia brasileira. O O post História do concreto armado no Brasil:...",
-   "link": "https://revistaoe.com.br/historia-concreto-armado-brasil-obras-engenheiros/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Leve queda nas vendas de cimento",
-   "data": "15/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A indústria brasileira de cimento comercializou 5,7 milhões de toneladas em setembro, o que representa queda de 5,7% em relação ao mesmo mês de 2025, segundo o SNIC. Com isso, no terceiro trimestre, as vendas somaram...",
-   "link": "http://www.revistaanamaco.com.br/leve-queda-nas-vendas-de-cimento-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Anamaco vai apresentar sugestões de melhorias ao Reforma Casa Brasil",
-   "data": "15/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Anamaco vai se reunir, na próxima semana, com Augusto Rabelo, secretário Nacional de Habitação do Ministério das Cidades. O objetivo do encontro, que contará, também, com a presença de representantes da Abramat, é...",
-   "link": "http://www.revistaanamaco.com.br/anamaco-vai-apresentar-sugestoes-de-melhorias-ao-reforma-casa-brasil",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Inscrições abertas para o Encontro Nacional de Automação 2026",
-   "data": "15/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "Estão abertas as inscrições para o Encontro Nacional de Automação 2026, considerado um dos principais eventos do País voltados à automação industrial, inovação e transformação digital da indústria",
-   "link": "http://www.revistaanamaco.com.br/inscricoes-abertas-para-o-encontro-nacional-de-automacao-2026-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Construlev Expo apresenta novidades para quem busca eficiência e inovação",
-   "data": "15/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A cidade de São Paulo sedia até amanhã, 16 de outubro, a 2ª edição da Construlev Expo, evento dedicado à construção leve, sistemas industrializados e soluções sustentáveis no Brasil. Realizada no São Paulo Expo, a...",
-   "link": "http://www.revistaanamaco.com.br/construlev-expo-apresenta-novidades-para-quem-busca-eficiencia-e-inovacao",
-   "aba": "geral"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "17/10/2026"
+   "data": "19/10/2026"
   },
   "ipca12": {
    "valor": 4.58,
