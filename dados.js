@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "19/10/2026 13:03",
+ "atualizado_em": "19/10/2026 18:53",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Dexco anuncia fim das atividades da planta de louças sanitárias em PE",
+   "data": "19/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Dexco anuncia o encerramento das atividades produtivas da unidade de Louças Sanitárias em Cabo de Santo Agostinho (PE). A decisão integra o processo contínuo de transformação do negócio de louças sanitárias e o...",
+   "link": "http://www.revistaanamaco.com.br/dexco-anuncia-fim-das-atividades-da-planta-de-loucas-sanitarias-em-pe",
+   "aba": "geral"
   },
   {
    "titulo": "RetornaTinta, programa de logística reversa da Abrafati, chega a 11 pontos de coleta",
@@ -35,28 +43,36 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Mineração e siderurgia no 3º tri de 2026: o que esperar dos balanços?",
+   "titulo": "CBIC reúne lideranças para debater cenários e oportunidades do mercado imobiliário",
    "data": "19/10/2026",
-   "fonte": "InfoMoney",
-   "resumo": "A primeira a divulgar os resultados será a Vale, no dia 29 de outubro The post Mineração e siderurgia no 3º tri de 2026: o que esperar dos balanços? appeared first on InfoMoney .",
-   "link": "https://www.infomoney.com.br/mercados/temporada-balanco-3t26-mineracao-siderurgia-vale3-ggbr4/",
-   "aba": "insumos"
+   "fonte": "CBIC",
+   "resumo": "As perspectivas econômicas, o financiamento habitacional e os impactos da Reforma Tributária estarão em pauta na Rodada de Negócios do Mercado Imobiliário da Câmara Brasileira da Indústria da Construção (CBIC), nesta...",
+   "link": "https://cbic.org.br/cbic-reune-liderancas-para-debater-cenarios-e-oportunidades-do-mercado-imobiliario/",
+   "aba": "custos"
   },
   {
-   "titulo": "Varejo deve ter 3º trimestre fraco, mas bancos veem oportunidades em ações para 2027",
+   "titulo": "Deu na mídia: Eduardo Aroeira destaca no SBT News impactos da redução da jornada de trabalho na construção civil",
    "data": "19/10/2026",
-   "fonte": "InfoMoney",
-   "resumo": "Os juros elevados e o alto nível de endividamento das famílias continuam pressionando o consumo The post Varejo deve ter 3º trimestre fraco, mas bancos veem oportunidades em ações para 2027 appeared first on InfoMoney .",
-   "link": "https://www.infomoney.com.br/mercados/varejo-deve-ter-3o-trimestre-fraco-mas-bancos-veem-oportunidades-em-acoes-para-2027/",
-   "aba": "insumos"
+   "fonte": "CBIC",
+   "resumo": "O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo Aroeira Almeida, concedeu entrevista ao SBT News, na sexta-feira (16), para analisar os impactos da redução da jornada de trabalho de 44...",
+   "link": "https://cbic.org.br/deu-na-midia-eduardo-aroeira-destaca-no-sbt-news-impactos-da-reducao-da-jornada-de-trabalho-na-construcao-civil/",
+   "aba": "geral"
   },
   {
-   "titulo": "Safra passa a tesoura em preços-alvo e rebaixa recomendações de fundos imobiliários (FIIs)",
+   "titulo": "Citi eleva Magazine Luiza (MGLU3) e Azzas 2154 (AZZA3) e ações disparam; veja as preferidas do banco no varejo",
    "data": "19/10/2026",
    "fonte": "MoneyTimes",
-   "resumo": "O Safra rebaixou as recomendações para dois fundos imobiliários (FIIs) de shopping centers, diante de perspectivas distintas para resultados e dividendos. Um deles é o XP Malls (XPML11), que passou de compra para...",
-   "link": "https://www.moneytimes.com.br/safra-passa-a-tesoura-em-precos-alvo-e-rebaixa-recomendacoes-de-fundos-imobiliarios-fiis-igdl/",
-   "aba": "insumos"
+   "resumo": "O Citi realizou alguns ajustes nas recomendações para empresas do varejo que tem sob cobertura, elevando Magazine Luiza (MGLU3) e Azzas 2154 (AZZA3) para compra/alto risco e Natura (NATU3) para neutra/alto risco. Por...",
+   "link": "https://www.moneytimes.com.br/citi-eleva-magazine-luiza-mglu3-e-azzas-2154-azza3-e-acoes-disparam-veja-as-preferidas-do-banco-no-varejo-lmrs/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Associadas da ABRAMAT marcam presença na Construlev 2026",
+   "data": "19/10/2026",
+   "fonte": "ABRAMAT",
+   "resumo": "Promovida pela NürnbergMesse em parceria com a Associação Brasileira da Construção Leve e Sustentável (ABCLS), a Construlev, realizada entre os dias 14 e 16 de outubro, reuniu representantes da cadeia da construção...",
+   "link": "https://abramat.org.br/associadas-da-abramat-marcam-presenca-na-construlev-2026/",
+   "aba": "geral"
   },
   {
    "titulo": "Instituto Aço Cearense realizou ação especial em alusão ao Outubro Rosa",
@@ -75,14 +91,6 @@ window.DADOS = {
    "aba": "custos"
   },
   {
-   "titulo": "Por Que o Mercado de Casas “Saudáveis” Virou a Nova Febre da Construção Civil nos EUA",
-   "data": "18/10/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. A união entre arquitetura, tecnologia e medicina transforma o ambiente doméstico para combater doenças respiratórias e garantir redução na conta de...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/mercado-casas-saudaveis-bem-estar/",
-   "aba": "geral"
-  },
-  {
    "titulo": "Coral amplia participação na 10ª edição da Semana Criativa de Tiradentes",
    "data": "17/10/2026",
    "fonte": "Anamaco",
@@ -97,14 +105,6 @@ window.DADOS = {
    "resumo": "Amanhã, 18 de outubro, a partir das 10h, o Banho Solidário Sampa realizará ação especial de Dia das Crianças, na Praça Marechal Deodoro, em São Paulo. Com patrocínio da Lorenzetti, além dos banhos quentes e itens de...",
    "link": "http://www.revistaanamaco.com.br/banho-solidario-sampa-vai-promover-acao-especial-de-dia-das-criancas-",
    "aba": "geral"
-  },
-  {
-   "titulo": "Chegou Aos EUA Aos 11 Anos, Construiu um Império de Alimentos e Hoje Fatura US$ 3 Milhões com Vinho em Mendoza",
-   "data": "17/10/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Empresário Guillermo García Lamadrid transformou sua trajetória internacional em um negócio de vinhos com exportações para cerca de 20 países O post...",
-   "link": "https://forbes.com.br/forbes-agro/2026/10/chegou-aos-eua-aos-11-anos-construiu-um-imperio-de-alimentos-e-hoje-fatura-us-3-milhoes-com-vinho-em-mendoza/",
-   "aba": "custos"
   },
   {
    "titulo": "Fluxo nas lojas diminuiu com eleições",
