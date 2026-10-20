@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "20/10/2026 15:50",
+ "atualizado_em": "20/10/2026 20:33",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,22 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "União pela qualidade",
+   "data": "20/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "Com o objetivo de conscientizar o varejo sobre a importância da comercialização de material conforme, a Anamaco realizou, na manhã de hoje, em Campinas (SP), o lançamento oficial do Circuito Nacional da Qualidade. O...",
+   "link": "http://www.revistaanamaco.com.br/uniao-pela-qualidade",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Com o tema, a Nova Transformação do Varejo, 33º Matercon Brasil começa quinta-feira",
+   "data": "20/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "Quatro dias de conhecimento, negócios e celebração no litoral baiano. Pessoas, Reforma Tributária e Tecnologia moldando o futuro do varejo de matcon. É o que Acomac-BA está preparando para os participantes da 33ª...",
+   "link": "http://www.revistaanamaco.com.br/com-o-tema-a-nova-transformacao-do-varejo-33-matercon-brasil-comeca-quinta-feira",
+   "aba": "insumos"
   },
   {
    "titulo": "Dificuldade para conseguir emprego",
@@ -43,11 +59,35 @@ window.DADOS = {
    "aba": "custos"
   },
   {
-   "titulo": "Hora de financiar obras? Paramis vê oportunidade rara em crédito imobiliário e aposta em operações com mais garantias",
+   "titulo": "Carrefour notifica ao Cade venda de 22 imóveis a fundo de investimento imobiliário",
    "data": "20/10/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "Enquanto parte do mercado volta a olhar para debêntures incentivadas após a reabertura dos prêmios, a Paramis Capital acredita que as melhores oportunidades do crédito privado estão no mercado imobiliário...",
-   "link": "https://www.moneytimes.com.br/hora-de-financiar-obras-paramis-ve-oportunidade-rara-em-credito-imobiliario-mlim/",
+   "fonte": "InfoMoney",
+   "resumo": "Venda ocorreu para posterior locação para o Atacadão e continuidade das atividades de varejo alimentar de autosserviço e distribuição ali desempenhadas The post Carrefour notifica ao Cade venda de 22 imóveis a fundo...",
+   "link": "https://www.infomoney.com.br/business/carrefour-notifica-ao-cade-venda-de-22-imoveis-a-fundo-de-investimento-imobiliario/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "CBIC: O Futuro da Construção se constrói junto | GESTÃO 2023 | 2026",
+   "data": "20/10/2026",
+   "fonte": "CBIC",
+   "resumo": "The post CBIC: O Futuro da Construção se constrói junto | GESTÃO 2023 | 2026 appeared first on CBIC – Câmara Brasileira da Industria da Construção .",
+   "link": "https://brasil.cbic.org.br/acervo-publicacao-o-futuro-da-construcao-se-constroi-junto-2026#new_tab",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Encontro CBIC de Incorporadores e Construtores Centro-Oeste reúne especialistas em Goiânia na próxima semana",
+   "data": "20/10/2026",
+   "fonte": "CBIC",
+   "resumo": "O futuro do FGTS, as perspectivas para o mercado imobiliário e as oportunidades de investimentos em infraestrutura estarão no centro dos debates do Encontro CBIC de Incorporadores e Construtores Centro-Oeste, nos...",
+   "link": "https://cbic.org.br/109379-2/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Portaria estabelece regras para atendimento habitacional a famílias atingidas por desastres no MCMV",
+   "data": "20/10/2026",
+   "fonte": "CBIC",
+   "resumo": "Foi publicada na edição extra do Diário Oficial da União (DOU) desta segunda-feira (19) a Portaria Conjunta MCID/MIDR nº 8, de 13 de outubro de 2026, que estabelece diretrizes e procedimentos para a avaliação de...",
+   "link": "https://cbic.org.br/portaria-estabelece-regras-para-atendimento-habitacional-a-familias-atingidas-por-desastres-no-mcmv/",
    "aba": "demanda"
   },
   {
@@ -89,46 +129,6 @@ window.DADOS = {
    "resumo": "As perspectivas econômicas, o financiamento habitacional e os impactos da Reforma Tributária estarão em pauta na Rodada de Negócios do Mercado Imobiliário da Câmara Brasileira da Indústria da Construção (CBIC), nesta...",
    "link": "https://cbic.org.br/cbic-reune-liderancas-para-debater-cenarios-e-oportunidades-do-mercado-imobiliario/",
    "aba": "custos"
-  },
-  {
-   "titulo": "Deu na mídia: Eduardo Aroeira destaca no SBT News impactos da redução da jornada de trabalho na construção civil",
-   "data": "19/10/2026",
-   "fonte": "CBIC",
-   "resumo": "O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo Aroeira Almeida, concedeu entrevista ao SBT News, na sexta-feira (16), para analisar os impactos da redução da jornada de trabalho de 44...",
-   "link": "https://cbic.org.br/deu-na-midia-eduardo-aroeira-destaca-no-sbt-news-impactos-da-reducao-da-jornada-de-trabalho-na-construcao-civil/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Associadas da ABRAMAT marcam presença na Construlev 2026",
-   "data": "19/10/2026",
-   "fonte": "ABRAMAT",
-   "resumo": "Promovida pela NürnbergMesse em parceria com a Associação Brasileira da Construção Leve e Sustentável (ABCLS), a Construlev, realizada entre os dias 14 e 16 de outubro, reuniu representantes da cadeia da construção...",
-   "link": "https://abramat.org.br/associadas-da-abramat-marcam-presenca-na-construlev-2026/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Instituto Aço Cearense realizou ação especial em alusão ao Outubro Rosa",
-   "data": "18/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Instituto Aço Cearense realizou, no dia 07 de outubro, uma programação especial em alusão ao “Outubro Rosa” no Instituto do Câncer do Ceará (ICC). A iniciativa contou com uma série de ações voltadas ao acolhimento,...",
-   "link": "http://www.revistaanamaco.com.br/instituto-aco-cearense-realizou-acao-especial-em-alusao-ao-outubro-rosa",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "76% das indústrias com dificuldade de crédito apontam os juros como o vilão",
-   "data": "18/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "As taxas de juros seguem como o principal obstáculo para o acesso ao crédito pela indústria. É o que mostra a Sondagem Especial nº 107 - Condições de Acesso ao Crédito em 2026, divulgada pela Confederação Nacional da...",
-   "link": "http://www.revistaanamaco.com.br/76-das-industrias-com-dificuldade-de-credito-apontam-os-juros-como-o-vilao",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Coral amplia participação na 10ª edição da Semana Criativa de Tiradentes",
-   "data": "17/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Coral marca presença, pelo segundo ano consecutivo, na Semana Criativa de Tiradentes, que chega à sua 10ª edição em 2026. O evento, que começou dia 15 de outubro e se encerra amanhã (dia 18), em Tiradentes (MG),...",
-   "link": "http://www.revistaanamaco.com.br/coral-amplia-participacao-na-10-edicao-da-semana-criativa-de-tiradentes-",
-   "aba": "geral"
   }
  ],
  "diarios": {
