@@ -1,14 +1,46 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "19/10/2026 18:53",
+ "atualizado_em": "20/10/2026 10:59",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "19/10/2026",
+   "data": "20/10/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Índice de Fraudes no e-commerce sobe pelo terceiro mês seguido",
+   "data": "20/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A poucos dias de novembro, mês marcado pela Black Friday e pelo aumento da movimentação no comércio eletrônico, o Índice de Fraude da Equifax BoaVista registra um novo sinal de atenção para o varejo. O indicador...",
+   "link": "http://www.revistaanamaco.com.br/indice-de-fraudes-no-e-commerce-sobe-pelo-terceiro-mes-seguido-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Branco encerrou os últimos 12 meses com nota 9,6 de 10 no Reclame Aqui",
+   "data": "20/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Branco mantém uma estrutura dedicada ao atendimento pós-venda e à assistência técnica. Essa preocupação tem dado resultado. A empresa encerrou os últimos 12 meses com nota 9,6 de 10 no Reclame Aqui, desempenho...",
+   "link": "http://www.revistaanamaco.com.br/branco-encerrou-os-ultimos-12-meses-com-nota-96-de-10-no-reclame-aqui-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Construção de Casas nos EUA Cai em Setembro com Alta nos Juros de Hipotecas",
+   "data": "20/10/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Mesmo com a queda nas vendas de novas unidades, a escassez nacional de moradias mantém os preços elevados no país O post Construção de Casas nos EUA...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/construcao-casas-eua-queda/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "O Ativo Que os Modelos de IA Não Podem Construir Sozinhos",
+   "data": "20/10/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. 88% das organizações usam IA, mas só 7% escalaram a tecnologia. O gargalo não é o modelo: é o contexto ao redor dele O post O Ativo Que os Modelos...",
+   "link": "https://forbes.com.br/forbes-collab/2026/10/o-ativo-que-os-modelos-de-ia-nao-podem-construir-sozinhos/",
+   "aba": "geral"
   },
   {
    "titulo": "Dexco anuncia fim das atividades da planta de louças sanitárias em PE",
@@ -59,14 +91,6 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Citi eleva Magazine Luiza (MGLU3) e Azzas 2154 (AZZA3) e ações disparam; veja as preferidas do banco no varejo",
-   "data": "19/10/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "O Citi realizou alguns ajustes nas recomendações para empresas do varejo que tem sob cobertura, elevando Magazine Luiza (MGLU3) e Azzas 2154 (AZZA3) para compra/alto risco e Natura (NATU3) para neutra/alto risco. Por...",
-   "link": "https://www.moneytimes.com.br/citi-eleva-magazine-luiza-mglu3-e-azzas-2154-azza3-e-acoes-disparam-veja-as-preferidas-do-banco-no-varejo-lmrs/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "Associadas da ABRAMAT marcam presença na Construlev 2026",
    "data": "19/10/2026",
    "fonte": "ABRAMAT",
@@ -105,43 +129,15 @@ window.DADOS = {
    "resumo": "Amanhã, 18 de outubro, a partir das 10h, o Banho Solidário Sampa realizará ação especial de Dia das Crianças, na Praça Marechal Deodoro, em São Paulo. Com patrocínio da Lorenzetti, além dos banhos quentes e itens de...",
    "link": "http://www.revistaanamaco.com.br/banho-solidario-sampa-vai-promover-acao-especial-de-dia-das-criancas-",
    "aba": "geral"
-  },
-  {
-   "titulo": "Fluxo nas lojas diminuiu com eleições",
-   "data": "16/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O primeiro turno das Eleições Gerais de 2026, realizado em 04 de outubro, teve impacto, significativo, sobre a circulação de consumidores no varejo brasileiro. Levantamento de fluxo, realizado pela Seed Digital,...",
-   "link": "http://www.revistaanamaco.com.br/fluxo-nas-lojas-diminuiu-com-eleicoes-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Comércio paulista prevê menor geração de empregos de fim de ano desde 2020",
-   "data": "16/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O varejo paulista deve entrar na temporada de Black Friday e Natal com um ritmo mais cauteloso de contratação. O Sindilojas SP estima a criação de 18,5 mil empregos formais no comércio do Estado em outubro e...",
-   "link": "http://www.revistaanamaco.com.br/comercio-paulista-preve-menor-geracao-de-empregos-de-fim-de-ano-desde-2020",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Em parceria com o Senai e Abrava, Elgin estreia reality show 'Mestres do Frio'",
-   "data": "16/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Elgin estreou, em seu canal no Youtube o reality show 'Mestres do Frio'. Realizado em parceria com Senai e com a Abrava, o formato em oito episódios é protagonizado por 10 técnicos de refrigeração e climatização",
-   "link": "http://www.revistaanamaco.com.br/em-parceria-com-o-senai-e-abrava-elgin-estreia-reality-show-mestres-do-frio-",
-   "aba": "geral"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "19/10/2026"
+   "data": "20/10/2026"
   },
   "ipca12": {
    "valor": 4.58,
-   "data": "01/09/2026"
-  },
-  "igpm12": {
-   "valor": 1.5,
    "data": "01/09/2026"
   }
  },
