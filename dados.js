@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "20/10/2026 10:59",
+ "atualizado_em": "20/10/2026 15:50",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Dificuldade para conseguir emprego",
+   "data": "20/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A 16ª edição dos Indicadores de Qualidade do Trabalho da Sondagem de Mercado de Trabalho, do FGV Ibre, aborda o tema da percepção sobre o mercado de trabalho brasileiro. Os respondentes são consultados para avaliar...",
+   "link": "http://www.revistaanamaco.com.br/dificuldade-para-conseguir-emprego",
+   "aba": "demanda"
   },
   {
    "titulo": "Índice de Fraudes no e-commerce sobe pelo terceiro mês seguido",
@@ -35,12 +43,12 @@ window.DADOS = {
    "aba": "custos"
   },
   {
-   "titulo": "O Ativo Que os Modelos de IA Não Podem Construir Sozinhos",
+   "titulo": "Hora de financiar obras? Paramis vê oportunidade rara em crédito imobiliário e aposta em operações com mais garantias",
    "data": "20/10/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. 88% das organizações usam IA, mas só 7% escalaram a tecnologia. O gargalo não é o modelo: é o contexto ao redor dele O post O Ativo Que os Modelos...",
-   "link": "https://forbes.com.br/forbes-collab/2026/10/o-ativo-que-os-modelos-de-ia-nao-podem-construir-sozinhos/",
-   "aba": "geral"
+   "fonte": "MoneyTimes",
+   "resumo": "Enquanto parte do mercado volta a olhar para debêntures incentivadas após a reabertura dos prêmios, a Paramis Capital acredita que as melhores oportunidades do crédito privado estão no mercado imobiliário...",
+   "link": "https://www.moneytimes.com.br/hora-de-financiar-obras-paramis-ve-oportunidade-rara-em-credito-imobiliario-mlim/",
+   "aba": "demanda"
   },
   {
    "titulo": "Dexco anuncia fim das atividades da planta de louças sanitárias em PE",
@@ -121,14 +129,6 @@ window.DADOS = {
    "resumo": "A Coral marca presença, pelo segundo ano consecutivo, na Semana Criativa de Tiradentes, que chega à sua 10ª edição em 2026. O evento, que começou dia 15 de outubro e se encerra amanhã (dia 18), em Tiradentes (MG),...",
    "link": "http://www.revistaanamaco.com.br/coral-amplia-participacao-na-10-edicao-da-semana-criativa-de-tiradentes-",
    "aba": "geral"
-  },
-  {
-   "titulo": "Banho Solidário Sampa vai promover ação especial de Dia das Crianças",
-   "data": "17/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "Amanhã, 18 de outubro, a partir das 10h, o Banho Solidário Sampa realizará ação especial de Dia das Crianças, na Praça Marechal Deodoro, em São Paulo. Com patrocínio da Lorenzetti, além dos banhos quentes e itens de...",
-   "link": "http://www.revistaanamaco.com.br/banho-solidario-sampa-vai-promover-acao-especial-de-dia-das-criancas-",
-   "aba": "geral"
   }
  ],
  "diarios": {
@@ -138,6 +138,10 @@ window.DADOS = {
   },
   "ipca12": {
    "valor": 4.58,
+   "data": "01/09/2026"
+  },
+  "igpm12": {
+   "valor": 1.5,
    "data": "01/09/2026"
   }
  },
