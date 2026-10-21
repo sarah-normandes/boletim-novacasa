@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "21/10/2026 16:03",
+ "atualizado_em": "21/10/2026 20:50",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -59,11 +59,11 @@ window.DADOS = {
    "aba": "custos"
   },
   {
-   "titulo": "Fundos imobiliários: O setor que pode gerar oportunidades e riscos para os cotistas, segundo a XP",
+   "titulo": "CBIC participa de Mesa Nacional de Diálogo para a Promoção do Trabalho Decente na Indústria da Construção",
    "data": "21/10/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "O avanço da inteligência artificial (IA) pode abrir uma nova frente de negócios para os fundos imobiliários (FIIs) por meio dos data centers, estruturas responsáveis pelo armazenamento e processamento de dados,...",
-   "link": "https://www.moneytimes.com.br/fundos-imobiliarios-o-setor-que-pode-gerar-oportunidades-e-riscos-para-os-fiis-segundo-a-xp-igdl/",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) vai integrar a Mesa Nacional de Diálogo para a Promoção do Trabalho Decente na Indústria da Construção, instituída pelo Ministério do Trabalho e Emprego (MTE). A...",
+   "link": "https://cbic.org.br/cbic-participa-de-mesa-nacional-de-dialogo-para-a-promocao-do-trabalho-decente-na-industria-da-construcao/",
    "aba": "demanda"
   },
   {
@@ -72,14 +72,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "Com o objetivo de conscientizar o varejo sobre a importância da comercialização de material conforme, a Anamaco realizou, na manhã de hoje, em Campinas (SP), o lançamento oficial do Circuito Nacional da Qualidade. O...",
    "link": "http://www.revistaanamaco.com.br/uniao-pela-qualidade",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Com o tema, a Nova Transformação do Varejo, 33º Matercon Brasil começa quinta-feira",
-   "data": "20/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "Quatro dias de conhecimento, negócios e celebração no litoral baiano. Pessoas, Reforma Tributária e Tecnologia moldando o futuro do varejo de matcon. É o que Acomac-BA está preparando para os participantes da 33ª...",
-   "link": "http://www.revistaanamaco.com.br/com-o-tema-a-nova-transformacao-do-varejo-33-matercon-brasil-comeca-quinta-feira",
    "aba": "insumos"
   },
   {
@@ -105,6 +97,14 @@ window.DADOS = {
    "resumo": "A Branco mantém uma estrutura dedicada ao atendimento pós-venda e à assistência técnica. Essa preocupação tem dado resultado. A empresa encerrou os últimos 12 meses com nota 9,6 de 10 no Reclame Aqui, desempenho...",
    "link": "http://www.revistaanamaco.com.br/branco-encerrou-os-ultimos-12-meses-com-nota-96-de-10-no-reclame-aqui-",
    "aba": "demanda"
+  },
+  {
+   "titulo": "Com o tema, a Nova Transformação do Varejo, 33º Matercon Brasil começa quinta-feira",
+   "data": "20/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "Quatro dias de conhecimento, negócios e celebração no litoral baiano. Pessoas, Reforma Tributária e Tecnologia moldando o futuro do varejo de matcon. É o que Acomac-BA está preparando para os participantes da 33ª...",
+   "link": "http://www.revistaanamaco.com.br/com-o-tema-a-nova-transformacao-do-varejo-33-matercon-brasil-comeca-quinta-feira",
+   "aba": "insumos"
   },
   {
    "titulo": "CBIC: O Futuro da Construção se constrói junto | GESTÃO 2023 | 2026",
