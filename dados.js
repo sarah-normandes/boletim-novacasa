@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "21/10/2026 11:15",
+ "atualizado_em": "21/10/2026 16:03",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,22 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Henkel adiciona à frota três novas carretas abastecidas com biometano",
+   "data": "21/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Henkel, dona das marcas Cascola, Loctite, Pritt, Bonderite e Schwarzkopf Professional, adicionou três carretas abastecidas com biometano na frota logística, somando 75 toneladas diárias de entrega sem emissão de...",
+   "link": "http://www.revistaanamaco.com.br/henkel-adiciona-a-frota-tres-novas-carretas-abastecidas-com-biometano-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Unilin do Brasil apoia projetos de moradia para famílias em vulnerabilidade",
+   "data": "21/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "Unilin do Brasil, por meio da marca Quick-Step, fortalece sua parceria com a Construide, organização não governamental que, desde 2017, utiliza a construção civil como ferramenta de transformação social",
+   "link": "http://www.revistaanamaco.com.br/unilin-do-brasil-apoia-projetos-de-moradia-para-familias-em-vulnerabilidade-",
+   "aba": "geral"
   },
   {
    "titulo": "Com aporte de R$ 140 milhões, Obramax chega a Aparecida de Goiânia (GO)",
@@ -41,6 +57,14 @@ window.DADOS = {
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Juros, regras de crédito e Selic pesam mais na decisão de compra do que a situação política O post Crédito Imobiliário: 60% dos Compradores Dizem...",
    "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/pesquisa-datazap-novo-modelo-credito-imobiliario/",
    "aba": "custos"
+  },
+  {
+   "titulo": "Fundos imobiliários: O setor que pode gerar oportunidades e riscos para os cotistas, segundo a XP",
+   "data": "21/10/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "O avanço da inteligência artificial (IA) pode abrir uma nova frente de negócios para os fundos imobiliários (FIIs) por meio dos data centers, estruturas responsáveis pelo armazenamento e processamento de dados,...",
+   "link": "https://www.moneytimes.com.br/fundos-imobiliarios-o-setor-que-pode-gerar-oportunidades-e-riscos-para-os-fiis-segundo-a-xp-igdl/",
+   "aba": "demanda"
   },
   {
    "titulo": "União pela qualidade",
@@ -105,30 +129,6 @@ window.DADOS = {
    "resumo": "Foi publicada na edição extra do Diário Oficial da União (DOU) desta segunda-feira (19) a Portaria Conjunta MCID/MIDR nº 8, de 13 de outubro de 2026, que estabelece diretrizes e procedimentos para a avaliação de...",
    "link": "https://cbic.org.br/portaria-estabelece-regras-para-atendimento-habitacional-a-familias-atingidas-por-desastres-no-mcmv/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Dexco anuncia fim das atividades da planta de louças sanitárias em PE",
-   "data": "19/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Dexco anuncia o encerramento das atividades produtivas da unidade de Louças Sanitárias em Cabo de Santo Agostinho (PE). A decisão integra o processo contínuo de transformação do negócio de louças sanitárias e o...",
-   "link": "http://www.revistaanamaco.com.br/dexco-anuncia-fim-das-atividades-da-planta-de-loucas-sanitarias-em-pe",
-   "aba": "geral"
-  },
-  {
-   "titulo": "RetornaTinta, programa de logística reversa da Abrafati, chega a 11 pontos de coleta",
-   "data": "19/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O RetornaTinta, programa de logística reversa da Abrafati, expandiu sua atuação na capital paulista com a inauguração de duas unidades na zona Norte. A novidade fez a rede atingir 11 Pontos de Entrega Voluntária no...",
-   "link": "http://www.revistaanamaco.com.br/retornatinta-programa-de-logistica-reversa-da-abrafati-chega-a-11-pontos-de-coleta-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "CSN reduz R$ 75 milhões em estoques com reestruturação de governança e tecnologia",
-   "data": "19/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A revisão de políticas de gestão de suprimentos e a implementação de tecnologia de análise permitiram à CSN reduzir R$75 milhões em capital imobilizado em estoque. Desenvolvida pela Gtplan, a reestruturação eliminou...",
-   "link": "http://www.revistaanamaco.com.br/csn-reduz-r-75-milhoes-em-estoques-com-reestruturacao-de-governanca-e-tecnologia-",
-   "aba": "geral"
   }
  ],
  "diarios": {
