@@ -1,14 +1,46 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "20/10/2026 20:33",
+ "atualizado_em": "21/10/2026 11:15",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "20/10/2026",
+   "data": "21/10/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Com aporte de R$ 140 milhões, Obramax chega a Aparecida de Goiânia (GO)",
+   "data": "21/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Obramax inaugurou, em 20 de outubro, uma loja em Aparecida de Goiânia (GO). A primeira unidade da marca no Estado e segunda no Centro-Oeste recebeu investimento de R$140 milhões e reforça o avanço da empresa em...",
+   "link": "http://www.revistaanamaco.com.br/com-aporte-de-r-140-milhoes-obramax-chega-a-aparecida-de-goiania-go",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Condições atuais da indústria e da economia caem ao pior nivel em seis anos",
+   "data": "21/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "As condições atuais da indústria e da economia chegaram ao pior patamar em mais de seis anos. De acordo com o Índice de Confiança do Empresário Industrial, divulgado pela CNI, o indicador que compara o momento vivido...",
+   "link": "http://www.revistaanamaco.com.br/condicoes-atuais-da-industria-e-da-economia-caem-ao-pior-nivel-em-seis-anos",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Prysmian fornece soluções de cabos para Usina Fotovoltaica Rio Urucuia",
+   "data": "21/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Prysmian integra o projeto da Usina Fotovoltaica Rio Urucuia, da Scatec ASA. A empresa forneceu o conjunto de soluções de cabos para o projeto de 142 megawatts, localizado em Pintópolis, no norte de Minas Gerais",
+   "link": "http://www.revistaanamaco.com.br/prysmian-fornece-solucoes-de-cabos-para-usina-fotovoltaica-rio-urucuia-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Crédito Imobiliário: 60% dos Compradores Dizem Que a Vontade de Financiar Aumentou com Novo Modelo",
+   "data": "21/10/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Juros, regras de crédito e Selic pesam mais na decisão de compra do que a situação política O post Crédito Imobiliário: 60% dos Compradores Dizem...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/pesquisa-datazap-novo-modelo-credito-imobiliario/",
+   "aba": "custos"
   },
   {
    "titulo": "União pela qualidade",
@@ -48,22 +80,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "A Branco mantém uma estrutura dedicada ao atendimento pós-venda e à assistência técnica. Essa preocupação tem dado resultado. A empresa encerrou os últimos 12 meses com nota 9,6 de 10 no Reclame Aqui, desempenho...",
    "link": "http://www.revistaanamaco.com.br/branco-encerrou-os-ultimos-12-meses-com-nota-96-de-10-no-reclame-aqui-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Construção de Casas nos EUA Cai em Setembro com Alta nos Juros de Hipotecas",
-   "data": "20/10/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Mesmo com a queda nas vendas de novas unidades, a escassez nacional de moradias mantém os preços elevados no país O post Construção de Casas nos EUA...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/construcao-casas-eua-queda/",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Carrefour notifica ao Cade venda de 22 imóveis a fundo de investimento imobiliário",
-   "data": "20/10/2026",
-   "fonte": "InfoMoney",
-   "resumo": "Venda ocorreu para posterior locação para o Atacadão e continuidade das atividades de varejo alimentar de autosserviço e distribuição ali desempenhadas The post Carrefour notifica ao Cade venda de 22 imóveis a fundo...",
-   "link": "https://www.infomoney.com.br/business/carrefour-notifica-ao-cade-venda-de-22-imoveis-a-fundo-de-investimento-imobiliario/",
    "aba": "demanda"
   },
   {
@@ -113,36 +129,12 @@ window.DADOS = {
    "resumo": "A revisão de políticas de gestão de suprimentos e a implementação de tecnologia de análise permitiram à CSN reduzir R$75 milhões em capital imobilizado em estoque. Desenvolvida pela Gtplan, a reestruturação eliminou...",
    "link": "http://www.revistaanamaco.com.br/csn-reduz-r-75-milhoes-em-estoques-com-reestruturacao-de-governanca-e-tecnologia-",
    "aba": "geral"
-  },
-  {
-   "titulo": "Inadimplência das famílias no crédito livre passa de 8% e deve subir até dezembro",
-   "data": "19/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A inadimplência das pessoas físicas no crédito com recursos livres chegou a 8,01% em agosto, o maior nível da série histórica iniciada em janeiro de 2017, e deve continuar em alta no último trimestre. É o que mostra...",
-   "link": "http://www.revistaanamaco.com.br/inadimplencia-das-familias-no-credito-livre-passa-de-8-e-deve-subir-ate-dezembro--",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "CBIC reúne lideranças para debater cenários e oportunidades do mercado imobiliário",
-   "data": "19/10/2026",
-   "fonte": "CBIC",
-   "resumo": "As perspectivas econômicas, o financiamento habitacional e os impactos da Reforma Tributária estarão em pauta na Rodada de Negócios do Mercado Imobiliário da Câmara Brasileira da Indústria da Construção (CBIC), nesta...",
-   "link": "https://cbic.org.br/cbic-reune-liderancas-para-debater-cenarios-e-oportunidades-do-mercado-imobiliario/",
-   "aba": "custos"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "20/10/2026"
-  },
-  "ipca12": {
-   "valor": 4.58,
-   "data": "01/09/2026"
-  },
-  "igpm12": {
-   "valor": 1.5,
-   "data": "01/09/2026"
+   "data": "21/10/2026"
   }
  },
  "mensais": {
