@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "22/10/2026 11:15",
+ "atualizado_em": "22/10/2026 15:58",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,30 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Com o tema, a Nova Transformação do Varejo, 33º Matercon Brasil começa hoje",
+   "data": "22/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "Quatro dias de conhecimento, negócios e celebração no litoral baiano. Pessoas, Reforma Tributária e Tecnologia moldando o futuro do varejo de matcon. É o que Acomac-BA está preparando para os participantes da 33ª...",
+   "link": "http://www.revistaanamaco.com.br/com-o-tema-a-nova-transformacao-do-varejo-33-matercon-brasil-comeca-hoje",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Arauco forma 2ª turma de motoristas no Mato Grosso do Sul com maioria feminina",
+   "data": "22/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Arauco celebrou a conclusão da segunda turma do seu Programa de Formação de Motoristas, capacitando mais 66 profissionais para a logística no Mato Grosso do Sul. A cerimônia de formatura registrou um marco com a...",
+   "link": "http://www.revistaanamaco.com.br/arauco-forma-2-turma-de-motoristas-no-mato-grosso-do-sul-com-maioria-feminina-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Indústrias processaram 3,3 milhões de toneladas de aço em 2025",
+   "data": "22/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "As empresas associadas à Abimetal-Sicetel foram responsáveis pela transformação de 3,3 milhões de toneladas de aço em 2025. O volume representa uma retração de 0,3% em relação ao ano anterior e corresponde a 15,5% do...",
+   "link": "http://www.revistaanamaco.com.br/industrias-processaram-33-milhoes-de-toneladas-de-aco-em-2025-",
+   "aba": "insumos"
   },
   {
    "titulo": "Placo homenageia os vencedores da 6ª edição do Prêmio TOP",
@@ -32,14 +56,6 @@ window.DADOS = {
    "fonte": "Forbes",
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Anunciado no Egypt Forum 2026, o megaprojeto imobiliário inclui polos em Alexandria, Abu Qir e um destino turístico na Costa Norte do país O post O...",
    "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/acordo-imobiliario-egito-tmg/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Fundo imobiliário de tijolo anuncia troca de administrador e mudanças no regulamento; veja o que muda",
-   "data": "22/10/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "Os cotistas do fundo imobiliário Patria Malls (PMLL11) aprovaram, em assembleia geral extraordinária (AGE), a troca do administrador fiduciário do veículo a partir do mês que vem. Conforme ata divulgada na...",
-   "link": "https://www.moneytimes.com.br/fundo-imobiliario-de-tijolo-anuncia-troca-de-administrador-e-mudancas-no-regulamento-veja-o-que-muda-igdl/",
    "aba": "demanda"
   },
   {
@@ -107,28 +123,12 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Índice de Fraudes no e-commerce sobe pelo terceiro mês seguido",
+   "titulo": "CBIC: O Futuro da Construção se constrói junto | GESTÃO 2023 | 2026",
    "data": "20/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A poucos dias de novembro, mês marcado pela Black Friday e pelo aumento da movimentação no comércio eletrônico, o Índice de Fraude da Equifax BoaVista registra um novo sinal de atenção para o varejo. O indicador...",
-   "link": "http://www.revistaanamaco.com.br/indice-de-fraudes-no-e-commerce-sobe-pelo-terceiro-mes-seguido-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Branco encerrou os últimos 12 meses com nota 9,6 de 10 no Reclame Aqui",
-   "data": "20/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Branco mantém uma estrutura dedicada ao atendimento pós-venda e à assistência técnica. Essa preocupação tem dado resultado. A empresa encerrou os últimos 12 meses com nota 9,6 de 10 no Reclame Aqui, desempenho...",
-   "link": "http://www.revistaanamaco.com.br/branco-encerrou-os-ultimos-12-meses-com-nota-96-de-10-no-reclame-aqui-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Com o tema, a Nova Transformação do Varejo, 33º Matercon Brasil começa quinta-feira",
-   "data": "20/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "Quatro dias de conhecimento, negócios e celebração no litoral baiano. Pessoas, Reforma Tributária e Tecnologia moldando o futuro do varejo de matcon. É o que Acomac-BA está preparando para os participantes da 33ª...",
-   "link": "http://www.revistaanamaco.com.br/com-o-tema-a-nova-transformacao-do-varejo-33-matercon-brasil-comeca-quinta-feira",
-   "aba": "insumos"
+   "fonte": "CBIC",
+   "resumo": "The post CBIC: O Futuro da Construção se constrói junto | GESTÃO 2023 | 2026 appeared first on CBIC – Câmara Brasileira da Industria da Construção .",
+   "link": "https://brasil.cbic.org.br/acervo-publicacao-o-futuro-da-construcao-se-constroi-junto-2026#new_tab",
+   "aba": "geral"
   }
  ],
  "diarios": {
