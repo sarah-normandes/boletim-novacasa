@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "22/10/2026 15:58",
+ "atualizado_em": "22/10/2026 20:47",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -51,12 +51,52 @@ window.DADOS = {
    "aba": "geral"
   },
   {
+   "titulo": "Vietnã Supera China Como Principal Fonte de Importações de Aço do Brasil",
+   "data": "22/10/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. De 266 mil toneladas de produtos siderúrgicos planos adquiridos, 176 mil vieram do Vietnã O post Vietnã Supera China Como Principal Fonte de...",
+   "link": "https://forbes.com.br/forbes-money/2026/10/vietna-supera-china-como-principal-fonte-de-importacoes-de-aco-do-brasil/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Cury (CURY3) Prioriza Dividendos em Detrimento de Crescimento e Não Vê Ruptura do MCMV com Eventual Troca de Governo",
+   "data": "22/10/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Com dividendos na casa dos 13%, construtora adota postura cautelosa para o crescimento e adapta processos após rigor da Caixa no crédito O post Cury...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/cury-estrategia-dividendos-mcmv/",
+   "aba": "insumos"
+  },
+  {
    "titulo": "O Megaprojeto Imobiliário de R$ 1 Trilhão do Governo do Egito",
    "data": "22/10/2026",
    "fonte": "Forbes",
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Anunciado no Egypt Forum 2026, o megaprojeto imobiliário inclui polos em Alexandria, Abu Qir e um destino turístico na Costa Norte do país O post O...",
    "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/acordo-imobiliario-egito-tmg/",
    "aba": "demanda"
+  },
+  {
+   "titulo": "CMA da CBIC debate soluções baseadas na natureza e oportunidades para a construção",
+   "data": "22/10/2026",
+   "fonte": "CBIC",
+   "resumo": "A adoção de soluções baseadas na natureza (SbN) no planejamento urbano e nos empreendimentos da construção civil esteve no centro das discussões da reunião da Comissão de Meio Ambiente e Sustentabilidade (CMA) da...",
+   "link": "https://cbic.org.br/cma-da-cbic-debate-solucoes-baseadas-na-natureza-e-oportunidades-para-a-construcao/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "CII debate financiamento habitacional, Reforma Tributária e perspectivas do mercado imobiliário",
+   "data": "22/10/2026",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) realizou, nesta quinta-feira (22), em São Paulo, a Rodada de Negócios do Mercado Imobiliário, com representantes do setor para discutir o cenário político e...",
+   "link": "https://cbic.org.br/cii-debate-financiamento-habitacional-reforma-tributaria-e-perspectivas-do-mercado-imobiliario/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "CBIC debate inflação, crédito imobiliário e os impactos para a construção em 2027",
+   "data": "22/10/2026",
+   "fonte": "CBIC",
+   "resumo": "Para debater o cenário econômico e seus impactos sobre o setor da construção, a Câmara Brasileira da Indústria da Construção (CBIC) promoveu, nesta quarta-feira (21), a live “Economia e construção: perspectivas para...",
+   "link": "https://cbic.org.br/cbic-debate-inflacao-credito-imobiliario-e-os-impactos-para-a-construcao-em-2027/",
+   "aba": "custos"
   },
   {
    "titulo": "Henkel adiciona à frota três novas carretas abastecidas com biometano",
@@ -89,46 +129,6 @@ window.DADOS = {
    "resumo": "As condições atuais da indústria e da economia chegaram ao pior patamar em mais de seis anos. De acordo com o Índice de Confiança do Empresário Industrial, divulgado pela CNI, o indicador que compara o momento vivido...",
    "link": "http://www.revistaanamaco.com.br/condicoes-atuais-da-industria-e-da-economia-caem-ao-pior-nivel-em-seis-anos",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Prysmian fornece soluções de cabos para Usina Fotovoltaica Rio Urucuia",
-   "data": "21/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Prysmian integra o projeto da Usina Fotovoltaica Rio Urucuia, da Scatec ASA. A empresa forneceu o conjunto de soluções de cabos para o projeto de 142 megawatts, localizado em Pintópolis, no norte de Minas Gerais",
-   "link": "http://www.revistaanamaco.com.br/prysmian-fornece-solucoes-de-cabos-para-usina-fotovoltaica-rio-urucuia-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "CBIC participa de Mesa Nacional de Diálogo para a Promoção do Trabalho Decente na Indústria da Construção",
-   "data": "21/10/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) vai integrar a Mesa Nacional de Diálogo para a Promoção do Trabalho Decente na Indústria da Construção, instituída pelo Ministério do Trabalho e Emprego (MTE). A...",
-   "link": "https://cbic.org.br/cbic-participa-de-mesa-nacional-de-dialogo-para-a-promocao-do-trabalho-decente-na-industria-da-construcao/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "União pela qualidade",
-   "data": "20/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "Com o objetivo de conscientizar o varejo sobre a importância da comercialização de material conforme, a Anamaco realizou, na manhã de hoje, em Campinas (SP), o lançamento oficial do Circuito Nacional da Qualidade. O...",
-   "link": "http://www.revistaanamaco.com.br/uniao-pela-qualidade",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Dificuldade para conseguir emprego",
-   "data": "20/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A 16ª edição dos Indicadores de Qualidade do Trabalho da Sondagem de Mercado de Trabalho, do FGV Ibre, aborda o tema da percepção sobre o mercado de trabalho brasileiro. Os respondentes são consultados para avaliar...",
-   "link": "http://www.revistaanamaco.com.br/dificuldade-para-conseguir-emprego",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "CBIC: O Futuro da Construção se constrói junto | GESTÃO 2023 | 2026",
-   "data": "20/10/2026",
-   "fonte": "CBIC",
-   "resumo": "The post CBIC: O Futuro da Construção se constrói junto | GESTÃO 2023 | 2026 appeared first on CBIC – Câmara Brasileira da Industria da Construção .",
-   "link": "https://brasil.cbic.org.br/acervo-publicacao-o-futuro-da-construcao-se-constroi-junto-2026#new_tab",
-   "aba": "geral"
   }
  ],
  "diarios": {
