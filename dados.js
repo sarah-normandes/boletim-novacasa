@@ -1,14 +1,46 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "21/10/2026 20:50",
+ "atualizado_em": "22/10/2026 11:15",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "21/10/2026",
+   "data": "22/10/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Placo homenageia os vencedores da 6ª edição do Prêmio TOP",
+   "data": "22/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Placo Saint-Gobain revelou os vencedores da 6ª edição do Prêmio TOP (Troféu de Obras Placo), principal premiação do setor de construção a seco do País. O anúncio foi feito em cerimônia, em São Paulo, reunindo uma...",
+   "link": "http://www.revistaanamaco.com.br/placo-homenageia-os-vencedores-da-6-edicao-do-premio-top-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Tramontina usa realidade virtual para transformar a experiência no PDV",
+   "data": "22/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "Com o objetivo de aprimorar a especificação e a compra de equipamentos de cozinha, a Tramontina desenvolveu o Ambiente Virtual, ferramenta de realidade virtual que possibilita aos revendedores e clientes uma imersão...",
+   "link": "http://www.revistaanamaco.com.br/tramontina-usa-realidade-virtual-para-transformar-a-experiencia-no-pdv-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "O Megaprojeto Imobiliário de R$ 1 Trilhão do Governo do Egito",
+   "data": "22/10/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Anunciado no Egypt Forum 2026, o megaprojeto imobiliário inclui polos em Alexandria, Abu Qir e um destino turístico na Costa Norte do país O post O...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/acordo-imobiliario-egito-tmg/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Fundo imobiliário de tijolo anuncia troca de administrador e mudanças no regulamento; veja o que muda",
+   "data": "22/10/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "Os cotistas do fundo imobiliário Patria Malls (PMLL11) aprovaram, em assembleia geral extraordinária (AGE), a troca do administrador fiduciário do veículo a partir do mês que vem. Conforme ata divulgada na...",
+   "link": "https://www.moneytimes.com.br/fundo-imobiliario-de-tijolo-anuncia-troca-de-administrador-e-mudancas-no-regulamento-veja-o-que-muda-igdl/",
+   "aba": "demanda"
   },
   {
    "titulo": "Henkel adiciona à frota três novas carretas abastecidas com biometano",
@@ -49,14 +81,6 @@ window.DADOS = {
    "resumo": "A Prysmian integra o projeto da Usina Fotovoltaica Rio Urucuia, da Scatec ASA. A empresa forneceu o conjunto de soluções de cabos para o projeto de 142 megawatts, localizado em Pintópolis, no norte de Minas Gerais",
    "link": "http://www.revistaanamaco.com.br/prysmian-fornece-solucoes-de-cabos-para-usina-fotovoltaica-rio-urucuia-",
    "aba": "geral"
-  },
-  {
-   "titulo": "Crédito Imobiliário: 60% dos Compradores Dizem Que a Vontade de Financiar Aumentou com Novo Modelo",
-   "data": "21/10/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Juros, regras de crédito e Selic pesam mais na decisão de compra do que a situação política O post Crédito Imobiliário: 60% dos Compradores Dizem...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/pesquisa-datazap-novo-modelo-credito-imobiliario/",
-   "aba": "custos"
   },
   {
    "titulo": "CBIC participa de Mesa Nacional de Diálogo para a Promoção do Trabalho Decente na Indústria da Construção",
@@ -105,36 +129,12 @@ window.DADOS = {
    "resumo": "Quatro dias de conhecimento, negócios e celebração no litoral baiano. Pessoas, Reforma Tributária e Tecnologia moldando o futuro do varejo de matcon. É o que Acomac-BA está preparando para os participantes da 33ª...",
    "link": "http://www.revistaanamaco.com.br/com-o-tema-a-nova-transformacao-do-varejo-33-matercon-brasil-comeca-quinta-feira",
    "aba": "insumos"
-  },
-  {
-   "titulo": "CBIC: O Futuro da Construção se constrói junto | GESTÃO 2023 | 2026",
-   "data": "20/10/2026",
-   "fonte": "CBIC",
-   "resumo": "The post CBIC: O Futuro da Construção se constrói junto | GESTÃO 2023 | 2026 appeared first on CBIC – Câmara Brasileira da Industria da Construção .",
-   "link": "https://brasil.cbic.org.br/acervo-publicacao-o-futuro-da-construcao-se-constroi-junto-2026#new_tab",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Encontro CBIC de Incorporadores e Construtores Centro-Oeste reúne especialistas em Goiânia na próxima semana",
-   "data": "20/10/2026",
-   "fonte": "CBIC",
-   "resumo": "O futuro do FGTS, as perspectivas para o mercado imobiliário e as oportunidades de investimentos em infraestrutura estarão no centro dos debates do Encontro CBIC de Incorporadores e Construtores Centro-Oeste, nos...",
-   "link": "https://cbic.org.br/109379-2/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Portaria estabelece regras para atendimento habitacional a famílias atingidas por desastres no MCMV",
-   "data": "20/10/2026",
-   "fonte": "CBIC",
-   "resumo": "Foi publicada na edição extra do Diário Oficial da União (DOU) desta segunda-feira (19) a Portaria Conjunta MCID/MIDR nº 8, de 13 de outubro de 2026, que estabelece diretrizes e procedimentos para a avaliação de...",
-   "link": "https://cbic.org.br/portaria-estabelece-regras-para-atendimento-habitacional-a-familias-atingidas-por-desastres-no-mcmv/",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "21/10/2026"
+   "data": "22/10/2026"
   }
  },
  "mensais": {
