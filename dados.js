@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "23/10/2026 15:48",
+ "atualizado_em": "23/10/2026 20:41",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,14 +9,6 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
-  },
-  {
-   "titulo": "Conteúdo relevante",
-   "data": "23/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A sexta-feira que começou com caminhada e corrida ao ar livre, inaugurou a grade de conteúdo do Matercon Brasil. Arthur Igreja e Rogério Salume foram os responsáveis pelas palestras, que colocaram a tecnologia e a...",
-   "link": "http://www.revistaanamaco.com.br/conteudo-relevante-",
-   "aba": "geral"
   },
   {
    "titulo": "Vagas no varejo para o público feminino",
@@ -41,6 +33,22 @@ window.DADOS = {
    "resumo": "A aplicação da inteligência artificial e da visão computacional na segurança do trabalho permite que empresas industriais identifiquem comportamentos de risco em tempo real, antecipem situações que podem resultar em...",
    "link": "http://www.revistaanamaco.com.br/tecnologias-como-a-ia-revolucionam-a-seguranca-do-trabalho-nas-empresas-",
    "aba": "geral"
+  },
+  {
+   "titulo": "Atrações para todos os gostos",
+   "data": "23/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "Depois de ouvirem, atentamente, às palestras e ganharem mais conhecimento, os participantes do Matercon Brasil puderam aproveitar a tarde livre. Forró, piseiro, arrocha, trio elétrico, sol, piscina e diversão deram o...",
+   "link": "http://www.revistaanamaco.com.br/atracoes-para-todos-os-gostos",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "16º Roadshow COIC debate como infraestrutura e indústria ampliam oportunidades para a construção no Centro-Oeste",
+   "data": "23/10/2026",
+   "fonte": "CBIC",
+   "resumo": "A infraestrutura logística e os projetos industriais em implantação no Centro-Oeste ampliam as oportunidades para as empresas de construção da região. Esse cenário será discutido no 16º Roadshow da Comissão de Obras...",
+   "link": "https://cbic.org.br/16o-roadshow-coic-debate-como-infraestrutura-e-industria-ampliam-oportunidades-para-a-construcao-no-centro-oeste/",
+   "aba": "demanda"
   },
   {
    "titulo": "Arauco forma 2ª turma de motoristas no Mato Grosso do Sul com maioria feminina",
@@ -75,6 +83,30 @@ window.DADOS = {
    "aba": "geral"
   },
   {
+   "titulo": "CMA da CBIC debate soluções baseadas na natureza e oportunidades para a construção",
+   "data": "22/10/2026",
+   "fonte": "CBIC",
+   "resumo": "A adoção de soluções baseadas na natureza (SbN) no planejamento urbano e nos empreendimentos da construção civil esteve no centro das discussões da reunião da Comissão de Meio Ambiente e Sustentabilidade (CMA) da...",
+   "link": "https://cbic.org.br/cma-da-cbic-debate-solucoes-baseadas-na-natureza-e-oportunidades-para-a-construcao/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "CII debate financiamento habitacional, Reforma Tributária e perspectivas do mercado imobiliário",
+   "data": "22/10/2026",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) realizou, nesta quinta-feira (22), em São Paulo, a Rodada de Negócios do Mercado Imobiliário, com representantes do setor para discutir o cenário político e...",
+   "link": "https://cbic.org.br/cii-debate-financiamento-habitacional-reforma-tributaria-e-perspectivas-do-mercado-imobiliario/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "CBIC debate inflação, crédito imobiliário e os impactos para a construção em 2027",
+   "data": "22/10/2026",
+   "fonte": "CBIC",
+   "resumo": "Para debater o cenário econômico e seus impactos sobre o setor da construção, a Câmara Brasileira da Indústria da Construção (CBIC) promoveu, nesta quarta-feira (21), a live “Economia e construção: perspectivas para...",
+   "link": "https://cbic.org.br/cbic-debate-inflacao-credito-imobiliario-e-os-impactos-para-a-construcao-em-2027/",
+   "aba": "custos"
+  },
+  {
    "titulo": "Henkel adiciona à frota três novas carretas abastecidas com biometano",
    "data": "21/10/2026",
    "fonte": "Anamaco",
@@ -97,22 +129,6 @@ window.DADOS = {
    "resumo": "A Obramax inaugurou, em 20 de outubro, uma loja em Aparecida de Goiânia (GO). A primeira unidade da marca no Estado e segunda no Centro-Oeste recebeu investimento de R$140 milhões e reforça o avanço da empresa em...",
    "link": "http://www.revistaanamaco.com.br/com-aporte-de-r-140-milhoes-obramax-chega-a-aparecida-de-goiania-go",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Condições atuais da indústria e da economia caem ao pior nivel em seis anos",
-   "data": "21/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "As condições atuais da indústria e da economia chegaram ao pior patamar em mais de seis anos. De acordo com o Índice de Confiança do Empresário Industrial, divulgado pela CNI, o indicador que compara o momento vivido...",
-   "link": "http://www.revistaanamaco.com.br/condicoes-atuais-da-industria-e-da-economia-caem-ao-pior-nivel-em-seis-anos",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Associadas da ABRAMAT marcam presença na Construlev 2026",
-   "data": "19/10/2026",
-   "fonte": "ABRAMAT",
-   "resumo": "Promovida pela NürnbergMesse em parceria com a Associação Brasileira da Construção Leve e Sustentável (ABCLS), a Construlev, realizada entre os dias 14 e 16 de outubro, reuniu representantes da cadeia da construção...",
-   "link": "https://abramat.org.br/associadas-da-abramat-marcam-presenca-na-construlev-2026/",
-   "aba": "geral"
   }
  ],
  "diarios": {
