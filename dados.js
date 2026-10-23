@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "23/10/2026 10:58",
+ "atualizado_em": "23/10/2026 15:48",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -11,6 +11,22 @@ window.DADOS = {
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
+   "titulo": "Conteúdo relevante",
+   "data": "23/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A sexta-feira que começou com caminhada e corrida ao ar livre, inaugurou a grade de conteúdo do Matercon Brasil. Arthur Igreja e Rogério Salume foram os responsáveis pelas palestras, que colocaram a tecnologia e a...",
+   "link": "http://www.revistaanamaco.com.br/conteudo-relevante-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Vagas no varejo para o público feminino",
+   "data": "23/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "De acordo com a pesquisa realizada pela CNDL e pelo SPC Brasil, em parceria com a OfferWise, das 129,6 mil vagas estimadas para o fim deste ano, a opção declarada por mão de obra feminina equivale a cerca de 42,6 mil...",
+   "link": "http://www.revistaanamaco.com.br/vagas-no-varejo-para-o-publico-feminino-",
+   "aba": "demanda"
+  },
+  {
    "titulo": "Consumidor deve buscar mais descontos e promoções na Black Friday de 2026",
    "data": "23/10/2026",
    "fonte": "Anamaco",
@@ -19,28 +35,12 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "O Matercon começou com a energia lá em cima",
-   "data": "23/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O primeiro dia do Matercon Brasil foi marcado por reencontros, com os participantes vindos de todos os cantos do País. A abertura com as boas-vindas deu o pontapé para dias de conhecimento e diversão. E a animação da...",
-   "link": "http://www.revistaanamaco.com.br/o-matercon-comecou-com-a-energia-la-em-cima--",
-   "aba": "insumos"
-  },
-  {
    "titulo": "Tecnologias, como a IA, revolucionam a segurança do trabalho nas empresas",
    "data": "23/10/2026",
    "fonte": "Anamaco",
    "resumo": "A aplicação da inteligência artificial e da visão computacional na segurança do trabalho permite que empresas industriais identifiquem comportamentos de risco em tempo real, antecipem situações que podem resultar em...",
    "link": "http://www.revistaanamaco.com.br/tecnologias-como-a-ia-revolucionam-a-seguranca-do-trabalho-nas-empresas-",
    "aba": "geral"
-  },
-  {
-   "titulo": "Allos (ALOS3) anuncia acordo para vender participações em sete shoppings a fundo imobiliário; veja quais",
-   "data": "23/10/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "A Allos (ALOS3) anunciou, na manhã desta sexta-feira (23), que firmou compromisso para vender participações em shopping centers do seu portfólio para o fundo imobiliário Kinea Allos Malls (KAMl11). Segundo fato...",
-   "link": "https://www.moneytimes.com.br/allos-alos3-anuncia-acordo-para-vender-participacoes-em-sete-shoppings-a-fundo-imobiliario-veja-quais-igdl/",
-   "aba": "demanda"
   },
   {
    "titulo": "Arauco forma 2ª turma de motoristas no Mato Grosso do Sul com maioria feminina",
@@ -75,46 +75,6 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Vietnã Supera China Como Principal Fonte de Importações de Aço do Brasil",
-   "data": "22/10/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. De 266 mil toneladas de produtos siderúrgicos planos adquiridos, 176 mil vieram do Vietnã O post Vietnã Supera China Como Principal Fonte de...",
-   "link": "https://forbes.com.br/forbes-money/2026/10/vietna-supera-china-como-principal-fonte-de-importacoes-de-aco-do-brasil/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Cury (CURY3) Prioriza Dividendos em Detrimento de Crescimento e Não Vê Ruptura do MCMV com Eventual Troca de Governo",
-   "data": "22/10/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Com dividendos na casa dos 13%, construtora adota postura cautelosa para o crescimento e adapta processos após rigor da Caixa no crédito O post Cury...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/cury-estrategia-dividendos-mcmv/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "CMA da CBIC debate soluções baseadas na natureza e oportunidades para a construção",
-   "data": "22/10/2026",
-   "fonte": "CBIC",
-   "resumo": "A adoção de soluções baseadas na natureza (SbN) no planejamento urbano e nos empreendimentos da construção civil esteve no centro das discussões da reunião da Comissão de Meio Ambiente e Sustentabilidade (CMA) da...",
-   "link": "https://cbic.org.br/cma-da-cbic-debate-solucoes-baseadas-na-natureza-e-oportunidades-para-a-construcao/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "CII debate financiamento habitacional, Reforma Tributária e perspectivas do mercado imobiliário",
-   "data": "22/10/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) realizou, nesta quinta-feira (22), em São Paulo, a Rodada de Negócios do Mercado Imobiliário, com representantes do setor para discutir o cenário político e...",
-   "link": "https://cbic.org.br/cii-debate-financiamento-habitacional-reforma-tributaria-e-perspectivas-do-mercado-imobiliario/",
-   "aba": "custos"
-  },
-  {
-   "titulo": "CBIC debate inflação, crédito imobiliário e os impactos para a construção em 2027",
-   "data": "22/10/2026",
-   "fonte": "CBIC",
-   "resumo": "Para debater o cenário econômico e seus impactos sobre o setor da construção, a Câmara Brasileira da Indústria da Construção (CBIC) promoveu, nesta quarta-feira (21), a live “Economia e construção: perspectivas para...",
-   "link": "https://cbic.org.br/cbic-debate-inflacao-credito-imobiliario-e-os-impactos-para-a-construcao-em-2027/",
-   "aba": "custos"
-  },
-  {
    "titulo": "Henkel adiciona à frota três novas carretas abastecidas com biometano",
    "data": "21/10/2026",
    "fonte": "Anamaco",
@@ -128,6 +88,30 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "Unilin do Brasil, por meio da marca Quick-Step, fortalece sua parceria com a Construide, organização não governamental que, desde 2017, utiliza a construção civil como ferramenta de transformação social",
    "link": "http://www.revistaanamaco.com.br/unilin-do-brasil-apoia-projetos-de-moradia-para-familias-em-vulnerabilidade-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Com aporte de R$ 140 milhões, Obramax chega a Aparecida de Goiânia (GO)",
+   "data": "21/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Obramax inaugurou, em 20 de outubro, uma loja em Aparecida de Goiânia (GO). A primeira unidade da marca no Estado e segunda no Centro-Oeste recebeu investimento de R$140 milhões e reforça o avanço da empresa em...",
+   "link": "http://www.revistaanamaco.com.br/com-aporte-de-r-140-milhoes-obramax-chega-a-aparecida-de-goiania-go",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Condições atuais da indústria e da economia caem ao pior nivel em seis anos",
+   "data": "21/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "As condições atuais da indústria e da economia chegaram ao pior patamar em mais de seis anos. De acordo com o Índice de Confiança do Empresário Industrial, divulgado pela CNI, o indicador que compara o momento vivido...",
+   "link": "http://www.revistaanamaco.com.br/condicoes-atuais-da-industria-e-da-economia-caem-ao-pior-nivel-em-seis-anos",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Associadas da ABRAMAT marcam presença na Construlev 2026",
+   "data": "19/10/2026",
+   "fonte": "ABRAMAT",
+   "resumo": "Promovida pela NürnbergMesse em parceria com a Associação Brasileira da Construção Leve e Sustentável (ABCLS), a Construlev, realizada entre os dias 14 e 16 de outubro, reuniu representantes da cadeia da construção...",
+   "link": "https://abramat.org.br/associadas-da-abramat-marcam-presenca-na-construlev-2026/",
    "aba": "geral"
   }
  ],
