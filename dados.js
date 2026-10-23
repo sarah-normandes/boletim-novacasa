@@ -1,22 +1,46 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "22/10/2026 20:47",
+ "atualizado_em": "23/10/2026 10:58",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "22/10/2026",
+   "data": "23/10/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
-   "titulo": "Com o tema, a Nova Transformação do Varejo, 33º Matercon Brasil começa hoje",
-   "data": "22/10/2026",
+   "titulo": "Consumidor deve buscar mais descontos e promoções na Black Friday de 2026",
+   "data": "23/10/2026",
    "fonte": "Anamaco",
-   "resumo": "Quatro dias de conhecimento, negócios e celebração no litoral baiano. Pessoas, Reforma Tributária e Tecnologia moldando o futuro do varejo de matcon. É o que Acomac-BA está preparando para os participantes da 33ª...",
-   "link": "http://www.revistaanamaco.com.br/com-o-tema-a-nova-transformacao-do-varejo-33-matercon-brasil-comeca-hoje",
+   "resumo": "A principal motivação para as compras na Black Friday deste ano serão os descontos e as promoções, segundo a NielsenIQ. Levantamento produzido pela empresa revelou que 81,8% dos shoppers que fizeram compras on-line...",
+   "link": "http://www.revistaanamaco.com.br/consumidor-deve-buscar-mais-descontos-e-promocoes-na-black-friday-de-2026",
+   "aba": "geral"
+  },
+  {
+   "titulo": "O Matercon começou com a energia lá em cima",
+   "data": "23/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "O primeiro dia do Matercon Brasil foi marcado por reencontros, com os participantes vindos de todos os cantos do País. A abertura com as boas-vindas deu o pontapé para dias de conhecimento e diversão. E a animação da...",
+   "link": "http://www.revistaanamaco.com.br/o-matercon-comecou-com-a-energia-la-em-cima--",
    "aba": "insumos"
+  },
+  {
+   "titulo": "Tecnologias, como a IA, revolucionam a segurança do trabalho nas empresas",
+   "data": "23/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A aplicação da inteligência artificial e da visão computacional na segurança do trabalho permite que empresas industriais identifiquem comportamentos de risco em tempo real, antecipem situações que podem resultar em...",
+   "link": "http://www.revistaanamaco.com.br/tecnologias-como-a-ia-revolucionam-a-seguranca-do-trabalho-nas-empresas-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Allos (ALOS3) anuncia acordo para vender participações em sete shoppings a fundo imobiliário; veja quais",
+   "data": "23/10/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "A Allos (ALOS3) anunciou, na manhã desta sexta-feira (23), que firmou compromisso para vender participações em shopping centers do seu portfólio para o fundo imobiliário Kinea Allos Malls (KAMl11). Segundo fato...",
+   "link": "https://www.moneytimes.com.br/allos-alos3-anuncia-acordo-para-vender-participacoes-em-sete-shoppings-a-fundo-imobiliario-veja-quais-igdl/",
+   "aba": "demanda"
   },
   {
    "titulo": "Arauco forma 2ª turma de motoristas no Mato Grosso do Sul com maioria feminina",
@@ -67,14 +91,6 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "O Megaprojeto Imobiliário de R$ 1 Trilhão do Governo do Egito",
-   "data": "22/10/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Anunciado no Egypt Forum 2026, o megaprojeto imobiliário inclui polos em Alexandria, Abu Qir e um destino turístico na Costa Norte do país O post O...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/acordo-imobiliario-egito-tmg/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "CMA da CBIC debate soluções baseadas na natureza e oportunidades para a construção",
    "data": "22/10/2026",
    "fonte": "CBIC",
@@ -113,28 +129,12 @@ window.DADOS = {
    "resumo": "Unilin do Brasil, por meio da marca Quick-Step, fortalece sua parceria com a Construide, organização não governamental que, desde 2017, utiliza a construção civil como ferramenta de transformação social",
    "link": "http://www.revistaanamaco.com.br/unilin-do-brasil-apoia-projetos-de-moradia-para-familias-em-vulnerabilidade-",
    "aba": "geral"
-  },
-  {
-   "titulo": "Com aporte de R$ 140 milhões, Obramax chega a Aparecida de Goiânia (GO)",
-   "data": "21/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Obramax inaugurou, em 20 de outubro, uma loja em Aparecida de Goiânia (GO). A primeira unidade da marca no Estado e segunda no Centro-Oeste recebeu investimento de R$140 milhões e reforça o avanço da empresa em...",
-   "link": "http://www.revistaanamaco.com.br/com-aporte-de-r-140-milhoes-obramax-chega-a-aparecida-de-goiania-go",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Condições atuais da indústria e da economia caem ao pior nivel em seis anos",
-   "data": "21/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "As condições atuais da indústria e da economia chegaram ao pior patamar em mais de seis anos. De acordo com o Índice de Confiança do Empresário Industrial, divulgado pela CNI, o indicador que compara o momento vivido...",
-   "link": "http://www.revistaanamaco.com.br/condicoes-atuais-da-industria-e-da-economia-caem-ao-pior-nivel-em-seis-anos",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "22/10/2026"
+   "data": "23/10/2026"
   }
  },
  "mensais": {
