@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "24/10/2026 17:01",
+ "atualizado_em": "24/10/2026 19:48",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Esporte, sol, piscina e muita música",
+   "data": "24/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "Depois do almoço, hora de relaxar? Não! No Matercon Brasil, as atividades não param. O sábado contou com campeonato de beach tennis, trio elétrico e uma tarde agitada com muita música na piscina",
+   "link": "http://www.revistaanamaco.com.br/esporte-sol-piscina-e-muita-musica",
+   "aba": "geral"
   },
   {
    "titulo": "Abilux cria espaço em seu site para estimular o emprego na indústria de iluminação",
@@ -121,14 +129,6 @@ window.DADOS = {
    "resumo": "Para debater o cenário econômico e seus impactos sobre o setor da construção, a Câmara Brasileira da Indústria da Construção (CBIC) promoveu, nesta quarta-feira (21), a live “Economia e construção: perspectivas para...",
    "link": "https://cbic.org.br/cbic-debate-inflacao-credito-imobiliario-e-os-impactos-para-a-construcao-em-2027/",
    "aba": "custos"
-  },
-  {
-   "titulo": "Henkel adiciona à frota três novas carretas abastecidas com biometano",
-   "data": "21/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Henkel, dona das marcas Cascola, Loctite, Pritt, Bonderite e Schwarzkopf Professional, adicionou três carretas abastecidas com biometano na frota logística, somando 75 toneladas diárias de entrega sem emissão de...",
-   "link": "http://www.revistaanamaco.com.br/henkel-adiciona-a-frota-tres-novas-carretas-abastecidas-com-biometano-",
-   "aba": "geral"
   }
  ],
  "diarios": {
