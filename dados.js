@@ -1,14 +1,30 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "23/10/2026 20:41",
+ "atualizado_em": "24/10/2026 10:01",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "23/10/2026",
+   "data": "24/10/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Com novidades, 4ª temporada do reality show Pedreiro Top Brasil estreia hoje",
+   "data": "24/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Pedreiro Top Brasil, reality show dedicado a valorizar os talentos da construção civil no País, chega à sua quarta temporada com novidades e grandes marcos. Promovido pela Quartzolit, marca do Grupo Saint-Gobain, o...",
+   "link": "http://www.revistaanamaco.com.br/com-novidades-4-temporada-do-reality-show-pedreiro-top-brasil-estreia-hoje-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Monet Bate Recorde e Obra É Vendida por R$ 282 Milhões na França",
+   "data": "24/10/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Pintura inédita ao público foi arrematada por 50 milhões de euros após cerca de 45 minutos de disputa em leilão da Sotheby's, em Paris O post Monet...",
+   "link": "https://forbes.com.br/forbes-life/2026/10/monet-bate-recorde-e-obra-e-vendida-por-r-282-milhoes-na-franca/",
+   "aba": "demanda"
   },
   {
    "titulo": "Vagas no varejo para o público feminino",
@@ -33,14 +49,6 @@ window.DADOS = {
    "resumo": "A aplicação da inteligência artificial e da visão computacional na segurança do trabalho permite que empresas industriais identifiquem comportamentos de risco em tempo real, antecipem situações que podem resultar em...",
    "link": "http://www.revistaanamaco.com.br/tecnologias-como-a-ia-revolucionam-a-seguranca-do-trabalho-nas-empresas-",
    "aba": "geral"
-  },
-  {
-   "titulo": "Atrações para todos os gostos",
-   "data": "23/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "Depois de ouvirem, atentamente, às palestras e ganharem mais conhecimento, os participantes do Matercon Brasil puderam aproveitar a tarde livre. Forró, piseiro, arrocha, trio elétrico, sol, piscina e diversão deram o...",
-   "link": "http://www.revistaanamaco.com.br/atracoes-para-todos-os-gostos",
-   "aba": "insumos"
   },
   {
    "titulo": "16º Roadshow COIC debate como infraestrutura e indústria ampliam oportunidades para a construção no Centro-Oeste",
@@ -121,20 +129,12 @@ window.DADOS = {
    "resumo": "Unilin do Brasil, por meio da marca Quick-Step, fortalece sua parceria com a Construide, organização não governamental que, desde 2017, utiliza a construção civil como ferramenta de transformação social",
    "link": "http://www.revistaanamaco.com.br/unilin-do-brasil-apoia-projetos-de-moradia-para-familias-em-vulnerabilidade-",
    "aba": "geral"
-  },
-  {
-   "titulo": "Com aporte de R$ 140 milhões, Obramax chega a Aparecida de Goiânia (GO)",
-   "data": "21/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Obramax inaugurou, em 20 de outubro, uma loja em Aparecida de Goiânia (GO). A primeira unidade da marca no Estado e segunda no Centro-Oeste recebeu investimento de R$140 milhões e reforça o avanço da empresa em...",
-   "link": "http://www.revistaanamaco.com.br/com-aporte-de-r-140-milhoes-obramax-chega-a-aparecida-de-goiania-go",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "23/10/2026"
+   "data": "24/10/2026"
   }
  },
  "mensais": {
