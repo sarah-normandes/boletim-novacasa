@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "24/10/2026 10:01",
+ "atualizado_em": "24/10/2026 14:44",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Abilux cria espaço em seu site para estimular o emprego na indústria de iluminação",
+   "data": "24/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Abilux acaba de lançar em seu site a ferramenta “Vagas na Indústria”, um banco de currículos criado para aproximar profissionais em busca de oportunidades de trabalho e empresas do segmento de iluminação",
+   "link": "http://www.revistaanamaco.com.br/abilux-cria-espaco-em-seu-site-para-estimular-o-emprego-na-industria-de-iluminacao",
+   "aba": "insumos"
   },
   {
    "titulo": "Com novidades, 4ª temporada do reality show Pedreiro Top Brasil estreia hoje",
@@ -120,14 +128,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "A Henkel, dona das marcas Cascola, Loctite, Pritt, Bonderite e Schwarzkopf Professional, adicionou três carretas abastecidas com biometano na frota logística, somando 75 toneladas diárias de entrega sem emissão de...",
    "link": "http://www.revistaanamaco.com.br/henkel-adiciona-a-frota-tres-novas-carretas-abastecidas-com-biometano-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Unilin do Brasil apoia projetos de moradia para famílias em vulnerabilidade",
-   "data": "21/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "Unilin do Brasil, por meio da marca Quick-Step, fortalece sua parceria com a Construide, organização não governamental que, desde 2017, utiliza a construção civil como ferramenta de transformação social",
-   "link": "http://www.revistaanamaco.com.br/unilin-do-brasil-apoia-projetos-de-moradia-para-familias-em-vulnerabilidade-",
    "aba": "geral"
   }
  ],
