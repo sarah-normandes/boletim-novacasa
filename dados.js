@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "26/10/2026 12:40",
+ "atualizado_em": "26/10/2026 19:07",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Confiança do consumidor melhora",
+   "data": "26/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Índice de Confiança do Consumidor, calculado pelo FGV Ibre, avançou 0,5 ponto a média móvel trimestral, o índice recuou 1,2 ponto, para 84,5 pontos.\r\nO resultado reflete variações contrárias dos seus componentes....",
+   "link": "http://www.revistaanamaco.com.br/confianca-do-consumidor-melhora3",
+   "aba": "demanda"
   },
   {
    "titulo": "Schneider Electric registrou avanços em sustentabilidade no 3º trimestre de 2026",
@@ -27,12 +35,36 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "Fundos imobiliários desabam após vitória de Lula e disparada dos juros; veja o que esperar dos FIIs",
+   "titulo": "Magalu, Azzas, C&A: ações de varejo caem até 58% após reeleição de Lula",
    "data": "26/10/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "O IFIX, principal índice de fundos imobiliários (FIIs) da bolsa brasileira (B3), opera em forte queda nesta segunda-feira (26), em meio à disparada dos juros futuros após a reeleição do presidente Luiz Inácio Lula da...",
-   "link": "https://www.moneytimes.com.br/ifix-desaba-8-com-disparada-dos-juros-apos-vitoria-de-lula-veja-o-que-esperar-dos-fiis-igdl/",
+   "fonte": "InfoMoney",
+   "resumo": "O setor de varejo é particularmente sensível à alta dos juros The post Magalu, Azzas, C&A: ações de varejo caem até 58% após reeleição de Lula appeared first on InfoMoney .",
+   "link": "https://www.infomoney.com.br/mercados/mglu3-ceab3-azza3-acoes-queda-varejo-eleicao-lula-26102026/",
    "aba": "custos"
+  },
+  {
+   "titulo": "CBIC e Caixa discutem atualização do SINAPI após redução da jornada de trabalho e Reforma Tributária",
+   "data": "26/10/2026",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) e a equipe técnica do Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil (SINAPI), da Caixa Econômica Federal, discutiram, na quinta-feira (22),...",
+   "link": "https://cbic.org.br/cbic-e-caixa-discutem-atualizacao-do-sinapi-apos-reducao-da-jornada-de-trabalho-e-reforma-tributaria/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "CNI: Preocupação com juros altos na construção atinge o 2º maior nível da série histórica",
+   "data": "26/10/2026",
+   "fonte": "CBIC",
+   "resumo": "Quatro em cada 10 empresários da indústria da construção apontaram as taxas de juros elevadas como o principal problema enfrentad pelo setor no 3º trimestre de 2026. A proporção aumentou 3,8 pontos percentuais em...",
+   "link": "https://cbic.org.br/cni-preocupacao-com-juros-altos-na-construcao-atinge-o-2o-maior-nivel-da-serie-historica/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Protensão reduz espessura de lajes e acelera obra de residencial em Curitiba",
+   "data": "26/10/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "Maior produtividade no canteiro e melhor aproveitamento dos espaços foram alguns dos ganhos obtidos pela Construtora e Incorporadora Gongra com a adoção da tecnologia de O post Protensão reduz espessura de lajes e...",
+   "link": "https://revistaoe.com.br/protensao-reduz-espessura-lajes-acelera-obra-curitiba/",
+   "aba": "insumos"
   },
   {
    "titulo": "Santri cria IA integrada ao sistema de gestão para apoiar decisões no varejo de matcon",
@@ -96,38 +128,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "A aplicação da inteligência artificial e da visão computacional na segurança do trabalho permite que empresas industriais identifiquem comportamentos de risco em tempo real, antecipem situações que podem resultar em...",
    "link": "http://www.revistaanamaco.com.br/tecnologias-como-a-ia-revolucionam-a-seguranca-do-trabalho-nas-empresas-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "16º Roadshow COIC debate como infraestrutura e indústria ampliam oportunidades para a construção no Centro-Oeste",
-   "data": "23/10/2026",
-   "fonte": "CBIC",
-   "resumo": "A infraestrutura logística e os projetos industriais em implantação no Centro-Oeste ampliam as oportunidades para as empresas de construção da região. Esse cenário será discutido no 16º Roadshow da Comissão de Obras...",
-   "link": "https://cbic.org.br/16o-roadshow-coic-debate-como-infraestrutura-e-industria-ampliam-oportunidades-para-a-construcao-no-centro-oeste/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Arauco forma 2ª turma de motoristas no Mato Grosso do Sul com maioria feminina",
-   "data": "22/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Arauco celebrou a conclusão da segunda turma do seu Programa de Formação de Motoristas, capacitando mais 66 profissionais para a logística no Mato Grosso do Sul. A cerimônia de formatura registrou um marco com a...",
-   "link": "http://www.revistaanamaco.com.br/arauco-forma-2-turma-de-motoristas-no-mato-grosso-do-sul-com-maioria-feminina-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Indústrias processaram 3,3 milhões de toneladas de aço em 2025",
-   "data": "22/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "As empresas associadas à Abimetal-Sicetel foram responsáveis pela transformação de 3,3 milhões de toneladas de aço em 2025. O volume representa uma retração de 0,3% em relação ao ano anterior e corresponde a 15,5% do...",
-   "link": "http://www.revistaanamaco.com.br/industrias-processaram-33-milhoes-de-toneladas-de-aco-em-2025-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "CMA da CBIC debate soluções baseadas na natureza e oportunidades para a construção",
-   "data": "22/10/2026",
-   "fonte": "CBIC",
-   "resumo": "A adoção de soluções baseadas na natureza (SbN) no planejamento urbano e nos empreendimentos da construção civil esteve no centro das discussões da reunião da Comissão de Meio Ambiente e Sustentabilidade (CMA) da...",
-   "link": "https://cbic.org.br/cma-da-cbic-debate-solucoes-baseadas-na-natureza-e-oportunidades-para-a-construcao/",
    "aba": "geral"
   }
  ],
