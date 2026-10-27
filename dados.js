@@ -1,14 +1,46 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "26/10/2026 19:07",
+ "atualizado_em": "27/10/2026 12:03",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "26/10/2026",
+   "data": "27/10/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "INCC-M acelera em outubro",
+   "data": "27/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "O INCC-M, do FGV Ibre, registrou alta de 0,35% em outubro, acima dos 0,25% observados no mês anterior. A tendência de aumento nos custos é reforçada pela taxa acumulada em 12 meses, que atingiu 6,75%. Esse resultado...",
+   "link": "http://www.revistaanamaco.com.br/incc-m-acelera-em-outubro",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Sicflux submete sua sede à verificação de qualidade do ar e recebe selo da Abrava",
+   "data": "27/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Sicflux recebeu o Selo de Qualidade do Ar Interno 2026 para o ambiente da sua sede em Araquari (SC). A certificação faz parte de um programa da Abrava com a Brasindoor e a verificação do ambiente foi feita pela...",
+   "link": "http://www.revistaanamaco.com.br/sicflux-submete-sua-sede-a-verificacao-de-qualidade-do-ar-e-recebe-selo-da-abrava-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Aplicativo para corretores otimiza vendas no setor imobiliário",
+   "data": "27/10/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "A tecnologia tornou-se indispensável no mercado imobiliário, mas a fragmentação de ferramentas ainda é um dos maiores gargalos de produtividade da categoria, de acordo com O post Aplicativo para corretores otimiza...",
+   "link": "https://revistaoe.com.br/novo-app-mrv-para-corretores-otimiza-vendas/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Fundo imobiliário distribuirá R$ 2,75 por cota após economizar R$ 6,1 milhões com ITBI; veja data",
+   "data": "27/10/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "O fundo imobiliário Suno Log (SNLG11), que teve suas atividades encerradas no início de 2026, distribuirá R$ 2,75 por cota em amortização aos antigos cotistas, mostra fato relevante divulgado ao mercado. Segundo o...",
+   "link": "https://www.moneytimes.com.br/fundo-imobiliario-distribuira-r-275-por-cota-apos-economizar-r-61-milhoes-com-itbi-veja-data-igdl/",
+   "aba": "demanda"
   },
   {
    "titulo": "Confiança do consumidor melhora",
@@ -33,14 +65,6 @@ window.DADOS = {
    "resumo": "A Lorenzetti conquistou o primeiro lugar na categoria Manufatura do Prêmio TOTVS Brasil que Faz 2026, reconhecimento que destaca empresas que transformam seus negócios por meio da tecnologia e da inovação",
    "link": "http://www.revistaanamaco.com.br/lorenzetti-conquista-o-premio-totvs-brasil-que-faz-2026-na-categoria-manufatura-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Magalu, Azzas, C&A: ações de varejo caem até 58% após reeleição de Lula",
-   "data": "26/10/2026",
-   "fonte": "InfoMoney",
-   "resumo": "O setor de varejo é particularmente sensível à alta dos juros The post Magalu, Azzas, C&A: ações de varejo caem até 58% após reeleição de Lula appeared first on InfoMoney .",
-   "link": "https://www.infomoney.com.br/mercados/mglu3-ceab3-azza3-acoes-queda-varejo-eleicao-lula-26102026/",
-   "aba": "custos"
   },
   {
    "titulo": "CBIC e Caixa discutem atualização do SINAPI após redução da jornada de trabalho e Reforma Tributária",
@@ -105,36 +129,12 @@ window.DADOS = {
    "resumo": "O Pedreiro Top Brasil, reality show dedicado a valorizar os talentos da construção civil no País, chega à sua quarta temporada com novidades e grandes marcos. Promovido pela Quartzolit, marca do Grupo Saint-Gobain, o...",
    "link": "http://www.revistaanamaco.com.br/com-novidades-4-temporada-do-reality-show-pedreiro-top-brasil-estreia-hoje-",
    "aba": "geral"
-  },
-  {
-   "titulo": "Vagas no varejo para o público feminino",
-   "data": "23/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "De acordo com a pesquisa realizada pela CNDL e pelo SPC Brasil, em parceria com a OfferWise, das 129,6 mil vagas estimadas para o fim deste ano, a opção declarada por mão de obra feminina equivale a cerca de 42,6 mil...",
-   "link": "http://www.revistaanamaco.com.br/vagas-no-varejo-para-o-publico-feminino-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Consumidor deve buscar mais descontos e promoções na Black Friday de 2026",
-   "data": "23/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A principal motivação para as compras na Black Friday deste ano serão os descontos e as promoções, segundo a NielsenIQ. Levantamento produzido pela empresa revelou que 81,8% dos shoppers que fizeram compras on-line...",
-   "link": "http://www.revistaanamaco.com.br/consumidor-deve-buscar-mais-descontos-e-promocoes-na-black-friday-de-2026",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Tecnologias, como a IA, revolucionam a segurança do trabalho nas empresas",
-   "data": "23/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A aplicação da inteligência artificial e da visão computacional na segurança do trabalho permite que empresas industriais identifiquem comportamentos de risco em tempo real, antecipem situações que podem resultar em...",
-   "link": "http://www.revistaanamaco.com.br/tecnologias-como-a-ia-revolucionam-a-seguranca-do-trabalho-nas-empresas-",
-   "aba": "geral"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "26/10/2026"
+   "data": "27/10/2026"
   }
  },
  "mensais": {
