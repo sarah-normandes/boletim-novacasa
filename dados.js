@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "27/10/2026 12:03",
+ "atualizado_em": "27/10/2026 18:39",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Leve alta na construção",
+   "data": "27/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Índice de Confiança da Construção, do FGV Ibre, subiu 0,2 ponto em outubro, para 90,7 pontos.  Nesse contexto, o Índice da Situação Atual recuou 1,7 ponto, registrando 89,0 pontos, enquanto o Índice de Expectativas...",
+   "link": "http://www.revistaanamaco.com.br/leve-alta-na-construcao",
+   "aba": "demanda"
   },
   {
    "titulo": "INCC-M acelera em outubro",
@@ -27,6 +35,38 @@ window.DADOS = {
    "aba": "geral"
   },
   {
+   "titulo": "Encontro CBIC debate importância do FGTS e perspectivas econômicas para a construção civil no Centro-Oeste",
+   "data": "27/10/2026",
+   "fonte": "CBIC",
+   "resumo": "O papel do Fundo de Garantia do Tempo de Serviço (FGTS) no financiamento habitacional, os desafios econômicos da construção civil e as perspectivas para o mercado imobiliário foram os principais temas do Encontro...",
+   "link": "https://cbic.org.br/encontro-cbic-debate-importancia-do-fgts-e-perspectivas-economicas-para-a-construcao-civil-no-centro-oeste/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "CBIC divulga indicadores econômicos do setor da construção nesta quinta-feira (29)",
+   "data": "27/10/2026",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) promove, na próxima quinta-feira (29), às 10h, uma coletiva de imprensa online, pelo Youtube , para divulgar os indicadores econômicos mais recentes da construção...",
+   "link": "https://cbic.org.br/cbic-divulga-indicadores-economicos-do-setor-da-construcao-nesta-quinta-feira-29-as-10h/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Conselho Jurídico da CBIC reuniu especialistas em Goiânia para discutir mudanças legislativas e seus impactos sobre o setor da construção",
+   "data": "27/10/2026",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) realizou nesta segunda-feira (26), em Goiânia, a 46ª reunião do Conselho Jurídico (Conjur), com debates sobre temas jurídicos e legislativos de impacto para a...",
+   "link": "https://cbic.org.br/conselho-juridico-da-cbic-reuniu-especialistas-em-goiania-para-discutir-mudancas-legislativas-e-seus-impactos-sobre-o-setor-da-construcao/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Encontro CBIC no Centro-Oeste homenageia lideranças e destaca importância da construção para a economia brasileira",
+   "data": "27/10/2026",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) realizou, na manhã desta terça-feira (27), a solenidade oficial de abertura do Encontro CBIC de Incorporadores e Construtores 2026 – Centro-Oeste, no Centro de...",
+   "link": "https://cbic.org.br/encontro-cbic-no-centro-oeste-homenageia-liderancas-e-destaca-importancia-da-construcao-para-a-economia-brasileira/",
+   "aba": "demanda"
+  },
+  {
    "titulo": "Aplicativo para corretores otimiza vendas no setor imobiliário",
    "data": "27/10/2026",
    "fonte": "O Empreiteiro",
@@ -35,12 +75,12 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Fundo imobiliário distribuirá R$ 2,75 por cota após economizar R$ 6,1 milhões com ITBI; veja data",
+   "titulo": "União-PP declara apoio à reeleição de Alcolumbre para presidente do Senado",
    "data": "27/10/2026",
    "fonte": "MoneyTimes",
-   "resumo": "O fundo imobiliário Suno Log (SNLG11), que teve suas atividades encerradas no início de 2026, distribuirá R$ 2,75 por cota em amortização aos antigos cotistas, mostra fato relevante divulgado ao mercado. Segundo o...",
-   "link": "https://www.moneytimes.com.br/fundo-imobiliario-distribuira-r-275-por-cota-apos-economizar-r-61-milhoes-com-itbi-veja-data-igdl/",
-   "aba": "demanda"
+   "resumo": "A Federação União Progressista manifestou apoio nesta terça-feira (27) à reeleição de Davi Alcolumbre (União-AP) para presidente do Senado e do Congresso Nacional. A declaração ocorre em nota assinada pelos...",
+   "link": "https://www.moneytimes.com.br/uniao-pp-declara-apoio-a-reeleicao-de-alcolumbre-para-presidente-do-senado-gaep/",
+   "aba": "geral"
   },
   {
    "titulo": "Confiança do consumidor melhora",
@@ -67,22 +107,6 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "CBIC e Caixa discutem atualização do SINAPI após redução da jornada de trabalho e Reforma Tributária",
-   "data": "26/10/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) e a equipe técnica do Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil (SINAPI), da Caixa Econômica Federal, discutiram, na quinta-feira (22),...",
-   "link": "https://cbic.org.br/cbic-e-caixa-discutem-atualizacao-do-sinapi-apos-reducao-da-jornada-de-trabalho-e-reforma-tributaria/",
-   "aba": "custos"
-  },
-  {
-   "titulo": "CNI: Preocupação com juros altos na construção atinge o 2º maior nível da série histórica",
-   "data": "26/10/2026",
-   "fonte": "CBIC",
-   "resumo": "Quatro em cada 10 empresários da indústria da construção apontaram as taxas de juros elevadas como o principal problema enfrentad pelo setor no 3º trimestre de 2026. A proporção aumentou 3,8 pontos percentuais em...",
-   "link": "https://cbic.org.br/cni-preocupacao-com-juros-altos-na-construcao-atinge-o-2o-maior-nivel-da-serie-historica/",
-   "aba": "custos"
-  },
-  {
    "titulo": "Protensão reduz espessura de lajes e acelera obra de residencial em Curitiba",
    "data": "26/10/2026",
    "fonte": "O Empreiteiro",
@@ -105,30 +129,6 @@ window.DADOS = {
    "resumo": "O fluxo de visitantes no varejo físico brasileiro caiu 3,1% em setembro, na comparação com o mesmo mês do ano anterior, segundo o Índice de Intenção de Compra do Varejo da Seed Digital. O resultado reflete um...",
    "link": "http://www.revistaanamaco.com.br/chuvas-e-incerteza-eleitoral-frearam-o-varejo-fisico-em-setembro",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Banda Filhos de Jorge encerra o 33º Matercon Brasil em grande estilo",
-   "data": "24/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "Em mais um ano de sucesso, o Matercon chegou ao fim na noite deste sábado. Foram dias de aprendizado, reciclagem, encontros, relacionamentos, lazer, esporte, música e, no meio disso tudo, descanso em um lugar...",
-   "link": "http://www.revistaanamaco.com.br/banda-filhos-de-jorge-encerra-o-33-matercon-brasil-em-grande-estilo",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Abilux cria espaço em seu site para estimular o emprego na indústria de iluminação",
-   "data": "24/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Abilux acaba de lançar em seu site a ferramenta “Vagas na Indústria”, um banco de currículos criado para aproximar profissionais em busca de oportunidades de trabalho e empresas do segmento de iluminação",
-   "link": "http://www.revistaanamaco.com.br/abilux-cria-espaco-em-seu-site-para-estimular-o-emprego-na-industria-de-iluminacao",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Com novidades, 4ª temporada do reality show Pedreiro Top Brasil estreia hoje",
-   "data": "24/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Pedreiro Top Brasil, reality show dedicado a valorizar os talentos da construção civil no País, chega à sua quarta temporada com novidades e grandes marcos. Promovido pela Quartzolit, marca do Grupo Saint-Gobain, o...",
-   "link": "http://www.revistaanamaco.com.br/com-novidades-4-temporada-do-reality-show-pedreiro-top-brasil-estreia-hoje-",
-   "aba": "geral"
   }
  ],
  "diarios": {
