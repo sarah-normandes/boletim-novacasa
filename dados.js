@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "28/10/2026 12:38",
+ "atualizado_em": "28/10/2026 19:03",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Tintas Eucatex elege quatro Cores para 2027 para celebrar a pluralidade do Brasil",
+   "data": "28/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Tintas Eucatex anuncia o lançamento de quatro Cores do Ano para 2027: Sol Escaldante, Olímpico, Moringa e Ilha de Marajó. É a primeira vez que a empresa apresenta quatro opções simultâneas ao mercado, após ter...",
+   "link": "http://www.revistaanamaco.com.br/tintas-eucatex-elege-quatro-cores-para-2027-para-celebrar-a-pluralidade-do-brasil-",
+   "aba": "insumos"
   },
   {
    "titulo": "Prysmian conquista prêmio da Neoenergia por evolução no ciclo 2025/2026",
@@ -40,6 +48,22 @@ window.DADOS = {
    "fonte": "Forbes",
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Multiplan dá a largada do setor na temporada de balanços; veja todas as datas de divulgação de incorporadoras, empresas de properties e...",
    "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/calendario-balancos-3t26-setor-imobiliario/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "CPRT avalia efeitos da redução da jornada de trabalho sobre custos e habitação",
+   "data": "28/10/2026",
+   "fonte": "CBIC",
+   "resumo": "A redução da jornada de trabalho de 44 para 40 horas semanais pode representar um custo adicional de quase R$ 14 bilhões para a construção civil, considerando a contratação de trabalhadores para recompor as horas...",
+   "link": "https://cbic.org.br/cprt-avalia-efeitos-da-reducao-da-jornada-de-trabalho-sobre-custos-e-habitacao/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Escavações e taludes na construção civil: segurança depende de planejamento e controle",
+   "data": "28/10/2026",
+   "fonte": "CBIC",
+   "resumo": "A estabilidade do terreno pode mudar ao longo de uma obra e exige atenção constante das equipes. Em serviços de escavação e execução de taludes, fatores como chuvas, presença de água, vibrações, erosão e cargas...",
+   "link": "https://cbic.org.br/escavacoes-e-taludes-na-construcao-civil-seguranca-depende-de-planejamento-e-controle/",
    "aba": "demanda"
   },
   {
@@ -83,22 +107,6 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Conselho Jurídico da CBIC reuniu especialistas em Goiânia para discutir mudanças legislativas e seus impactos sobre o setor da construção",
-   "data": "27/10/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) realizou nesta segunda-feira (26), em Goiânia, a 46ª reunião do Conselho Jurídico (Conjur), com debates sobre temas jurídicos e legislativos de impacto para a...",
-   "link": "https://cbic.org.br/conselho-juridico-da-cbic-reuniu-especialistas-em-goiania-para-discutir-mudancas-legislativas-e-seus-impactos-sobre-o-setor-da-construcao/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Encontro CBIC no Centro-Oeste homenageia lideranças e destaca importância da construção para a economia brasileira",
-   "data": "27/10/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) realizou, na manhã desta terça-feira (27), a solenidade oficial de abertura do Encontro CBIC de Incorporadores e Construtores 2026 – Centro-Oeste, no Centro de...",
-   "link": "https://cbic.org.br/encontro-cbic-no-centro-oeste-homenageia-liderancas-e-destaca-importancia-da-construcao-para-a-economia-brasileira/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "Aplicativo para corretores otimiza vendas no setor imobiliário",
    "data": "27/10/2026",
    "fonte": "O Empreiteiro",
@@ -121,14 +129,6 @@ window.DADOS = {
    "resumo": "A Schneider Electric anuncia avanços sólidos em seus compromissos de sustentabilidade no terceiro trimestre de 2026. De acordo com os dados apresentados, a companhia evoluiu em suas ambições nos quatro pilares...",
    "link": "http://www.revistaanamaco.com.br/schneider-electric-registrou-avancos-em-sustentabilidade-no-3-trimestre-de-2026-",
    "aba": "geral"
-  },
-  {
-   "titulo": "Lorenzetti conquista o Prêmio TOTVS Brasil que Faz 2026 na categoria Manufatura",
-   "data": "26/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Lorenzetti conquistou o primeiro lugar na categoria Manufatura do Prêmio TOTVS Brasil que Faz 2026, reconhecimento que destaca empresas que transformam seus negócios por meio da tecnologia e da inovação",
-   "link": "http://www.revistaanamaco.com.br/lorenzetti-conquista-o-premio-totvs-brasil-que-faz-2026-na-categoria-manufatura-",
-   "aba": "insumos"
   }
  ],
  "diarios": {
