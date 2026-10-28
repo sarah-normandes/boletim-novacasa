@@ -1,14 +1,46 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "27/10/2026 18:39",
+ "atualizado_em": "28/10/2026 12:38",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "27/10/2026",
+   "data": "28/10/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Prysmian conquista prêmio da Neoenergia por evolução no ciclo 2025/2026",
+   "data": "28/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Prysmian recebeu prêmio concedido a fornecedores pela Neoenergia na categoria Evolução, que reconhece o parceiro da concessionária que apresentou o maior crescimento e desenvolvimento ao longo do ciclo de avaliação...",
+   "link": "http://www.revistaanamaco.com.br/prysmian-conquista-premio-da-neoenergia-por-evolucao-no-ciclo-2025-2026-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Enare firma o associativismo como motor de eficiência e rentabilidade no matcon",
+   "data": "28/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Febramat realizou, entre os dias 07 e 09 de outubro, a 31ª edição do Encontro Nacional de Redes em Poços de Caldas (MG). Tendo a Rede Clube da Casa como anfitriã, o evento teve como tema “Lucratividade em Rede:...",
+   "link": "http://www.revistaanamaco.com.br/enare-firma-o-associativismo-como-motor-de-eficiencia-e-rentabilidade-no-matcon-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Empresários industriais têm maior insatisfação com o lucro desde a pandemia",
+   "data": "28/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A insatisfação dos empresários industriais com a lucratividade dos próprios negócios atingiu o maior patamar desde a pandemia, revela a Sondagem Industrial, divulgada pela CNI. O índice de satisfação com a margem de...",
+   "link": "http://www.revistaanamaco.com.br/empresarios-industriais-tem-maior-insatisfacao-com-o-lucro-desde-a-pandemia",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Resultados do 3T26 Setor Imobiliário Começam Nesta Semana; Veja Calendário",
+   "data": "28/10/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Multiplan dá a largada do setor na temporada de balanços; veja todas as datas de divulgação de incorporadoras, empresas de properties e...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/calendario-balancos-3t26-setor-imobiliario/",
+   "aba": "demanda"
   },
   {
    "titulo": "Leve alta na construção",
@@ -75,14 +107,6 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "União-PP declara apoio à reeleição de Alcolumbre para presidente do Senado",
-   "data": "27/10/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "A Federação União Progressista manifestou apoio nesta terça-feira (27) à reeleição de Davi Alcolumbre (União-AP) para presidente do Senado e do Congresso Nacional. A declaração ocorre em nota assinada pelos...",
-   "link": "https://www.moneytimes.com.br/uniao-pp-declara-apoio-a-reeleicao-de-alcolumbre-para-presidente-do-senado-gaep/",
-   "aba": "geral"
-  },
-  {
    "titulo": "Confiança do consumidor melhora",
    "data": "26/10/2026",
    "fonte": "Anamaco",
@@ -105,36 +129,12 @@ window.DADOS = {
    "resumo": "A Lorenzetti conquistou o primeiro lugar na categoria Manufatura do Prêmio TOTVS Brasil que Faz 2026, reconhecimento que destaca empresas que transformam seus negócios por meio da tecnologia e da inovação",
    "link": "http://www.revistaanamaco.com.br/lorenzetti-conquista-o-premio-totvs-brasil-que-faz-2026-na-categoria-manufatura-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Protensão reduz espessura de lajes e acelera obra de residencial em Curitiba",
-   "data": "26/10/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "Maior produtividade no canteiro e melhor aproveitamento dos espaços foram alguns dos ganhos obtidos pela Construtora e Incorporadora Gongra com a adoção da tecnologia de O post Protensão reduz espessura de lajes e...",
-   "link": "https://revistaoe.com.br/protensao-reduz-espessura-lajes-acelera-obra-curitiba/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Santri cria IA integrada ao sistema de gestão para apoiar decisões no varejo de matcon",
-   "data": "25/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Inteligência Artificial começa a mudar a forma como gestores do varejo de matcon acompanham suas operações. Atenta a esse movimento, a Santri desenvolveu duas soluções de IA integradas ao seu sistema de gestão: o...",
-   "link": "http://www.revistaanamaco.com.br/santri-cria-ia-integrada-ao-sistema-de-gestao-para-apoiar-decisoes-no-varejo-de-matcon-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Chuvas e incerteza eleitoral frearam o varejo físico em setembro",
-   "data": "25/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O fluxo de visitantes no varejo físico brasileiro caiu 3,1% em setembro, na comparação com o mesmo mês do ano anterior, segundo o Índice de Intenção de Compra do Varejo da Seed Digital. O resultado reflete um...",
-   "link": "http://www.revistaanamaco.com.br/chuvas-e-incerteza-eleitoral-frearam-o-varejo-fisico-em-setembro",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "27/10/2026"
+   "data": "28/10/2026"
   }
  },
  "mensais": {
