@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "29/10/2026 12:45",
+ "atualizado_em": "29/10/2026 19:14",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Menegotti apoia projetos do Hospital São José, que ampliam cuidado com idosos",
+   "data": "29/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Hospital São José desenvolve duas iniciativas voltadas ao público idoso: o Mais que Cura, direcionado ao cuidado oncológico, e o Reabilitação 60+, que busca favorecer a recuperação funcional e a autonomia dos...",
+   "link": "http://www.revistaanamaco.com.br/menegotti-apoia-projetos-do-hospital-sao-jose-que-ampliam-cuidado-com-idosos-",
+   "aba": "geral"
   },
   {
    "titulo": "Mafe Costa é a nova atleta do Squad Tigre em novo ciclo rumo a Los Angeles",
@@ -43,11 +51,35 @@ window.DADOS = {
    "aba": "geral"
   },
   {
+   "titulo": "Como Singapura Transformou a Habitação Sustentável em um Modelo de Negócios Rentável",
+   "data": "29/10/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Modelos internacionais e certificações energéticas mostram como a construção focada no bem-estar reduz custos operacionais e valoriza os...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/singapura-geracao-valor-mercado-imobiliario/",
+   "aba": "custos"
+  },
+  {
    "titulo": "Fundos Imobiliários Têm “Desordem” com Classificação Atual, Diz LAREAL, Que Propõe Nova Metodologia",
    "data": "29/10/2026",
    "fonte": "Forbes",
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Régua única mudaria o rótulo de 4 a cada 10 dos FIIs mais líquidos da indústria; medida já tem apoio de grandes gestoras associadas à instituição O...",
    "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/nova-classificacao-fundos-imobiliarios-lareal/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "CRS debate valorização dos trabalhadores e ações de responsabilidade social na construção em reunião",
+   "data": "29/10/2026",
+   "fonte": "CBIC",
+   "resumo": "A valorização dos trabalhadores, a inclusão de mulheres e a ampliação das práticas de responsabilidade social nas empresas estiveram entre os temas da 5ª Reunião Ordinária da Comissão de Responsabilidade Social (CRS)...",
+   "link": "https://cbic.org.br/crs-debate-valorizacao-dos-trabalhadores-e-acoes-de-responsabilidade-social-na-construcao-em-reuniao/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Infraestrutura lidera geração de empregos na construção e registra melhor resultado da série histórica, aponta CBIC",
+   "data": "29/10/2026",
+   "fonte": "CBIC",
+   "resumo": "As obras de infraestrutura lideraram a geração de empregos formais na construção civil brasileira nos primeiros oito meses de 2026, com a criação de 79.065 novas vagas, o melhor resultado para o período desde o...",
+   "link": "https://cbic.org.br/infraestrutura-lidera-geracao-de-empregos-na-construcao-e-registra-melhor-resultado-da-serie-historica-aponta-cbic/",
    "aba": "demanda"
   },
   {
@@ -97,38 +129,6 @@ window.DADOS = {
    "resumo": "A redução da jornada de trabalho de 44 para 40 horas semanais pode representar um custo adicional de quase R$ 14 bilhões para a construção civil, considerando a contratação de trabalhadores para recompor as horas...",
    "link": "https://cbic.org.br/cprt-avalia-efeitos-da-reducao-da-jornada-de-trabalho-sobre-custos-e-habitacao/",
    "aba": "custos"
-  },
-  {
-   "titulo": "Escavações e taludes na construção civil: segurança depende de planejamento e controle",
-   "data": "28/10/2026",
-   "fonte": "CBIC",
-   "resumo": "A estabilidade do terreno pode mudar ao longo de uma obra e exige atenção constante das equipes. Em serviços de escavação e execução de taludes, fatores como chuvas, presença de água, vibrações, erosão e cargas...",
-   "link": "https://cbic.org.br/escavacoes-e-taludes-na-construcao-civil-seguranca-depende-de-planejamento-e-controle/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Leve alta na construção",
-   "data": "27/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Índice de Confiança da Construção, do FGV Ibre, subiu 0,2 ponto em outubro, para 90,7 pontos.  Nesse contexto, o Índice da Situação Atual recuou 1,7 ponto, registrando 89,0 pontos, enquanto o Índice de Expectativas...",
-   "link": "http://www.revistaanamaco.com.br/leve-alta-na-construcao",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "INCC-M acelera em outubro",
-   "data": "27/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O INCC-M, do FGV Ibre, registrou alta de 0,35% em outubro, acima dos 0,25% observados no mês anterior. A tendência de aumento nos custos é reforçada pela taxa acumulada em 12 meses, que atingiu 6,75%. Esse resultado...",
-   "link": "http://www.revistaanamaco.com.br/incc-m-acelera-em-outubro",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Sicflux submete sua sede à verificação de qualidade do ar e recebe selo da Abrava",
-   "data": "27/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Sicflux recebeu o Selo de Qualidade do Ar Interno 2026 para o ambiente da sua sede em Araquari (SC). A certificação faz parte de um programa da Abrava com a Brasindoor e a verificação do ambiente foi feita pela...",
-   "link": "http://www.revistaanamaco.com.br/sicflux-submete-sua-sede-a-verificacao-de-qualidade-do-ar-e-recebe-selo-da-abrava-",
-   "aba": "geral"
   }
  ],
  "diarios": {
