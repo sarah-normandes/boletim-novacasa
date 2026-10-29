@@ -1,14 +1,62 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "28/10/2026 19:03",
+ "atualizado_em": "29/10/2026 12:45",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "28/10/2026",
+   "data": "29/10/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Mafe Costa é a nova atleta do Squad Tigre em novo ciclo rumo a Los Angeles",
+   "data": "29/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Tigre anuncia a nadadora Mafe Costa, como nova integrante do Squad Tigre, plataforma esportiva da marca criada a partir da parceria com o Comitê Olímpico do Brasil. O patrocínio da companhia ao COB tem entre seus...",
+   "link": "http://www.revistaanamaco.com.br/mafe-costa-e-a-nova-atleta-do-squad-tigre-em-novo-ciclo-rumo-a-los-angeles-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Mudança na percepção dos lojistas",
+   "data": "29/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Termômetro Anamaco de setembro aponta uma mudança na percepção dos lojistas sobre o desempenho das vendas em relação a agosto. O percentual de estabelecimentos que registraram queda passou de 22% para 27%, enquanto...",
+   "link": "http://www.revistaanamaco.com.br/mudanca-na-percepcao-dos-lojistas",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Brasil será, em 2035, o 2º mais competitivo em energia solar firme no mundo",
+   "data": "29/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Brasil poderá alcançar um dos menores custos do mundo para a geração de energia solar firme, com cerca de US$ 41 por megawatt-hora em 2035, segundo projeções da Agência Internacional de Energia Renovável. O valor...",
+   "link": "http://www.revistaanamaco.com.br/brasil-sera-em-2035-o-2-mais-competitivo-em-energia-solar-firme-no-mundo-",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Joli anuncia loja em Mogi das Cruzes e dá mais um passo na sua expansão em SP",
+   "data": "29/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Joli Materiais para Construção anuncia que vai inaugurar, em 07 de novembro, uma loja em Mogi das Cruzes.  A abertura marca mais um passo na expansão da Rede em São Paulo com a proposta de oferecer atendimento...",
+   "link": "http://www.revistaanamaco.com.br/joli-anuncia-loja-em-mogi-das-cruzes-e-da-mais-um-passo-na-sua-expansao-em-sp--",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Fundos Imobiliários Têm “Desordem” com Classificação Atual, Diz LAREAL, Que Propõe Nova Metodologia",
+   "data": "29/10/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Régua única mudaria o rótulo de 4 a cada 10 dos FIIs mais líquidos da indústria; medida já tem apoio de grandes gestoras associadas à instituição O...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/nova-classificacao-fundos-imobiliarios-lareal/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "DESEMPENHO DA CONSTRUÇÃO CIVIL NO 3º TRIMESTRE DE 2026",
+   "data": "29/10/2026",
+   "fonte": "CBIC",
+   "resumo": "The post DESEMPENHO DA CONSTRUÇÃO CIVIL NO 3º TRIMESTRE DE 2026 appeared first on CBIC – Câmara Brasileira da Industria da Construção .",
+   "link": "https://cbic.org.br/wp-content/uploads/2026/10/desempenho-da-cc-3-tri-26-e-perspectivas-final.pdf",
+   "aba": "geral"
   },
   {
    "titulo": "Tintas Eucatex elege quatro Cores para 2027 para celebrar a pluralidade do Brasil",
@@ -41,14 +89,6 @@ window.DADOS = {
    "resumo": "A insatisfação dos empresários industriais com a lucratividade dos próprios negócios atingiu o maior patamar desde a pandemia, revela a Sondagem Industrial, divulgada pela CNI. O índice de satisfação com a margem de...",
    "link": "http://www.revistaanamaco.com.br/empresarios-industriais-tem-maior-insatisfacao-com-o-lucro-desde-a-pandemia",
    "aba": "geral"
-  },
-  {
-   "titulo": "Resultados do 3T26 Setor Imobiliário Começam Nesta Semana; Veja Calendário",
-   "data": "28/10/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Multiplan dá a largada do setor na temporada de balanços; veja todas as datas de divulgação de incorporadoras, empresas de properties e...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/calendario-balancos-3t26-setor-imobiliario/",
-   "aba": "demanda"
   },
   {
    "titulo": "CPRT avalia efeitos da redução da jornada de trabalho sobre custos e habitação",
@@ -89,52 +129,12 @@ window.DADOS = {
    "resumo": "A Sicflux recebeu o Selo de Qualidade do Ar Interno 2026 para o ambiente da sua sede em Araquari (SC). A certificação faz parte de um programa da Abrava com a Brasindoor e a verificação do ambiente foi feita pela...",
    "link": "http://www.revistaanamaco.com.br/sicflux-submete-sua-sede-a-verificacao-de-qualidade-do-ar-e-recebe-selo-da-abrava-",
    "aba": "geral"
-  },
-  {
-   "titulo": "Encontro CBIC debate importância do FGTS e perspectivas econômicas para a construção civil no Centro-Oeste",
-   "data": "27/10/2026",
-   "fonte": "CBIC",
-   "resumo": "O papel do Fundo de Garantia do Tempo de Serviço (FGTS) no financiamento habitacional, os desafios econômicos da construção civil e as perspectivas para o mercado imobiliário foram os principais temas do Encontro...",
-   "link": "https://cbic.org.br/encontro-cbic-debate-importancia-do-fgts-e-perspectivas-economicas-para-a-construcao-civil-no-centro-oeste/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "CBIC divulga indicadores econômicos do setor da construção nesta quinta-feira (29)",
-   "data": "27/10/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) promove, na próxima quinta-feira (29), às 10h, uma coletiva de imprensa online, pelo Youtube , para divulgar os indicadores econômicos mais recentes da construção...",
-   "link": "https://cbic.org.br/cbic-divulga-indicadores-economicos-do-setor-da-construcao-nesta-quinta-feira-29-as-10h/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Aplicativo para corretores otimiza vendas no setor imobiliário",
-   "data": "27/10/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A tecnologia tornou-se indispensável no mercado imobiliário, mas a fragmentação de ferramentas ainda é um dos maiores gargalos de produtividade da categoria, de acordo com O post Aplicativo para corretores otimiza...",
-   "link": "https://revistaoe.com.br/novo-app-mrv-para-corretores-otimiza-vendas/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Confiança do consumidor melhora",
-   "data": "26/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Índice de Confiança do Consumidor, calculado pelo FGV Ibre, avançou 0,5 ponto a média móvel trimestral, o índice recuou 1,2 ponto, para 84,5 pontos.\r\nO resultado reflete variações contrárias dos seus componentes....",
-   "link": "http://www.revistaanamaco.com.br/confianca-do-consumidor-melhora3",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Schneider Electric registrou avanços em sustentabilidade no 3º trimestre de 2026",
-   "data": "26/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Schneider Electric anuncia avanços sólidos em seus compromissos de sustentabilidade no terceiro trimestre de 2026. De acordo com os dados apresentados, a companhia evoluiu em suas ambições nos quatro pilares...",
-   "link": "http://www.revistaanamaco.com.br/schneider-electric-registrou-avancos-em-sustentabilidade-no-3-trimestre-de-2026-",
-   "aba": "geral"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "28/10/2026"
+   "data": "29/10/2026"
   }
  },
  "mensais": {
