@@ -1,14 +1,62 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "29/10/2026 19:14",
+ "atualizado_em": "30/10/2026 12:27",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "29/10/2026",
+   "data": "30/10/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Industriais desconfiados",
+   "data": "30/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "De acordo com dados apurados pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas, o Índice de Confiança da Indústria caiu 0,3 ponto em outubro, para 91,0 pontos. No mês, houve alta da confiança em 10 dos...",
+   "link": "http://www.revistaanamaco.com.br/industriais-desconfiados",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Importações de aço recuam em 2026, mas indústria enfrenta retração da demanda",
+   "data": "30/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A indústria processadora de aço atravessa 2026 sob pressão de uma demanda doméstica mais fraca. Dados analisados por relatório periódico econômico da Abimetal-Sicetel, mostram desaceleração da atividade que se...",
+   "link": "http://www.revistaanamaco.com.br/importacoes-de-aco-recuam-em-2026-mas-industria-enfrenta-retracao-da-demanda-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Como a Omoda & Jaecoo Usa Carnaval, Moda e Esporte Para Construir Marca no Brasil",
+   "data": "30/10/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Vice-presidente da Omoda & Jaecoo no Brasil explica a estratégia para transformar tecnologia e produto em confiança e conexão emocional com o...",
+   "link": "https://forbes.com.br/forbes-life/forbes-motors/2026/10/como-a-omoda-jaecoo-usa-carnaval-moda-e-esporte-para-construir-marca-no-brasil/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "CSN (CSNA3) dá passo importante para desalavancagem com venda de braço de cimentos",
+   "data": "30/10/2026",
+   "fonte": "InfoMoney",
+   "resumo": "Operação reduz as preocupações de curto prazo com a estrutura de capital da companhia The post CSN (CSNA3) dá passo importante para desalavancagem com venda de braço de cimentos appeared first on InfoMoney .",
+   "link": "https://www.infomoney.com.br/mercados/csn-csna3-da-passo-importante-para-desalavancagem-com-venda-de-braco-de-cimentos/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Fundo imobiliário anuncia mudança de ticker na B3; veja novo código",
+   "data": "30/10/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "O fundo imobiliário Rio Bravo Recebíveis (JPPA11) terá um novo código de negociação na B3 em novembro. As cotas passarão a ser negociadas sob o ticker RBIC11 a partir do próximo dia 9. Em fato relevante divulgado ao...",
+   "link": "https://www.moneytimes.com.br/fundo-imobiliario-anuncia-mudanca-de-ticker-na-b3-veja-novo-codigo-igdl/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Mesmo com varejo pressionado, a Multiplan (MULT3) segue apresentando resultados sólidos",
+   "data": "30/10/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "Embora a deterioração do ambiente doméstico seja pertinente, o investidor de longo prazo deve permanecer atento às oportunidades que surgem em momentos de maior volatilidade. Boas empresas, com gestão consolidada e...",
+   "link": "https://www.moneytimes.com.br/mesmo-com-varejo-pressionado-a-multiplan-mult3-segue-apresentando-resultados-solidos-mlem/",
+   "aba": "demanda"
   },
   {
    "titulo": "Menegotti apoia projetos do Hospital São José, que ampliam cuidado com idosos",
@@ -59,14 +107,6 @@ window.DADOS = {
    "aba": "custos"
   },
   {
-   "titulo": "Fundos Imobiliários Têm “Desordem” com Classificação Atual, Diz LAREAL, Que Propõe Nova Metodologia",
-   "data": "29/10/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Régua única mudaria o rótulo de 4 a cada 10 dos FIIs mais líquidos da indústria; medida já tem apoio de grandes gestoras associadas à instituição O...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/nova-classificacao-fundos-imobiliarios-lareal/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "CRS debate valorização dos trabalhadores e ações de responsabilidade social na construção em reunião",
    "data": "29/10/2026",
    "fonte": "CBIC",
@@ -89,52 +129,12 @@ window.DADOS = {
    "resumo": "The post DESEMPENHO DA CONSTRUÇÃO CIVIL NO 3º TRIMESTRE DE 2026 appeared first on CBIC – Câmara Brasileira da Industria da Construção .",
    "link": "https://cbic.org.br/wp-content/uploads/2026/10/desempenho-da-cc-3-tri-26-e-perspectivas-final.pdf",
    "aba": "geral"
-  },
-  {
-   "titulo": "Tintas Eucatex elege quatro Cores para 2027 para celebrar a pluralidade do Brasil",
-   "data": "28/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Tintas Eucatex anuncia o lançamento de quatro Cores do Ano para 2027: Sol Escaldante, Olímpico, Moringa e Ilha de Marajó. É a primeira vez que a empresa apresenta quatro opções simultâneas ao mercado, após ter...",
-   "link": "http://www.revistaanamaco.com.br/tintas-eucatex-elege-quatro-cores-para-2027-para-celebrar-a-pluralidade-do-brasil-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Prysmian conquista prêmio da Neoenergia por evolução no ciclo 2025/2026",
-   "data": "28/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Prysmian recebeu prêmio concedido a fornecedores pela Neoenergia na categoria Evolução, que reconhece o parceiro da concessionária que apresentou o maior crescimento e desenvolvimento ao longo do ciclo de avaliação...",
-   "link": "http://www.revistaanamaco.com.br/prysmian-conquista-premio-da-neoenergia-por-evolucao-no-ciclo-2025-2026-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Enare firma o associativismo como motor de eficiência e rentabilidade no matcon",
-   "data": "28/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Febramat realizou, entre os dias 07 e 09 de outubro, a 31ª edição do Encontro Nacional de Redes em Poços de Caldas (MG). Tendo a Rede Clube da Casa como anfitriã, o evento teve como tema “Lucratividade em Rede:...",
-   "link": "http://www.revistaanamaco.com.br/enare-firma-o-associativismo-como-motor-de-eficiencia-e-rentabilidade-no-matcon-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Empresários industriais têm maior insatisfação com o lucro desde a pandemia",
-   "data": "28/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A insatisfação dos empresários industriais com a lucratividade dos próprios negócios atingiu o maior patamar desde a pandemia, revela a Sondagem Industrial, divulgada pela CNI. O índice de satisfação com a margem de...",
-   "link": "http://www.revistaanamaco.com.br/empresarios-industriais-tem-maior-insatisfacao-com-o-lucro-desde-a-pandemia",
-   "aba": "geral"
-  },
-  {
-   "titulo": "CPRT avalia efeitos da redução da jornada de trabalho sobre custos e habitação",
-   "data": "28/10/2026",
-   "fonte": "CBIC",
-   "resumo": "A redução da jornada de trabalho de 44 para 40 horas semanais pode representar um custo adicional de quase R$ 14 bilhões para a construção civil, considerando a contratação de trabalhadores para recompor as horas...",
-   "link": "https://cbic.org.br/cprt-avalia-efeitos-da-reducao-da-jornada-de-trabalho-sobre-custos-e-habitacao/",
-   "aba": "custos"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "29/10/2026"
+   "data": "30/10/2026"
   }
  },
  "mensais": {
