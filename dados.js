@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "30/10/2026 12:27",
+ "atualizado_em": "30/10/2026 18:50",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,22 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Confiança do comércio avança",
+   "data": "30/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "Dados apurados pelo FGV Ibre revelam que o Índice de Confiança do Comércio subiu 1,8 ponto em outubro, para 83,1 pontos. No mês, a confiança oscilou entre os seis segmentos pesquisados, com três em alta e três em queda",
+   "link": "http://www.revistaanamaco.com.br/confianca-do-comercio-avanca1",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "CSN anuncia venda da CSN Cimentos por $ 12, 7 bilhões para empresa chinesa",
+   "data": "30/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Companhia Siderúrgica Nacional (CSN) informou que celebrou um acordo de exclusividade, de 10 dias, para a venda das ações da CSN Cimentos Brasil para a empresa chinesa Huaxin. O valor da operação é de R$ 12, 7...",
+   "link": "http://www.revistaanamaco.com.br/csn-anuncia-venda-da-csn-cimentos-por--12-7-bilhoes-para-empresa-chinesa",
+   "aba": "insumos"
   },
   {
    "titulo": "Industriais desconfiados",
@@ -35,27 +51,19 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "CSN (CSNA3) dá passo importante para desalavancagem com venda de braço de cimentos",
+   "titulo": "Em dezembro, CBIC promove evento para tomadores de decisão da indústria da construção",
    "data": "30/10/2026",
-   "fonte": "InfoMoney",
-   "resumo": "Operação reduz as preocupações de curto prazo com a estrutura de capital da companhia The post CSN (CSNA3) dá passo importante para desalavancagem com venda de braço de cimentos appeared first on InfoMoney .",
-   "link": "https://www.infomoney.com.br/mercados/csn-csna3-da-passo-importante-para-desalavancagem-com-venda-de-braco-de-cimentos/",
-   "aba": "insumos"
+   "fonte": "CBIC",
+   "resumo": "As perspectivas para o setor da construção em 2027 e temas de sua agenda estratégica estarão no centro das discussões da próxima edição do Conexão CBIC. Promovido pela Câmara Brasileira da Indústria da Construção...",
+   "link": "https://cbic.org.br/em-dezembro-cbic-promove-evento-para-tomadores-de-decisao-da-industria-da-construcao/",
+   "aba": "geral"
   },
   {
-   "titulo": "Fundo imobiliário anuncia mudança de ticker na B3; veja novo código",
+   "titulo": "CBIC reúne lideranças da construção em Belém para discutir investimentos e desenvolvimento da Região Norte",
    "data": "30/10/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "O fundo imobiliário Rio Bravo Recebíveis (JPPA11) terá um novo código de negociação na B3 em novembro. As cotas passarão a ser negociadas sob o ticker RBIC11 a partir do próximo dia 9. Em fato relevante divulgado ao...",
-   "link": "https://www.moneytimes.com.br/fundo-imobiliario-anuncia-mudanca-de-ticker-na-b3-veja-novo-codigo-igdl/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Mesmo com varejo pressionado, a Multiplan (MULT3) segue apresentando resultados sólidos",
-   "data": "30/10/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "Embora a deterioração do ambiente doméstico seja pertinente, o investidor de longo prazo deve permanecer atento às oportunidades que surgem em momentos de maior volatilidade. Boas empresas, com gestão consolidada e...",
-   "link": "https://www.moneytimes.com.br/mesmo-com-varejo-pressionado-a-multiplan-mult3-segue-apresentando-resultados-solidos-mlem/",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) realiza, nesta quarta (4) e quinta-feira (5), em Belém (PA), o Encontro CBIC de Incorporadores e Construtores 2026 – Norte. O evento reunirá empresários,...",
+   "link": "https://cbic.org.br/cbic-reune-liderancas-da-construcao-em-belem-para-discutir-investimentos-e-desenvolvimento-da-regiao-norte/",
    "aba": "demanda"
   },
   {
@@ -99,14 +107,6 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Como Singapura Transformou a Habitação Sustentável em um Modelo de Negócios Rentável",
-   "data": "29/10/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Modelos internacionais e certificações energéticas mostram como a construção focada no bem-estar reduz custos operacionais e valoriza os...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/singapura-geracao-valor-mercado-imobiliario/",
-   "aba": "custos"
-  },
-  {
    "titulo": "CRS debate valorização dos trabalhadores e ações de responsabilidade social na construção em reunião",
    "data": "29/10/2026",
    "fonte": "CBIC",
@@ -123,12 +123,12 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "DESEMPENHO DA CONSTRUÇÃO CIVIL NO 3º TRIMESTRE DE 2026",
-   "data": "29/10/2026",
-   "fonte": "CBIC",
-   "resumo": "The post DESEMPENHO DA CONSTRUÇÃO CIVIL NO 3º TRIMESTRE DE 2026 appeared first on CBIC – Câmara Brasileira da Industria da Construção .",
-   "link": "https://cbic.org.br/wp-content/uploads/2026/10/desempenho-da-cc-3-tri-26-e-perspectivas-final.pdf",
-   "aba": "geral"
+   "titulo": "Tintas Eucatex elege quatro Cores para 2027 para celebrar a pluralidade do Brasil",
+   "data": "28/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Tintas Eucatex anuncia o lançamento de quatro Cores do Ano para 2027: Sol Escaldante, Olímpico, Moringa e Ilha de Marajó. É a primeira vez que a empresa apresenta quatro opções simultâneas ao mercado, após ter...",
+   "link": "http://www.revistaanamaco.com.br/tintas-eucatex-elege-quatro-cores-para-2027-para-celebrar-a-pluralidade-do-brasil-",
+   "aba": "insumos"
   }
  ],
  "diarios": {
