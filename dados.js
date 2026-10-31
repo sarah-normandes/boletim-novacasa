@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "31/10/2026 11:55",
+ "atualizado_em": "31/10/2026 15:59",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -33,14 +33,6 @@ window.DADOS = {
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. O corredor delimitado pelas avenidas Figueroa Alcorta, Pueyrredón e Las Heras, além da rua República de la India, atingiu um recorde histórico de...",
    "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/mercado-imobiliario-palermo-buenos-aires/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Quer acompanhar os fundos imobiliários (FIIs) de perto? Money Times lança newsletter semanal",
-   "data": "31/10/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "Os fundos imobiliários (FIIs) ganharam um novo boletim para quem quer acompanhar de perto os principais acontecimentos do setor. O Money Times lançou, neste sábado (31), a Central dos FIIs, uma newsletter semanal que...",
-   "link": "https://www.moneytimes.com.br/quer-acompanhar-os-fundos-imobiliarios-fiis-de-perto-money-times-lanca-newsletter-semanal-igdl/",
-   "aba": "insumos"
   },
   {
    "titulo": "Confiança do comércio avança",
@@ -129,6 +121,14 @@ window.DADOS = {
    "resumo": "O Brasil poderá alcançar um dos menores custos do mundo para a geração de energia solar firme, com cerca de US$ 41 por megawatt-hora em 2035, segundo projeções da Agência Internacional de Energia Renovável. O valor...",
    "link": "http://www.revistaanamaco.com.br/brasil-sera-em-2035-o-2-mais-competitivo-em-energia-solar-firme-no-mundo-",
    "aba": "custos"
+  },
+  {
+   "titulo": "Joli anuncia loja em Mogi das Cruzes e dá mais um passo na sua expansão em SP",
+   "data": "29/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Joli Materiais para Construção anuncia que vai inaugurar, em 07 de novembro, uma loja em Mogi das Cruzes.  A abertura marca mais um passo na expansão da Rede em São Paulo com a proposta de oferecer atendimento...",
+   "link": "http://www.revistaanamaco.com.br/joli-anuncia-loja-em-mogi-das-cruzes-e-da-mais-um-passo-na-sua-expansao-em-sp--",
+   "aba": "geral"
   }
  ],
  "diarios": {
