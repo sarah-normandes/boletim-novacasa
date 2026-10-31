@@ -1,14 +1,46 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "30/10/2026 18:50",
+ "atualizado_em": "31/10/2026 11:55",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "30/10/2026",
+   "data": "31/10/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Aspacer entregou 100 uniformes para crianças do Projeto Esporte e Cidadania",
+   "data": "31/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Aspacer entregou 100 uniformes para as crianças que participam das atividades de vôlei do Projeto Esporte e Cidadania em Santa Gertrudes (SP).\r\nO projeto conta com o patrocínio da entidade, que apoia a iniciativa...",
+   "link": "http://www.revistaanamaco.com.br/aspacer-entregou-100-uniformes-para-criancas-do-projeto-esporte-e-cidadania-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "ABB bate 3º recorde seguido de pedidos no ano, além de alta na receita e no lucro",
+   "data": "31/10/2026",
+   "fonte": "Anamaco",
+   "resumo": "A ABB registrou seu terceiro recorde consecutivo de pedidos do ano, além de crescimento de dois dígitos na receita e no lucro operacional. De acordo com o balanço do terceiro trimestre , os pedidos avançaram 40% na...",
+   "link": "http://www.revistaanamaco.com.br/abb-bate-3-recorde-seguido-de-pedidos-no-ano-alem-de-alta-na-receita-e-no-lucro",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "O Novo Polo Imobiliário de Buenos Aires, com Preços Que Superam R$ 28 Mil por Metro Quadrado",
+   "data": "31/10/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. O corredor delimitado pelas avenidas Figueroa Alcorta, Pueyrredón e Las Heras, além da rua República de la India, atingiu um recorde histórico de...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/mercado-imobiliario-palermo-buenos-aires/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Quer acompanhar os fundos imobiliários (FIIs) de perto? Money Times lança newsletter semanal",
+   "data": "31/10/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "Os fundos imobiliários (FIIs) ganharam um novo boletim para quem quer acompanhar de perto os principais acontecimentos do setor. O Money Times lançou, neste sábado (31), a Central dos FIIs, uma newsletter semanal que...",
+   "link": "https://www.moneytimes.com.br/quer-acompanhar-os-fundos-imobiliarios-fiis-de-perto-money-times-lanca-newsletter-semanal-igdl/",
+   "aba": "insumos"
   },
   {
    "titulo": "Confiança do comércio avança",
@@ -97,44 +129,12 @@ window.DADOS = {
    "resumo": "O Brasil poderá alcançar um dos menores custos do mundo para a geração de energia solar firme, com cerca de US$ 41 por megawatt-hora em 2035, segundo projeções da Agência Internacional de Energia Renovável. O valor...",
    "link": "http://www.revistaanamaco.com.br/brasil-sera-em-2035-o-2-mais-competitivo-em-energia-solar-firme-no-mundo-",
    "aba": "custos"
-  },
-  {
-   "titulo": "Joli anuncia loja em Mogi das Cruzes e dá mais um passo na sua expansão em SP",
-   "data": "29/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Joli Materiais para Construção anuncia que vai inaugurar, em 07 de novembro, uma loja em Mogi das Cruzes.  A abertura marca mais um passo na expansão da Rede em São Paulo com a proposta de oferecer atendimento...",
-   "link": "http://www.revistaanamaco.com.br/joli-anuncia-loja-em-mogi-das-cruzes-e-da-mais-um-passo-na-sua-expansao-em-sp--",
-   "aba": "geral"
-  },
-  {
-   "titulo": "CRS debate valorização dos trabalhadores e ações de responsabilidade social na construção em reunião",
-   "data": "29/10/2026",
-   "fonte": "CBIC",
-   "resumo": "A valorização dos trabalhadores, a inclusão de mulheres e a ampliação das práticas de responsabilidade social nas empresas estiveram entre os temas da 5ª Reunião Ordinária da Comissão de Responsabilidade Social (CRS)...",
-   "link": "https://cbic.org.br/crs-debate-valorizacao-dos-trabalhadores-e-acoes-de-responsabilidade-social-na-construcao-em-reuniao/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Infraestrutura lidera geração de empregos na construção e registra melhor resultado da série histórica, aponta CBIC",
-   "data": "29/10/2026",
-   "fonte": "CBIC",
-   "resumo": "As obras de infraestrutura lideraram a geração de empregos formais na construção civil brasileira nos primeiros oito meses de 2026, com a criação de 79.065 novas vagas, o melhor resultado para o período desde o...",
-   "link": "https://cbic.org.br/infraestrutura-lidera-geracao-de-empregos-na-construcao-e-registra-melhor-resultado-da-serie-historica-aponta-cbic/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Tintas Eucatex elege quatro Cores para 2027 para celebrar a pluralidade do Brasil",
-   "data": "28/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Tintas Eucatex anuncia o lançamento de quatro Cores do Ano para 2027: Sol Escaldante, Olímpico, Moringa e Ilha de Marajó. É a primeira vez que a empresa apresenta quatro opções simultâneas ao mercado, após ter...",
-   "link": "http://www.revistaanamaco.com.br/tintas-eucatex-elege-quatro-cores-para-2027-para-celebrar-a-pluralidade-do-brasil-",
-   "aba": "insumos"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "30/10/2026"
+   "data": "31/10/2026"
   }
  },
  "mensais": {
