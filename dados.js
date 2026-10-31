@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "31/10/2026 15:59",
+ "atualizado_em": "31/10/2026 20:53",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -30,7 +30,7 @@ window.DADOS = {
    "titulo": "O Novo Polo Imobiliário de Buenos Aires, com Preços Que Superam R$ 28 Mil por Metro Quadrado",
    "data": "31/10/2026",
    "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. O corredor delimitado pelas avenidas Figueroa Alcorta, Pueyrredón e Las Heras, além da rua República de la India, atingiu um recorde histórico de...",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. O corredor entre as avenidas Figueroa Alcorta, Pueyrredón e Las Heras e a rua República de la India bateu recorde de construções, com 172.489 m² em...",
    "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/mercado-imobiliario-palermo-buenos-aires/",
    "aba": "demanda"
   },
