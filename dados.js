@@ -1,14 +1,62 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "31/10/2026 20:53",
+ "atualizado_em": "02/11/2026 16:00",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "31/10/2026",
+   "data": "02/11/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Tintas Iquine apoia megamural em Recife em homenagem a Chico Science",
+   "data": "02/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Tintas Iquine apoiou a criação do megamural dedicado ao músico Chico Science, idealizador do Manguebeat, movimento cultural, musical e performático que uniu as raízes pernambucanas às sonoridades globais,...",
+   "link": "http://www.revistaanamaco.com.br/tintas-iquine-apoia-megamural-em-recife-em-homenagem-a-chico-science-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Formação profissional ganha espaço na expansão da construção industrializada",
+   "data": "02/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Espaço Smart oferece o treinamento Construindo em Light Steel Framing e mantém uma parceria com uma instituição educacional voltada à formação de profissionais para trabalhar com os sistemas construtivos...",
+   "link": "http://www.revistaanamaco.com.br/formacao-profissional-ganha-espaco-na-expansao-da-construcao-industrializada-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Kohler inaugura, em Chapecó, a 34ª unidade da Kohler Signature Store",
+   "data": "02/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Kohler inaugurou sua 34 KSS - Kohler Signature Store na cidade de Chapecó (SC). A abertura do espaço com 340 m², em 22 de outubro, faz parte do plano de expansão da marca no Brasil e levará aos especificadores e...",
+   "link": "http://www.revistaanamaco.com.br/kohler-inaugura-em-chapeco-a-34-unidade-da-kohler-signature-store-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "“A Herança Que Deixo É de Que É Preciso Construir uma História”, Diz Amyr Klink",
+   "data": "02/11/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Protagonista da travessia de barco de 100 dias e 7 mil quilômetros da Namíbia à Bahia, o autor tem sua história revivida em novo filme dirigido por...",
+   "link": "https://forbes.com.br/carreira/2026/11/a-heranca-que-deixo-e-de-que-e-preciso-construir-uma-historia/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Schneider Electric alcança 170 mil pessoas treinadas em gestão de energia no Brasil",
+   "data": "01/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Schneider Electric ultrapassou a marca de 170 mil pessoas capacitadas em gestão energética no Brasil. O marco corrobora o compromisso da companhia com a inclusão social, a democratização do ensino técnico e o...",
+   "link": "http://www.revistaanamaco.com.br/schneider-electric-alcanca-170-mil-pessoas-treinadas-em-gestao-de-energia-no-brasil-",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Inadimplência atingiu 75,05 milhões de consumidores em setembro",
+   "data": "01/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Brasil registrou em setembro, 75,05 milhões de brasileiros com contas em atraso. O dado faz parte do Indicador de Inadimplência da Confederação Nacional de Dirigentes Lojistas e do SPC Brasil. Esse volume...",
+   "link": "http://www.revistaanamaco.com.br/inadimplencia-atingiu-7505-milhoes-de-consumidores-em-setembro--",
+   "aba": "geral"
   },
   {
    "titulo": "Aspacer entregou 100 uniformes para crianças do Projeto Esporte e Cidadania",
@@ -25,14 +73,6 @@ window.DADOS = {
    "resumo": "A ABB registrou seu terceiro recorde consecutivo de pedidos do ano, além de crescimento de dois dígitos na receita e no lucro operacional. De acordo com o balanço do terceiro trimestre , os pedidos avançaram 40% na...",
    "link": "http://www.revistaanamaco.com.br/abb-bate-3-recorde-seguido-de-pedidos-no-ano-alem-de-alta-na-receita-e-no-lucro",
    "aba": "insumos"
-  },
-  {
-   "titulo": "O Novo Polo Imobiliário de Buenos Aires, com Preços Que Superam R$ 28 Mil por Metro Quadrado",
-   "data": "31/10/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. O corredor entre as avenidas Figueroa Alcorta, Pueyrredón e Las Heras e a rua República de la India bateu recorde de construções, com 172.489 m² em...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/mercado-imobiliario-palermo-buenos-aires/",
-   "aba": "demanda"
   },
   {
    "titulo": "Confiança do comércio avança",
@@ -67,14 +107,6 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "Como a Omoda & Jaecoo Usa Carnaval, Moda e Esporte Para Construir Marca no Brasil",
-   "data": "30/10/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Vice-presidente da Omoda & Jaecoo no Brasil explica a estratégia para transformar tecnologia e produto em confiança e conexão emocional com o...",
-   "link": "https://forbes.com.br/forbes-life/forbes-motors/2026/10/como-a-omoda-jaecoo-usa-carnaval-moda-e-esporte-para-construir-marca-no-brasil/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "Em dezembro, CBIC promove evento para tomadores de decisão da indústria da construção",
    "data": "30/10/2026",
    "fonte": "CBIC",
@@ -97,44 +129,12 @@ window.DADOS = {
    "resumo": "O Hospital São José desenvolve duas iniciativas voltadas ao público idoso: o Mais que Cura, direcionado ao cuidado oncológico, e o Reabilitação 60+, que busca favorecer a recuperação funcional e a autonomia dos...",
    "link": "http://www.revistaanamaco.com.br/menegotti-apoia-projetos-do-hospital-sao-jose-que-ampliam-cuidado-com-idosos-",
    "aba": "geral"
-  },
-  {
-   "titulo": "Mafe Costa é a nova atleta do Squad Tigre em novo ciclo rumo a Los Angeles",
-   "data": "29/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Tigre anuncia a nadadora Mafe Costa, como nova integrante do Squad Tigre, plataforma esportiva da marca criada a partir da parceria com o Comitê Olímpico do Brasil. O patrocínio da companhia ao COB tem entre seus...",
-   "link": "http://www.revistaanamaco.com.br/mafe-costa-e-a-nova-atleta-do-squad-tigre-em-novo-ciclo-rumo-a-los-angeles-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Mudança na percepção dos lojistas",
-   "data": "29/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Termômetro Anamaco de setembro aponta uma mudança na percepção dos lojistas sobre o desempenho das vendas em relação a agosto. O percentual de estabelecimentos que registraram queda passou de 22% para 27%, enquanto...",
-   "link": "http://www.revistaanamaco.com.br/mudanca-na-percepcao-dos-lojistas",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Brasil será, em 2035, o 2º mais competitivo em energia solar firme no mundo",
-   "data": "29/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Brasil poderá alcançar um dos menores custos do mundo para a geração de energia solar firme, com cerca de US$ 41 por megawatt-hora em 2035, segundo projeções da Agência Internacional de Energia Renovável. O valor...",
-   "link": "http://www.revistaanamaco.com.br/brasil-sera-em-2035-o-2-mais-competitivo-em-energia-solar-firme-no-mundo-",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Joli anuncia loja em Mogi das Cruzes e dá mais um passo na sua expansão em SP",
-   "data": "29/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Joli Materiais para Construção anuncia que vai inaugurar, em 07 de novembro, uma loja em Mogi das Cruzes.  A abertura marca mais um passo na expansão da Rede em São Paulo com a proposta de oferecer atendimento...",
-   "link": "http://www.revistaanamaco.com.br/joli-anuncia-loja-em-mogi-das-cruzes-e-da-mais-um-passo-na-sua-expansao-em-sp--",
-   "aba": "geral"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "31/10/2026"
+   "data": "02/11/2026"
   }
  },
  "mensais": {
