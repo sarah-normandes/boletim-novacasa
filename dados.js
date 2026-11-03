@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "03/11/2026 13:45",
+ "atualizado_em": "03/11/2026 19:44",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -40,22 +40,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "A Gerdau foi reconhecida, pelo quarto ano consecutivo, como a líder em atração e retenção de talentos da indústria do aço, segundo o Ranking Merco Talento 2026. A companhia ocupa a 63ª posição entre as 200 marcas...",
    "link": "http://www.revistaanamaco.com.br/gerdau-e-a-lider-em-atracao-e-retencao-de-talentos-na-industria-do-aco-no-brasil-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Dividendos de 11,5%: Veja 15 fundos imobiliários (FIIs) para ter na carteira em novembro, segundo o BTG",
-   "data": "03/11/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "O BTG Pactual promoveu alterações em sua carteira recomendada de fundos imobiliários (FIIs) para novembro, retirando o RBRY11 da seleção e reduzindo em 0,5% a participação em GZIT11. Em contrapartida, o banco...",
-   "link": "https://www.moneytimes.com.br/dividendos-de-115-15-fundos-imobiliarios-fiis-para-ter-na-carteira-em-novembro-segundo-o-btg-igdl/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Ações da CSN (CSNA3) sobem 4% com venda da divisão de cimentos e redução da dívida no radar",
-   "data": "03/11/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "As ações da CSN (CSNA3) estão entre as maiores altas do Ibovespa (IBOV) no pregão desta terça-feira (3), com o avanço no processo de venda da subsidiária de cimentos no radar do mercado. Na sexta-feira (30), a...",
-   "link": "https://www.moneytimes.com.br/acoes-da-csn-csna3-sobem-4-com-venda-da-divisao-de-cimentos-e-reducao-da-divida-no-radar-lmrs/",
    "aba": "insumos"
   },
   {
@@ -128,6 +112,22 @@ window.DADOS = {
    "fonte": "CBIC",
    "resumo": "As perspectivas para o setor da construção em 2027 e temas de sua agenda estratégica estarão no centro das discussões da próxima edição do Conexão CBIC. Promovido pela Câmara Brasileira da Indústria da Construção...",
    "link": "https://cbic.org.br/em-dezembro-cbic-promove-evento-para-tomadores-de-decisao-da-industria-da-construcao/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "CBIC reúne lideranças da construção em Belém para discutir investimentos e desenvolvimento da Região Norte",
+   "data": "30/10/2026",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) realiza, nesta quarta (4) e quinta-feira (5), em Belém (PA), o Encontro CBIC de Incorporadores e Construtores 2026 – Norte. O evento reunirá empresários,...",
+   "link": "https://cbic.org.br/cbic-reune-liderancas-da-construcao-em-belem-para-discutir-investimentos-e-desenvolvimento-da-regiao-norte/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "CRS debate valorização dos trabalhadores e ações de responsabilidade social na construção em reunião",
+   "data": "29/10/2026",
+   "fonte": "CBIC",
+   "resumo": "A valorização dos trabalhadores, a inclusão de mulheres e a ampliação das práticas de responsabilidade social nas empresas estiveram entre os temas da 5ª Reunião Ordinária da Comissão de Responsabilidade Social (CRS)...",
+   "link": "https://cbic.org.br/crs-debate-valorizacao-dos-trabalhadores-e-acoes-de-responsabilidade-social-na-construcao-em-reuniao/",
    "aba": "geral"
   }
  ],
