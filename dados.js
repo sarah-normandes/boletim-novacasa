@@ -1,14 +1,62 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "02/11/2026 23:43",
+ "atualizado_em": "03/11/2026 13:45",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "02/11/2026",
+   "data": "03/11/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Número maior de setores otimistas",
+   "data": "03/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "Os Resultados Setoriais, do Índice de Confiança do Empresário Industrial, divulgados pela CNI, mostram que, em outubro, a confiança aumentou em 27 dos 29 setores da indústria. Com o resultado, cinco segmentos...",
+   "link": "http://www.revistaanamaco.com.br/numero-maior-de-setores-otimistas-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Jomarca amplia o mix com a entrada no segmento de perfis de alumínio",
+   "data": "03/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "Tradicional fabricante de fixadores para diversos segmentos do mercado, da indústria moveleira, passando pelo setor de eletroeletrônicos, até construção civil e utilidades domésticas, a Jomarca está com novidades e...",
+   "link": "http://www.revistaanamaco.com.br/jomarca-amplia-o-mix-com-a-entrada-no-segmento-de-perfis-de-aluminio",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Juros altos preocupam",
+   "data": "03/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "Quatro em cada 10 empresários da indústria da construção apontaram as taxas de juros elevadas como o principal problema enfrentado pelo setor no 3º trimestre. A proporção aumentou 3,8 pontos percentuais em relação ao...",
+   "link": "http://www.revistaanamaco.com.br/juros-altos-preocupam-",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Gerdau é a líder em atração e retenção de talentos na indústria do aço no Brasil",
+   "data": "03/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Gerdau foi reconhecida, pelo quarto ano consecutivo, como a líder em atração e retenção de talentos da indústria do aço, segundo o Ranking Merco Talento 2026. A companhia ocupa a 63ª posição entre as 200 marcas...",
+   "link": "http://www.revistaanamaco.com.br/gerdau-e-a-lider-em-atracao-e-retencao-de-talentos-na-industria-do-aco-no-brasil-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Dividendos de 11,5%: Veja 15 fundos imobiliários (FIIs) para ter na carteira em novembro, segundo o BTG",
+   "data": "03/11/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "O BTG Pactual promoveu alterações em sua carteira recomendada de fundos imobiliários (FIIs) para novembro, retirando o RBRY11 da seleção e reduzindo em 0,5% a participação em GZIT11. Em contrapartida, o banco...",
+   "link": "https://www.moneytimes.com.br/dividendos-de-115-15-fundos-imobiliarios-fiis-para-ter-na-carteira-em-novembro-segundo-o-btg-igdl/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Ações da CSN (CSNA3) sobem 4% com venda da divisão de cimentos e redução da dívida no radar",
+   "data": "03/11/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "As ações da CSN (CSNA3) estão entre as maiores altas do Ibovespa (IBOV) no pregão desta terça-feira (3), com o avanço no processo de venda da subsidiária de cimentos no radar do mercado. Na sexta-feira (30), a...",
+   "link": "https://www.moneytimes.com.br/acoes-da-csn-csna3-sobem-4-com-venda-da-divisao-de-cimentos-e-reducao-da-divida-no-radar-lmrs/",
+   "aba": "insumos"
   },
   {
    "titulo": "Tintas Iquine apoia megamural em Recife em homenagem a Chico Science",
@@ -33,14 +81,6 @@ window.DADOS = {
    "resumo": "A Kohler inaugurou sua 34 KSS - Kohler Signature Store na cidade de Chapecó (SC). A abertura do espaço com 340 m², em 22 de outubro, faz parte do plano de expansão da marca no Brasil e levará aos especificadores e...",
    "link": "http://www.revistaanamaco.com.br/kohler-inaugura-em-chapeco-a-34-unidade-da-kohler-signature-store-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "“A Herança Que Deixo É de Que É Preciso Construir uma História”, Diz Amyr Klink",
-   "data": "02/11/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Protagonista da travessia de barco de 100 dias e 7 mil quilômetros da Namíbia à Bahia, o autor tem sua história revivida em novo filme dirigido por...",
-   "link": "https://forbes.com.br/carreira/2026/11/a-heranca-que-deixo-e-de-que-e-preciso-construir-uma-historia/",
-   "aba": "geral"
   },
   {
    "titulo": "Schneider Electric alcança 170 mil pessoas treinadas em gestão de energia no Brasil",
@@ -83,58 +123,18 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "CSN anuncia venda da CSN Cimentos por $ 12, 7 bilhões para empresa chinesa",
-   "data": "30/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Companhia Siderúrgica Nacional (CSN) informou que celebrou um acordo de exclusividade, de 10 dias, para a venda das ações da CSN Cimentos Brasil para a empresa chinesa Huaxin. O valor da operação é de R$ 12, 7...",
-   "link": "http://www.revistaanamaco.com.br/csn-anuncia-venda-da-csn-cimentos-por--12-7-bilhoes-para-empresa-chinesa",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Industriais desconfiados",
-   "data": "30/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "De acordo com dados apurados pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas, o Índice de Confiança da Indústria caiu 0,3 ponto em outubro, para 91,0 pontos. No mês, houve alta da confiança em 10 dos...",
-   "link": "http://www.revistaanamaco.com.br/industriais-desconfiados",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Importações de aço recuam em 2026, mas indústria enfrenta retração da demanda",
-   "data": "30/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A indústria processadora de aço atravessa 2026 sob pressão de uma demanda doméstica mais fraca. Dados analisados por relatório periódico econômico da Abimetal-Sicetel, mostram desaceleração da atividade que se...",
-   "link": "http://www.revistaanamaco.com.br/importacoes-de-aco-recuam-em-2026-mas-industria-enfrenta-retracao-da-demanda-",
-   "aba": "insumos"
-  },
-  {
    "titulo": "Em dezembro, CBIC promove evento para tomadores de decisão da indústria da construção",
    "data": "30/10/2026",
    "fonte": "CBIC",
    "resumo": "As perspectivas para o setor da construção em 2027 e temas de sua agenda estratégica estarão no centro das discussões da próxima edição do Conexão CBIC. Promovido pela Câmara Brasileira da Indústria da Construção...",
    "link": "https://cbic.org.br/em-dezembro-cbic-promove-evento-para-tomadores-de-decisao-da-industria-da-construcao/",
    "aba": "geral"
-  },
-  {
-   "titulo": "CBIC reúne lideranças da construção em Belém para discutir investimentos e desenvolvimento da Região Norte",
-   "data": "30/10/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) realiza, nesta quarta (4) e quinta-feira (5), em Belém (PA), o Encontro CBIC de Incorporadores e Construtores 2026 – Norte. O evento reunirá empresários,...",
-   "link": "https://cbic.org.br/cbic-reune-liderancas-da-construcao-em-belem-para-discutir-investimentos-e-desenvolvimento-da-regiao-norte/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Menegotti apoia projetos do Hospital São José, que ampliam cuidado com idosos",
-   "data": "29/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Hospital São José desenvolve duas iniciativas voltadas ao público idoso: o Mais que Cura, direcionado ao cuidado oncológico, e o Reabilitação 60+, que busca favorecer a recuperação funcional e a autonomia dos...",
-   "link": "http://www.revistaanamaco.com.br/menegotti-apoia-projetos-do-hospital-sao-jose-que-ampliam-cuidado-com-idosos-",
-   "aba": "geral"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "02/11/2026"
+   "data": "03/11/2026"
   }
  },
  "mensais": {
