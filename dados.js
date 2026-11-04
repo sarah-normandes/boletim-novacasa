@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "04/11/2026 13:42",
+ "atualizado_em": "04/11/2026 20:01",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Rede Nacional Liga Steam amplia atuação e faz encontro de educadores em SC",
+   "data": "04/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "Profissionais da rede pública e privada de ensino dos três Estados do Sul do Brasil ganharam um novo canal de integração e elaboração de práticas pedagógicas focadas nas exigências da educação contemporânea. No...",
+   "link": "http://www.revistaanamaco.com.br/rede-nacional-liga-steam-amplia-atuacao-e-faz-encontro-de-educadores-em-sc-",
+   "aba": "geral"
   },
   {
    "titulo": "Parceria entre entidades visa combater fornecimento de luminárias LED adulterada",
@@ -35,20 +43,12 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "Citi rebaixa Magalu (MGLU3) por juros altos e destaca 4 ações favoritas do varejo",
+   "titulo": "CBIC inicia mobilização de entidades para construção da Agenda Legislativa da Indústria 2027",
    "data": "04/11/2026",
-   "fonte": "InfoMoney",
-   "resumo": "Principal escolha do Citi passou a ser a Smart Fit (SMFT3), seguida por Alpargatas (ALPA4), Vivara (VIVA3) e Lojas Renner (LREN3) The post Citi rebaixa Magalu (MGLU3) por juros altos e destaca 4 ações favoritas do...",
-   "link": "https://www.infomoney.com.br/mercados/citi-rebaixa-magalu-mglu3-por-juros-altos-e-destaca-4-acoes-favoritas-do-varejo/",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Magazine Luiza (MGLU3): Citi passa tesoura no preço-alvo e rebaixa ação após vitória de Lula; veja as preferências no varejo",
-   "data": "04/11/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "Após a “inesperada” vitória de Luiz Inácio Lula da Silva para seu quarto mandato como presidente do Brasil, o Citi revisou as preferências no setor do varejo. Neste contexto, o banco rebaixou a recomendação do...",
-   "link": "https://www.moneytimes.com.br/magazine-luiza-mglu3-citi-passa-tesoura-no-preco-alvo-e-rebaixa-acao-apos-vitoria-de-lula-veja-as-preferencias-no-varejo-lmrs/",
-   "aba": "demanda"
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) iniciou a mobilização de suas entidades associadas para participar do processo de construção da Agenda Legislativa da Indústria de 2027, coordenado pela...",
+   "link": "https://cbic.org.br/cbic-inicia-mobilizacao-de-entidades-para-construcao-da-agenda-legislativa-da-industria-2027/",
+   "aba": "geral"
   },
   {
    "titulo": "Número maior de setores otimistas",
@@ -115,20 +115,20 @@ window.DADOS = {
    "aba": "custos"
   },
   {
-   "titulo": "Inadimplência atingiu 75,05 milhões de consumidores em setembro",
-   "data": "01/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Brasil registrou em setembro, 75,05 milhões de brasileiros com contas em atraso. O dado faz parte do Indicador de Inadimplência da Confederação Nacional de Dirigentes Lojistas e do SPC Brasil. Esse volume...",
-   "link": "http://www.revistaanamaco.com.br/inadimplencia-atingiu-7505-milhoes-de-consumidores-em-setembro--",
-   "aba": "geral"
-  },
-  {
    "titulo": "Em dezembro, CBIC promove evento para tomadores de decisão da indústria da construção",
    "data": "30/10/2026",
    "fonte": "CBIC",
    "resumo": "As perspectivas para o setor da construção em 2027 e temas de sua agenda estratégica estarão no centro das discussões da próxima edição do Conexão CBIC. Promovido pela Câmara Brasileira da Indústria da Construção...",
    "link": "https://cbic.org.br/em-dezembro-cbic-promove-evento-para-tomadores-de-decisao-da-industria-da-construcao/",
    "aba": "geral"
+  },
+  {
+   "titulo": "CBIC reúne lideranças da construção em Belém para discutir investimentos e desenvolvimento da Região Norte",
+   "data": "30/10/2026",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) realiza, nesta quarta (4) e quinta-feira (5), em Belém (PA), o Encontro CBIC de Incorporadores e Construtores 2026 – Norte. O evento reunirá empresários,...",
+   "link": "https://cbic.org.br/cbic-reune-liderancas-da-construcao-em-belem-para-discutir-investimentos-e-desenvolvimento-da-regiao-norte/",
+   "aba": "demanda"
   }
  ],
  "diarios": {
