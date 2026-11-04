@@ -1,14 +1,54 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "03/11/2026 19:44",
+ "atualizado_em": "04/11/2026 13:42",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "03/11/2026",
+   "data": "04/11/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Parceria entre entidades visa combater fornecimento de luminárias LED adulterada",
+   "data": "04/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Abilux, por meio de sua Setorial de Iluminação Pública e do Programa IP Legal, reuniu-se com representantes do Sindicato dos Engenheiros no Estado de São Paulo e do Ipem-SP para discutir a estruturação de uma...",
+   "link": "http://www.revistaanamaco.com.br/parceria-entre-entidades-visa-combater-fornecimento-de-luminarias-led-adulterada",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "InterCement Brasil usa resíduos de gesso como matéria-prima para cimento",
+   "data": "04/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A InterCement Brasil utiliza cerca de 10 mil toneladas de resíduos de gesso, por mês, nas fábricas de Apiaí (SP), Ijaci (MG), Nova Santa Rita e Candiota (RS). Além de evitar que sejam descartados em aterros ou locais...",
+   "link": "http://www.revistaanamaco.com.br/intercement-brasil-usa-residuos-de-gesso-como-materia-prima-para-cimento-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Mulheres da indústria e do varejo de tintas debatem liderança no Summit Abrart",
+   "data": "04/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "Representantes da indústria e do varejo de tintas deverão se reunir hoje, 04 de novembro, para discutir o acesso a cargos de liderança e as oportunidades de crescimento profissional no setor. O debate integra a...",
+   "link": "http://www.revistaanamaco.com.br/mulheres-da-industria-e-do-varejo-de-tintas-debatem-lideranca-no-summit-abrart-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Citi rebaixa Magalu (MGLU3) por juros altos e destaca 4 ações favoritas do varejo",
+   "data": "04/11/2026",
+   "fonte": "InfoMoney",
+   "resumo": "Principal escolha do Citi passou a ser a Smart Fit (SMFT3), seguida por Alpargatas (ALPA4), Vivara (VIVA3) e Lojas Renner (LREN3) The post Citi rebaixa Magalu (MGLU3) por juros altos e destaca 4 ações favoritas do...",
+   "link": "https://www.infomoney.com.br/mercados/citi-rebaixa-magalu-mglu3-por-juros-altos-e-destaca-4-acoes-favoritas-do-varejo/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Magazine Luiza (MGLU3): Citi passa tesoura no preço-alvo e rebaixa ação após vitória de Lula; veja as preferências no varejo",
+   "data": "04/11/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "Após a “inesperada” vitória de Luiz Inácio Lula da Silva para seu quarto mandato como presidente do Brasil, o Citi revisou as preferências no setor do varejo. Neste contexto, o banco rebaixou a recomendação do...",
+   "link": "https://www.moneytimes.com.br/magazine-luiza-mglu3-citi-passa-tesoura-no-preco-alvo-e-rebaixa-acao-apos-vitoria-de-lula-veja-as-preferencias-no-varejo-lmrs/",
+   "aba": "demanda"
   },
   {
    "titulo": "Número maior de setores otimistas",
@@ -83,58 +123,18 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Aspacer entregou 100 uniformes para crianças do Projeto Esporte e Cidadania",
-   "data": "31/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Aspacer entregou 100 uniformes para as crianças que participam das atividades de vôlei do Projeto Esporte e Cidadania em Santa Gertrudes (SP).\r\nO projeto conta com o patrocínio da entidade, que apoia a iniciativa...",
-   "link": "http://www.revistaanamaco.com.br/aspacer-entregou-100-uniformes-para-criancas-do-projeto-esporte-e-cidadania-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "ABB bate 3º recorde seguido de pedidos no ano, além de alta na receita e no lucro",
-   "data": "31/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "A ABB registrou seu terceiro recorde consecutivo de pedidos do ano, além de crescimento de dois dígitos na receita e no lucro operacional. De acordo com o balanço do terceiro trimestre , os pedidos avançaram 40% na...",
-   "link": "http://www.revistaanamaco.com.br/abb-bate-3-recorde-seguido-de-pedidos-no-ano-alem-de-alta-na-receita-e-no-lucro",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Confiança do comércio avança",
-   "data": "30/10/2026",
-   "fonte": "Anamaco",
-   "resumo": "Dados apurados pelo FGV Ibre revelam que o Índice de Confiança do Comércio subiu 1,8 ponto em outubro, para 83,1 pontos. No mês, a confiança oscilou entre os seis segmentos pesquisados, com três em alta e três em queda",
-   "link": "http://www.revistaanamaco.com.br/confianca-do-comercio-avanca1",
-   "aba": "demanda"
-  },
-  {
    "titulo": "Em dezembro, CBIC promove evento para tomadores de decisão da indústria da construção",
    "data": "30/10/2026",
    "fonte": "CBIC",
    "resumo": "As perspectivas para o setor da construção em 2027 e temas de sua agenda estratégica estarão no centro das discussões da próxima edição do Conexão CBIC. Promovido pela Câmara Brasileira da Indústria da Construção...",
    "link": "https://cbic.org.br/em-dezembro-cbic-promove-evento-para-tomadores-de-decisao-da-industria-da-construcao/",
    "aba": "geral"
-  },
-  {
-   "titulo": "CBIC reúne lideranças da construção em Belém para discutir investimentos e desenvolvimento da Região Norte",
-   "data": "30/10/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) realiza, nesta quarta (4) e quinta-feira (5), em Belém (PA), o Encontro CBIC de Incorporadores e Construtores 2026 – Norte. O evento reunirá empresários,...",
-   "link": "https://cbic.org.br/cbic-reune-liderancas-da-construcao-em-belem-para-discutir-investimentos-e-desenvolvimento-da-regiao-norte/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "CRS debate valorização dos trabalhadores e ações de responsabilidade social na construção em reunião",
-   "data": "29/10/2026",
-   "fonte": "CBIC",
-   "resumo": "A valorização dos trabalhadores, a inclusão de mulheres e a ampliação das práticas de responsabilidade social nas empresas estiveram entre os temas da 5ª Reunião Ordinária da Comissão de Responsabilidade Social (CRS)...",
-   "link": "https://cbic.org.br/crs-debate-valorizacao-dos-trabalhadores-e-acoes-de-responsabilidade-social-na-construcao-em-reuniao/",
-   "aba": "geral"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "03/11/2026"
+   "data": "04/11/2026"
   }
  },
  "mensais": {
