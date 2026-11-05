@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "05/11/2026 13:59",
+ "atualizado_em": "05/11/2026 20:05",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,30 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Governo de São Paulo exclui material de construção do ICMS-ST",
+   "data": "05/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "Foi publicada em 29 de outubro de 2026, pelo Governo do Estado de São Paulo, a Portaria SRE nº 52/2026, que determina a exclusão do matcon e congêneres relacionados no Anexo XVII da Portaria CAT nº 68/2019 do Regime...",
+   "link": "http://www.revistaanamaco.com.br/governo-de-sao-paulo-exclui-material-de-construcao-do-icms-st-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "CPFL Energia alerta para riscos elétricos em obras e dá dicas de segurança",
+   "data": "05/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A CPFL Energia lançou uma nova fase da campanha Guardião da Vida, que busca levar mensagens de segurança ao cotidiano dos públicos mais expostos aos riscos elétricos, incluindo profissionais da construção civil,...",
+   "link": "http://www.revistaanamaco.com.br/cpfl-energia-alerta-para-riscos-eletricos-em-obras-e-da-dicas-de-seguranca",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Grupo Fragnani paralisa, por tempo indeterminado, atividades da Incefra em SP",
+   "data": "05/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Grupo Fragnani comunicou aos seus clientes, colaboradores, representantes comerciais, fornecedores e ao mercado em geral, por meio de nota, a decisão de paralisar, por tempo indeterminado, as atividades industriais...",
+   "link": "http://www.revistaanamaco.com.br/grupo-fragnani-paralisa-por-tempo-indeterminado-atividades-da-incefra-em-sp--",
+   "aba": "geral"
   },
   {
    "titulo": "Tramontina amplia ações de capacitação para eletricistas com palestras e cursos",
@@ -27,6 +51,22 @@ window.DADOS = {
    "aba": "geral"
   },
   {
+   "titulo": "Nutrien Aposta na Produção Norte-americana e Reduz Operações no Varejo Brasileiro",
+   "data": "05/11/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Companhia atribui queda nas vendas ao esgotamento do crédito dos agricultores e pretende concluir revisão do negócio no país até o fim do ano O post...",
+   "link": "https://forbes.com.br/forbes-agro/2026/11/nutrien-aposta-na-producao-norte-americana-e-reduz-operacoes-no-varejo-brasileiro/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Nutrien Planeja Fechar Varejo em Mais Três Estados e Projeta Ebitda Negativo no Brasil",
+   "data": "05/11/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Multinacional de insumos agrícolas conclui revisão estratégica no mercado brasileiro até o fim deste ano O post Nutrien Planeja Fechar Varejo em...",
+   "link": "https://forbes.com.br/forbes-agro/2026/11/nutrien-planeja-fechar-varejo-em-mais-tres-estados-e-projeta-ebitda-negativo-no-brasil/",
+   "aba": "insumos"
+  },
+  {
    "titulo": "Como Maurizio Billi Construiu uma Fortuna de R$ 21,7 Bilhões com a Eurofarma",
    "data": "05/11/2026",
    "fonte": "Forbes",
@@ -35,11 +75,35 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Construção defende período de transição de 5 anos para acabar com jornada 6×1",
+   "titulo": "Encontro CBIC reúne lideranças em Belém para debater desafios e oportunidades da construção na Região Norte",
    "data": "05/11/2026",
-   "fonte": "InfoMoney",
-   "resumo": "Documento entregue ao Ministério do Trabalho pede ampliação do prazo de transição para que empresas reorganizem suas operações The post Construção defende período de transição de 5 anos para acabar com jornada 6×1...",
-   "link": "https://www.infomoney.com.br/politica/construcao-defende-periodo-de-transicao-de-5-anos-para-acabar-com-jornada-6x1/",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) deu continuidade, nesta quinta-feira (5), em Belém, ao Encontro CBIC de Incorporadores e Construtores 2026 – Norte. A solenidade de abertura reuniu lideranças...",
+   "link": "https://cbic.org.br/encontro-cbic-reune-liderancas-em-belem-para-debater-desafios-e-oportunidades-da-construcao-na-regiao-norte/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Construção gera mais de 9 mil empregos com carteira assinada em setembro",
+   "data": "05/11/2026",
+   "fonte": "CBIC",
+   "resumo": "O setor da construção gerou 9.468 empregos com carteira assinada em setembro de 2026, segundo dados do Novo Cadastro Geral de Empregados e Desempregados (Novo Caged), divulgados nesta quarta-feira (4) pelo Ministério...",
+   "link": "https://cbic.org.br/construcao-gera-mais-de-9-mil-empregos-com-carteira-assinada-em-setembro/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Conexão CBIC, evento de integração e atualização para a alta liderança da construção, tem local definido",
+   "data": "05/11/2026",
+   "fonte": "CBIC",
+   "resumo": "Conhecer cenários, antever tendências e discutir soluções novas para os desafios da indústria da construção com os mais importantes atores do poder público e da iniciativa privada é o objetivo do Conexão CBIC, evento...",
+   "link": "https://cbic.org.br/conexao-cbic-evento-de-integracao-e-atualizacao-para-a-alta-lideranca-da-construcao-tem-local-definido/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Da inteligência artificial à robótica na construção",
+   "data": "05/11/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "Na Cersaie 2026, realizada em setembro, em Bolonha, na Itália, a digitalização ganhou aplicações que ultrapassam o desenvolvimento de produtos. Sistemas capazes de transformar imagens O post Da inteligência...",
+   "link": "https://revistaoe.com.br/inteligencia-artificial-robotica-construcao/",
    "aba": "geral"
   },
   {
@@ -64,70 +128,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "A InterCement Brasil utiliza cerca de 10 mil toneladas de resíduos de gesso, por mês, nas fábricas de Apiaí (SP), Ijaci (MG), Nova Santa Rita e Candiota (RS). Além de evitar que sejam descartados em aterros ou locais...",
    "link": "http://www.revistaanamaco.com.br/intercement-brasil-usa-residuos-de-gesso-como-materia-prima-para-cimento-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Gerdau anuncia fim da produção de aço na unidade de Divinópolis (MG)",
-   "data": "04/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Gerdau anunciou o encerramento da produção de aço em sua planta de Divinópolis (MG). A justificativaé a perda da competitividade da operação, em razão da ausência de fornecimento de minério de ferro a custos...",
-   "link": "http://www.revistaanamaco.com.br/gerdau-anuncia-fim-da-producao-de-aco-na-unidade-de-divinopolis-mg",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Mulheres da indústria e do varejo de tintas debatem liderança no Summit Abrart",
-   "data": "04/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "Representantes da indústria e do varejo de tintas deverão se reunir hoje, 04 de novembro, para discutir o acesso a cargos de liderança e as oportunidades de crescimento profissional no setor. O debate integra a...",
-   "link": "http://www.revistaanamaco.com.br/mulheres-da-industria-e-do-varejo-de-tintas-debatem-lideranca-no-summit-abrart-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "CBIC apresenta 11 propostas ao Ministério do Trabalho para reduzir impactos da nova jornada na construção",
-   "data": "04/11/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) se reuniu, nesta quarta-feira (4), com o ministro do Trabalho e Emprego, Luiz Marinho, na Esplanada dos Ministérios, em Brasília, para apresentar as preocupações...",
-   "link": "https://cbic.org.br/cbic-apresenta-11-propostas-ao-ministerio-do-trabalho-para-reduzir-impactos-da-nova-jornada-na-construcao/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "CBIC inicia mobilização de entidades para construção da Agenda Legislativa da Indústria 2027",
-   "data": "04/11/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) iniciou a mobilização de suas entidades associadas para participar do processo de construção da Agenda Legislativa da Indústria de 2027, coordenado pela...",
-   "link": "https://cbic.org.br/cbic-inicia-mobilizacao-de-entidades-para-construcao-da-agenda-legislativa-da-industria-2027/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Número maior de setores otimistas",
-   "data": "03/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "Os Resultados Setoriais, do Índice de Confiança do Empresário Industrial, divulgados pela CNI, mostram que, em outubro, a confiança aumentou em 27 dos 29 setores da indústria. Com o resultado, cinco segmentos...",
-   "link": "http://www.revistaanamaco.com.br/numero-maior-de-setores-otimistas-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Jomarca amplia o mix com a entrada no segmento de perfis de alumínio",
-   "data": "03/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "Tradicional fabricante de fixadores para diversos segmentos do mercado, da indústria moveleira, passando pelo setor de eletroeletrônicos, até construção civil e utilidades domésticas, a Jomarca está com novidades e...",
-   "link": "http://www.revistaanamaco.com.br/jomarca-amplia-o-mix-com-a-entrada-no-segmento-de-perfis-de-aluminio",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Juros altos preocupam",
-   "data": "03/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "Quatro em cada 10 empresários da indústria da construção apontaram as taxas de juros elevadas como o principal problema enfrentado pelo setor no 3º trimestre. A proporção aumentou 3,8 pontos percentuais em relação ao...",
-   "link": "http://www.revistaanamaco.com.br/juros-altos-preocupam-",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Gerdau é a líder em atração e retenção de talentos na indústria do aço no Brasil",
-   "data": "03/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Gerdau foi reconhecida, pelo quarto ano consecutivo, como a líder em atração e retenção de talentos da indústria do aço, segundo o Ranking Merco Talento 2026. A companhia ocupa a 63ª posição entre as 200 marcas...",
-   "link": "http://www.revistaanamaco.com.br/gerdau-e-a-lider-em-atracao-e-retencao-de-talentos-na-industria-do-aco-no-brasil-",
    "aba": "insumos"
   }
  ],
