@@ -1,14 +1,46 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "04/11/2026 20:01",
+ "atualizado_em": "05/11/2026 13:59",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "04/11/2026",
+   "data": "05/11/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Tramontina amplia ações de capacitação para eletricistas com palestras e cursos",
+   "data": "05/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Tramontina segue investindo em iniciativas voltadas à qualificação e à valorização dos profissionais da área elétrica. A programação abrange palestras presenciais, cursos gratuitos on-line, treinamentos regionais e...",
+   "link": "http://www.revistaanamaco.com.br/tramontina-amplia-acoes-de-capacitacao-para-eletricistas-com-palestras-e-cursos-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Grupo Condumax Incesa anuncia nova planta de cabos de média tensão",
+   "data": "05/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Grupo Condumax Incesa inaugurou, em 27 de outubro, a expansão da fábrica da Condumax em Olímpia (SP). A nova área eleva a capacidade de produção de fios e cabos da empresa de 25 mil para, aproximadamente, 35 mil...",
+   "link": "http://www.revistaanamaco.com.br/grupo-condumax-incesa-anuncia-nova-planta-de-cabos-de-media-tensao-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Como Maurizio Billi Construiu uma Fortuna de R$ 21,7 Bilhões com a Eurofarma",
+   "data": "05/11/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Entre os negócios e as pistas de corrida, o empresário, filho de imigrantes italianos, transformou a pequena farmacêutica fundada pelo pai em uma...",
+   "link": "https://forbes.com.br/forbes-money/2026/11/maurizio-billi-trajetoria-eurofarma-fortuna/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Construção defende período de transição de 5 anos para acabar com jornada 6×1",
+   "data": "05/11/2026",
+   "fonte": "InfoMoney",
+   "resumo": "Documento entregue ao Ministério do Trabalho pede ampliação do prazo de transição para que empresas reorganizem suas operações The post Construção defende período de transição de 5 anos para acabar com jornada 6×1...",
+   "link": "https://www.infomoney.com.br/politica/construcao-defende-periodo-de-transicao-de-5-anos-para-acabar-com-jornada-6x1/",
+   "aba": "geral"
   },
   {
    "titulo": "Rede Nacional Liga Steam amplia atuação e faz encontro de educadores em SC",
@@ -35,12 +67,28 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
+   "titulo": "Gerdau anuncia fim da produção de aço na unidade de Divinópolis (MG)",
+   "data": "04/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Gerdau anunciou o encerramento da produção de aço em sua planta de Divinópolis (MG). A justificativaé a perda da competitividade da operação, em razão da ausência de fornecimento de minério de ferro a custos...",
+   "link": "http://www.revistaanamaco.com.br/gerdau-anuncia-fim-da-producao-de-aco-na-unidade-de-divinopolis-mg",
+   "aba": "insumos"
+  },
+  {
    "titulo": "Mulheres da indústria e do varejo de tintas debatem liderança no Summit Abrart",
    "data": "04/11/2026",
    "fonte": "Anamaco",
    "resumo": "Representantes da indústria e do varejo de tintas deverão se reunir hoje, 04 de novembro, para discutir o acesso a cargos de liderança e as oportunidades de crescimento profissional no setor. O debate integra a...",
    "link": "http://www.revistaanamaco.com.br/mulheres-da-industria-e-do-varejo-de-tintas-debatem-lideranca-no-summit-abrart-",
    "aba": "insumos"
+  },
+  {
+   "titulo": "CBIC apresenta 11 propostas ao Ministério do Trabalho para reduzir impactos da nova jornada na construção",
+   "data": "04/11/2026",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) se reuniu, nesta quarta-feira (4), com o ministro do Trabalho e Emprego, Luiz Marinho, na Esplanada dos Ministérios, em Brasília, para apresentar as preocupações...",
+   "link": "https://cbic.org.br/cbic-apresenta-11-propostas-ao-ministerio-do-trabalho-para-reduzir-impactos-da-nova-jornada-na-construcao/",
+   "aba": "demanda"
   },
   {
    "titulo": "CBIC inicia mobilização de entidades para construção da Agenda Legislativa da Indústria 2027",
@@ -81,60 +129,12 @@ window.DADOS = {
    "resumo": "A Gerdau foi reconhecida, pelo quarto ano consecutivo, como a líder em atração e retenção de talentos da indústria do aço, segundo o Ranking Merco Talento 2026. A companhia ocupa a 63ª posição entre as 200 marcas...",
    "link": "http://www.revistaanamaco.com.br/gerdau-e-a-lider-em-atracao-e-retencao-de-talentos-na-industria-do-aco-no-brasil-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Tintas Iquine apoia megamural em Recife em homenagem a Chico Science",
-   "data": "02/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Tintas Iquine apoiou a criação do megamural dedicado ao músico Chico Science, idealizador do Manguebeat, movimento cultural, musical e performático que uniu as raízes pernambucanas às sonoridades globais,...",
-   "link": "http://www.revistaanamaco.com.br/tintas-iquine-apoia-megamural-em-recife-em-homenagem-a-chico-science-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Formação profissional ganha espaço na expansão da construção industrializada",
-   "data": "02/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Espaço Smart oferece o treinamento Construindo em Light Steel Framing e mantém uma parceria com uma instituição educacional voltada à formação de profissionais para trabalhar com os sistemas construtivos...",
-   "link": "http://www.revistaanamaco.com.br/formacao-profissional-ganha-espaco-na-expansao-da-construcao-industrializada-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Kohler inaugura, em Chapecó, a 34ª unidade da Kohler Signature Store",
-   "data": "02/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Kohler inaugurou sua 34 KSS - Kohler Signature Store na cidade de Chapecó (SC). A abertura do espaço com 340 m², em 22 de outubro, faz parte do plano de expansão da marca no Brasil e levará aos especificadores e...",
-   "link": "http://www.revistaanamaco.com.br/kohler-inaugura-em-chapeco-a-34-unidade-da-kohler-signature-store-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Schneider Electric alcança 170 mil pessoas treinadas em gestão de energia no Brasil",
-   "data": "01/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Schneider Electric ultrapassou a marca de 170 mil pessoas capacitadas em gestão energética no Brasil. O marco corrobora o compromisso da companhia com a inclusão social, a democratização do ensino técnico e o...",
-   "link": "http://www.revistaanamaco.com.br/schneider-electric-alcanca-170-mil-pessoas-treinadas-em-gestao-de-energia-no-brasil-",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Em dezembro, CBIC promove evento para tomadores de decisão da indústria da construção",
-   "data": "30/10/2026",
-   "fonte": "CBIC",
-   "resumo": "As perspectivas para o setor da construção em 2027 e temas de sua agenda estratégica estarão no centro das discussões da próxima edição do Conexão CBIC. Promovido pela Câmara Brasileira da Indústria da Construção...",
-   "link": "https://cbic.org.br/em-dezembro-cbic-promove-evento-para-tomadores-de-decisao-da-industria-da-construcao/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "CBIC reúne lideranças da construção em Belém para discutir investimentos e desenvolvimento da Região Norte",
-   "data": "30/10/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) realiza, nesta quarta (4) e quinta-feira (5), em Belém (PA), o Encontro CBIC de Incorporadores e Construtores 2026 – Norte. O evento reunirá empresários,...",
-   "link": "https://cbic.org.br/cbic-reune-liderancas-da-construcao-em-belem-para-discutir-investimentos-e-desenvolvimento-da-regiao-norte/",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "04/11/2026"
+   "data": "05/11/2026"
   }
  },
  "mensais": {
