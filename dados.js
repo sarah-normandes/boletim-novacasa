@@ -1,14 +1,78 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "05/11/2026 20:05",
+ "atualizado_em": "06/11/2026 13:30",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "05/11/2026",
+   "data": "06/11/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Intenção de consumo diminuiu",
+   "data": "06/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Intenção de Consumo das Famílias caiu pelo terceiro mês consecutivo em outubro, registrando retração de 0,8% na comparação com setembro, já descontados os efeitos sazonais. O indicador, mensurado pela CNC, alcançou...",
+   "link": "http://www.revistaanamaco.com.br/intencao-de-consumo-diminuiu",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Tramontina apresenta sua nova marca ao mercado, a Tramontina Althea",
+   "data": "06/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Tramontina apresenta sua nova marca: a Tramontina Althea, com um portfólio de produtos de alto valor agregado, que inclui cubas, monocomandos para cozinha, acessórios e eletros. Uma das novidades é a Coleção...",
+   "link": "http://www.revistaanamaco.com.br/tramontina-apresenta-sua-nova-marca-ao-mercado-a-tramontina-althea",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Varejo de matcon recuou em setembro",
+   "data": "06/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "O setor de material de construção registrou retração de 0,4% no volume de vendas em setembro, segundo o Índice do Varejo Stone. No comparativo anual, o segmento cedeu 0,4%. O estudo, que acompanha mensalmente a...",
+   "link": "http://www.revistaanamaco.com.br/varejo-de-matcon-recuou-em-setembro-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Eucatex une arte e educação ambiental em ação no Masp e Parque Trianon",
+   "data": "06/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Tintas Eucatex, em parceria com a Associação Inspirar-te e o Onçafari, realizou, entre os dias 21 e 23 de outubro, uma atividade que reuniu arte, cultura e educação ambiental para crianças, no Masp e no Parque...",
+   "link": "http://www.revistaanamaco.com.br/eucatex-une-arte-e-educacao-ambiental-em-acao-no-masp-e-parque-trianon-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "DUE Incorporadora E ATrinca Real Estate Anunciam Novo Empreendimento No Nordeste",
+   "data": "06/11/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Parceria com a NR Sports amplia a Rota DUE, que reúne mais de 35 projetos e VGV estimado em R$ 12 bilhões, com foco em imóveis de lazer e gestão...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/11/due-incorporadora-e-atrinca-real-estate-anunciam-novo-empreendimento-no-nordeste/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Conta do Whatsapp Sobe e Põe Margem do Varejo À Prova na Black Friday",
+   "data": "06/11/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Segundo levantamento da OmniChat, o custo médio de uma conversa conduzida por IA é de R$ 0,99 ante R$ 4,00 com vendedor humano O post Conta do...",
+   "link": "https://forbes.com.br/forbes-money/2026/11/conta-do-whatsapp-sobe-e-poe-margem-do-varejo-a-prova-na-black-friday/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Obras de modernização do Serra Dourada, em Goiás, avançam",
+   "data": "06/11/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "Iniciadas em julho, as obras do Complexo Serra Dourada têm diferentes frentes de trabalho, incluindo intervenções no estádio, nos anéis internos e no Goiânia Arena. O post Obras de modernização do Serra Dourada, em...",
+   "link": "https://revistaoe.com.br/obras-avancam-no-complexo-serra-dourada/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Ativistas invadem canteiro de obras de data center da Microsoft, protestos se espalham pela Europa",
+   "data": "06/11/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "Manifestantes invadiram o canteiro de obras de um data center da Microsoft (MSFT) em Amsterdã nesta sexta-feira (6), no início de dois dias de protestos que fazem parte de uma reação global crescente contra a rápida...",
+   "link": "https://www.moneytimes.com.br/ativistas-invadem-canteiro-de-obras-de-data-center-da-microsoft-protestos-se-espalham-pela-europa-rens/",
+   "aba": "demanda"
   },
   {
    "titulo": "Governo de São Paulo exclui material de construção do ICMS-ST",
@@ -59,82 +123,18 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Nutrien Planeja Fechar Varejo em Mais Três Estados e Projeta Ebitda Negativo no Brasil",
-   "data": "05/11/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Multinacional de insumos agrícolas conclui revisão estratégica no mercado brasileiro até o fim deste ano O post Nutrien Planeja Fechar Varejo em...",
-   "link": "https://forbes.com.br/forbes-agro/2026/11/nutrien-planeja-fechar-varejo-em-mais-tres-estados-e-projeta-ebitda-negativo-no-brasil/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Como Maurizio Billi Construiu uma Fortuna de R$ 21,7 Bilhões com a Eurofarma",
-   "data": "05/11/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Entre os negócios e as pistas de corrida, o empresário, filho de imigrantes italianos, transformou a pequena farmacêutica fundada pelo pai em uma...",
-   "link": "https://forbes.com.br/forbes-money/2026/11/maurizio-billi-trajetoria-eurofarma-fortuna/",
-   "aba": "geral"
-  },
-  {
    "titulo": "Encontro CBIC reúne lideranças em Belém para debater desafios e oportunidades da construção na Região Norte",
    "data": "05/11/2026",
    "fonte": "CBIC",
    "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) deu continuidade, nesta quinta-feira (5), em Belém, ao Encontro CBIC de Incorporadores e Construtores 2026 – Norte. A solenidade de abertura reuniu lideranças...",
    "link": "https://cbic.org.br/encontro-cbic-reune-liderancas-em-belem-para-debater-desafios-e-oportunidades-da-construcao-na-regiao-norte/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Construção gera mais de 9 mil empregos com carteira assinada em setembro",
-   "data": "05/11/2026",
-   "fonte": "CBIC",
-   "resumo": "O setor da construção gerou 9.468 empregos com carteira assinada em setembro de 2026, segundo dados do Novo Cadastro Geral de Empregados e Desempregados (Novo Caged), divulgados nesta quarta-feira (4) pelo Ministério...",
-   "link": "https://cbic.org.br/construcao-gera-mais-de-9-mil-empregos-com-carteira-assinada-em-setembro/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Conexão CBIC, evento de integração e atualização para a alta liderança da construção, tem local definido",
-   "data": "05/11/2026",
-   "fonte": "CBIC",
-   "resumo": "Conhecer cenários, antever tendências e discutir soluções novas para os desafios da indústria da construção com os mais importantes atores do poder público e da iniciativa privada é o objetivo do Conexão CBIC, evento...",
-   "link": "https://cbic.org.br/conexao-cbic-evento-de-integracao-e-atualizacao-para-a-alta-lideranca-da-construcao-tem-local-definido/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Da inteligência artificial à robótica na construção",
-   "data": "05/11/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "Na Cersaie 2026, realizada em setembro, em Bolonha, na Itália, a digitalização ganhou aplicações que ultrapassam o desenvolvimento de produtos. Sistemas capazes de transformar imagens O post Da inteligência...",
-   "link": "https://revistaoe.com.br/inteligencia-artificial-robotica-construcao/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Rede Nacional Liga Steam amplia atuação e faz encontro de educadores em SC",
-   "data": "04/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "Profissionais da rede pública e privada de ensino dos três Estados do Sul do Brasil ganharam um novo canal de integração e elaboração de práticas pedagógicas focadas nas exigências da educação contemporânea. No...",
-   "link": "http://www.revistaanamaco.com.br/rede-nacional-liga-steam-amplia-atuacao-e-faz-encontro-de-educadores-em-sc-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Parceria entre entidades visa combater fornecimento de luminárias LED adulterada",
-   "data": "04/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Abilux, por meio de sua Setorial de Iluminação Pública e do Programa IP Legal, reuniu-se com representantes do Sindicato dos Engenheiros no Estado de São Paulo e do Ipem-SP para discutir a estruturação de uma...",
-   "link": "http://www.revistaanamaco.com.br/parceria-entre-entidades-visa-combater-fornecimento-de-luminarias-led-adulterada",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "InterCement Brasil usa resíduos de gesso como matéria-prima para cimento",
-   "data": "04/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A InterCement Brasil utiliza cerca de 10 mil toneladas de resíduos de gesso, por mês, nas fábricas de Apiaí (SP), Ijaci (MG), Nova Santa Rita e Candiota (RS). Além de evitar que sejam descartados em aterros ou locais...",
-   "link": "http://www.revistaanamaco.com.br/intercement-brasil-usa-residuos-de-gesso-como-materia-prima-para-cimento-",
-   "aba": "insumos"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "05/11/2026"
+   "data": "06/11/2026"
   }
  },
  "mensais": {
