@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "06/11/2026 13:30",
+ "atualizado_em": "06/11/2026 19:36",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -59,19 +59,27 @@ window.DADOS = {
    "aba": "custos"
   },
   {
+   "titulo": "Visita técnica ao SENAI Getúlio Vargas encerra Encontro CBIC de Incorporadores e Construtores 2026 – Norte",
+   "data": "06/11/2026",
+   "fonte": "CBIC",
+   "resumo": "O Encontro CBIC de Incorporadores e Construtores 2026 – Norte foi encerrado nesta sexta-feira (6), em Belém (PA), com uma visita técnica ao SENAI Getúlio Vargas. A atividade reuniu representantes da indústria da...",
+   "link": "https://cbic.org.br/visita-tecnica-ao-senai-getulio-vargas-encerra-encontro-cbic-de-incorporadores-e-construtores-2026-norte/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "FGTS, habitação e perspectivas de investimentos marcam debates do Encontro CBIC em Belém",
+   "data": "06/11/2026",
+   "fonte": "CBIC",
+   "resumo": "O futuro do Fundo de Garantia do Tempo de Serviço (FGTS), a ampliação do acesso à moradia e as perspectivas de investimentos na Região Norte estiveram entre os principais temas do Encontro CBIC de Incorporadores e...",
+   "link": "https://cbic.org.br/fgts-habitacao-e-perspectivas-de-investimentos-marcam-debates-do-encontro-cbic-em-belem/",
+   "aba": "demanda"
+  },
+  {
    "titulo": "Obras de modernização do Serra Dourada, em Goiás, avançam",
    "data": "06/11/2026",
    "fonte": "O Empreiteiro",
    "resumo": "Iniciadas em julho, as obras do Complexo Serra Dourada têm diferentes frentes de trabalho, incluindo intervenções no estádio, nos anéis internos e no Goiânia Arena. O post Obras de modernização do Serra Dourada, em...",
    "link": "https://revistaoe.com.br/obras-avancam-no-complexo-serra-dourada/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Ativistas invadem canteiro de obras de data center da Microsoft, protestos se espalham pela Europa",
-   "data": "06/11/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "Manifestantes invadiram o canteiro de obras de um data center da Microsoft (MSFT) em Amsterdã nesta sexta-feira (6), no início de dois dias de protestos que fazem parte de uma reação global crescente contra a rápida...",
-   "link": "https://www.moneytimes.com.br/ativistas-invadem-canteiro-de-obras-de-data-center-da-microsoft-protestos-se-espalham-pela-europa-rens/",
    "aba": "demanda"
   },
   {
@@ -120,14 +128,6 @@ window.DADOS = {
    "fonte": "Forbes",
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Companhia atribui queda nas vendas ao esgotamento do crédito dos agricultores e pretende concluir revisão do negócio no país até o fim do ano O post...",
    "link": "https://forbes.com.br/forbes-agro/2026/11/nutrien-aposta-na-producao-norte-americana-e-reduz-operacoes-no-varejo-brasileiro/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Encontro CBIC reúne lideranças em Belém para debater desafios e oportunidades da construção na Região Norte",
-   "data": "05/11/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) deu continuidade, nesta quinta-feira (5), em Belém, ao Encontro CBIC de Incorporadores e Construtores 2026 – Norte. A solenidade de abertura reuniu lideranças...",
-   "link": "https://cbic.org.br/encontro-cbic-reune-liderancas-em-belem-para-debater-desafios-e-oportunidades-da-construcao-na-regiao-norte/",
    "aba": "demanda"
   }
  ],
