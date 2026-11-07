@@ -1,14 +1,30 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "06/11/2026 19:36",
+ "atualizado_em": "07/11/2026 12:18",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "06/11/2026",
+   "data": "07/11/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Condições financeiras das pequenas indústrias atingem o pior nível em 5 anos",
+   "data": "07/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "As condições financeiras das pequenas empresas industriais atingiram seu pior nível em cinco anos, mostra o Panorama da Pequena Indústria, divulgado pela CNI. No 3º trimestre, o índice de situação financeira dos...",
+   "link": "http://www.revistaanamaco.com.br/condicoes-financeiras-das-pequenas-industrias-atingem-o-pior-nivel-em-5-anos",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Arauco inicia contratação dos formados do programa Colheita de Talentos",
+   "data": "07/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "Os 20 formados, do programa Colheita de Talentos, da Arauco, iniciaram o processo de contratação pela empresa para atuar nas operações de suprimento de madeira da companhia fortalecendo as atividades florestais",
+   "link": "http://www.revistaanamaco.com.br/arauco-inicia-contratacao-dos-formados-do-programa-colheita-de-talentos-",
+   "aba": "geral"
   },
   {
    "titulo": "Intenção de consumo diminuiu",
@@ -49,14 +65,6 @@ window.DADOS = {
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Parceria com a NR Sports amplia a Rota DUE, que reúne mais de 35 projetos e VGV estimado em R$ 12 bilhões, com foco em imóveis de lazer e gestão...",
    "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/11/due-incorporadora-e-atrinca-real-estate-anunciam-novo-empreendimento-no-nordeste/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Conta do Whatsapp Sobe e Põe Margem do Varejo À Prova na Black Friday",
-   "data": "06/11/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Segundo levantamento da OmniChat, o custo médio de uma conversa conduzida por IA é de R$ 0,99 ante R$ 4,00 com vendedor humano O post Conta do...",
-   "link": "https://forbes.com.br/forbes-money/2026/11/conta-do-whatsapp-sobe-e-poe-margem-do-varejo-a-prova-na-black-friday/",
-   "aba": "custos"
   },
   {
    "titulo": "Visita técnica ao SENAI Getúlio Vargas encerra Encontro CBIC de Incorporadores e Construtores 2026 – Norte",
@@ -121,20 +129,12 @@ window.DADOS = {
    "resumo": "O Grupo Condumax Incesa inaugurou, em 27 de outubro, a expansão da fábrica da Condumax em Olímpia (SP). A nova área eleva a capacidade de produção de fios e cabos da empresa de 25 mil para, aproximadamente, 35 mil...",
    "link": "http://www.revistaanamaco.com.br/grupo-condumax-incesa-anuncia-nova-planta-de-cabos-de-media-tensao-",
    "aba": "geral"
-  },
-  {
-   "titulo": "Nutrien Aposta na Produção Norte-americana e Reduz Operações no Varejo Brasileiro",
-   "data": "05/11/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Companhia atribui queda nas vendas ao esgotamento do crédito dos agricultores e pretende concluir revisão do negócio no país até o fim do ano O post...",
-   "link": "https://forbes.com.br/forbes-agro/2026/11/nutrien-aposta-na-producao-norte-americana-e-reduz-operacoes-no-varejo-brasileiro/",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "06/11/2026"
+   "data": "07/11/2026"
   }
  },
  "mensais": {
