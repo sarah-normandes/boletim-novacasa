@@ -1,10 +1,10 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "09/11/2026 16:23",
+ "atualizado_em": "10/11/2026 00:05",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "09/11/2026",
+   "data": "10/11/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
@@ -41,6 +41,14 @@ window.DADOS = {
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. No Forbes Cast, empresária relembra os 25 anos de trajetória até consolidar uma marca reconhecida por suas criações em prata, moissanites e pedras...",
    "link": "https://forbes.com.br/carreira/2026/11/como-elaine-palma-foi-de-sacoleira-a-designer-de-joias-e-construiu-seu-proprio-negocio/",
    "aba": "geral"
+  },
+  {
+   "titulo": "Belém recebe nesta terça-feira evento sobre industrialização da habitação de interesse social",
+   "data": "09/11/2026",
+   "fonte": "CBIC",
+   "resumo": "Belém recebe, nesta terça-feira (10), o evento “Bota pra Industrializar – Conexões Produtivas para MCMV”, que conta com o apoio da Câmara Brasileira da Indústria da Construção (CBIC) e do Departamento Nacional do...",
+   "link": "https://cbic.org.br/belem-recebe-nesta-terca-feira-evento-sobre-industrializacao-da-habitacao-de-interesse-social/",
+   "aba": "insumos"
   },
   {
    "titulo": "Industrialização da construção: COMAT reúne governo e setor produtivo para discutir caminhos de expansão",
@@ -121,20 +129,12 @@ window.DADOS = {
    "resumo": "A Intenção de Consumo das Famílias caiu pelo terceiro mês consecutivo em outubro, registrando retração de 0,8% na comparação com setembro, já descontados os efeitos sazonais. O indicador, mensurado pela CNC, alcançou...",
    "link": "http://www.revistaanamaco.com.br/intencao-de-consumo-diminuiu",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Tramontina apresenta sua nova marca ao mercado, a Tramontina Althea",
-   "data": "06/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Tramontina apresenta sua nova marca: a Tramontina Althea, com um portfólio de produtos de alto valor agregado, que inclui cubas, monocomandos para cozinha, acessórios e eletros. Uma das novidades é a Coleção...",
-   "link": "http://www.revistaanamaco.com.br/tramontina-apresenta-sua-nova-marca-ao-mercado-a-tramontina-althea",
-   "aba": "geral"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "09/11/2026"
+   "data": "10/11/2026"
   },
   "igpm12": {
    "valor": 1.15,
