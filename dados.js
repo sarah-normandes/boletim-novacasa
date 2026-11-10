@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "10/11/2026 00:05",
+ "atualizado_em": "10/11/2026 13:41",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,54 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Tendência descendente",
+   "data": "10/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Índice de Confiança Empresarial, calculado pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas, recuou 0,3 ponto em outubro, para 89,8 pontos. Na métrica de médias móveis trimestrais, o índice segue em...",
+   "link": "http://www.revistaanamaco.com.br/tendencia-descendente-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Reincidência na inadimplência tem recorde histórico e atinge 87,44% dos consumidores",
+   "data": "10/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "Em setembro, o Indicador Reincidência de Pessoas Físicas, apurado pela CNDL e pelo SPC Brasil, revelou o maior recorde no número de consumidores negativados que já havia figurado nas listas de inadimplentes. No mês,...",
+   "link": "http://www.revistaanamaco.com.br/reincidencia-na-inadimplencia-tem-recorde-historico-e-atinge-8744-dos-consumidores-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Apex Brasil lança IARA, plataforma que ajuda a compor preços de exportação",
+   "data": "10/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Apex Brasil acaba de lançar a IARA de Formação de Preço, uma solução tecnológica apoiada por Inteligência Artificial (IA), que auxilia empresas brasileiras no processo de precificação de produtos destinados à...",
+   "link": "http://www.revistaanamaco.com.br/apex-brasil-lanca-iara-plataforma-que-ajuda-a-compor-precos-de-exportacao-",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Paul McCartney É Bilionário: Como Construiu A Fortuna de US$ 1,4 Bi",
+   "data": "10/11/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. O ex-Beatle transformou direitos autorais, catálogos musicais e turnês em um império financeiro O post Paul McCartney É Bilionário: Como Construiu A...",
+   "link": "https://forbes.com.br/forbes-money/2026/11/paul-mccartney-fortuna-bilionaria/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Quando os Empreendimentos Imobiliários da Vida Real Se Parecem com os das Séries de TV",
+   "data": "10/11/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. De Gilmore Girls a Stranger Things entenda como a nostalgia da TV está moldando projetos residenciais de uso misto nos EUA O post Quando os...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/11/cidades-series-vida-real/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Projeto Elas Constroem no Pará recebe visita de representantes da construção durante Encontro CBIC Norte",
+   "data": "10/11/2026",
+   "fonte": "CBIC",
+   "resumo": "A qualificação profissional de mulheres para atuar na construção civil foi destaque de uma visita à primeira turma do projeto Elas Constroem no Pará, realizada na última quarta-feira (4). A agenda, que integrou as...",
+   "link": "https://cbic.org.br/integrantes-do-encontro-cbic-norte-visitam-primeira-turma-do-projeto-elas-constroem-no-para/",
+   "aba": "geral"
   },
   {
    "titulo": "Movimento menor nas lojas físicas",
@@ -67,14 +115,6 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Novembro Azul: Seconci-DF leva prevenção ao câncer de próstata aos trabalhadores da construção",
-   "data": "09/11/2026",
-   "fonte": "CBIC",
-   "resumo": "O cuidado com a saúde do homem e a prevenção ao câncer de próstata são os principais objetivos da campanha Novembro Azul, realizada pelo Serviço Social da Indústria da Construção Civil do Distrito Federal...",
-   "link": "https://cbic.org.br/novembro-azul-seconci-df-leva-prevencao-ao-cancer-de-prostata-aos-trabalhadores-da-construcao/",
-   "aba": "geral"
-  },
-  {
    "titulo": "CNS vende por R$ 12,7 bi a unidade de cimento à chinesa Huaxin",
    "data": "09/11/2026",
    "fonte": "O Empreiteiro",
@@ -88,46 +128,6 @@ window.DADOS = {
    "fonte": "O Empreiteiro",
    "resumo": "A implantação da nova fábrica de celulose da Arauco, em Inocência (MS), com capacidade de produção de 3,5 milhões de toneladas por ano, reúne desafios O post Soluções ampliam a industrialização na obra da Arauco...",
    "link": "https://revistaoe.com.br/fabrica-de-celulose-arauco-obras/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Abrafati mostrou a experiência brasileira da retirada do chumbo das tintas",
-   "data": "08/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Ministério da Saúde do Peru promoveu, com apoio da organização não governamental Lead Exposure Elimination Project, um workshop internacional com foco na proibição e na fiscalização da presença de chumbo em tintas....",
-   "link": "http://www.revistaanamaco.com.br/abrafati-mostrou-a-experiencia-brasileira-da-retirada-do-chumbo-das-tintas-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Brasilux Tintas patrocina o time do Vasco da Gama na semifinal da Copa do Brasil",
-   "data": "08/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Brasilux Tintas é a patrocinadora do Vasco da Gama para os dois confrontos contra o Palmeiras, válidos pela semifinal da Copa do Brasil. A parceria marca a presença da empresa em uma das etapas mais importantes da...",
-   "link": "http://www.revistaanamaco.com.br/brasilux-tintas-patrocina-o-time-do-vasco-da-gama-na-semifinal-da-copa-do-brasil-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Condições financeiras das pequenas indústrias atingem o pior nível em 5 anos",
-   "data": "07/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "As condições financeiras das pequenas empresas industriais atingiram seu pior nível em cinco anos, mostra o Panorama da Pequena Indústria, divulgado pela CNI. No 3º trimestre, o índice de situação financeira dos...",
-   "link": "http://www.revistaanamaco.com.br/condicoes-financeiras-das-pequenas-industrias-atingem-o-pior-nivel-em-5-anos",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Arauco inicia contratação dos formados do programa Colheita de Talentos",
-   "data": "07/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "Os 20 formados, do programa Colheita de Talentos, da Arauco, iniciaram o processo de contratação pela empresa para atuar nas operações de suprimento de madeira da companhia fortalecendo as atividades florestais",
-   "link": "http://www.revistaanamaco.com.br/arauco-inicia-contratacao-dos-formados-do-programa-colheita-de-talentos-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Intenção de consumo diminuiu",
-   "data": "06/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Intenção de Consumo das Famílias caiu pelo terceiro mês consecutivo em outubro, registrando retração de 0,8% na comparação com setembro, já descontados os efeitos sazonais. O indicador, mensurado pela CNC, alcançou...",
-   "link": "http://www.revistaanamaco.com.br/intencao-de-consumo-diminuiu",
    "aba": "demanda"
   }
  ],
