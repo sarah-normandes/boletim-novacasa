@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "10/11/2026 13:41",
+ "atualizado_em": "10/11/2026 19:41",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Cerimônia de 35 anos do Prêmio Anamaco será na semana que vem",
+   "data": "10/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A indústria e o varejo de material de construção têm um encontro marcado em São Paulo, na próxima terça-feira, 17 de novembro. E não será um encontro qualquer. Na data, a Anamaco vai receber seus convidados, no...",
+   "link": "http://www.revistaanamaco.com.br/cerimonia-de-35-anos-do-premio-anamaco-sera-na-semana-que-vem",
+   "aba": "insumos"
   },
   {
    "titulo": "Tendência descendente",
@@ -35,19 +43,19 @@ window.DADOS = {
    "aba": "custos"
   },
   {
-   "titulo": "Paul McCartney É Bilionário: Como Construiu A Fortuna de US$ 1,4 Bi",
+   "titulo": "Paul McCartney É Bilionário: Como Astro Construiu A Fortuna de US$ 1,4 Bilhão",
    "data": "10/11/2026",
    "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. O ex-Beatle transformou direitos autorais, catálogos musicais e turnês em um império financeiro O post Paul McCartney É Bilionário: Como Construiu A...",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. O ex-Beatle transformou direitos autorais, catálogos musicais e turnês em um império financeiro O post Paul McCartney É Bilionário: Como Astro...",
    "link": "https://forbes.com.br/forbes-money/2026/11/paul-mccartney-fortuna-bilionaria/",
    "aba": "geral"
   },
   {
-   "titulo": "Quando os Empreendimentos Imobiliários da Vida Real Se Parecem com os das Séries de TV",
+   "titulo": "Redução da jornada de trabalho pode impactar construção de 30 mil habitações populares por ano, estima CBIC",
    "data": "10/11/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. De Gilmore Girls a Stranger Things entenda como a nostalgia da TV está moldando projetos residenciais de uso misto nos EUA O post Quando os...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/11/cidades-series-vida-real/",
+   "fonte": "CBIC",
+   "resumo": "A redução da jornada semanal de trabalho de 44 para 40 horas, associada ao fim da escala 6x1, poderá comprometer a construção de aproximadamente 30 mil moradias populares por ano no Brasil, o equivalente ao...",
+   "link": "https://cbic.org.br/reducao-da-jornada-de-trabalho-pode-impactar-construcao-de-30-mil-habitacoes-populares-por-ano-estima-cbic/",
    "aba": "demanda"
   },
   {
@@ -57,6 +65,14 @@ window.DADOS = {
    "resumo": "A qualificação profissional de mulheres para atuar na construção civil foi destaque de uma visita à primeira turma do projeto Elas Constroem no Pará, realizada na última quarta-feira (4). A agenda, que integrou as...",
    "link": "https://cbic.org.br/integrantes-do-encontro-cbic-norte-visitam-primeira-turma-do-projeto-elas-constroem-no-para/",
    "aba": "geral"
+  },
+  {
+   "titulo": "Construtora executa em um mês 1 mi de m³ de terraplenagem nas obras da Transnordestina",
+   "data": "10/11/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "A Agis Construtora, responsável por dois lotes de obras, localizados no Ceará, da ferrovia Transnordestina, afirma ter alcançado no último dia de outubro a marca O post Construtora executa em um mês 1 mi de m³ de...",
+   "link": "https://revistaoe.com.br/obra-de-terraplenagem-na-transnordestina/",
+   "aba": "demanda"
   },
   {
    "titulo": "Movimento menor nas lojas físicas",
@@ -83,14 +99,6 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Como Elaine Palma Foi de Sacoleira a Designer de Joias e Construiu Seu Próprio Negócio",
-   "data": "09/11/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. No Forbes Cast, empresária relembra os 25 anos de trajetória até consolidar uma marca reconhecida por suas criações em prata, moissanites e pedras...",
-   "link": "https://forbes.com.br/carreira/2026/11/como-elaine-palma-foi-de-sacoleira-a-designer-de-joias-e-construiu-seu-proprio-negocio/",
-   "aba": "geral"
-  },
-  {
    "titulo": "Belém recebe nesta terça-feira evento sobre industrialização da habitação de interesse social",
    "data": "09/11/2026",
    "fonte": "CBIC",
@@ -105,14 +113,6 @@ window.DADOS = {
    "resumo": "Os caminhos para ampliar a industrialização na construção civil estarão em debate na 1ª Reunião Ordinária de 2026 da Comissão de Materiais, Tecnologia, Qualidade e Produtividade (COMAT) da Câmara Brasileira da...",
    "link": "https://cbic.org.br/industrializacao-da-construcao-comat-reune-governo-e-setor-produtivo-para-discutir-caminhos-de-expansao/",
    "aba": "geral"
-  },
-  {
-   "titulo": "Pesquisa sobre maturidade digital e BIM na habitação de interesse social recebe respostas até 19 de novembro",
-   "data": "09/11/2026",
-   "fonte": "CBIC",
-   "resumo": "Construtoras e incorporadoras que atuam no segmento de habitação de interesse social (HIS) podem participar, até o dia 19 de novembro, da Pesquisa de Maturidade Digital e BIM na Habitação de Interesse Social. A...",
-   "link": "https://cbic.org.br/pesquisa-sobre-maturidade-digital-e-bim-na-habitacao-de-interesse-social-recebe-respostas-ate-19-de-novembro/",
-   "aba": "demanda"
   },
   {
    "titulo": "CNS vende por R$ 12,7 bi a unidade de cimento à chinesa Huaxin",
