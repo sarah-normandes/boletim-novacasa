@@ -1,14 +1,54 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "10/11/2026 19:41",
+ "atualizado_em": "11/11/2026 13:49",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "10/11/2026",
+   "data": "11/11/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "iGUi chega à Alameda Gabriel Monteiro da Silva, polo de arquitetura e decoração",
+   "data": "11/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A iGui acaba de inaugurar uma loja na Alameda Gabriel Monteiro da Silva, na capital paulista, para ampliar o diálogo com arquitetos, designers, construtoras e incorporadoras e aproximar sua experiência industrial dos...",
+   "link": "http://www.revistaanamaco.com.br/igui-chega-a-alameda-gabriel-monteiro-da-silva-polo-de-arquitetura-e-decoracao-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Busca por crédito cresceu 49,56% em setembro, aponta CNDL/SPC Brasil",
+   "data": "11/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A busca do brasileiro por crédito registrou crescimento de 49,56% em setembro em relação ao mesmo mês de 2025. O indicador, apurado pela CNDL e pelo SPC Brasil, aponta, ainda, que o volume de consultas realizadas...",
+   "link": "http://www.revistaanamaco.com.br/busca-por-credito-cresceu-4956-em-setembro-aponta-cndl-spc-brasil-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Operação na América do Norte influenciou resultados da Gerdau no 3º trimestre",
+   "data": "11/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Gerdau concluiu o terceiro trimestre com Ebitda ajustado de R$ 3,8 bilhões, com margem Ebitda ajustada de 20,2%. Já o lucro líquido ajustado totalizou R$ 1,5 bilhão entre julho e setembro, enquanto a receita...",
+   "link": "http://www.revistaanamaco.com.br/operacao-na-america-do-norte-influenciou-resultados-da-gerdau-no-3-trimestre",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Sinais de Recuperação Judicial: 29% das Empresas Fora do Varejo Estão em Alerta",
+   "data": "11/11/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Dados da consultoria da PwC indicam que as decisões tomadas dentro das empresas influenciam seus resultados tanto quanto o cenário macroeconômico O...",
+   "link": "https://forbes.com.br/forbes-money/2026/11/divida-liquida-recuperacao-judicial-empresas/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "SESMT na construção civil: dimensionamento correto é essencial para a segurança nos canteiros de obras",
+   "data": "11/11/2026",
+   "fonte": "CBIC",
+   "resumo": "O correto dimensionamento do Serviço Especializado em Segurança e em Medicina do Trabalho (SESMT) é uma exigência legal e uma medida fundamental para a prevenção de acidentes e a proteção dos trabalhadores da...",
+   "link": "https://cbic.org.br/sesmt-na-construcao-civil-dimensionamento-correto-e-essencial-para-a-seguranca-nos-canteiros-de-obras/",
+   "aba": "demanda"
   },
   {
    "titulo": "Cerimônia de 35 anos do Prêmio Anamaco será na semana que vem",
@@ -41,14 +81,6 @@ window.DADOS = {
    "resumo": "A Apex Brasil acaba de lançar a IARA de Formação de Preço, uma solução tecnológica apoiada por Inteligência Artificial (IA), que auxilia empresas brasileiras no processo de precificação de produtos destinados à...",
    "link": "http://www.revistaanamaco.com.br/apex-brasil-lanca-iara-plataforma-que-ajuda-a-compor-precos-de-exportacao-",
    "aba": "custos"
-  },
-  {
-   "titulo": "Paul McCartney É Bilionário: Como Astro Construiu A Fortuna de US$ 1,4 Bilhão",
-   "data": "10/11/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. O ex-Beatle transformou direitos autorais, catálogos musicais e turnês em um império financeiro O post Paul McCartney É Bilionário: Como Astro...",
-   "link": "https://forbes.com.br/forbes-money/2026/11/paul-mccartney-fortuna-bilionaria/",
-   "aba": "geral"
   },
   {
    "titulo": "Redução da jornada de trabalho pode impactar construção de 30 mil habitações populares por ano, estima CBIC",
@@ -97,44 +129,12 @@ window.DADOS = {
    "resumo": "A ABB iniciou um programa de mentoria corporativa para colaboradoras, como parte de suas estratégias para ampliar a presença feminina em posições de liderança no longo prazo. O programa selecionou 20 mulheres para...",
    "link": "http://www.revistaanamaco.com.br/abb-lanca-programa-de-mentoria-para-impulsionar-a-lideranca-feminina-no-brasil-",
    "aba": "geral"
-  },
-  {
-   "titulo": "Belém recebe nesta terça-feira evento sobre industrialização da habitação de interesse social",
-   "data": "09/11/2026",
-   "fonte": "CBIC",
-   "resumo": "Belém recebe, nesta terça-feira (10), o evento “Bota pra Industrializar – Conexões Produtivas para MCMV”, que conta com o apoio da Câmara Brasileira da Indústria da Construção (CBIC) e do Departamento Nacional do...",
-   "link": "https://cbic.org.br/belem-recebe-nesta-terca-feira-evento-sobre-industrializacao-da-habitacao-de-interesse-social/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Industrialização da construção: COMAT reúne governo e setor produtivo para discutir caminhos de expansão",
-   "data": "09/11/2026",
-   "fonte": "CBIC",
-   "resumo": "Os caminhos para ampliar a industrialização na construção civil estarão em debate na 1ª Reunião Ordinária de 2026 da Comissão de Materiais, Tecnologia, Qualidade e Produtividade (COMAT) da Câmara Brasileira da...",
-   "link": "https://cbic.org.br/industrializacao-da-construcao-comat-reune-governo-e-setor-produtivo-para-discutir-caminhos-de-expansao/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "CNS vende por R$ 12,7 bi a unidade de cimento à chinesa Huaxin",
-   "data": "09/11/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "Por meio de comunicado ao mercado, a CSN informou que assinou um acordo para vender a CSN Cimentos à chinesa ‌Huaxin. O negócio está avaliado O post CNS vende por R$ 12,7 bi a unidade de cimento à chinesa Huaxin...",
-   "link": "https://revistaoe.com.br/cns-vende-unidade-cimento-12-7-bi-huaxin/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Soluções ampliam a industrialização na obra da Arauco",
-   "data": "09/11/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A implantação da nova fábrica de celulose da Arauco, em Inocência (MS), com capacidade de produção de 3,5 milhões de toneladas por ano, reúne desafios O post Soluções ampliam a industrialização na obra da Arauco...",
-   "link": "https://revistaoe.com.br/fabrica-de-celulose-arauco-obras/",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "10/11/2026"
+   "data": "11/11/2026"
   },
   "igpm12": {
    "valor": 1.15,
