@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "11/11/2026 13:49",
+ "atualizado_em": "11/11/2026 20:54",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Academia Coral amplia plataforma de capacitação e treinamento para pintores",
+   "data": "11/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Coral anuncia novidades para a Academia Coral, sua plataforma de capacitação e desenvolvimento profissional. Com um novo visual, a iniciativa terá navegação mais intuitiva, novos cursos e conteúdo, acompanhamento...",
+   "link": "http://www.revistaanamaco.com.br/academia-coral-amplia-plataforma-de-capacitacao-e-treinamento-para-pintores-",
+   "aba": "geral"
   },
   {
    "titulo": "iGUi chega à Alameda Gabriel Monteiro da Silva, polo de arquitetura e decoração",
@@ -41,6 +49,14 @@ window.DADOS = {
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Dados da consultoria da PwC indicam que as decisões tomadas dentro das empresas influenciam seus resultados tanto quanto o cenário macroeconômico O...",
    "link": "https://forbes.com.br/forbes-money/2026/11/divida-liquida-recuperacao-judicial-empresas/",
    "aba": "demanda"
+  },
+  {
+   "titulo": "Conexão CBIC debate tendências da construção no centro da capital federal",
+   "data": "11/11/2026",
+   "fonte": "CBIC",
+   "resumo": "Para debater o futuro da indústria da construção e temas como cenário econômico, reforma tributária, habitação e infraestrutura, a Câmara Brasileira da Indústria da Construção (CBIC) realiza, no dia 1º de dezembro, a...",
+   "link": "https://cbic.org.br/conexao-cbic-debate-tendencias-da-construcao-no-centro-da-capital-federal/",
+   "aba": "custos"
   },
   {
    "titulo": "SESMT na construção civil: dimensionamento correto é essencial para a segurança nos canteiros de obras",
@@ -113,22 +129,6 @@ window.DADOS = {
    "resumo": "O fluxo no varejo físico brasileiro encerrou o terceiro trimestre com retração de 1,9% em comparação ao mesmo período de 2025, segundo dados do Índice de Intenção de Compra do Varejo, divulgado pela Seed Digital",
    "link": "http://www.revistaanamaco.com.br/movimento-menor-nas-lojas-fisicas",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Grupo Krona adquire a Asperjato e amplia presença no agronegócio brasileiro",
-   "data": "09/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Grupo Krona anuncia a aquisição da Asperjato, indústria especializada na fabricação de componentes para sistemas de irrigação. O movimento integra a estratégia de crescimento e diversificação dos negócios do Grupo,...",
-   "link": "http://www.revistaanamaco.com.br/grupo-krona-adquire-a-asperjato-e-amplia-presenca-no-agronegocio-brasileiro-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "ABB lança programa de mentoria para impulsionar a liderança feminina no Brasil",
-   "data": "09/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A ABB iniciou um programa de mentoria corporativa para colaboradoras, como parte de suas estratégias para ampliar a presença feminina em posições de liderança no longo prazo. O programa selecionou 20 mulheres para...",
-   "link": "http://www.revistaanamaco.com.br/abb-lanca-programa-de-mentoria-para-impulsionar-a-lideranca-feminina-no-brasil-",
-   "aba": "geral"
   }
  ],
  "diarios": {
