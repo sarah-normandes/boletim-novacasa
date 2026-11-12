@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "12/11/2026 14:16",
+ "atualizado_em": "12/11/2026 20:01",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,38 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Assa Abloy adquire Rometal, fabricante de soluções e acessórios em alumínio",
+   "data": "12/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Assa Abloy assinou um acordo para adquirir a Rometal, fabricante brasileira de soluções e acessórios em alumínio, incluindo sistemas para portas internas, portas de armários, perfis e puxadores. A transação está...",
+   "link": "http://www.revistaanamaco.com.br/assa-abloy-adquire-rometal-fabricante-de-solucoes-e-acessorios-em-aluminio-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Stam lança plataforma digital voltada para o atendimento de empresas",
+   "data": "12/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Stam apresenta uma nova Plataforma Digital de Negócios: o Stam para quem vende. Trata-se de um canal B2B - voltado para empresas - criado para conectar lojistas, distribuidores, atacadistas, construtoras e...",
+   "link": "http://www.revistaanamaco.com.br/stam-lanca-plataforma-digital-voltada-para-o-atendimento-de-empresas",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Abramat reduz previsão de crescimento do setor",
+   "data": "12/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Abramat ampliou de 0,8% para 1,3% a projeção de queda do faturamento real do setor em 2026. A revisão ocorre em um cenário de retração acumulada de 2,8% no ano, apesar do crescimento mensal estimado de 1,0% em...",
+   "link": "http://www.revistaanamaco.com.br/abramat-reduz-previsao-de-crescimento-do-setor",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Projeto Intenção em Ação, da Soprano, recebe Prêmio Destaques do Ano em RH",
+   "data": "12/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Soprano conquistou o Prêmio Destaques do Ano em RH 2026, promovido pela ARH Serrana, em reconhecimento ao projeto Intenção em Ação, vencedor na categoria Projeto de Responsabilidade Socioambiental",
+   "link": "http://www.revistaanamaco.com.br/projeto-intencao-em-acao-da-soprano-recebe-premio-destaques-do-ano-em-rh-",
+   "aba": "insumos"
   },
   {
    "titulo": "Maioria das indústrias projeta redução do lucro nos próximos três meses, mostra CNI",
@@ -43,12 +75,36 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Lammart Construtora Transforma Projetos De Arquitetura Em Residências De Alto Padrão",
+   "titulo": "Fim da escala 6×1: CBIC avalia que decisão de Flávio Dino traz flexibilizações, mas não afasta impactos na construção civil",
    "data": "12/11/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Com 380 obras concluídas, a empresa paulistana aposta na parceria com arquitetos, na gestão especializada e no atendimento próximo aos clientes O...",
-   "link": "https://forbes.com.br/forbes-life/2026/11/lammart-construtora-transforma-projetos-de-arquitetura-em-residencias-de-alto-padrao/",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) avalia que as flexibilizações previstas na decisão do ministro Flávio Dino, do Supremo Tribunal Federal (STF), representam um passo na direção correta, mas ainda...",
+   "link": "https://cbic.org.br/fim-da-escala-6x1-cbic-avalia-que-decisao-de-flavio-dino-traz-flexibilizacoes-mas-nao-afasta-impactos-na-construcao-civil/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Receita Federal anuncia medidas para transição da Reforma Tributária em 2027, mas desafios persistem para a construção civil",
+   "data": "12/11/2026",
+   "fonte": "CBIC",
+   "resumo": "A Receita Federal anunciou, nesta quarta-feira (11), um conjunto de medidas para facilitar a implementação da Reforma Tributária do Consumo em 2027. Apresentadas em conjunto com o Conselho Federal de Contabilidade...",
+   "link": "https://cbic.org.br/receita-federal-anuncia-medidas-para-transicao-da-reforma-tributaria-em-2027-mas-desafios-persistem-para-a-construcao-civil/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Empresários do DF vão à China em busca de tecnologias para transformar a construção civil",
+   "data": "12/11/2026",
+   "fonte": "CBIC",
+   "resumo": "A construção civil brasileira enfrenta um desafio que passa pela produtividade, pela modernização dos processos e pela escassez de mão de obra. Em busca de referências para enfrentar esse cenário, uma delegação de 22...",
+   "link": "https://cbic.org.br/empresarios-do-df-vao-a-china-em-busca-de-tecnologias-para-transformar-a-construcao-civil/",
    "aba": "demanda"
+  },
+  {
+   "titulo": "Conexão CBIC reúne lideranças para discutir os rumos da construção em 2027: inscrições estão abertas",
+   "data": "12/11/2026",
+   "fonte": "CBIC",
+   "resumo": "Reforma tributária, mudanças nas relações de trabalho, financiamento habitacional e competitividade da infraestrutura estão entre os temas que vão influenciar os rumos da indústria da construção nos próximos anos....",
+   "link": "https://cbic.org.br/conexao-cbic-reune-liderancas-para-discutir-os-rumos-da-construcao-em-2027-inscricoes-estao-abertas/",
+   "aba": "custos"
   },
   {
    "titulo": "Simulações 3D prévias na siderurgia otimizam operações na parada de produção",
@@ -73,62 +129,6 @@ window.DADOS = {
    "resumo": "A iGui acaba de inaugurar uma loja na Alameda Gabriel Monteiro da Silva, na capital paulista, para ampliar o diálogo com arquitetos, designers, construtoras e incorporadoras e aproximar sua experiência industrial dos...",
    "link": "http://www.revistaanamaco.com.br/igui-chega-a-alameda-gabriel-monteiro-da-silva-polo-de-arquitetura-e-decoracao-",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Busca por crédito cresceu 49,56% em setembro, aponta CNDL/SPC Brasil",
-   "data": "11/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A busca do brasileiro por crédito registrou crescimento de 49,56% em setembro em relação ao mesmo mês de 2025. O indicador, apurado pela CNDL e pelo SPC Brasil, aponta, ainda, que o volume de consultas realizadas...",
-   "link": "http://www.revistaanamaco.com.br/busca-por-credito-cresceu-4956-em-setembro-aponta-cndl-spc-brasil-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Operação na América do Norte influenciou resultados da Gerdau no 3º trimestre",
-   "data": "11/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Gerdau concluiu o terceiro trimestre com Ebitda ajustado de R$ 3,8 bilhões, com margem Ebitda ajustada de 20,2%. Já o lucro líquido ajustado totalizou R$ 1,5 bilhão entre julho e setembro, enquanto a receita...",
-   "link": "http://www.revistaanamaco.com.br/operacao-na-america-do-norte-influenciou-resultados-da-gerdau-no-3-trimestre",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Conexão CBIC debate tendências da construção no centro da capital federal",
-   "data": "11/11/2026",
-   "fonte": "CBIC",
-   "resumo": "Para debater o futuro da indústria da construção e temas como cenário econômico, reforma tributária, habitação e infraestrutura, a Câmara Brasileira da Indústria da Construção (CBIC) realiza, no dia 1º de dezembro, a...",
-   "link": "https://cbic.org.br/conexao-cbic-debate-tendencias-da-construcao-no-centro-da-capital-federal/",
-   "aba": "custos"
-  },
-  {
-   "titulo": "SESMT na construção civil: dimensionamento correto é essencial para a segurança nos canteiros de obras",
-   "data": "11/11/2026",
-   "fonte": "CBIC",
-   "resumo": "O correto dimensionamento do Serviço Especializado em Segurança e em Medicina do Trabalho (SESMT) é uma exigência legal e uma medida fundamental para a prevenção de acidentes e a proteção dos trabalhadores da...",
-   "link": "https://cbic.org.br/sesmt-na-construcao-civil-dimensionamento-correto-e-essencial-para-a-seguranca-nos-canteiros-de-obras/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Cerimônia de 35 anos do Prêmio Anamaco será na semana que vem",
-   "data": "10/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A indústria e o varejo de material de construção têm um encontro marcado em São Paulo, na próxima terça-feira, 17 de novembro. E não será um encontro qualquer. Na data, a Anamaco vai receber seus convidados, no...",
-   "link": "http://www.revistaanamaco.com.br/cerimonia-de-35-anos-do-premio-anamaco-sera-na-semana-que-vem",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Tendência descendente",
-   "data": "10/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Índice de Confiança Empresarial, calculado pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas, recuou 0,3 ponto em outubro, para 89,8 pontos. Na métrica de médias móveis trimestrais, o índice segue em...",
-   "link": "http://www.revistaanamaco.com.br/tendencia-descendente-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Reincidência na inadimplência tem recorde histórico e atinge 87,44% dos consumidores",
-   "data": "10/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "Em setembro, o Indicador Reincidência de Pessoas Físicas, apurado pela CNDL e pelo SPC Brasil, revelou o maior recorde no número de consumidores negativados que já havia figurado nas listas de inadimplentes. No mês,...",
-   "link": "http://www.revistaanamaco.com.br/reincidencia-na-inadimplencia-tem-recorde-historico-e-atinge-8744-dos-consumidores-",
-   "aba": "geral"
   }
  ],
  "diarios": {
