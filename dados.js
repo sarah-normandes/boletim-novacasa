@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "13/11/2026 13:52",
+ "atualizado_em": "13/11/2026 20:04",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -35,12 +35,44 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Caixa estuda aumentar juros do financiamento imobiliário, diz vice-presidente",
+   "titulo": "CBIC apresenta indicadores do mercado imobiliário nacional no dia 23 de novembro",
    "data": "13/11/2026",
-   "fonte": "InfoMoney",
-   "resumo": "Banco avalia reajuste das taxas diante da disponibilidade de recursos The post Caixa estuda aumentar juros do financiamento imobiliário, diz vice-presidente appeared first on InfoMoney .",
-   "link": "https://www.infomoney.com.br/minhas-financas/caixa-estuda-aumentar-juros-do-financiamento-imobiliario-diz-vice-presidente/",
-   "aba": "custos"
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) realiza, neste dia 23 de novembro, às 10h, uma coletiva para apresentar os Indicadores Imobiliários Nacionais referentes ao terceiro trimestre de 2026. O encontro...",
+   "link": "https://cbic.org.br/cbic-apresenta-indicadores-do-mercado-imobiliario-nacional-nesta-segunda/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Senado aprova texto-base de projeto de ajuste fiscal com impactos para a construção civil",
+   "data": "13/11/2026",
+   "fonte": "CBIC",
+   "resumo": "O Senado Federal aprovou, nesta quinta-feira (12), por 45 votos a 31, o texto-base do Projeto de Lei Complementar (PLP) 299/2026, que prevê novas medidas de ajuste fiscal com possíveis impactos para a indústria da...",
+   "link": "https://cbic.org.br/senado-aprova-texto-base-de-projeto-de-ajuste-fiscal-com-impactos-para-a-construcao-civil/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "CBIC participa do Conexão FNDI, que reúne lideranças do mercado imobiliário em São Paulo",
+   "data": "13/11/2026",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC), uma das entidades que integram o Fórum Nacional de Desenvolvimento Imobiliário (FNDI), participou, nesta quarta-feira (11), em São Paulo, do Conexão FNDI – O...",
+   "link": "https://cbic.org.br/cbic-participa-do-conexao-fndi-que-reune-liderancas-do-mercado-imobiliario-em-sao-paulo/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Projeto Mãos na Areia reúne construtoras e sociedade em ação de preservação ambiental no litoral de Maceió",
+   "data": "13/11/2026",
+   "fonte": "CBIC",
+   "resumo": "Iniciativa conjunta do Sinduscon-AL, Ademi-AL e construtoras pretende mobilizar profissionais do setor e moradores para a limpeza da faixa de areia e a preservação da Salsa, vegetação nativa do litoral A preservação...",
+   "link": "https://cbic.org.br/projeto-maos-na-areia-reune-construtoras-e-sociedade-em-acao-de-preservacao-ambiental-no-litoral-de-maceio/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Investimentos totais da Votorantim Cimentos no 3° tri somaram R$ 877mi",
+   "data": "13/11/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "A Votorantim cimentos informou em seu balanço de julho a setembro deste ano que o seu volume global de vendas de cimento alcançou 10,7 milhões O post Investimentos totais da Votorantim Cimentos no 3° tri somaram R$...",
+   "link": "https://revistaoe.com.br/investimentos-votorantim-cimentos-877-milhoes-terceiro-trimestre/",
+   "aba": "insumos"
   },
   {
    "titulo": "Assa Abloy adquire Rometal, fabricante de soluções e acessórios em alumínio",
@@ -97,38 +129,6 @@ window.DADOS = {
    "resumo": "A Dexco encerrou o terceiro trimestre com EBITDA ajustado e recorrente de R$ 585 milhões, o que representa alta de 31,6% na comparação anual, enquanto a receita líquida alcançou R$ 2,34 bilhões, com crescimento de 9,8%",
    "link": "http://www.revistaanamaco.com.br/dexco-registra-ebitda-de-r-585-milhoes-no-3t26-e-avanca-no-plano-de-transformacao-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Fim da escala 6×1: CBIC avalia que decisão de Flávio Dino traz flexibilizações, mas não afasta impactos na construção civil",
-   "data": "12/11/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) avalia que as flexibilizações previstas na decisão do ministro Flávio Dino, do Supremo Tribunal Federal (STF), representam um passo na direção correta, mas ainda...",
-   "link": "https://cbic.org.br/fim-da-escala-6x1-cbic-avalia-que-decisao-de-flavio-dino-traz-flexibilizacoes-mas-nao-afasta-impactos-na-construcao-civil/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Receita Federal anuncia medidas para transição da Reforma Tributária em 2027, mas desafios persistem para a construção civil",
-   "data": "12/11/2026",
-   "fonte": "CBIC",
-   "resumo": "A Receita Federal anunciou, nesta quarta-feira (11), um conjunto de medidas para facilitar a implementação da Reforma Tributária do Consumo em 2027. Apresentadas em conjunto com o Conselho Federal de Contabilidade...",
-   "link": "https://cbic.org.br/receita-federal-anuncia-medidas-para-transicao-da-reforma-tributaria-em-2027-mas-desafios-persistem-para-a-construcao-civil/",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Empresários do DF vão à China em busca de tecnologias para transformar a construção civil",
-   "data": "12/11/2026",
-   "fonte": "CBIC",
-   "resumo": "A construção civil brasileira enfrenta um desafio que passa pela produtividade, pela modernização dos processos e pela escassez de mão de obra. Em busca de referências para enfrentar esse cenário, uma delegação de 22...",
-   "link": "https://cbic.org.br/empresarios-do-df-vao-a-china-em-busca-de-tecnologias-para-transformar-a-construcao-civil/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Conexão CBIC reúne lideranças para discutir os rumos da construção em 2027: inscrições estão abertas",
-   "data": "12/11/2026",
-   "fonte": "CBIC",
-   "resumo": "Reforma tributária, mudanças nas relações de trabalho, financiamento habitacional e competitividade da infraestrutura estão entre os temas que vão influenciar os rumos da indústria da construção nos próximos anos....",
-   "link": "https://cbic.org.br/conexao-cbic-reune-liderancas-para-discutir-os-rumos-da-construcao-em-2027-inscricoes-estao-abertas/",
-   "aba": "custos"
   }
  ],
  "diarios": {
