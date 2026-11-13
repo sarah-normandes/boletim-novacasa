@@ -1,14 +1,46 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "12/11/2026 20:01",
+ "atualizado_em": "13/11/2026 13:52",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "12/11/2026",
+   "data": "13/11/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Construção criou 9,4 mil vagas em setembro",
+   "data": "13/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "Os dados do Caged, divulgados pelo Ministério do Trabalho e Emprego, mostram que, em setembro, a indústria da construção abriu 9.468 novos empregos no País, uma alta de 0,30% em relação ao número de agosto. Com isso,...",
+   "link": "http://www.revistaanamaco.com.br/construcao-criou-94-mil-vagas-em-setembro-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Confiança empresarial em menor nível desde 2021",
+   "data": "13/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "Os empresários do comércio chegam ao último trimestre com menos planos de expansão e contratação. O Índice de Confiança do Empresário do Comércio, apurado pela CNC, registrou um recuo de 2,7% em outubro, reflexo das...",
+   "link": "http://www.revistaanamaco.com.br/confianca-empresarial-em-menor-nivel-desde-2021-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Lorenzetti renova patrocínio ao Banho Solidário Sampa por mais dois anos",
+   "data": "13/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Lorenzetti anuncia a renovação do patrocínio ao Banho Solidário Sampa por mais dois anos, reforçando seu compromisso com iniciativas de impacto social que promovem bem-estar e inclusão. Durante o período, a...",
+   "link": "http://www.revistaanamaco.com.br/lorenzetti-renova-patrocinio-ao-banho-solidario-sampa-por-mais-dois-anos",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Caixa estuda aumentar juros do financiamento imobiliário, diz vice-presidente",
+   "data": "13/11/2026",
+   "fonte": "InfoMoney",
+   "resumo": "Banco avalia reajuste das taxas diante da disponibilidade de recursos The post Caixa estuda aumentar juros do financiamento imobiliário, diz vice-presidente appeared first on InfoMoney .",
+   "link": "https://www.infomoney.com.br/minhas-financas/caixa-estuda-aumentar-juros-do-financiamento-imobiliario-diz-vice-presidente/",
+   "aba": "custos"
   },
   {
    "titulo": "Assa Abloy adquire Rometal, fabricante de soluções e acessórios em alumínio",
@@ -67,14 +99,6 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "GBC Brasil Amplia Certificação GBC Casa & Condomínio E Incentiva A Sustentabilidade No Mercado Imobiliário Residencial",
-   "data": "12/11/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Com mais de 92 milhões de m² certificados, o GBC Brasil promove eficiência energética, valorização dos imóveis e qualidade de vida em casas e...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/11/gbc-brasil-amplia-certificacao-gbc-casa-condominio-e-incentiva-a-sustentabilidade-no-mercado-imobiliario-residencial/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "Fim da escala 6×1: CBIC avalia que decisão de Flávio Dino traz flexibilizações, mas não afasta impactos na construção civil",
    "data": "12/11/2026",
    "fonte": "CBIC",
@@ -105,36 +129,12 @@ window.DADOS = {
    "resumo": "Reforma tributária, mudanças nas relações de trabalho, financiamento habitacional e competitividade da infraestrutura estão entre os temas que vão influenciar os rumos da indústria da construção nos próximos anos....",
    "link": "https://cbic.org.br/conexao-cbic-reune-liderancas-para-discutir-os-rumos-da-construcao-em-2027-inscricoes-estao-abertas/",
    "aba": "custos"
-  },
-  {
-   "titulo": "Simulações 3D prévias na siderurgia otimizam operações na parada de produção",
-   "data": "12/11/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A troca do Forno Elétrico a Arco (FEA) em uma importante siderúrgica de Pernambuco é um dos projetos que reforça a atuação da Kempetro Engenharia O post Simulações 3D prévias na siderurgia otimizam operações na...",
-   "link": "https://revistaoe.com.br/simulacoes-3d-siderurgia-otimizam-paradas-producao/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Academia Coral amplia plataforma de capacitação e treinamento para pintores",
-   "data": "11/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Coral anuncia novidades para a Academia Coral, sua plataforma de capacitação e desenvolvimento profissional. Com um novo visual, a iniciativa terá navegação mais intuitiva, novos cursos e conteúdo, acompanhamento...",
-   "link": "http://www.revistaanamaco.com.br/academia-coral-amplia-plataforma-de-capacitacao-e-treinamento-para-pintores-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "iGUi chega à Alameda Gabriel Monteiro da Silva, polo de arquitetura e decoração",
-   "data": "11/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A iGui acaba de inaugurar uma loja na Alameda Gabriel Monteiro da Silva, na capital paulista, para ampliar o diálogo com arquitetos, designers, construtoras e incorporadoras e aproximar sua experiência industrial dos...",
-   "link": "http://www.revistaanamaco.com.br/igui-chega-a-alameda-gabriel-monteiro-da-silva-polo-de-arquitetura-e-decoracao-",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "12/11/2026"
+   "data": "13/11/2026"
   },
   "ipca12": {
    "valor": 4.63,
