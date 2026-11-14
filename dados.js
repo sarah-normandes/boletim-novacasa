@@ -1,14 +1,38 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "13/11/2026 20:04",
+ "atualizado_em": "14/11/2026 12:26",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "13/11/2026",
+   "data": "14/11/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Stihl firma parceria para destinação sustentável de resíduos em Benevides (PA)",
+   "data": "14/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Stihl firmou uma parceria com a Prefeitura Municipal de Benevides e com a cooperativa ReciclaBen para ampliar o reaproveitamento e a reciclagem de resíduos gerados em seu Centro de Distribuição localizado no...",
+   "link": "http://www.revistaanamaco.com.br/stihl-firma-parceria-para-destinacao-sustentavel-de-residuos-em-benevides-pa-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Campanha quer conscientizar sobre a importância da impermeabilização",
+   "data": "14/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "Para ampliar a conscientização sobre a importância da impermeabilização na conservação das edificações e na promoção de ambientes mais saudáveis, o Movimento Construção Saudável promove uma mobilização nacional que...",
+   "link": "http://www.revistaanamaco.com.br/campanha-quer-conscientizar-sobre-a-importancia-da-impermeabilizacao---",
+   "aba": "geral"
+  },
+  {
+   "titulo": "De calote a briga milionária na Justiça: veja o que movimentou os fundos imobiliários (FIIs) na semana",
+   "data": "14/11/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "De calote a briga nos tribunais, a semana foi movimentada no mercado de fundos imobiliários (FIIs), com operações de compra de imóveis, mudanças na carteira de inquilinos e problemas envolvendo contratos de locação....",
+   "link": "https://www.moneytimes.com.br/de-calote-a-briga-milionaria-na-justica-veja-o-que-movimentou-os-fundos-imobiliarios-fiis-na-semana-igdl/",
+   "aba": "demanda"
   },
   {
    "titulo": "Construção criou 9,4 mil vagas em setembro",
@@ -105,36 +129,12 @@ window.DADOS = {
    "resumo": "A Soprano conquistou o Prêmio Destaques do Ano em RH 2026, promovido pela ARH Serrana, em reconhecimento ao projeto Intenção em Ação, vencedor na categoria Projeto de Responsabilidade Socioambiental",
    "link": "http://www.revistaanamaco.com.br/projeto-intencao-em-acao-da-soprano-recebe-premio-destaques-do-ano-em-rh-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Maioria das indústrias projeta redução do lucro nos próximos três meses, mostra CNI",
-   "data": "12/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "Levantamento da CNI revela que 56,9% das empresas industriais consultadas projetam redução ou forte redução no percentual de lucro nos próximos três meses. Esse percentual é quase quatro vezes maior do que os 15,9%...",
-   "link": "http://www.revistaanamaco.com.br/maioria-das-industrias-projeta-reducao-do-lucro-nos-proximos-tres-meses-mostra-cni-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Obramax oferece, em novembro, sete mil vagas em cursos para a construção",
-   "data": "12/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "Com foco na valorização de quem atua no segmento e na ampliação das oportunidades de geração de renda, a Obramax anuncia a abertura de sete mil vagas gratuitas para a Academia de Profissionais neste mês de novembro",
-   "link": "http://www.revistaanamaco.com.br/obramax-oferece-em-novembro-sete-mil-vagas-em-cursos-para-a-construcao-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Dexco registra EBITDA de R$ 585 milhões no 3T26 e avança no plano de transformação",
-   "data": "12/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Dexco encerrou o terceiro trimestre com EBITDA ajustado e recorrente de R$ 585 milhões, o que representa alta de 31,6% na comparação anual, enquanto a receita líquida alcançou R$ 2,34 bilhões, com crescimento de 9,8%",
-   "link": "http://www.revistaanamaco.com.br/dexco-registra-ebitda-de-r-585-milhoes-no-3t26-e-avanca-no-plano-de-transformacao-",
-   "aba": "insumos"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "13/11/2026"
+   "data": "14/11/2026"
   },
   "ipca12": {
    "valor": 4.63,
