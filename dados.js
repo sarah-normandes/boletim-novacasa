@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "14/11/2026 12:26",
+ "atualizado_em": "14/11/2026 18:51",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
