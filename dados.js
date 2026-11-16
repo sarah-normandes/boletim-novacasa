@@ -1,14 +1,54 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "14/11/2026 18:51",
+ "atualizado_em": "16/11/2026 16:07",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "14/11/2026",
+   "data": "16/11/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Eternit registra receita líquida de R$ 322,6 milhões no terceiro trimestre",
+   "data": "16/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Eternit acaba de divulgar seu relatório financeiro referente ao 3º trimestre. Entre os destaques do período está o fortalecimento do Fibrocimento, que registrou evolução de 6,1% na receita líquida, totalizando R$...",
+   "link": "http://www.revistaanamaco.com.br/eternit-registra-receita-liquida-de-r-3226-milhoes-no-terceiro-trimestre",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Laufen inaugura espaço em São Paulo e reforça presença no mercado brasileiro",
+   "data": "16/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A marca suíça Laufen inaugurou, em 11 de novembro, um espaço dedicado à marca no Laufen Roca São Paulo Gallery. A iniciativa amplia o contato do mercado brasileiro com o portfólio e soluções da marca para arquitetura...",
+   "link": "http://www.revistaanamaco.com.br/laufen-inaugura-espaco-em-sao-paulo-e-reforca-presenca-no-mercado-brasileiro-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Venda de cimento desacelerou em outubro",
+   "data": "16/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A indústria brasileira de cimento comercializou R$ 5,9 milhões de toneladas em outubro, o que significa uma queda de 6,1% em relação ao mesmo mês de 2025, segundo o SNIC. No acumulado do ano, as vendas somaram R$...",
+   "link": "http://www.revistaanamaco.com.br/venda-de-cimento-desacelerou-em-outubro-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Prêmio Abrart consagra os destaques do mercado de tintas e estreia categorias",
+   "data": "15/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "O mercado brasileiro de tintas e seus principais fornecedores estiveram reunidos, em 05 de novembro, em São Paulo, para a 32ª edição do Prêmio Abrart.  O evento reconheceu empresas, marcas e produtos que conquistaram...",
+   "link": "http://www.revistaanamaco.com.br/premio-abrart-consagra-os-destaques-do-mercado-de-tintas-e-estreia-categorias-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Transporte: o principal gargalo de infraestrutura",
+   "data": "15/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "O transporte é apontado por 75% dos empresários industriais brasileiros como o principal gargalo de infraestrutura. É o que mostra pesquisa da CNI, realizada com 2.500 representantes de médias e grandes empresas. O...",
+   "link": "http://www.revistaanamaco.com.br/transporte-o-principal-gargalo-de-infraestrutura-",
+   "aba": "geral"
   },
   {
    "titulo": "Stihl firma parceria para destinação sustentável de resíduos em Benevides (PA)",
@@ -25,14 +65,6 @@ window.DADOS = {
    "resumo": "Para ampliar a conscientização sobre a importância da impermeabilização na conservação das edificações e na promoção de ambientes mais saudáveis, o Movimento Construção Saudável promove uma mobilização nacional que...",
    "link": "http://www.revistaanamaco.com.br/campanha-quer-conscientizar-sobre-a-importancia-da-impermeabilizacao---",
    "aba": "geral"
-  },
-  {
-   "titulo": "De calote a briga milionária na Justiça: veja o que movimentou os fundos imobiliários (FIIs) na semana",
-   "data": "14/11/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "De calote a briga nos tribunais, a semana foi movimentada no mercado de fundos imobiliários (FIIs), com operações de compra de imóveis, mudanças na carteira de inquilinos e problemas envolvendo contratos de locação....",
-   "link": "https://www.moneytimes.com.br/de-calote-a-briga-milionaria-na-justica-veja-o-que-movimentou-os-fundos-imobiliarios-fiis-na-semana-igdl/",
-   "aba": "demanda"
   },
   {
    "titulo": "Construção criou 9,4 mil vagas em setembro",
@@ -91,50 +123,18 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Investimentos totais da Votorantim Cimentos no 3° tri somaram R$ 877mi",
-   "data": "13/11/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A Votorantim cimentos informou em seu balanço de julho a setembro deste ano que o seu volume global de vendas de cimento alcançou 10,7 milhões O post Investimentos totais da Votorantim Cimentos no 3° tri somaram R$...",
-   "link": "https://revistaoe.com.br/investimentos-votorantim-cimentos-877-milhoes-terceiro-trimestre/",
-   "aba": "insumos"
-  },
-  {
    "titulo": "Assa Abloy adquire Rometal, fabricante de soluções e acessórios em alumínio",
    "data": "12/11/2026",
    "fonte": "Anamaco",
    "resumo": "A Assa Abloy assinou um acordo para adquirir a Rometal, fabricante brasileira de soluções e acessórios em alumínio, incluindo sistemas para portas internas, portas de armários, perfis e puxadores. A transação está...",
    "link": "http://www.revistaanamaco.com.br/assa-abloy-adquire-rometal-fabricante-de-solucoes-e-acessorios-em-aluminio-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Stam lança plataforma digital voltada para o atendimento de empresas",
-   "data": "12/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Stam apresenta uma nova Plataforma Digital de Negócios: o Stam para quem vende. Trata-se de um canal B2B - voltado para empresas - criado para conectar lojistas, distribuidores, atacadistas, construtoras e...",
-   "link": "http://www.revistaanamaco.com.br/stam-lanca-plataforma-digital-voltada-para-o-atendimento-de-empresas",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Abramat reduz previsão de crescimento do setor",
-   "data": "12/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Abramat ampliou de 0,8% para 1,3% a projeção de queda do faturamento real do setor em 2026. A revisão ocorre em um cenário de retração acumulada de 2,8% no ano, apesar do crescimento mensal estimado de 1,0% em...",
-   "link": "http://www.revistaanamaco.com.br/abramat-reduz-previsao-de-crescimento-do-setor",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Projeto Intenção em Ação, da Soprano, recebe Prêmio Destaques do Ano em RH",
-   "data": "12/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Soprano conquistou o Prêmio Destaques do Ano em RH 2026, promovido pela ARH Serrana, em reconhecimento ao projeto Intenção em Ação, vencedor na categoria Projeto de Responsabilidade Socioambiental",
-   "link": "http://www.revistaanamaco.com.br/projeto-intencao-em-acao-da-soprano-recebe-premio-destaques-do-ano-em-rh-",
-   "aba": "insumos"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "14/11/2026"
+   "data": "16/11/2026"
   },
   "ipca12": {
    "valor": 4.63,
