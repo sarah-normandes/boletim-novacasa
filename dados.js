@@ -1,10 +1,10 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "16/11/2026 16:07",
+ "atualizado_em": "17/11/2026 00:19",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "16/11/2026",
+   "data": "17/11/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
@@ -33,6 +33,14 @@ window.DADOS = {
    "resumo": "A indústria brasileira de cimento comercializou R$ 5,9 milhões de toneladas em outubro, o que significa uma queda de 6,1% em relação ao mesmo mês de 2025, segundo o SNIC. No acumulado do ano, as vendas somaram R$...",
    "link": "http://www.revistaanamaco.com.br/venda-de-cimento-desacelerou-em-outubro-",
    "aba": "insumos"
+  },
+  {
+   "titulo": "Seconci-SP: entidade lança Observatório de Acidentes da Construção",
+   "data": "16/11/2026",
+   "fonte": "CBIC",
+   "resumo": "Em mais uma contribuição à saúde e à segurança do trabalho, o Seconci-SP (Serviço Social da Construção) lançou em 10 de novembro o Observatório de Acidentes da Construção. O evento aconteceu na reunião híbrida do...",
+   "link": "https://cbic.org.br/seconci-sp-entidade-lanca-observatorio-de-acidentes-da-construcao/",
+   "aba": "geral"
   },
   {
    "titulo": "Prêmio Abrart consagra os destaques do mercado de tintas e estreia categorias",
@@ -115,26 +123,18 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Projeto Mãos na Areia reúne construtoras e sociedade em ação de preservação ambiental no litoral de Maceió",
+   "titulo": "Investimentos totais da Votorantim Cimentos no 3° tri somaram R$ 877mi",
    "data": "13/11/2026",
-   "fonte": "CBIC",
-   "resumo": "Iniciativa conjunta do Sinduscon-AL, Ademi-AL e construtoras pretende mobilizar profissionais do setor e moradores para a limpeza da faixa de areia e a preservação da Salsa, vegetação nativa do litoral A preservação...",
-   "link": "https://cbic.org.br/projeto-maos-na-areia-reune-construtoras-e-sociedade-em-acao-de-preservacao-ambiental-no-litoral-de-maceio/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Assa Abloy adquire Rometal, fabricante de soluções e acessórios em alumínio",
-   "data": "12/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Assa Abloy assinou um acordo para adquirir a Rometal, fabricante brasileira de soluções e acessórios em alumínio, incluindo sistemas para portas internas, portas de armários, perfis e puxadores. A transação está...",
-   "link": "http://www.revistaanamaco.com.br/assa-abloy-adquire-rometal-fabricante-de-solucoes-e-acessorios-em-aluminio-",
+   "fonte": "O Empreiteiro",
+   "resumo": "A Votorantim cimentos informou em seu balanço de julho a setembro deste ano que o seu volume global de vendas de cimento alcançou 10,7 milhões O post Investimentos totais da Votorantim Cimentos no 3° tri somaram R$...",
+   "link": "https://revistaoe.com.br/investimentos-votorantim-cimentos-877-milhoes-terceiro-trimestre/",
    "aba": "insumos"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "16/11/2026"
+   "data": "17/11/2026"
   },
   "ipca12": {
    "valor": 4.63,
