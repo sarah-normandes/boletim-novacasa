@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "18/11/2026 14:42",
+ "atualizado_em": "18/11/2026 20:44",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,14 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Confiança do empresário industrial cai ao patamar mais baixo desde maio de 2020",
+   "data": "18/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Índice de Confiança do Empresário Industrial, da CNI, caiu seis pontos em novembro, passando de 46,2 para 40,2 pontos, o que representa o menor patamar desde maio de 2020, quando registrou 34,7 pontos. Com o...",
+   "link": "http://www.revistaanamaco.com.br/confianca-do-empresario-industrial-cai-ao-patamar-mais-baixo-desde-maio-de-2020",
+   "aba": "demanda"
   },
   {
    "titulo": "Abramat e Anamaco firmam parceria para fortalecer a cadeia da construção",
@@ -43,20 +51,36 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
+   "titulo": "COMAT reúne governo e setor produtivo para avançar na industrialização da construção",
+   "data": "18/11/2026",
+   "fonte": "CBIC",
+   "resumo": "A industrialização da construção deixou de ser apenas uma tendência e ganha cada vez mais espaço na agenda do setor, com iniciativas que envolvem governo, empresas e entidades representativas. Esse movimento esteve...",
+   "link": "https://cbic.org.br/comat-reune-governo-e-setor-produtivo-para-avancar-na-industrializacao-da-construcao/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Senado debate alíquota da CBS para 2027 e medidas de adaptação do setor imobiliário à Reforma Tributária",
+   "data": "18/11/2026",
+   "fonte": "CBIC",
+   "resumo": "A Comissão de Assuntos Econômicos (CAE) do Senado Federal realizou, nesta terça-feira (17), audiência pública para discutir o cálculo da alíquota de referência da Contribuição sobre Bens e Serviços (CBS) para 2027. O...",
+   "link": "https://cbic.org.br/senado-debate-aliquota-da-cbs-para-2027-e-medidas-de-adaptacao-do-setor-imobiliario-a-reforma-tributaria/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Missão empresarial à China: CBIC busca parcerias para ampliar industrialização e produtividade na construção civil",
+   "data": "18/11/2026",
+   "fonte": "CBIC",
+   "resumo": "Uma missão empresarial à China reúne representantes da construção civil e do mercado imobiliário do Distrito Federal em busca de soluções tecnológicas, novos métodos construtivos e oportunidades de parcerias...",
+   "link": "https://cbic.org.br/missao-empresarial-a-china-cbic-busca-parcerias-para-ampliar-industrializacao-e-produtividade-na-construcao-civil/",
+   "aba": "demanda"
+  },
+  {
    "titulo": "Programa Bota para Industrializar impulsiona debate sobre industrialização da construção na Bahia",
    "data": "18/11/2026",
    "fonte": "CBIC",
    "resumo": "Mais de 30 construtoras participaram, nesta terça-feira (17), em Salvador, de uma agenda voltada à ampliação da industrialização na construção. Realizado no SENAI CIMATEC, o encontro do programa “Bota pra...",
    "link": "https://cbic.org.br/programa-bota-para-industrializar-impulsiona-debate-sobre-industrializacao-da-construcao-na-bahia/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Além da Caixa, CEO da Direcional aponta outra causa para alta dos distratos no Minha Casa Minha Vida",
-   "data": "18/11/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "O aumento dos distratos entre as construtoras do Minha Casa Minha Vida (MCMV) tem acendido um sinal de alerta no mercado. Em um cenário de juros elevados e maior endividamento das famílias, o endurecimento dos...",
-   "link": "https://www.moneytimes.com.br/nao-e-so-a-caixa-ceo-da-direcional-aponta-outro-motivo-por-tras-da-aceleracao-dos-distratos-nas-construtoras-do-minha-casa-minha-vida-bdap/",
-   "aba": "insumos"
   },
   {
    "titulo": "Faturamento da indústria cresceu em setembro",
@@ -97,30 +121,6 @@ window.DADOS = {
    "resumo": "Executivos do varejo, da indústria e de entidades representativas do setor de material de construção estarão juntos, esta noite, na capital paulista para comemorar os 35 anos do Prêmio Anamaco. Realizado pela...",
    "link": "http://www.revistaanamaco.com.br/setor-de-matcon-celebra-esta-noite-em-sao-paulo-os-35-anos-do-premio-anamaco",
    "aba": "insumos"
-  },
-  {
-   "titulo": "New World, Construtora de Bilionário de Hong Kong, Acumula Queda de 92% na Bolsa de Valores",
-   "data": "17/11/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. A oferta de novas ações é a mais recente tentativa da incorporadora endividada de Hong Kong para enfrentar sua crise de liquidez O post New World,...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/11/acoes-new-world-development-queda/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Conexão CBIC: programação do evento debate cenário econômico, habitação e infraestrutura em Brasília",
-   "data": "17/11/2026",
-   "fonte": "CBIC",
-   "resumo": "Os desafios políticos e econômicos para o Brasil em 2027, as perspectivas para o mercado habitacional e os investimentos necessários para avançar na infraestrutura estarão no centro da programação do Conexão CBIC...",
-   "link": "https://cbic.org.br/conexao-cbic-programacao-do-evento-debate-cenario-economico-habitacao-e-infraestrutura-em-brasilia/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "CBIC destaca papel estratégico do FGTS para a habitação durante sessão solene na Câmara dos Deputados",
-   "data": "17/11/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara dos Deputados realizou, nesta terça-feira (17), uma sessão solene em homenagem aos 60 anos do Fundo de Garantia do Tempo de Serviço (FGTS). A cerimônia contou com a participação da consultora da Câmara...",
-   "link": "https://cbic.org.br/cbic-destaca-papel-estrategico-do-fgts-para-a-habitacao-durante-sessao-solene-na-camara-dos-deputados/",
-   "aba": "demanda"
   },
   {
    "titulo": "Eternit registra receita líquida de R$ 322,6 milhões no terceiro trimestre",
