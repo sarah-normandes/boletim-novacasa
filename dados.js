@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "17/11/2026 15:00",
+ "atualizado_em": "17/11/2026 23:40",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -49,6 +49,22 @@ window.DADOS = {
    "resumo": "A  compra de matcon pela internet ganhou espaço entre os brasileiros que realizam obras e reformas residenciais. Segundo levantamento da Fundação de Dados, a utilização de sites e e-commerce para adquirir esses...",
    "link": "http://www.revistaanamaco.com.br/compra-on-line-de-matcon-cresce-e-amplia-espaco-para-e-commerce-especializado-",
    "aba": "insumos"
+  },
+  {
+   "titulo": "New World, Construtora de Bilionário de Hong Kong, Acumula Queda de 92% na Bolsa de Valores",
+   "data": "17/11/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. A oferta de novas ações é a mais recente tentativa da incorporadora endividada de Hong Kong para enfrentar sua crise de liquidez O post New World,...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/11/acoes-new-world-development-queda/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Conexão CBIC: programação do evento debate cenário econômico, habitação e infraestrutura em Brasília",
+   "data": "17/11/2026",
+   "fonte": "CBIC",
+   "resumo": "Os desafios políticos e econômicos para o Brasil em 2027, as perspectivas para o mercado habitacional e os investimentos necessários para avançar na infraestrutura estarão no centro da programação do Conexão CBIC...",
+   "link": "https://cbic.org.br/conexao-cbic-programacao-do-evento-debate-cenario-economico-habitacao-e-infraestrutura-em-brasilia/",
+   "aba": "demanda"
   },
   {
    "titulo": "CBIC destaca papel estratégico do FGTS para a habitação durante sessão solene na Câmara dos Deputados",
@@ -113,22 +129,6 @@ window.DADOS = {
    "resumo": "A Stihl firmou uma parceria com a Prefeitura Municipal de Benevides e com a cooperativa ReciclaBen para ampliar o reaproveitamento e a reciclagem de resíduos gerados em seu Centro de Distribuição localizado no...",
    "link": "http://www.revistaanamaco.com.br/stihl-firma-parceria-para-destinacao-sustentavel-de-residuos-em-benevides-pa-",
    "aba": "geral"
-  },
-  {
-   "titulo": "Campanha quer conscientizar sobre a importância da impermeabilização",
-   "data": "14/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "Para ampliar a conscientização sobre a importância da impermeabilização na conservação das edificações e na promoção de ambientes mais saudáveis, o Movimento Construção Saudável promove uma mobilização nacional que...",
-   "link": "http://www.revistaanamaco.com.br/campanha-quer-conscientizar-sobre-a-importancia-da-impermeabilizacao---",
-   "aba": "geral"
-  },
-  {
-   "titulo": "CBIC apresenta indicadores do mercado imobiliário nacional no dia 23 de novembro",
-   "data": "13/11/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) realiza, neste dia 23 de novembro, às 10h, uma coletiva para apresentar os Indicadores Imobiliários Nacionais referentes ao terceiro trimestre de 2026. O encontro...",
-   "link": "https://cbic.org.br/cbic-apresenta-indicadores-do-mercado-imobiliario-nacional-nesta-segunda/",
-   "aba": "demanda"
   }
  ],
  "diarios": {
