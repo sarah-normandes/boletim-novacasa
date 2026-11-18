@@ -1,21 +1,61 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "17/11/2026 23:40",
+ "atualizado_em": "18/11/2026 14:42",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "17/11/2026",
+   "data": "18/11/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
   },
   {
-   "titulo": "Setor de matcon celebra, esta noite, em São Paulo, os 35 anos do Prêmio Anamaco",
-   "data": "17/11/2026",
+   "titulo": "Abramat e Anamaco firmam parceria para fortalecer a cadeia da construção",
+   "data": "18/11/2026",
    "fonte": "Anamaco",
-   "resumo": "Executivos do varejo, da indústria e de entidades representativas do setor de material de construção estarão juntos, esta noite, na capital paulista para comemorar os 35 anos do Prêmio Anamaco. Realizado pela...",
-   "link": "http://www.revistaanamaco.com.br/setor-de-matcon-celebra-esta-noite-em-sao-paulo-os-35-anos-do-premio-anamaco",
+   "resumo": "A Abramat e a Anamaco firmaram um acordo de cooperação institucional para desenvolver ações conjuntas entre indústria e comércio. Com vigência imediata, a parceria estabelece cinco frentes prioritárias de atuação",
+   "link": "http://www.revistaanamaco.com.br/abramat-e-anamaco-firmam-parceria-para-fortalecer-a-cadeia-da-construcao-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Sil Cabos Elétricos amplia parceria com a FPF e dá nome ao Paulistão 2027",
+   "data": "18/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Paulistão tem um novo sobrenome: Sil. Patrocinadora das competições da Federação Paulista de Futebol e detentora dos naming rights da Copinha Sil, a empresa amplia sua presença no futebol paulista e passa a...",
+   "link": "http://www.revistaanamaco.com.br/sil-cabos-eletricos-amplia-parceria-com-a-fpf-e-da-nome-ao-paulistao-2027-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Coral das Quebradas e Tintas Coral revitalizam escadão símbolo de grupo de funk",
+   "data": "18/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "O escadão da Vila São Francisco, na zona Leste de São Paulo, conhecido por servir de cenário para as apresentações do Coral das Quebradas, ganhou novas cores em uma ação de revitalização realizada pela Tintas Coral,...",
+   "link": "http://www.revistaanamaco.com.br/coral-das-quebradas-e-tintas-coral-revitalizam-escadao-simbolo-de-grupo-de-funk-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Uma noite de encontros e homenagens celebrou os 35 anos do Prêmio Anamaco",
+   "data": "18/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "Uma noite inesquecível e para ficar marcada na história do setor de material de construção no Brasil. Assim foi a festa que celebrou os 35 anos do Prêmio Anamaco. Realizada pela Anamaco, a cerimônia de premiação foi...",
+   "link": "http://www.revistaanamaco.com.br/uma-noite-de-encontros-e-homenagens-celebrou-os-35-anos-do-premio-anamaco",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Programa Bota para Industrializar impulsiona debate sobre industrialização da construção na Bahia",
+   "data": "18/11/2026",
+   "fonte": "CBIC",
+   "resumo": "Mais de 30 construtoras participaram, nesta terça-feira (17), em Salvador, de uma agenda voltada à ampliação da industrialização na construção. Realizado no SENAI CIMATEC, o encontro do programa “Bota pra...",
+   "link": "https://cbic.org.br/programa-bota-para-industrializar-impulsiona-debate-sobre-industrializacao-da-construcao-na-bahia/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Além da Caixa, CEO da Direcional aponta outra causa para alta dos distratos no Minha Casa Minha Vida",
+   "data": "18/11/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "O aumento dos distratos entre as construtoras do Minha Casa Minha Vida (MCMV) tem acendido um sinal de alerta no mercado. Em um cenário de juros elevados e maior endividamento das famílias, o endurecimento dos...",
+   "link": "https://www.moneytimes.com.br/nao-e-so-a-caixa-ceo-da-direcional-aponta-outro-motivo-por-tras-da-aceleracao-dos-distratos-nas-construtoras-do-minha-casa-minha-vida-bdap/",
    "aba": "insumos"
   },
   {
@@ -51,6 +91,14 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
+   "titulo": "Setor de matcon celebra, esta noite, em São Paulo, os 35 anos do Prêmio Anamaco",
+   "data": "17/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "Executivos do varejo, da indústria e de entidades representativas do setor de material de construção estarão juntos, esta noite, na capital paulista para comemorar os 35 anos do Prêmio Anamaco. Realizado pela...",
+   "link": "http://www.revistaanamaco.com.br/setor-de-matcon-celebra-esta-noite-em-sao-paulo-os-35-anos-do-premio-anamaco",
+   "aba": "insumos"
+  },
+  {
    "titulo": "New World, Construtora de Bilionário de Hong Kong, Acumula Queda de 92% na Bolsa de Valores",
    "data": "17/11/2026",
    "fonte": "Forbes",
@@ -81,60 +129,12 @@ window.DADOS = {
    "resumo": "A Eternit acaba de divulgar seu relatório financeiro referente ao 3º trimestre. Entre os destaques do período está o fortalecimento do Fibrocimento, que registrou evolução de 6,1% na receita líquida, totalizando R$...",
    "link": "http://www.revistaanamaco.com.br/eternit-registra-receita-liquida-de-r-3226-milhoes-no-terceiro-trimestre",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Laufen inaugura espaço em São Paulo e reforça presença no mercado brasileiro",
-   "data": "16/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A marca suíça Laufen inaugurou, em 11 de novembro, um espaço dedicado à marca no Laufen Roca São Paulo Gallery. A iniciativa amplia o contato do mercado brasileiro com o portfólio e soluções da marca para arquitetura...",
-   "link": "http://www.revistaanamaco.com.br/laufen-inaugura-espaco-em-sao-paulo-e-reforca-presenca-no-mercado-brasileiro-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Venda de cimento desacelerou em outubro",
-   "data": "16/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A indústria brasileira de cimento comercializou R$ 5,9 milhões de toneladas em outubro, o que significa uma queda de 6,1% em relação ao mesmo mês de 2025, segundo o SNIC. No acumulado do ano, as vendas somaram R$...",
-   "link": "http://www.revistaanamaco.com.br/venda-de-cimento-desacelerou-em-outubro-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Seconci-SP: entidade lança Observatório de Acidentes da Construção",
-   "data": "16/11/2026",
-   "fonte": "CBIC",
-   "resumo": "Em mais uma contribuição à saúde e à segurança do trabalho, o Seconci-SP (Serviço Social da Construção) lançou em 10 de novembro o Observatório de Acidentes da Construção. O evento aconteceu na reunião híbrida do...",
-   "link": "https://cbic.org.br/seconci-sp-entidade-lanca-observatorio-de-acidentes-da-construcao/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Prêmio Abrart consagra os destaques do mercado de tintas e estreia categorias",
-   "data": "15/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "O mercado brasileiro de tintas e seus principais fornecedores estiveram reunidos, em 05 de novembro, em São Paulo, para a 32ª edição do Prêmio Abrart.  O evento reconheceu empresas, marcas e produtos que conquistaram...",
-   "link": "http://www.revistaanamaco.com.br/premio-abrart-consagra-os-destaques-do-mercado-de-tintas-e-estreia-categorias-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Transporte: o principal gargalo de infraestrutura",
-   "data": "15/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "O transporte é apontado por 75% dos empresários industriais brasileiros como o principal gargalo de infraestrutura. É o que mostra pesquisa da CNI, realizada com 2.500 representantes de médias e grandes empresas. O...",
-   "link": "http://www.revistaanamaco.com.br/transporte-o-principal-gargalo-de-infraestrutura-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Stihl firma parceria para destinação sustentável de resíduos em Benevides (PA)",
-   "data": "14/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Stihl firmou uma parceria com a Prefeitura Municipal de Benevides e com a cooperativa ReciclaBen para ampliar o reaproveitamento e a reciclagem de resíduos gerados em seu Centro de Distribuição localizado no...",
-   "link": "http://www.revistaanamaco.com.br/stihl-firma-parceria-para-destinacao-sustentavel-de-residuos-em-benevides-pa-",
-   "aba": "geral"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "17/11/2026"
+   "data": "18/11/2026"
   },
   "ipca12": {
    "valor": 4.63,
