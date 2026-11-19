@@ -1,14 +1,86 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "18/11/2026 20:44",
+ "atualizado_em": "19/11/2026 14:52",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "18/11/2026",
+   "data": "19/11/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Suvinil apresenta Sol da Meia-Noite, um roxo escuro, como sua Cor do Ano 2027",
+   "data": "19/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "Consciente de que a cor tem o poder de transformar o cotidiano, das pequenas mudanças às grandes Intervenções, a Suvinil apresenta Sol da Meia-Noite, um roxo escuro, denso e magnético, como Cor do Ano 2027",
+   "link": "http://www.revistaanamaco.com.br/suvinil-apresenta-sol-da-meia-noite-um-roxo-escuro-como-sua-cor-do-ano-2027-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Em evento, Cimento Apodi mostrou os avanços e os desafios para a construção",
+   "data": "19/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A busca por soluções que conciliam desempenho, produtividade e menor impacto ambiental está entre os principais desafios da construção civil. Esse foi um dos temas discutidos no 6º Congresso Luso-Brasileiro de...",
+   "link": "http://www.revistaanamaco.com.br/em-evento-cimento-apodi-mostrou-os-avancos-e-os-desafios-para-a-construcao",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Com 75 anos de história, Duratex evolui sua marca e se prepara para novo ciclo",
+   "data": "19/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Duratex apresentou, no fim de outubro, um refresh desenvolvido em parceria com a consultoria de branding Ana Couto, que inaugura uma nova etapa em sua forma de se expressar e se relacionar com seus diferentes públicos",
+   "link": "http://www.revistaanamaco.com.br/com-75-anos-de-historia-duratex-evolui-sua-marca-e-se-prepara-para-novo-ciclo-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Acomac-MA lamenta a morte do empresário Afonso Domingos Borges Ferreira",
+   "data": "19/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Associação dos Comerciantes de Material de Construção do Maranhão comunica o falecimento do empresário Afonso Domingos Borges Ferreira, um dos fundadores da entidade, aos 69 anos",
+   "link": "http://www.revistaanamaco.com.br/acomac-ma-lamenta-a-morte-do-empresario-afonso-domingos-borges-ferreira",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Segurança com o emprego ainda é grande",
+   "data": "19/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A 17ª edição dos Indicadores de Qualidade do Trabalho da Sondagem de Mercado de Trabalho, do Instituto Brasileiro de Economia da Fundação Getulio Vargas, aborda o tema da chance de perder emprego e/ou principal fonte...",
+   "link": "http://www.revistaanamaco.com.br/seguranca-com-o-emprego-ainda-e-grande",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Obra “Chataigniers En Fleurs”, de Van Gogh, É Vendida por Recorde de US$190,4 Milhões",
+   "data": "19/11/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. A Sotheby's de Nova York informou que o valor marcou o segundo maior preço pago por qualquer obra de arte vendida por sua casa de leilões O post...",
+   "link": "https://forbes.com.br/forbes-life/2026/11/obra-chataigniers-en-fleurs-de-van-gogh-e-vendida-por-recorde-de-us1904-milhoes/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Primeiro tilt-up duplo chega ao Brasil como solução para construção de galpões logísticos",
+   "data": "19/11/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "No dinâmico mercado de galpões logísticos e industriais, o tempo é um dos ativos mais valiosos. Diante de cronogramas cada vez mais arrojados, a engenharia O post Primeiro tilt-up duplo chega ao Brasil como solução...",
+   "link": "https://revistaoe.com.br/primeiro-tilt-up-duplo-brasil-galpoes-logisticos/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Enchimento do reservatório marca nova etapa de obra de PCH em Goiás",
+   "data": "19/11/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "A Pequena Central Hidrelétrica (PCH) Taboca, localizada em Itarumã (GO), iniciou o enchimento de seu reservatório, etapa que marca um novo avanço na implantação do O post Enchimento do reservatório marca nova etapa...",
+   "link": "https://revistaoe.com.br/pch-taboca-inicia-enchimento-reservatorio/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Alfama Foods acelera internacionalização com construção de fábrica em Portugal",
+   "data": "19/11/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "A Alfama Foods investirá 13,57 milhões de euros (aproximadamente R$ 87,3 milhões) na implantação de sua primeira fábrica fora do Brasil, em Portugal. O projeto recebeu incentivo não reembolsável de 6,06 milhões de...",
+   "link": "https://www.moneytimes.com.br/alfama-foods-acelera-internacionalizacao-com-construcao-de-fabrica-em-portugal-pads/",
+   "aba": "geral"
   },
   {
    "titulo": "Confiança do empresário industrial cai ao patamar mais baixo desde maio de 2020",
@@ -57,84 +129,12 @@ window.DADOS = {
    "resumo": "A industrialização da construção deixou de ser apenas uma tendência e ganha cada vez mais espaço na agenda do setor, com iniciativas que envolvem governo, empresas e entidades representativas. Esse movimento esteve...",
    "link": "https://cbic.org.br/comat-reune-governo-e-setor-produtivo-para-avancar-na-industrializacao-da-construcao/",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Senado debate alíquota da CBS para 2027 e medidas de adaptação do setor imobiliário à Reforma Tributária",
-   "data": "18/11/2026",
-   "fonte": "CBIC",
-   "resumo": "A Comissão de Assuntos Econômicos (CAE) do Senado Federal realizou, nesta terça-feira (17), audiência pública para discutir o cálculo da alíquota de referência da Contribuição sobre Bens e Serviços (CBS) para 2027. O...",
-   "link": "https://cbic.org.br/senado-debate-aliquota-da-cbs-para-2027-e-medidas-de-adaptacao-do-setor-imobiliario-a-reforma-tributaria/",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Missão empresarial à China: CBIC busca parcerias para ampliar industrialização e produtividade na construção civil",
-   "data": "18/11/2026",
-   "fonte": "CBIC",
-   "resumo": "Uma missão empresarial à China reúne representantes da construção civil e do mercado imobiliário do Distrito Federal em busca de soluções tecnológicas, novos métodos construtivos e oportunidades de parcerias...",
-   "link": "https://cbic.org.br/missao-empresarial-a-china-cbic-busca-parcerias-para-ampliar-industrializacao-e-produtividade-na-construcao-civil/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Programa Bota para Industrializar impulsiona debate sobre industrialização da construção na Bahia",
-   "data": "18/11/2026",
-   "fonte": "CBIC",
-   "resumo": "Mais de 30 construtoras participaram, nesta terça-feira (17), em Salvador, de uma agenda voltada à ampliação da industrialização na construção. Realizado no SENAI CIMATEC, o encontro do programa “Bota pra...",
-   "link": "https://cbic.org.br/programa-bota-para-industrializar-impulsiona-debate-sobre-industrializacao-da-construcao-na-bahia/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Faturamento da indústria cresceu em setembro",
-   "data": "17/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "O faturamento da indústria de transformação aumentou 0,8% em setembro. É o que apontam os Indicadores Industriais, divulgados pela CNI. O resultado reverte apenas parte das duas quedas do faturamento do setor",
-   "link": "http://www.revistaanamaco.com.br/faturamento-da-industria-cresceu-em-setembro",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Varejo deve encerrar 2026 em ritmo lento",
-   "data": "17/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "O varejo brasileiro deve encerrar 2026 com baixo dinamismo e entrar em 2027 praticamente sem crescimento. É o que aponta a nova Projeção de Vendas do Varejo do Ibevar) - FIA Business School",
-   "link": "http://www.revistaanamaco.com.br/varejo-deve-encerrar-2026-em-ritmo-lento-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Juntos Somos Mais prepara uma série de ações para a Black Friday 2026",
-   "data": "17/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Juntos Somos Mais prepara uma série de ações promocionais para a Black Friday de 2026, com descontos de até 55% no resgate de prêmios e ofertas especiais para lojistas e profissionais do varejo de material de...",
-   "link": "http://www.revistaanamaco.com.br/juntos-somos-mais-prepara-uma-serie-de-acoes-para-a-black-friday-2026",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Compra on-line de matcon cresce e amplia espaço para e-commerce especializado",
-   "data": "17/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A  compra de matcon pela internet ganhou espaço entre os brasileiros que realizam obras e reformas residenciais. Segundo levantamento da Fundação de Dados, a utilização de sites e e-commerce para adquirir esses...",
-   "link": "http://www.revistaanamaco.com.br/compra-on-line-de-matcon-cresce-e-amplia-espaco-para-e-commerce-especializado-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Setor de matcon celebra, esta noite, em São Paulo, os 35 anos do Prêmio Anamaco",
-   "data": "17/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "Executivos do varejo, da indústria e de entidades representativas do setor de material de construção estarão juntos, esta noite, na capital paulista para comemorar os 35 anos do Prêmio Anamaco. Realizado pela...",
-   "link": "http://www.revistaanamaco.com.br/setor-de-matcon-celebra-esta-noite-em-sao-paulo-os-35-anos-do-premio-anamaco",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Eternit registra receita líquida de R$ 322,6 milhões no terceiro trimestre",
-   "data": "16/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Eternit acaba de divulgar seu relatório financeiro referente ao 3º trimestre. Entre os destaques do período está o fortalecimento do Fibrocimento, que registrou evolução de 6,1% na receita líquida, totalizando R$...",
-   "link": "http://www.revistaanamaco.com.br/eternit-registra-receita-liquida-de-r-3226-milhoes-no-terceiro-trimestre",
-   "aba": "insumos"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "18/11/2026"
+   "data": "19/11/2026"
   },
   "ipca12": {
    "valor": 4.63,
