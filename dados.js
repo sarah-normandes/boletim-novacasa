@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "19/11/2026 14:52",
+ "atualizado_em": "19/11/2026 21:05",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -59,6 +59,46 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
+   "titulo": "Conexão CBIC: reforma tributária e mudanças na jornada de trabalho estão entre os desafios da construção para 2027",
+   "data": "19/11/2026",
+   "fonte": "CBIC",
+   "resumo": "As transformações no ambiente econômico e nas relações de trabalho vão exigir atenção das empresas da construção em 2027. Reforma tributária, mudanças na jornada de trabalho e medidas para melhorar o ambiente de...",
+   "link": "https://cbic.org.br/conexao-cbic-reforma-tributaria-e-mudancas-na-jornada-de-trabalho-estao-entre-os-desafios-da-construcao-para-2027/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Fernando Guedes destaca desafios da mão de obra na construção civil em entrevista à CBN Maringá",
+   "data": "19/11/2026",
+   "fonte": "CBIC",
+   "resumo": "O presidente-executivo da Câmara Brasileira da Indústria da Construção (CBIC), Fernando Guedes Ferreira Filho, participou, nesta quinta-feira (19), de uma entrevista à CBN Maringá, no Paraná. A conversa, realizada no...",
+   "link": "https://cbic.org.br/fernando-guedes-destaca-desafios-da-mao-de-obra-na-construcao-civil-em-entrevista-a-cbn-maringa/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Após decreto sobre fim da escala 6×1, CBIC alerta para impactos na construção civil",
+   "data": "19/11/2026",
+   "fonte": "CBIC",
+   "resumo": "Após a assinatura, nesta quinta-feira (19), pelo presidente Luiz Inácio Lula da Silva, do decreto que regulamenta a nova jornada de trabalho e o fim da escala 6x1, a Câmara Brasileira da Indústria da Construção...",
+   "link": "https://cbic.org.br/apos-decreto-sobre-fim-da-escala-6x1-cbic-alerta-para-impactos-na-construcao-civil/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Sinduscon-RR: 13º Censo Imobiliário aponta crescimento de 162% nas vendas de imóveis",
+   "data": "19/11/2026",
+   "fonte": "CBIC",
+   "resumo": "Empresários e representantes do setor da construção acompanharam, nesta quartafeira (18), a apresentação do 13º Censo Imobiliário de Boa Vista, que revelou crescimento de aproximadamente 162% no número de unidades...",
+   "link": "https://cbic.org.br/sinduscon-rr-13o-censo-imobiliario-aponta-crescimento-de-162-nas-vendas-de-imoveis/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Fábrica de Ideias: construção do novo polo de inovação do Paraná",
+   "data": "19/11/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "Em muitas cidades brasileiras, antigos complexos industriais deixaram de cumprir sua função original, mas seguem carregando memória, localização estratégica e potencial de transformação urbana. O O post Fábrica de...",
+   "link": "https://revistaoe.com.br/fabrica-de-ideias-parana-polo-inovacao/",
+   "aba": "geral"
+  },
+  {
    "titulo": "Primeiro tilt-up duplo chega ao Brasil como solução para construção de galpões logísticos",
    "data": "19/11/2026",
    "fonte": "O Empreiteiro",
@@ -75,14 +115,6 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Alfama Foods acelera internacionalização com construção de fábrica em Portugal",
-   "data": "19/11/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "A Alfama Foods investirá 13,57 milhões de euros (aproximadamente R$ 87,3 milhões) na implantação de sua primeira fábrica fora do Brasil, em Portugal. O projeto recebeu incentivo não reembolsável de 6,06 milhões de...",
-   "link": "https://www.moneytimes.com.br/alfama-foods-acelera-internacionalizacao-com-construcao-de-fabrica-em-portugal-pads/",
-   "aba": "geral"
-  },
-  {
    "titulo": "Confiança do empresário industrial cai ao patamar mais baixo desde maio de 2020",
    "data": "18/11/2026",
    "fonte": "Anamaco",
@@ -96,38 +128,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "A Abramat e a Anamaco firmaram um acordo de cooperação institucional para desenvolver ações conjuntas entre indústria e comércio. Com vigência imediata, a parceria estabelece cinco frentes prioritárias de atuação",
    "link": "http://www.revistaanamaco.com.br/abramat-e-anamaco-firmam-parceria-para-fortalecer-a-cadeia-da-construcao-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Sil Cabos Elétricos amplia parceria com a FPF e dá nome ao Paulistão 2027",
-   "data": "18/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Paulistão tem um novo sobrenome: Sil. Patrocinadora das competições da Federação Paulista de Futebol e detentora dos naming rights da Copinha Sil, a empresa amplia sua presença no futebol paulista e passa a...",
-   "link": "http://www.revistaanamaco.com.br/sil-cabos-eletricos-amplia-parceria-com-a-fpf-e-da-nome-ao-paulistao-2027-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Coral das Quebradas e Tintas Coral revitalizam escadão símbolo de grupo de funk",
-   "data": "18/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "O escadão da Vila São Francisco, na zona Leste de São Paulo, conhecido por servir de cenário para as apresentações do Coral das Quebradas, ganhou novas cores em uma ação de revitalização realizada pela Tintas Coral,...",
-   "link": "http://www.revistaanamaco.com.br/coral-das-quebradas-e-tintas-coral-revitalizam-escadao-simbolo-de-grupo-de-funk-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Uma noite de encontros e homenagens celebrou os 35 anos do Prêmio Anamaco",
-   "data": "18/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "Uma noite inesquecível e para ficar marcada na história do setor de material de construção no Brasil. Assim foi a festa que celebrou os 35 anos do Prêmio Anamaco. Realizada pela Anamaco, a cerimônia de premiação foi...",
-   "link": "http://www.revistaanamaco.com.br/uma-noite-de-encontros-e-homenagens-celebrou-os-35-anos-do-premio-anamaco",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "COMAT reúne governo e setor produtivo para avançar na industrialização da construção",
-   "data": "18/11/2026",
-   "fonte": "CBIC",
-   "resumo": "A industrialização da construção deixou de ser apenas uma tendência e ganha cada vez mais espaço na agenda do setor, com iniciativas que envolvem governo, empresas e entidades representativas. Esse movimento esteve...",
-   "link": "https://cbic.org.br/comat-reune-governo-e-setor-produtivo-para-avancar-na-industrializacao-da-construcao/",
    "aba": "insumos"
   }
  ],
