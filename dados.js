@@ -1,14 +1,46 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "19/11/2026 21:05",
+ "atualizado_em": "20/11/2026 14:26",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "19/11/2026",
+   "data": "20/11/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Inadimplência continua avançando",
+   "data": "20/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A inadimplência das famílias brasileiras deve continuar avançando nos próximos meses, sem sinais de alívio no curto prazo. É o que aponta a nova Projeção de Inadimplência Ibevar - FIA Business School",
+   "link": "http://www.revistaanamaco.com.br/inadimplencia-continua-avancando-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Varejo paulista deve gerar 20,5 mil novas vagas em outubro e novembro",
+   "data": "20/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "O comércio varejista no Estado de São Paulo deve gerar cerca de 20,5 mil novas vagas com carteira assinada entre os meses de outubro e novembro. A movimentação ocorre para atender ao aumento da demanda da Black...",
+   "link": "http://www.revistaanamaco.com.br/varejo-paulista-deve-gerar-205-mil-novas-vagas-em-outubro-e-novembro-",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Redução da jornada de trabalho pode impactar na construção de moradias",
+   "data": "20/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A  redução da jornada semanal de trabalho de 44 para 40 horas, associada ao fim da escala 6×1, poderá comprometer a construção de, aproximadamente, 30 mil moradias populares por ano no Brasil, o equivalente ao...",
+   "link": "http://www.revistaanamaco.com.br/reducao-da-jornada-de-trabalho-pode-impactar-na-construcao-de-moradias-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Os 10 Fundos Imobiliários Mais Negociados da Bolsa de Valores",
+   "data": "20/11/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Com R$ 12,2 bilhões movimentados em outubro, mercado de fundos imobiliários atinge pico em 12 meses O post Os 10 Fundos Imobiliários Mais Negociados...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/11/ranking-fiis-mais-negociados-trxf11/",
+   "aba": "demanda"
   },
   {
    "titulo": "Suvinil apresenta Sol da Meia-Noite, um roxo escuro, como sua Cor do Ano 2027",
@@ -48,14 +80,6 @@ window.DADOS = {
    "fonte": "Anamaco",
    "resumo": "A 17ª edição dos Indicadores de Qualidade do Trabalho da Sondagem de Mercado de Trabalho, do Instituto Brasileiro de Economia da Fundação Getulio Vargas, aborda o tema da chance de perder emprego e/ou principal fonte...",
    "link": "http://www.revistaanamaco.com.br/seguranca-com-o-emprego-ainda-e-grande",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Obra “Chataigniers En Fleurs”, de Van Gogh, É Vendida por Recorde de US$190,4 Milhões",
-   "data": "19/11/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. A Sotheby's de Nova York informou que o valor marcou o segundo maior preço pago por qualquer obra de arte vendida por sua casa de leilões O post...",
-   "link": "https://forbes.com.br/forbes-life/2026/11/obra-chataigniers-en-fleurs-de-van-gogh-e-vendida-por-recorde-de-us1904-milhoes/",
    "aba": "demanda"
   },
   {
@@ -105,36 +129,12 @@ window.DADOS = {
    "resumo": "No dinâmico mercado de galpões logísticos e industriais, o tempo é um dos ativos mais valiosos. Diante de cronogramas cada vez mais arrojados, a engenharia O post Primeiro tilt-up duplo chega ao Brasil como solução...",
    "link": "https://revistaoe.com.br/primeiro-tilt-up-duplo-brasil-galpoes-logisticos/",
    "aba": "geral"
-  },
-  {
-   "titulo": "Enchimento do reservatório marca nova etapa de obra de PCH em Goiás",
-   "data": "19/11/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A Pequena Central Hidrelétrica (PCH) Taboca, localizada em Itarumã (GO), iniciou o enchimento de seu reservatório, etapa que marca um novo avanço na implantação do O post Enchimento do reservatório marca nova etapa...",
-   "link": "https://revistaoe.com.br/pch-taboca-inicia-enchimento-reservatorio/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Confiança do empresário industrial cai ao patamar mais baixo desde maio de 2020",
-   "data": "18/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Índice de Confiança do Empresário Industrial, da CNI, caiu seis pontos em novembro, passando de 46,2 para 40,2 pontos, o que representa o menor patamar desde maio de 2020, quando registrou 34,7 pontos. Com o...",
-   "link": "http://www.revistaanamaco.com.br/confianca-do-empresario-industrial-cai-ao-patamar-mais-baixo-desde-maio-de-2020",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Abramat e Anamaco firmam parceria para fortalecer a cadeia da construção",
-   "data": "18/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Abramat e a Anamaco firmaram um acordo de cooperação institucional para desenvolver ações conjuntas entre indústria e comércio. Com vigência imediata, a parceria estabelece cinco frentes prioritárias de atuação",
-   "link": "http://www.revistaanamaco.com.br/abramat-e-anamaco-firmam-parceria-para-fortalecer-a-cadeia-da-construcao-",
-   "aba": "insumos"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "19/11/2026"
+   "data": "20/11/2026"
   },
   "ipca12": {
    "valor": 4.63,
