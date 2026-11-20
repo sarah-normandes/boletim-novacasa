@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "20/11/2026 14:26",
+ "atualizado_em": "20/11/2026 20:31",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -33,6 +33,22 @@ window.DADOS = {
    "resumo": "A  redução da jornada semanal de trabalho de 44 para 40 horas, associada ao fim da escala 6×1, poderá comprometer a construção de, aproximadamente, 30 mil moradias populares por ano no Brasil, o equivalente ao...",
    "link": "http://www.revistaanamaco.com.br/reducao-da-jornada-de-trabalho-pode-impactar-na-construcao-de-moradias-",
    "aba": "geral"
+  },
+  {
+   "titulo": "Como a Inteligência Artificial Impulsiona Empresas Bilionárias de Construção e Infraestrutura",
+   "data": "20/11/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Com investimentos bilionários em data centers, empresas de construção, energia e tecnologia registram forte crescimento O post Como a Inteligência...",
+   "link": "https://forbes.com.br/forbes-money/2026/11/inteligencia-artificial-construcao-infraestrutura-ranking-forbes/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Trump Diz Que EUA Vão Penalizar Empresas Que Construírem Data Centers no Exterior",
+   "data": "20/11/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Presidente defende a construção de data centers nos EUA, mas instalações enfrentam resistência por causa da demanda de energia e dos custos O post...",
+   "link": "https://forbes.com.br/geral/2026/11/trump-diz-que-eua-vao-penalizar-empresas-que-construirem-data-centers-no-exterior/",
+   "aba": "custos"
   },
   {
    "titulo": "Os 10 Fundos Imobiliários Mais Negociados da Bolsa de Valores",
@@ -113,22 +129,6 @@ window.DADOS = {
    "resumo": "Empresários e representantes do setor da construção acompanharam, nesta quartafeira (18), a apresentação do 13º Censo Imobiliário de Boa Vista, que revelou crescimento de aproximadamente 162% no número de unidades...",
    "link": "https://cbic.org.br/sinduscon-rr-13o-censo-imobiliario-aponta-crescimento-de-162-nas-vendas-de-imoveis/",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Fábrica de Ideias: construção do novo polo de inovação do Paraná",
-   "data": "19/11/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "Em muitas cidades brasileiras, antigos complexos industriais deixaram de cumprir sua função original, mas seguem carregando memória, localização estratégica e potencial de transformação urbana. O O post Fábrica de...",
-   "link": "https://revistaoe.com.br/fabrica-de-ideias-parana-polo-inovacao/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Primeiro tilt-up duplo chega ao Brasil como solução para construção de galpões logísticos",
-   "data": "19/11/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "No dinâmico mercado de galpões logísticos e industriais, o tempo é um dos ativos mais valiosos. Diante de cronogramas cada vez mais arrojados, a engenharia O post Primeiro tilt-up duplo chega ao Brasil como solução...",
-   "link": "https://revistaoe.com.br/primeiro-tilt-up-duplo-brasil-galpoes-logisticos/",
-   "aba": "geral"
   }
  ],
  "diarios": {
