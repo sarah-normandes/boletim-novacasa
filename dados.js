@@ -1,14 +1,38 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "20/11/2026 20:31",
+ "atualizado_em": "21/11/2026 13:31",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "20/11/2026",
+   "data": "21/11/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Espaço Smart faturou R$ 1 bilhão e projeta encerrar 2026 com R$ 1,2 bilhão",
+   "data": "21/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Espaço Smart acaba de atingir a marca de R$ 1 bilhão em faturamento e mantém ritmo acelerado de crescimento, com projeção de alcançar R$ 1,2 bilhão até o fim de 2026",
+   "link": "http://www.revistaanamaco.com.br/espaco-smart-faturou-r-1-bilhao-e-projeta-encerrar-2026-com-r-12-bilhao-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Votorantim Cimentos registrou alta na receita líquida global no 3º trimestre",
+   "data": "21/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Votorantim Cimentos acaba de divulgar seu desempenho no terceiro trimestre do ano. De acordo com os dados apresentados, a empresa encerrou o período com receita líquida global de R$ 8,5 bilhões, avanço de 1% em...",
+   "link": "http://www.revistaanamaco.com.br/votorantim-cimentos-registrou-alta-na-receita-liquida-global-no-3-trimestre",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Bilionário da Malásia Busca US$ 490 Milhões com IPO de Fundo Imobiliário",
+   "data": "21/11/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Fundo imobiliário da IOI Properties projeta rendimento anual de 7% e inclui um dos maiores shopping centers do mundo no portfólio O post Bilionário...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/11/ioi-properties-ipo-fundo-imobiliario/",
+   "aba": "demanda"
   },
   {
    "titulo": "Inadimplência continua avançando",
@@ -49,14 +73,6 @@ window.DADOS = {
    "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Presidente defende a construção de data centers nos EUA, mas instalações enfrentam resistência por causa da demanda de energia e dos custos O post...",
    "link": "https://forbes.com.br/geral/2026/11/trump-diz-que-eua-vao-penalizar-empresas-que-construirem-data-centers-no-exterior/",
    "aba": "custos"
-  },
-  {
-   "titulo": "Os 10 Fundos Imobiliários Mais Negociados da Bolsa de Valores",
-   "data": "20/11/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Com R$ 12,2 bilhões movimentados em outubro, mercado de fundos imobiliários atinge pico em 12 meses O post Os 10 Fundos Imobiliários Mais Negociados...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/11/ranking-fiis-mais-negociados-trxf11/",
-   "aba": "demanda"
   },
   {
    "titulo": "Suvinil apresenta Sol da Meia-Noite, um roxo escuro, como sua Cor do Ano 2027",
@@ -113,36 +129,12 @@ window.DADOS = {
    "resumo": "O presidente-executivo da Câmara Brasileira da Indústria da Construção (CBIC), Fernando Guedes Ferreira Filho, participou, nesta quinta-feira (19), de uma entrevista à CBN Maringá, no Paraná. A conversa, realizada no...",
    "link": "https://cbic.org.br/fernando-guedes-destaca-desafios-da-mao-de-obra-na-construcao-civil-em-entrevista-a-cbn-maringa/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Após decreto sobre fim da escala 6×1, CBIC alerta para impactos na construção civil",
-   "data": "19/11/2026",
-   "fonte": "CBIC",
-   "resumo": "Após a assinatura, nesta quinta-feira (19), pelo presidente Luiz Inácio Lula da Silva, do decreto que regulamenta a nova jornada de trabalho e o fim da escala 6x1, a Câmara Brasileira da Indústria da Construção...",
-   "link": "https://cbic.org.br/apos-decreto-sobre-fim-da-escala-6x1-cbic-alerta-para-impactos-na-construcao-civil/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Sinduscon-RR: 13º Censo Imobiliário aponta crescimento de 162% nas vendas de imóveis",
-   "data": "19/11/2026",
-   "fonte": "CBIC",
-   "resumo": "Empresários e representantes do setor da construção acompanharam, nesta quartafeira (18), a apresentação do 13º Censo Imobiliário de Boa Vista, que revelou crescimento de aproximadamente 162% no número de unidades...",
-   "link": "https://cbic.org.br/sinduscon-rr-13o-censo-imobiliario-aponta-crescimento-de-162-nas-vendas-de-imoveis/",
-   "aba": "insumos"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "20/11/2026"
-  },
-  "ipca12": {
-   "valor": 4.63,
-   "data": "01/10/2026"
-  },
-  "igpm12": {
-   "valor": 1.15,
-   "data": "01/10/2026"
+   "data": "21/11/2026"
   }
  },
  "mensais": {
