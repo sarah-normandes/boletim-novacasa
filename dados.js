@@ -1,14 +1,118 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "21/11/2026 19:38",
+ "atualizado_em": "23/11/2026 17:45",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "21/11/2026",
+   "data": "23/11/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Em sua estreia como feira, Expoacomac movimentou mais de R$ 2 milhões",
+   "data": "23/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "Promovida pela Acomac Caxias, a 6ª edição da Expoacomac marcou sua estreia no formato de feira, com uma estrutura voltada à negociação entre fornecedores, distribuidores e lojistas. Realizada nos dias 04 e 05 de...",
+   "link": "http://www.revistaanamaco.com.br/em-sua-estreia-como-feira-expoacomac-movimentou-mais-de-r-2-milhoes-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Eucatex registrou lucro líquido recorrente de R$ 305,5 milhões até setembro",
+   "data": "23/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Eucatex registrou lucro líquido recorrente de R$ 305,5 milhões nos nove primeiros meses do ano, o que representa crescimento de 11,7% em relação ao mesmo período de 2025. No terceiro trimestre (3T26), o lucro...",
+   "link": "http://www.revistaanamaco.com.br/eucatex-registrou-lucro-liquido-recorrente-de-r-3055-milhoes-ate-setembro-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Cobrecom lança apostila gratuita com guia prático sobre fios e cabos elétricos",
+   "data": "23/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "Pensando em contribuir com o trabalho dos profissionais do setor, a Cobrecom disponibiliza, gratuitamente, sua nova Apostila de Fios e Cabos Elétricos, um material desenvolvido para oferecer informações técnicas de...",
+   "link": "http://www.revistaanamaco.com.br/cobrecom-lanca-apostila-gratuita-com-guia-pratico-sobre-fios-e-cabos-eletricos-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Prysmian conquista dois prêmios por inovação e destaque no fornecimento",
+   "data": "23/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Prysmian recebeu dois prêmios da Isa Energia Brasil no “Encontro pela Vida e Encontro com Fornecedores 2026”.  Das seis categorias da premiação, a Prysmian foi reconhecida em duas: “Inovação” e “Fornecedor Destaque...",
+   "link": "http://www.revistaanamaco.com.br/prysmian-conquista-dois-premios-por-inovacao-e-destaque-no-fornecimento-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Incorporadora Compra Imóvel em Singapura de Bilionário Malaio por R$ 2,7 Bilhões",
+   "data": "23/11/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Esta é a terceira grande aquisição da IOI Properties em Singapura desde o ano passado, elevando os ativos da empresa no país para mais de US$ 7,7...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/11/ioi-properties-compra-imovel-singapura/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "De Obras de Salvador Dalí a Estadia de Michael Jackson, Saiba o Que Torna o Hotel D’Angleterre Único",
+   "data": "23/11/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Projetado originalmente em 1872 pelo arquiteto Anthony Krafft, hotel preserva herança histórica e abriga espaços protegidos pelo departamento de...",
+   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/11/hotel-dangleterre-luxo-genebra/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Redução da jornada, reforma tributária e juros elevados preocupam construção civil para 2027, aponta CBIC",
+   "data": "23/11/2026",
+   "fonte": "CBIC",
+   "resumo": "Setor prevê ano desafiador, com riscos de aumento dos custos, adiamento de investimentos e impactos na produção habitacional; Minha Casa, Minha Vida deve seguir como principal motor do mercado A redução da jornada de...",
+   "link": "https://cbic.org.br/reducao-da-jornada-reforma-tributaria-e-juros-elevados-preocupam-construcao-civil-para-2027-aponta-cbic/",
+   "aba": "custos"
+  },
+  {
+   "titulo": "Minha Casa, Minha Vida atinge participação recorde de 58,6% nos lançamentos imobiliários, aponta CBIC",
+   "data": "23/11/2026",
+   "fonte": "CBIC",
+   "resumo": "Programa registra crescimento de 28,2% nos lançamentos e 21,6% nas vendas no terceiro trimestre de 2026; mercado nacional acumula alta de 4,9% nas unidades comercializadas no ano O programa Minha Casa, Minha Vida...",
+   "link": "https://cbic.org.br/minha-casa-minha-vida-atinge-participacao-recorde-de-586-nos-lancamentos-imobiliarios-aponta-cbic/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "CBIC conhece soluções inovadoras para o futuro da habitação durante missão à China",
+   "data": "23/11/2026",
+   "fonte": "CBIC",
+   "resumo": "O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo Aroeira, participou de uma visita à Better House, em Pequim, durante o terceiro dia da missão empresarial à China, realizada por uma...",
+   "link": "https://cbic.org.br/cbic-conhece-solucoes-inovadoras-para-o-futuro-da-habitacao-durante-missao-a-china/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Industrialização impulsiona inovação na construção do BLVD Alti",
+   "data": "23/11/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "A industrialização vem transformando a construção civil ao aumentar a produtividade, reduzir desperdícios e tornar os processos mais eficientes. Seguindo essa tendência, a Rocontec aplica O post Industrialização...",
+   "link": "https://revistaoe.com.br/industrializacao-construcao-blvd-alti-inovacao/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Obras de reparação em Rio Doce e Santa Cruz do Escalvado ampliam infraestrutura e qualidade de vida",
+   "data": "23/11/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "As obras de reparação executadas nos municípios de Rio Doce e Santa Cruz do Escalvado (MG) vêm promovendo melhorias significativas na infraestrutura urbana, mobilidade e O post Obras de reparação em Rio Doce e Santa...",
+   "link": "https://revistaoe.com.br/obras-de-reparacao-rio-doce-santa-cruz/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "70% dos consumidores comparam preços pelo celular dentro das lojas físicas",
+   "data": "22/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "Uma pesquisa realizada pela Confederação Nacional de Dirigentes Lojistas e pelo Serviço de Proteção ao Crédito, em parceria com a Offerwise, revela que a integração entre os canais físicos e digitais está cada vez...",
+   "link": "http://www.revistaanamaco.com.br/70-dos-consumidores-comparam-precos-pelo-celular-dentro-das-lojas-fisicas",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Asfamas destaca o papel da indústria para a expansão do saneamento",
+   "data": "22/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "O papel da indústria na universalização do saneamento esteve em pauta durante reunião do Departamento de Infraestrutura, da Fiesp, que contou com a participação de Edson Silveira Sobrinho, diretor de Relações...",
+   "link": "http://www.revistaanamaco.com.br/asfamas-destaca-o-papel-da-industria-para-a-expansao-do-saneamento-",
+   "aba": "geral"
   },
   {
    "titulo": "Espaço Smart faturou R$ 1 bilhão e projeta encerrar 2026 com R$ 1,2 bilhão",
@@ -25,116 +129,12 @@ window.DADOS = {
    "resumo": "A Votorantim Cimentos acaba de divulgar seu desempenho no terceiro trimestre do ano. De acordo com os dados apresentados, a empresa encerrou o período com receita líquida global de R$ 8,5 bilhões, avanço de 1% em...",
    "link": "http://www.revistaanamaco.com.br/votorantim-cimentos-registrou-alta-na-receita-liquida-global-no-3-trimestre",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Bilionário da Malásia Busca US$ 490 Milhões com IPO de Fundo Imobiliário",
-   "data": "21/11/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Fundo imobiliário da IOI Properties projeta rendimento anual de 7% e inclui um dos maiores shopping centers do mundo no portfólio O post Bilionário...",
-   "link": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/11/ioi-properties-ipo-fundo-imobiliario/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Inadimplência continua avançando",
-   "data": "20/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A inadimplência das famílias brasileiras deve continuar avançando nos próximos meses, sem sinais de alívio no curto prazo. É o que aponta a nova Projeção de Inadimplência Ibevar - FIA Business School",
-   "link": "http://www.revistaanamaco.com.br/inadimplencia-continua-avancando-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Varejo paulista deve gerar 20,5 mil novas vagas em outubro e novembro",
-   "data": "20/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "O comércio varejista no Estado de São Paulo deve gerar cerca de 20,5 mil novas vagas com carteira assinada entre os meses de outubro e novembro. A movimentação ocorre para atender ao aumento da demanda da Black...",
-   "link": "http://www.revistaanamaco.com.br/varejo-paulista-deve-gerar-205-mil-novas-vagas-em-outubro-e-novembro-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Redução da jornada de trabalho pode impactar na construção de moradias",
-   "data": "20/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A  redução da jornada semanal de trabalho de 44 para 40 horas, associada ao fim da escala 6×1, poderá comprometer a construção de, aproximadamente, 30 mil moradias populares por ano no Brasil, o equivalente ao...",
-   "link": "http://www.revistaanamaco.com.br/reducao-da-jornada-de-trabalho-pode-impactar-na-construcao-de-moradias-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Como a Inteligência Artificial Impulsiona Empresas Bilionárias de Construção e Infraestrutura",
-   "data": "20/11/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Com investimentos bilionários em data centers, empresas de construção, energia e tecnologia registram forte crescimento O post Como a Inteligência...",
-   "link": "https://forbes.com.br/forbes-money/2026/11/inteligencia-artificial-construcao-infraestrutura-ranking-forbes/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Trump Diz Que EUA Vão Penalizar Empresas Que Construírem Data Centers no Exterior",
-   "data": "20/11/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Presidente defende a construção de data centers nos EUA, mas instalações enfrentam resistência por causa da demanda de energia e dos custos O post...",
-   "link": "https://forbes.com.br/geral/2026/11/trump-diz-que-eua-vao-penalizar-empresas-que-construirem-data-centers-no-exterior/",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Suvinil apresenta Sol da Meia-Noite, um roxo escuro, como sua Cor do Ano 2027",
-   "data": "19/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "Consciente de que a cor tem o poder de transformar o cotidiano, das pequenas mudanças às grandes Intervenções, a Suvinil apresenta Sol da Meia-Noite, um roxo escuro, denso e magnético, como Cor do Ano 2027",
-   "link": "http://www.revistaanamaco.com.br/suvinil-apresenta-sol-da-meia-noite-um-roxo-escuro-como-sua-cor-do-ano-2027-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Em evento, Cimento Apodi mostrou os avanços e os desafios para a construção",
-   "data": "19/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A busca por soluções que conciliam desempenho, produtividade e menor impacto ambiental está entre os principais desafios da construção civil. Esse foi um dos temas discutidos no 6º Congresso Luso-Brasileiro de...",
-   "link": "http://www.revistaanamaco.com.br/em-evento-cimento-apodi-mostrou-os-avancos-e-os-desafios-para-a-construcao",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Com 75 anos de história, Duratex evolui sua marca e se prepara para novo ciclo",
-   "data": "19/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Duratex apresentou, no fim de outubro, um refresh desenvolvido em parceria com a consultoria de branding Ana Couto, que inaugura uma nova etapa em sua forma de se expressar e se relacionar com seus diferentes públicos",
-   "link": "http://www.revistaanamaco.com.br/com-75-anos-de-historia-duratex-evolui-sua-marca-e-se-prepara-para-novo-ciclo-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Acomac-MA lamenta a morte do empresário Afonso Domingos Borges Ferreira",
-   "data": "19/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Associação dos Comerciantes de Material de Construção do Maranhão comunica o falecimento do empresário Afonso Domingos Borges Ferreira, um dos fundadores da entidade, aos 69 anos",
-   "link": "http://www.revistaanamaco.com.br/acomac-ma-lamenta-a-morte-do-empresario-afonso-domingos-borges-ferreira",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Segurança com o emprego ainda é grande",
-   "data": "19/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A 17ª edição dos Indicadores de Qualidade do Trabalho da Sondagem de Mercado de Trabalho, do Instituto Brasileiro de Economia da Fundação Getulio Vargas, aborda o tema da chance de perder emprego e/ou principal fonte...",
-   "link": "http://www.revistaanamaco.com.br/seguranca-com-o-emprego-ainda-e-grande",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Conexão CBIC: reforma tributária e mudanças na jornada de trabalho estão entre os desafios da construção para 2027",
-   "data": "19/11/2026",
-   "fonte": "CBIC",
-   "resumo": "As transformações no ambiente econômico e nas relações de trabalho vão exigir atenção das empresas da construção em 2027. Reforma tributária, mudanças na jornada de trabalho e medidas para melhorar o ambiente de...",
-   "link": "https://cbic.org.br/conexao-cbic-reforma-tributaria-e-mudancas-na-jornada-de-trabalho-estao-entre-os-desafios-da-construcao-para-2027/",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Fernando Guedes destaca desafios da mão de obra na construção civil em entrevista à CBN Maringá",
-   "data": "19/11/2026",
-   "fonte": "CBIC",
-   "resumo": "O presidente-executivo da Câmara Brasileira da Indústria da Construção (CBIC), Fernando Guedes Ferreira Filho, participou, nesta quinta-feira (19), de uma entrevista à CBN Maringá, no Paraná. A conversa, realizada no...",
-   "link": "https://cbic.org.br/fernando-guedes-destaca-desafios-da-mao-de-obra-na-construcao-civil-em-entrevista-a-cbn-maringa/",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "21/11/2026"
+   "data": "23/11/2026"
   }
  },
  "mensais": {
