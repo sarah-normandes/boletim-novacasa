@@ -1,10 +1,10 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "24/11/2026 16:50",
+ "atualizado_em": "25/11/2026 00:53",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "24/11/2026",
+   "data": "25/11/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
@@ -33,6 +33,38 @@ window.DADOS = {
    "resumo": "O projeto Anjos do Futsal, da Anjo Tintas, foi vencedor do Prêmio Líderes ESG Santa Catarina. O evento, promovido pelo LIDE Santa Catarina, reuniu lideranças de diferentes setores e homenageou os principais nomes do...",
    "link": "http://www.revistaanamaco.com.br/anjos-do-futsal-vence-premio-lideres-esg-sc-em-responsabilidade-social-",
    "aba": "insumos"
+  },
+  {
+   "titulo": "Itaú entra no MCMV e avança sobre mercado dominado pela Caixa",
+   "data": "24/11/2026",
+   "fonte": "InfoMoney",
+   "resumo": "Banco informou que a oferta será destinada a clientes elegíveis à Faixa 3, com renda mensal entre R$ 5 mil e R$ 9,6 mil The post Itaú entra no MCMV e avança sobre mercado dominado pela Caixa appeared first on InfoMoney .",
+   "link": "https://www.infomoney.com.br/business/itau-entra-no-mcmv-e-avanca-sobre-mercado-dominado-pela-caixa/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "CBIC apresenta demandas da construção à Vice-Presidência da República",
+   "data": "24/11/2026",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) apresentou à Vice-Presidência da República, na última quinta-feira (19), as principais preocupações e propostas do setor relacionadas à implementação da Reforma...",
+   "link": "https://cbic.org.br/cbic-apresenta-demandas-da-construcao-a-vice-presidencia-da-republica/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Conexão CBIC confirma especialistas para participar de debates sobre habitação e infraestrutura",
+   "data": "24/11/2026",
+   "fonte": "CBIC",
+   "resumo": "Inovação na produção habitacional, crédito imobiliário, retomada de obras públicas e investimentos em logística estão entre os temas da segunda edição do Conexão CBIC. O evento, promovido pela Câmara Brasileira da...",
+   "link": "https://cbic.org.br/conexao-cbic-confirma-especialistas-para-participar-de-debates-sobre-habitacao-e-infraestrutura/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "CBIC é admitida como amicus curiae em julgamentos do STJ sobre distrato imobiliário",
+   "data": "24/11/2026",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) foi admitida como amicus curiae em três recursos repetitivos do Superior Tribunal de Justiça (STJ) que discutem regras para a rescisão de contratos de compra e...",
+   "link": "https://cbic.org.br/cbic-e-admitida-como-amicus-curiae-em-julgamentos-do-stj-sobre-distrato-imobiliario/",
+   "aba": "demanda"
   },
   {
    "titulo": "Missão à China: CBIC acompanha avanços em robótica e industrialização da construção",
@@ -97,44 +129,12 @@ window.DADOS = {
    "resumo": "A Prysmian recebeu dois prêmios da Isa Energia Brasil no “Encontro pela Vida e Encontro com Fornecedores 2026”.  Das seis categorias da premiação, a Prysmian foi reconhecida em duas: “Inovação” e “Fornecedor Destaque...",
    "link": "http://www.revistaanamaco.com.br/prysmian-conquista-dois-premios-por-inovacao-e-destaque-no-fornecimento-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Molina, da MBRF, Prevê um dos Melhores Natais para o Varejo com Recuo das Bets",
-   "data": "23/11/2026",
-   "fonte": "Forbes",
-   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Empresa controlada por Marcos Molina prevê mesa mais farta nesta reta final de ano, enquanto companhia amplia sua maior operação sazonal de oferta...",
-   "link": "https://forbes.com.br/forbes-agro/2026/11/molina-da-mbrf-preve-um-dos-melhores-natais-para-o-varejo-com-recuo-das-bets/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Deu na mídia: Presidente da CBIC alerta para impactos do fim da escala 6×1 na construção civil",
-   "data": "23/11/2026",
-   "fonte": "CBIC",
-   "resumo": "O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo Aroeira Almeida, concedeu entrevista à CNN Money, na última sexta-feira (20), sobre os impactos econômicos da redução da jornada de...",
-   "link": "https://cbic.org.br/deu-na-midia-presidente-da-cbic-alerta-para-impactos-do-fim-da-escala-6x1-na-construcao-civil/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Conexão CBIC 2026: encontro estratégico amplia oportunidades e fortalece o futuro da construção",
-   "data": "23/11/2026",
-   "fonte": "CBIC",
-   "resumo": "Ampliar conexões, acompanhar as principais transformações do setor e participar de discussões que influenciam o ambiente de negócios. Essas são algumas das oportunidades oferecidas pelo Conexão CBIC 2026, que será...",
-   "link": "https://cbic.org.br/conexao-cbic-2026-encontro-estrategico-amplia-oportunidades-e-fortalece-o-futuro-da-construcao/",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Redução da jornada, reforma tributária e juros elevados preocupam construção civil para 2027, aponta CBIC",
-   "data": "23/11/2026",
-   "fonte": "CBIC",
-   "resumo": "Setor prevê ano desafiador, com riscos de aumento dos custos, adiamento de investimentos e impactos na produção habitacional; Minha Casa, Minha Vida deve seguir como principal motor do mercado A redução da jornada de...",
-   "link": "https://cbic.org.br/reducao-da-jornada-reforma-tributaria-e-juros-elevados-preocupam-construcao-civil-para-2027-aponta-cbic/",
-   "aba": "custos"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "24/11/2026"
+   "data": "25/11/2026"
   }
  },
  "mensais": {
