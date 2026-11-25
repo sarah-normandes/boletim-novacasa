@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "25/11/2026 00:53",
+ "atualizado_em": "25/11/2026 15:55",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,86 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Preços desaceleram",
+   "data": "25/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "De acordo com dados apurados pelo FGV Ibre, o INCC-M subiu 0,30% em novembro, abaixo dos 0,35% apurados em outubro. Com isso, em 12 meses, o indicador registra crescimento de 6,77%. Esse resultado representa um...",
+   "link": "http://www.revistaanamaco.com.br/precos-desaceleram-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Eternit é eleita a marca de telhas mais recomendada pelos brasileiros",
+   "data": "25/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Eternit é a campeã da categoria Telhas do Experience Awards 2026, reconhecimento promovido pela SoluCX às marcas mais recomendadas pelos consumidores brasileiros. A empresa recebeu a certificação “O Cliente...",
+   "link": "http://www.revistaanamaco.com.br/eternit-e-eleita-a-marca-de-telhas-mais-recomendada-pelos-brasileiros-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Propostas da Abramat e Anamaco visam aperfeiçoar o Reforma Casa Brasil",
+   "data": "25/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Abramat e a Anamaco entregaram ao Ministério das Cidades e à Caixa Econômica Federal um memorando com cinco propostas para aperfeiçoar o Reforma Casa Brasil",
+   "link": "http://www.revistaanamaco.com.br/propostas-da-abramat-e-anamaco-visam-aperfeicoar-o-reforma-casa-brasil",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Primeira turma do Coral Mulheres na Cor em Recife celebra formatura",
+   "data": "25/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Recife celebrou a formatura da primeira turma do Coral Mulheres na Cor na capital pernambucana. Realizado pelo Instituto Coral, com patrocínio da AkzoNobel, o programa capacitou 20 mulheres em situação de...",
+   "link": "http://www.revistaanamaco.com.br/primeira-turma-do-coral-mulheres-na-cor-em-recife-celebra-formatura-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Casa do Papai Noel de Joinville tem estrutura sustentável da ArcelorMittal",
+   "data": "25/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A magia do Natal de Joinville, em Santa Catarina, ganhou uma nova dimensão em 2026 com uma Casa do Papai Noel ampliada e construída com estrutura sustentável em aço em parceria com a ArcelorMittal. Com 110 m² de área...",
+   "link": "http://www.revistaanamaco.com.br/casa-do-papai-noel-de-joinville-tem-estrutura-sustentavel-da-arcelormittal--",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Seconci-Rio completa 38 anos com mais de 6 milhões de atendimentos realizados para os trabalhadores da construção",
+   "data": "25/11/2026",
+   "fonte": "CBIC",
+   "resumo": "Instituição diversifica serviços de saúde, segurança do trabalho e qualificação profissional e se aproxima cada vez mais de empresas e trabalhadores do setor O Seconci-Rio (Serviço Social da Indústria da Construção...",
+   "link": "https://cbic.org.br/seconci-rio-completa-38-anos-com-mais-de-6-milhoes-de-atendimentos-realizados-para-os-trabalhadores-da-construcao/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Guia de Elevadores de Obra Orientações para movimentação segura de pessoas e materiais (2026)",
+   "data": "25/11/2026",
+   "fonte": "CBIC",
+   "resumo": "The post Guia de Elevadores de Obra Orientações para movimentação segura de pessoas e materiais (2026) appeared first on CBIC – Câmara Brasileira da Industria da Construção .",
+   "link": "https://brasil.cbic.org.br/acervo-publicacao-guia-de-elevadores-de-obra-orientacoes-para-movimentacao-segura-de-pessoas-e-materiais-2026#new_tab",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Sustentabilidade na construção civil: a nova sede da cooperativa Sicredi",
+   "data": "25/11/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "A A.Yoshii General Construction assina a construção da nova sede administrativa da cooperativa Sicredi Valor Sustentável PR/SP, um prédio que está entre os mais inovadores O post Sustentabilidade na construção civil:...",
+   "link": "https://revistaoe.com.br/nova-sede-do-sicredi-jandaia-do-sul/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Com 60 anos no mercado brasileiro, construtora se destaca com mais de 1.000 projetos realizados",
+   "data": "25/11/2026",
+   "fonte": "O Empreiteiro",
+   "resumo": "A história da HTB começou em 1966, com a chegada da construtora alemã Hochtief ao país e a fundação da Hochtief do Brasil. Em um O post Com 60 anos no mercado brasileiro, construtora se destaca com mais de 1.000...",
+   "link": "https://revistaoe.com.br/htb-60-anos-construcao/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Fundo imobiliário anuncia distribuição extraordinária de dividendos; veja o porquê",
+   "data": "25/11/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "O fundo imobiliário VBI Logístico (LVBI11) fará uma distribuição extraordinária de dividendos antes de ser incorporado pelo Patria Log (HGLG11). O anúncio foi feito no mais recente relatório gerencial do veículo....",
+   "link": "https://www.moneytimes.com.br/fundo-imobiliario-anuncia-distribuicao-extraordinaria-de-dividendos-veja-o-porque-igdl/",
+   "aba": "demanda"
   },
   {
    "titulo": "Confiança do consumidor voltou a cair em novembro",
@@ -35,14 +115,6 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
-   "titulo": "Itaú entra no MCMV e avança sobre mercado dominado pela Caixa",
-   "data": "24/11/2026",
-   "fonte": "InfoMoney",
-   "resumo": "Banco informou que a oferta será destinada a clientes elegíveis à Faixa 3, com renda mensal entre R$ 5 mil e R$ 9,6 mil The post Itaú entra no MCMV e avança sobre mercado dominado pela Caixa appeared first on InfoMoney .",
-   "link": "https://www.infomoney.com.br/business/itau-entra-no-mcmv-e-avanca-sobre-mercado-dominado-pela-caixa/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "CBIC apresenta demandas da construção à Vice-Presidência da República",
    "data": "24/11/2026",
    "fonte": "CBIC",
@@ -57,78 +129,6 @@ window.DADOS = {
    "resumo": "Inovação na produção habitacional, crédito imobiliário, retomada de obras públicas e investimentos em logística estão entre os temas da segunda edição do Conexão CBIC. O evento, promovido pela Câmara Brasileira da...",
    "link": "https://cbic.org.br/conexao-cbic-confirma-especialistas-para-participar-de-debates-sobre-habitacao-e-infraestrutura/",
    "aba": "demanda"
-  },
-  {
-   "titulo": "CBIC é admitida como amicus curiae em julgamentos do STJ sobre distrato imobiliário",
-   "data": "24/11/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) foi admitida como amicus curiae em três recursos repetitivos do Superior Tribunal de Justiça (STJ) que discutem regras para a rescisão de contratos de compra e...",
-   "link": "https://cbic.org.br/cbic-e-admitida-como-amicus-curiae-em-julgamentos-do-stj-sobre-distrato-imobiliario/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Missão à China: CBIC acompanha avanços em robótica e industrialização da construção",
-   "data": "24/11/2026",
-   "fonte": "CBIC",
-   "resumo": "O presidente da Câmara Brasileira da Indústria da Construção (CBIC), Eduardo Aroeira, acompanha uma série de visitas técnicas na China para conhecer soluções tecnológicas voltadas à modernização dos processos...",
-   "link": "https://cbic.org.br/missao-a-china-cbic-acompanha-avancos-em-robotica-e-industrializacao-da-construcao/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "APS inicia mobilização para obras de reforço estrutural e modernização do cais da Ilha Barnabé, no Porto de Santos",
-   "data": "24/11/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A Autoridade Portuária de Santos (APS) iniciou a mobilização para as obras de recuperação e reforço estrutural do cais da Ilha Barnabé, na margem esquerda O post APS inicia mobilização para obras de reforço...",
-   "link": "https://revistaoe.com.br/modernizacao-obras-porto-santos/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "“Experiência em obras de alta complexidade permite atender às necessidades de diferentes públicos”",
-   "data": "24/11/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "Com presença na infraestrutura, construção civil e edificações nos setores industrial, comercial, empresarial, educação e saúde, a MPD Engenharia tem se posicionado na vanguarda da O post “Experiência em obras de...",
-   "link": "https://revistaoe.com.br/mpd-engenharia-construcao/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "OAEs no Vale do Arroio Tega: integração entre engenharia estrutural, geotecnia e construtibilidade",
-   "data": "24/11/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "Um dos principais eixos logísticos da Serra Gaúcha, a ERS-122 avança com obras de duplicação, alargamento e reforço de OAEs existentes, além da implantação de O post OAEs no Vale do Arroio Tega: integração entre...",
-   "link": "https://revistaoe.com.br/obras-ers122-wosniak-engenharia/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Em sua estreia como feira, Expoacomac movimentou mais de R$ 2 milhões",
-   "data": "23/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "Promovida pela Acomac Caxias, a 6ª edição da Expoacomac marcou sua estreia no formato de feira, com uma estrutura voltada à negociação entre fornecedores, distribuidores e lojistas. Realizada nos dias 04 e 05 de...",
-   "link": "http://www.revistaanamaco.com.br/em-sua-estreia-como-feira-expoacomac-movimentou-mais-de-r-2-milhoes-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Eucatex registrou lucro líquido recorrente de R$ 305,5 milhões até setembro",
-   "data": "23/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Eucatex registrou lucro líquido recorrente de R$ 305,5 milhões nos nove primeiros meses do ano, o que representa crescimento de 11,7% em relação ao mesmo período de 2025. No terceiro trimestre (3T26), o lucro...",
-   "link": "http://www.revistaanamaco.com.br/eucatex-registrou-lucro-liquido-recorrente-de-r-3055-milhoes-ate-setembro-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Cobrecom lança apostila gratuita com guia prático sobre fios e cabos elétricos",
-   "data": "23/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "Pensando em contribuir com o trabalho dos profissionais do setor, a Cobrecom disponibiliza, gratuitamente, sua nova Apostila de Fios e Cabos Elétricos, um material desenvolvido para oferecer informações técnicas de...",
-   "link": "http://www.revistaanamaco.com.br/cobrecom-lanca-apostila-gratuita-com-guia-pratico-sobre-fios-e-cabos-eletricos-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Prysmian conquista dois prêmios por inovação e destaque no fornecimento",
-   "data": "23/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Prysmian recebeu dois prêmios da Isa Energia Brasil no “Encontro pela Vida e Encontro com Fornecedores 2026”.  Das seis categorias da premiação, a Prysmian foi reconhecida em duas: “Inovação” e “Fornecedor Destaque...",
-   "link": "http://www.revistaanamaco.com.br/prysmian-conquista-dois-premios-por-inovacao-e-destaque-no-fornecimento-",
-   "aba": "insumos"
   }
  ],
  "diarios": {
