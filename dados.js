@@ -1,10 +1,10 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "25/11/2026 15:55",
+ "atualizado_em": "26/11/2026 00:19",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "25/11/2026",
+   "data": "26/11/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
@@ -51,6 +51,14 @@ window.DADOS = {
    "aba": "insumos"
   },
   {
+   "titulo": "Conexão CBIC: agenda de debates para quem quer antecipar os rumos da construção",
+   "data": "25/11/2026",
+   "fonte": "CBIC",
+   "resumo": "O que vai influenciar os negócios da construção em 2027? Da implementação da reforma tributária às mudanças nas relações de trabalho, do acesso ao crédito à retomada de obras públicas, o setor tem decisões...",
+   "link": "https://cbic.org.br/conexao-cbic-agenda-de-debates-para-quem-quer-antecipar-os-rumos-da-construcao/",
+   "aba": "custos"
+  },
+  {
    "titulo": "Seconci-Rio completa 38 anos com mais de 6 milhões de atendimentos realizados para os trabalhadores da construção",
    "data": "25/11/2026",
    "fonte": "CBIC",
@@ -64,30 +72,6 @@ window.DADOS = {
    "fonte": "CBIC",
    "resumo": "The post Guia de Elevadores de Obra Orientações para movimentação segura de pessoas e materiais (2026) appeared first on CBIC – Câmara Brasileira da Industria da Construção .",
    "link": "https://brasil.cbic.org.br/acervo-publicacao-guia-de-elevadores-de-obra-orientacoes-para-movimentacao-segura-de-pessoas-e-materiais-2026#new_tab",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Sustentabilidade na construção civil: a nova sede da cooperativa Sicredi",
-   "data": "25/11/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A A.Yoshii General Construction assina a construção da nova sede administrativa da cooperativa Sicredi Valor Sustentável PR/SP, um prédio que está entre os mais inovadores O post Sustentabilidade na construção civil:...",
-   "link": "https://revistaoe.com.br/nova-sede-do-sicredi-jandaia-do-sul/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Com 60 anos no mercado brasileiro, construtora se destaca com mais de 1.000 projetos realizados",
-   "data": "25/11/2026",
-   "fonte": "O Empreiteiro",
-   "resumo": "A história da HTB começou em 1966, com a chegada da construtora alemã Hochtief ao país e a fundação da Hochtief do Brasil. Em um O post Com 60 anos no mercado brasileiro, construtora se destaca com mais de 1.000...",
-   "link": "https://revistaoe.com.br/htb-60-anos-construcao/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Fundo imobiliário anuncia distribuição extraordinária de dividendos; veja o porquê",
-   "data": "25/11/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "O fundo imobiliário VBI Logístico (LVBI11) fará uma distribuição extraordinária de dividendos antes de ser incorporado pelo Patria Log (HGLG11). O anúncio foi feito no mais recente relatório gerencial do veículo....",
-   "link": "https://www.moneytimes.com.br/fundo-imobiliario-anuncia-distribuicao-extraordinaria-de-dividendos-veja-o-porque-igdl/",
    "aba": "demanda"
   },
   {
@@ -123,18 +107,34 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Conexão CBIC confirma especialistas para participar de debates sobre habitação e infraestrutura",
-   "data": "24/11/2026",
-   "fonte": "CBIC",
-   "resumo": "Inovação na produção habitacional, crédito imobiliário, retomada de obras públicas e investimentos em logística estão entre os temas da segunda edição do Conexão CBIC. O evento, promovido pela Câmara Brasileira da...",
-   "link": "https://cbic.org.br/conexao-cbic-confirma-especialistas-para-participar-de-debates-sobre-habitacao-e-infraestrutura/",
-   "aba": "demanda"
+   "titulo": "Em sua estreia como feira, Expoacomac movimentou mais de R$ 2 milhões",
+   "data": "23/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "Promovida pela Acomac Caxias, a 6ª edição da Expoacomac marcou sua estreia no formato de feira, com uma estrutura voltada à negociação entre fornecedores, distribuidores e lojistas. Realizada nos dias 04 e 05 de...",
+   "link": "http://www.revistaanamaco.com.br/em-sua-estreia-como-feira-expoacomac-movimentou-mais-de-r-2-milhoes-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Eucatex registrou lucro líquido recorrente de R$ 305,5 milhões até setembro",
+   "data": "23/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Eucatex registrou lucro líquido recorrente de R$ 305,5 milhões nos nove primeiros meses do ano, o que representa crescimento de 11,7% em relação ao mesmo período de 2025. No terceiro trimestre (3T26), o lucro...",
+   "link": "http://www.revistaanamaco.com.br/eucatex-registrou-lucro-liquido-recorrente-de-r-3055-milhoes-ate-setembro-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Cobrecom lança apostila gratuita com guia prático sobre fios e cabos elétricos",
+   "data": "23/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "Pensando em contribuir com o trabalho dos profissionais do setor, a Cobrecom disponibiliza, gratuitamente, sua nova Apostila de Fios e Cabos Elétricos, um material desenvolvido para oferecer informações técnicas de...",
+   "link": "http://www.revistaanamaco.com.br/cobrecom-lanca-apostila-gratuita-com-guia-pratico-sobre-fios-e-cabos-eletricos-",
+   "aba": "insumos"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "25/11/2026"
+   "data": "26/11/2026"
   }
  },
  "mensais": {
