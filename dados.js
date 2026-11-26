@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "26/11/2026 00:19",
+ "atualizado_em": "26/11/2026 15:44",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,70 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Felipe Hansen é reconhecido por sua contribuição ao desenvolvimento do País",
+   "data": "26/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "Felipe Hansen, CEO do Grupo CRH, presidente do Conselho de Administração do Grupo Tigre e presidente do Instituto Carlos Roberto Hansen foi homenageado na categoria Máster na 29ª edição do Programa Empreendedor do...",
+   "link": "http://www.revistaanamaco.com.br/felipe-hansen-e-reconhecido-por-sua-contribuicao-ao-desenvolvimento-do-pais",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Otimismo menor na construção",
+   "data": "26/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Índice de Confiança da Construção, do Instituto Brasileiro de Economia da Fundação Getulio Vargas, caiu 4,9 pontos em novembro, para 85,8 pontos. Em médias móveis trimestrais, o índice recuou 2,0 pontos, para 89,0...",
+   "link": "http://www.revistaanamaco.com.br/otimismo-menor-na-construcao-2",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Iluminação brasileira projeta mais de US$ 2 milhões em novos negócios no Canadá",
+   "data": "26/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A indústria brasileira de iluminação marcou presença em Toronto, no Canadá, entre os dias 16 e 19 de novembro, em uma iniciativa de internacionalização promovida pela Abilux por meio do Projeto de Exportação Lux...",
+   "link": "http://www.revistaanamaco.com.br/iluminacao-brasileira-projeta-mais-de-us-2-milhoes-em-novos-negocios-no-canada",
+   "aba": "custos"
+  },
+  {
+   "titulo": "InterCement Brasil celebra 20 anos de parceria com a Childhood Brasil",
+   "data": "26/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A InterCement Brasil foi homenageada pela Childhood Brasil pelo pioneirismo e compromisso com o Programa Na Mão Certa, iniciativa que mobiliza empresas, poder público e sociedade civil contra a exploração sexual...",
+   "link": "http://www.revistaanamaco.com.br/intercement-brasil-celebra-20-anos-de-parceria-com-a-childhood-brasil",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Cerbras é reconhecida entre as melhores indústrias para trabalhar no Brasil",
+   "data": "26/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A Cerbras conquistou, este ano, o selo GPTW, figurando, pela sexta vez, entre as melhores indústrias para se trabalhar no Brasil na categoria Grandes Empresas. A premiação reconhece as organizações que se destacam...",
+   "link": "http://www.revistaanamaco.com.br/cerbras-e-reconhecida-entre-as-melhores-industrias-para-trabalhar-no-brasil-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "CBIC participa do CONEST e debate segurança de máquinas e equipamentos na construção",
+   "data": "26/11/2026",
+   "fonte": "CBIC",
+   "resumo": "A segurança nos canteiros de obras começa antes da operação de uma máquina ou da instalação de um equipamento. Planejamento, conformidade com as normas e acompanhamento das condições de trabalho são fatores...",
+   "link": "https://cbic.org.br/cbic-participa-do-conest-e-debate-seguranca-de-maquinas-e-equipamentos-na-construcao/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "CBIC apresenta avanços no enfrentamento dos vícios construtivos e perspectivas para 2027",
+   "data": "26/11/2026",
+   "fonte": "CBIC",
+   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) realiza, no dia 3 de dezembro, das 17h às 18h, a reunião do Projeto Vícios Construtivos e Garantias Pós-Obra . O encontro, em formato virtual, apresentará um...",
+   "link": "https://cbic.org.br/cbic-apresenta-avancos-no-enfrentamento-dos-vicios-construtivos-e-perspectivas-para-2027/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Segurança na construção: cumprimento da NR-6 vai além do fornecimento de EPIs",
+   "data": "26/11/2026",
+   "fonte": "CBIC",
+   "resumo": "O fornecimento de Equipamentos de Proteção Individual (EPIs) é fundamental para a segurança dos trabalhadores da construção civil. No entanto, o cumprimento da Norma Regulamentadora nº 6 (NR-6) vai além da aquisição...",
+   "link": "https://cbic.org.br/seguranca-na-construcao-cumprimento-da-nr-6-vai-alem-do-fornecimento-de-epis/",
+   "aba": "insumos"
   },
   {
    "titulo": "Preços desaceleram",
@@ -59,76 +123,12 @@ window.DADOS = {
    "aba": "custos"
   },
   {
-   "titulo": "Seconci-Rio completa 38 anos com mais de 6 milhões de atendimentos realizados para os trabalhadores da construção",
-   "data": "25/11/2026",
-   "fonte": "CBIC",
-   "resumo": "Instituição diversifica serviços de saúde, segurança do trabalho e qualificação profissional e se aproxima cada vez mais de empresas e trabalhadores do setor O Seconci-Rio (Serviço Social da Indústria da Construção...",
-   "link": "https://cbic.org.br/seconci-rio-completa-38-anos-com-mais-de-6-milhoes-de-atendimentos-realizados-para-os-trabalhadores-da-construcao/",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Guia de Elevadores de Obra Orientações para movimentação segura de pessoas e materiais (2026)",
-   "data": "25/11/2026",
-   "fonte": "CBIC",
-   "resumo": "The post Guia de Elevadores de Obra Orientações para movimentação segura de pessoas e materiais (2026) appeared first on CBIC – Câmara Brasileira da Industria da Construção .",
-   "link": "https://brasil.cbic.org.br/acervo-publicacao-guia-de-elevadores-de-obra-orientacoes-para-movimentacao-segura-de-pessoas-e-materiais-2026#new_tab",
-   "aba": "demanda"
-  },
-  {
    "titulo": "Confiança do consumidor voltou a cair em novembro",
    "data": "24/11/2026",
    "fonte": "Anamaco",
    "resumo": "O Índice de Confiança do Consumidor, do FGV Ibre, recuou 1,2 ponto em novembro, para 83,5 pontos. Na média móvel trimestral, o índice cedeu 0,4 ponto, para 84,1 pontos. No mês, a queda foi influenciada pela piora de...",
    "link": "http://www.revistaanamaco.com.br/confianca-do-consumidor-voltou-a-cair-em-novembro",
    "aba": "demanda"
-  },
-  {
-   "titulo": "Vendas de matcon menores em setembro",
-   "data": "24/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "De acordo com a Pesquisa Mensal do Comércio, do IBGE, o volume de vendas do varejo nacional variou 0,2% em setembro em relação ao mês anterior, na série com ajuste sazonal, repetindo o resultado observado em agosto....",
-   "link": "http://www.revistaanamaco.com.br/vendas-de-matcon-menores-em-setembro-",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Anjos do Futsal vence Prêmio Líderes ESG SC em Responsabilidade Social",
-   "data": "24/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "O projeto Anjos do Futsal, da Anjo Tintas, foi vencedor do Prêmio Líderes ESG Santa Catarina. O evento, promovido pelo LIDE Santa Catarina, reuniu lideranças de diferentes setores e homenageou os principais nomes do...",
-   "link": "http://www.revistaanamaco.com.br/anjos-do-futsal-vence-premio-lideres-esg-sc-em-responsabilidade-social-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "CBIC apresenta demandas da construção à Vice-Presidência da República",
-   "data": "24/11/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) apresentou à Vice-Presidência da República, na última quinta-feira (19), as principais preocupações e propostas do setor relacionadas à implementação da Reforma...",
-   "link": "https://cbic.org.br/cbic-apresenta-demandas-da-construcao-a-vice-presidencia-da-republica/",
-   "aba": "demanda"
-  },
-  {
-   "titulo": "Em sua estreia como feira, Expoacomac movimentou mais de R$ 2 milhões",
-   "data": "23/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "Promovida pela Acomac Caxias, a 6ª edição da Expoacomac marcou sua estreia no formato de feira, com uma estrutura voltada à negociação entre fornecedores, distribuidores e lojistas. Realizada nos dias 04 e 05 de...",
-   "link": "http://www.revistaanamaco.com.br/em-sua-estreia-como-feira-expoacomac-movimentou-mais-de-r-2-milhoes-",
-   "aba": "geral"
-  },
-  {
-   "titulo": "Eucatex registrou lucro líquido recorrente de R$ 305,5 milhões até setembro",
-   "data": "23/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Eucatex registrou lucro líquido recorrente de R$ 305,5 milhões nos nove primeiros meses do ano, o que representa crescimento de 11,7% em relação ao mesmo período de 2025. No terceiro trimestre (3T26), o lucro...",
-   "link": "http://www.revistaanamaco.com.br/eucatex-registrou-lucro-liquido-recorrente-de-r-3055-milhoes-ate-setembro-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Cobrecom lança apostila gratuita com guia prático sobre fios e cabos elétricos",
-   "data": "23/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "Pensando em contribuir com o trabalho dos profissionais do setor, a Cobrecom disponibiliza, gratuitamente, sua nova Apostila de Fios e Cabos Elétricos, um material desenvolvido para oferecer informações técnicas de...",
-   "link": "http://www.revistaanamaco.com.br/cobrecom-lanca-apostila-gratuita-com-guia-pratico-sobre-fios-e-cabos-eletricos-",
-   "aba": "insumos"
   }
  ],
  "diarios": {
