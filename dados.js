@@ -1,10 +1,10 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "26/11/2026 15:44",
+ "atualizado_em": "27/11/2026 00:24",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
-   "data": "26/11/2026",
+   "data": "27/11/2026",
    "fonte": "Banco Central",
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
@@ -43,12 +43,28 @@ window.DADOS = {
    "aba": "geral"
   },
   {
-   "titulo": "Cerbras é reconhecida entre as melhores indústrias para trabalhar no Brasil",
+   "titulo": "Cerbras posiciona-se entre as melhores indústrias para trabalhar no Brasil",
    "data": "26/11/2026",
    "fonte": "Anamaco",
    "resumo": "A Cerbras conquistou, este ano, o selo GPTW, figurando, pela sexta vez, entre as melhores indústrias para se trabalhar no Brasil na categoria Grandes Empresas. A premiação reconhece as organizações que se destacam...",
-   "link": "http://www.revistaanamaco.com.br/cerbras-e-reconhecida-entre-as-melhores-industrias-para-trabalhar-no-brasil-",
+   "link": "http://www.revistaanamaco.com.br/cerbras-posiciona-se-entre-as-melhores-industrias-para-trabalhar-no-brasil-",
    "aba": "geral"
+  },
+  {
+   "titulo": "Ademi-AL: Prêmio Master Ademi 2026 reconhece os destaques do mercado imobiliário alagoano",
+   "data": "26/11/2026",
+   "fonte": "CBIC",
+   "resumo": "O mercado imobiliário alagoano terá uma noite de celebração e reconhecimento nesta sexta-feira, 27 de novembro, com a realização do Prêmio Master Ademi 2026. Considerada a maior premiação do setor em Alagoas, a...",
+   "link": "https://cbic.org.br/ademi-al-premio-master-ademi-2026-reconhece-os-destaques-do-mercado-imobiliario-alagoano/",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "Conexão CBIC: inscrições entram na reta final para encontro sobre o futuro da construção",
+   "data": "26/11/2026",
+   "fonte": "CBIC",
+   "resumo": "O setor da construção tem decisões importantes pela frente em 2027, com mudanças no cenário político e econômico, na tributação, nas relações de trabalho e no financiamento habitacional. Para discutir esses temas e...",
+   "link": "https://cbic.org.br/conexao-cbic-inscricoes-entram-na-reta-final-para-encontro-sobre-o-futuro-da-construcao/",
+   "aba": "demanda"
   },
   {
    "titulo": "CBIC participa do CONEST e debate segurança de máquinas e equipamentos na construção",
@@ -67,11 +83,19 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Segurança na construção: cumprimento da NR-6 vai além do fornecimento de EPIs",
+   "titulo": "Obra da Sabesp de nova adutora avança em Botucatu (SP)",
    "data": "26/11/2026",
-   "fonte": "CBIC",
-   "resumo": "O fornecimento de Equipamentos de Proteção Individual (EPIs) é fundamental para a segurança dos trabalhadores da construção civil. No entanto, o cumprimento da Norma Regulamentadora nº 6 (NR-6) vai além da aquisição...",
-   "link": "https://cbic.org.br/seguranca-na-construcao-cumprimento-da-nr-6-vai-alem-do-fornecimento-de-epis/",
+   "fonte": "O Empreiteiro",
+   "resumo": "A Sabesp implanta adutora de 4,4 km de extensão em Botucatu (SP). A tubulação faz a ligação da Represa do Mandacaru, no rio Pardo, à O post Obra da Sabesp de nova adutora avança em Botucatu (SP) apareceu primeiro em...",
+   "link": "https://revistaoe.com.br/nova-adutora-da-sabesp-avanca-em-botucatu-sp/",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Governo aprova antidumping para alguns tipos de aço; Usiminas, Gerdau e CSN aguardavam a medida",
+   "data": "26/11/2026",
+   "fonte": "MoneyTimes",
+   "resumo": "O comitê-executivo da Câmara de Comércio Exterior (Gecex-Camex) aprovou nesta quinta-feira (26) aplicação de direito antidumping definitivo sobre aços planos laminados a quente originários da China e folha metálica...",
+   "link": "https://www.moneytimes.com.br/governo-aprova-antidumping-para-aco-plano-laminado-a-quente-e-folha-metalica/",
    "aba": "insumos"
   },
   {
@@ -105,36 +129,12 @@ window.DADOS = {
    "resumo": "O Recife celebrou a formatura da primeira turma do Coral Mulheres na Cor na capital pernambucana. Realizado pelo Instituto Coral, com patrocínio da AkzoNobel, o programa capacitou 20 mulheres em situação de...",
    "link": "http://www.revistaanamaco.com.br/primeira-turma-do-coral-mulheres-na-cor-em-recife-celebra-formatura-",
    "aba": "geral"
-  },
-  {
-   "titulo": "Casa do Papai Noel de Joinville tem estrutura sustentável da ArcelorMittal",
-   "data": "25/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A magia do Natal de Joinville, em Santa Catarina, ganhou uma nova dimensão em 2026 com uma Casa do Papai Noel ampliada e construída com estrutura sustentável em aço em parceria com a ArcelorMittal. Com 110 m² de área...",
-   "link": "http://www.revistaanamaco.com.br/casa-do-papai-noel-de-joinville-tem-estrutura-sustentavel-da-arcelormittal--",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Conexão CBIC: agenda de debates para quem quer antecipar os rumos da construção",
-   "data": "25/11/2026",
-   "fonte": "CBIC",
-   "resumo": "O que vai influenciar os negócios da construção em 2027? Da implementação da reforma tributária às mudanças nas relações de trabalho, do acesso ao crédito à retomada de obras públicas, o setor tem decisões...",
-   "link": "https://cbic.org.br/conexao-cbic-agenda-de-debates-para-quem-quer-antecipar-os-rumos-da-construcao/",
-   "aba": "custos"
-  },
-  {
-   "titulo": "Confiança do consumidor voltou a cair em novembro",
-   "data": "24/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Índice de Confiança do Consumidor, do FGV Ibre, recuou 1,2 ponto em novembro, para 83,5 pontos. Na média móvel trimestral, o índice cedeu 0,4 ponto, para 84,1 pontos. No mês, a queda foi influenciada pela piora de...",
-   "link": "http://www.revistaanamaco.com.br/confianca-do-consumidor-voltou-a-cair-em-novembro",
-   "aba": "demanda"
   }
  ],
  "diarios": {
   "selic": {
    "valor": 13.75,
-   "data": "26/11/2026"
+   "data": "27/11/2026"
   }
  },
  "mensais": {
