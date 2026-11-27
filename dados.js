@@ -1,6 +1,6 @@
 // Gerado automaticamente por atualizar.py - nao edite a mao
 window.DADOS = {
- "atualizado_em": "27/11/2026 00:24",
+ "atualizado_em": "27/11/2026 15:36",
  "manchetes": [
   {
    "titulo": "Selic mantida em 13,75% ao ano",
@@ -9,6 +9,46 @@ window.DADOS = {
    "aba": "custos",
    "resumo": "Taxa basica segue em 13,75%, sem mudanca na ultima decisao do Copom. Custo do credito estavel: sem novo estimulo nem freio para reforma e construcao no curto prazo; planejamento de compra segue o cenario atual.",
    "link": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  },
+  {
+   "titulo": "Avaliações melhores sobre o presente",
+   "data": "27/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "O Índice de Confiança da Indústria, do FGV Ibre, subiu 0,4 ponto em novembro, para 91,4 pontos. Em médias móveis trimestrais, o indicador recuou 0,8 ponto, para 91,2 pontos. No mês, houve queda da confiança em nove...",
+   "link": "http://www.revistaanamaco.com.br/avaliacoes-melhores-sobre-o-presente",
+   "aba": "demanda"
+  },
+  {
+   "titulo": "Brasil registrou, em outubro, 75,55 milhões de consumidores negativados",
+   "data": "27/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "A inadimplência no Brasil atingiu o maior patamar da série histórica em outubro, com 75,55 milhões de consumidores negativados. O dado faz parte do Indicador de Inadimplência da Confederação Nacional de Dirigentes...",
+   "link": "http://www.revistaanamaco.com.br/brasil-registrou-em-outubro-7555-milhoes-de-consumidores-negativados-",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Instituto Brasileiro do PVC promove o 1º Prêmio IBPVC de Sustentabilidade",
+   "data": "27/11/2026",
+   "fonte": "Anamaco",
+   "resumo": "Com o objetivo de valorizar, reconhecer e promover iniciativas de sustentabilidade desenvolvidas pelas empresas associadas ao IBPVC, promovendo práticas responsáveis e contribuindo para o desenvolvimento sustentável...",
+   "link": "http://www.revistaanamaco.com.br/instituto-brasileiro-do-pvc-promove-o-1-premio-ibpvc-de-sustentabilidade-",
+   "aba": "insumos"
+  },
+  {
+   "titulo": "O Papel do Planejamento Estratégico na Construção de um Legado Social",
+   "data": "27/11/2026",
+   "fonte": "Forbes",
+   "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Estabelecer uma visão de futuro, definir prioridades e transformar ambições em ações concretas são passos fundamentais para ampliar o impacto e...",
+   "link": "https://forbes.com.br/forbes-collab/2026/11/o-papel-do-planejamento-estrategico-na-construcao-de-um-legado-social/",
+   "aba": "geral"
+  },
+  {
+   "titulo": "Missão à China: CBIC discute soluções para construção industrializada com Broad Group",
+   "data": "27/11/2026",
+   "fonte": "CBIC",
+   "resumo": "A industrialização da construção e o intercâmbio de tecnologias capazes de ampliar a produtividade do setor brasileiro estiveram no centro de mais uma agenda da missão empresarial à China. Em Changsha, o presidente...",
+   "link": "https://cbic.org.br/missao-a-china-cbic-discute-solucoes-para-construcao-industrializada-com-broad-group/",
+   "aba": "custos"
   },
   {
    "titulo": "Felipe Hansen é reconhecido por sua contribuição ao desenvolvimento do País",
@@ -75,14 +115,6 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "CBIC apresenta avanços no enfrentamento dos vícios construtivos e perspectivas para 2027",
-   "data": "26/11/2026",
-   "fonte": "CBIC",
-   "resumo": "A Câmara Brasileira da Indústria da Construção (CBIC) realiza, no dia 3 de dezembro, das 17h às 18h, a reunião do Projeto Vícios Construtivos e Garantias Pós-Obra . O encontro, em formato virtual, apresentará um...",
-   "link": "https://cbic.org.br/cbic-apresenta-avancos-no-enfrentamento-dos-vicios-construtivos-e-perspectivas-para-2027/",
-   "aba": "demanda"
-  },
-  {
    "titulo": "Obra da Sabesp de nova adutora avança em Botucatu (SP)",
    "data": "26/11/2026",
    "fonte": "O Empreiteiro",
@@ -91,44 +123,12 @@ window.DADOS = {
    "aba": "demanda"
   },
   {
-   "titulo": "Governo aprova antidumping para alguns tipos de aço; Usiminas, Gerdau e CSN aguardavam a medida",
-   "data": "26/11/2026",
-   "fonte": "MoneyTimes",
-   "resumo": "O comitê-executivo da Câmara de Comércio Exterior (Gecex-Camex) aprovou nesta quinta-feira (26) aplicação de direito antidumping definitivo sobre aços planos laminados a quente originários da China e folha metálica...",
-   "link": "https://www.moneytimes.com.br/governo-aprova-antidumping-para-aco-plano-laminado-a-quente-e-folha-metalica/",
-   "aba": "insumos"
-  },
-  {
    "titulo": "Preços desaceleram",
    "data": "25/11/2026",
    "fonte": "Anamaco",
    "resumo": "De acordo com dados apurados pelo FGV Ibre, o INCC-M subiu 0,30% em novembro, abaixo dos 0,35% apurados em outubro. Com isso, em 12 meses, o indicador registra crescimento de 6,77%. Esse resultado representa um...",
    "link": "http://www.revistaanamaco.com.br/precos-desaceleram-",
    "aba": "insumos"
-  },
-  {
-   "titulo": "Eternit é eleita a marca de telhas mais recomendada pelos brasileiros",
-   "data": "25/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Eternit é a campeã da categoria Telhas do Experience Awards 2026, reconhecimento promovido pela SoluCX às marcas mais recomendadas pelos consumidores brasileiros. A empresa recebeu a certificação “O Cliente...",
-   "link": "http://www.revistaanamaco.com.br/eternit-e-eleita-a-marca-de-telhas-mais-recomendada-pelos-brasileiros-",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Propostas da Abramat e Anamaco visam aperfeiçoar o Reforma Casa Brasil",
-   "data": "25/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "A Abramat e a Anamaco entregaram ao Ministério das Cidades e à Caixa Econômica Federal um memorando com cinco propostas para aperfeiçoar o Reforma Casa Brasil",
-   "link": "http://www.revistaanamaco.com.br/propostas-da-abramat-e-anamaco-visam-aperfeicoar-o-reforma-casa-brasil",
-   "aba": "insumos"
-  },
-  {
-   "titulo": "Primeira turma do Coral Mulheres na Cor em Recife celebra formatura",
-   "data": "25/11/2026",
-   "fonte": "Anamaco",
-   "resumo": "O Recife celebrou a formatura da primeira turma do Coral Mulheres na Cor na capital pernambucana. Realizado pelo Instituto Coral, com patrocínio da AkzoNobel, o programa capacitou 20 mulheres em situação de...",
-   "link": "http://www.revistaanamaco.com.br/primeira-turma-do-coral-mulheres-na-cor-em-recife-celebra-formatura-",
-   "aba": "geral"
   }
  ],
  "diarios": {
